@@ -1,0 +1,50 @@
+{
+  "dataset": "piled_bags",
+  "model": "padim",
+  "seed": 2,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9995555555555555,
+      "image_aupr": 0.9992839550437242,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.7364814814814816,
+      "image_aupr": 0.7494406901985567,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Background": {
+      "image_auroc": 0.5126388888888889,
+      "image_aupr": 0.4253866723062121,
+      "n_normal": 240,
+      "n_anomaly": 180
+    },
+    "Rot+pos": {
+      "image_auroc": 0.5178703703703704,
+      "image_aupr": 0.4270420978432677,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Scale": {
+      "image_auroc": 0.5444444444444445,
+      "image_aupr": 0.5276771525916687,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Shadows": {
+      "image_auroc": 0.8546296296296296,
+      "image_aupr": 0.8605818336902197,
+      "n_normal": 120,
+      "n_anomaly": 90
+    }
+  }
+}

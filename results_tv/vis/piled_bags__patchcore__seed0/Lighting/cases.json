@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / Lighting / seed 0",
+  "metrics": "image AUROC 97.60",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Evening_Overload_12.jpg",
+      "label": 1,
+      "score": 2.6595373153686523,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Evening_Overload_10.jpg",
+      "label": 1,
+      "score": 2.656970739364624,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Afternoon_Overload_7.jpg",
+      "label": 1,
+      "score": 2.202434778213501,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Afternoon_Overload_5.jpg",
+      "label": 1,
+      "score": 2.220004081726074,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Morning_Normal_13.jpg",
+      "label": 0,
+      "score": 2.358597993850708,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Evening_Normal_16.jpg",
+      "label": 0,
+      "score": 2.139376401901245,
+      "pixel": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "pcb",
+  "model": "padim",
+  "seed": 1,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9998888888888889,
+      "image_aupr": 0.9998245614035087,
+      "pixel_auroc": 0.9491280774514292,
+      "pixel_aupr": 0.002879411482484305,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.05712962962962963,
+      "image_aupr": 0.2602541251323665,
+      "pixel_auroc": 0.8515996536608683,
+      "pixel_aupr": 0.0018078022445011457,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "AWB": {
+      "image_auroc": 0.0,
+      "image_aupr": 0.1918411315847932,
+      "pixel_auroc": 0.8250530647671845,
+      "pixel_aupr": 0.0006376479594650521,
+      "n_normal": 120,
+      "n_anomaly": 60
+    },
+    "Rotation": {
+      "image_auroc": 0.20895833333333333,
+      "image_aupr": 0.2930828628346954,
+      "pixel_auroc": 0.8435351503880724,
+      "pixel_aupr": 0.0016735935775436391,
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "Position": {
+      "image_auroc": 0.511875,
+      "image_aupr": 0.5505119473891222,
+      "pixel_auroc": 0.8264770126471003,
+      "pixel_aupr": 0.0013212851162874724,
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "Shadows": {
+      "image_auroc": 0.6897916666666666,
+      "image_aupr": 0.58328936924239,
+      "pixel_auroc": 0.8831198056396693,
+      "pixel_aupr": 0.0027940418713324525,
+      "n_normal": 80,
+      "n_anomaly": 60
+    }
+  }
+}

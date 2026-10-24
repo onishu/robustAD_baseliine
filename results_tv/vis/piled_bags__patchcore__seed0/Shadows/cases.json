@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / Shadows / seed 0",
+  "metrics": "image AUROC 89.55",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Flipped_24.jpg",
+      "label": 1,
+      "score": 2.8147571086883545,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Flipped_18.jpg",
+      "label": 1,
+      "score": 2.6673879623413086,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Overload_3.jpg",
+      "label": 1,
+      "score": 2.2096807956695557,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Overload_34.jpg",
+      "label": 1,
+      "score": 2.2436165809631348,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\normal\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Normal_51.jpg",
+      "label": 0,
+      "score": 2.456176996231079,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\normal\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Normal_127.jpg",
+      "label": 0,
+      "score": 2.0126476287841797,
+      "pixel": null
+    }
+  ]
+}

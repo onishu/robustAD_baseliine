@@ -1,0 +1,84 @@
+{
+  "title": "PCB / padim / AWB / seed 0",
+  "metrics": "image AUROC 1.75   pixel AUROC 86.10   pixel AUPR 0.09   pixel F1 0.22（precision 0.11 / recall 15.61）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\anomaly\\Test_PCB_White Balancing_Morning + AWB_Soldering Melt_9.jpg",
+      "label": 1,
+      "score": 39.146671295166016,
+      "pixel": {
+        "iou": 0.0010695187165775401,
+        "precision": 0.001091703056768559,
+        "recall": 0.05
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\anomaly\\Test_PCB_White Balancing_Evening + AWB_Soldering Melt_1.jpg",
+      "label": 1,
+      "score": 38.508392333984375,
+      "pixel": {
+        "iou": 0.008295920359164552,
+        "precision": 0.00836531837417577,
+        "recall": 0.5
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\anomaly\\Test_PCB_White Balancing_Morning + AWB_Soldering Melt_7.jpg",
+      "label": 1,
+      "score": 29.561241149902344,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\anomaly\\Test_PCB_White Balancing_Morning + AWB_Soldering Melt_6.jpg",
+      "label": 1,
+      "score": 29.87735939025879,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\normal\\Test_PCB_White Balancing_Afternoon + AWB_Normal_9.jpg",
+      "label": 0,
+      "score": 42.65471649169922,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test2\\normal\\Test_PCB_White Balancing_Morning + AWB_Normal_1.jpg",
+      "label": 0,
+      "score": 36.48796844482422,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

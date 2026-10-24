@@ -1,0 +1,50 @@
+{
+  "dataset": "piled_bags",
+  "model": "patchcore",
+  "seed": 1,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9994444444444445,
+      "image_aupr": 0.9991666666666666,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.942962962962963,
+      "image_aupr": 0.9228292622262985,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Background": {
+      "image_auroc": 0.46282407407407405,
+      "image_aupr": 0.4088339468266893,
+      "n_normal": 240,
+      "n_anomaly": 180
+    },
+    "Rot+pos": {
+      "image_auroc": 0.631388888888889,
+      "image_aupr": 0.5669719517608949,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Scale": {
+      "image_auroc": 0.8099999999999999,
+      "image_aupr": 0.7173713913208213,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Shadows": {
+      "image_auroc": 0.7932407407407407,
+      "image_aupr": 0.677003856136021,
+      "n_normal": 120,
+      "n_anomaly": 90
+    }
+  }
+}

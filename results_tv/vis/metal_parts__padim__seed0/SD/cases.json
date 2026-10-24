@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / SD / seed 0",
+  "metrics": "image AUROC 87.78   pixel AUROC 98.19   pixel AUPR 22.08   pixel F1 34.59（precision 39.63 / recall 30.69）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\anomaly\\Live_Porosity_None_None_20.jpg",
+      "label": 1,
+      "score": 48.34840393066406,
+      "pixel": {
+        "iou": 0.36099585062240663,
+        "precision": 0.36099585062240663,
+        "recall": 1.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\anomaly\\Live_Porosity_None_None_6.jpg",
+      "label": 1,
+      "score": 46.78418731689453,
+      "pixel": {
+        "iou": 0.22758620689655173,
+        "precision": 0.22758620689655173,
+        "recall": 1.0
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\anomaly\\Live_Chipping_None_None_13.jpg",
+      "label": 1,
+      "score": 13.172073364257812,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\anomaly\\Live_Chipping_None_None_4.jpg",
+      "label": 1,
+      "score": 14.497520446777344,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\normal\\Live_Normal_None_None_32.jpg",
+      "label": 0,
+      "score": 29.281099319458008,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test0\\normal\\Live_Normal_None_None_83.jpg",
+      "label": 0,
+      "score": 11.373879432678223,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

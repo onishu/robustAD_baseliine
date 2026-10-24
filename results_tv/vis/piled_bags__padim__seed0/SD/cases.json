@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / SD / seed 0",
+  "metrics": "image AUROC 99.79",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_2.jpg",
+      "label": 1,
+      "score": 35.93321228027344,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_4.jpg",
+      "label": 1,
+      "score": 35.71137619018555,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Overload_12.jpg",
+      "label": 1,
+      "score": 22.542739868164062,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_8.jpg",
+      "label": 1,
+      "score": 22.933624267578125,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_98.jpg",
+      "label": 0,
+      "score": 24.0693302154541,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_117.jpg",
+      "label": 0,
+      "score": 13.50769329071045,
+      "pixel": null
+    }
+  ]
+}

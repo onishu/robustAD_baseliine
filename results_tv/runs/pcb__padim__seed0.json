@@ -1,0 +1,88 @@
+{
+  "dataset": "pcb",
+  "model": "padim",
+  "backbone": "resnet18.tv_in1k",
+  "weights": "torchvision ImageNet-1K V1\uff08timm \u306e tv_in1k\uff09",
+  "seed": 0,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 1.0,
+      "image_aupr": 0.9999999999999999,
+      "pixel_auroc": 0.9529010649013736,
+      "pixel_aupr": 0.0032207449872259345,
+      "pixel_f1": 0.012274283016641093,
+      "pixel_precision": 0.008405398852339771,
+      "pixel_recall": 0.02274218237480866,
+      "pixel_threshold": 30.9554500579834,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.08351851851851852,
+      "image_aupr": 0.26521758075538654,
+      "pixel_auroc": 0.8730025618822346,
+      "pixel_aupr": 0.002103379554670744,
+      "pixel_f1": 0.00464784047071311,
+      "pixel_precision": 0.0023526499868267124,
+      "pixel_recall": 0.19030345308685037,
+      "pixel_threshold": 24.18987274169922,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "AWB": {
+      "image_auroc": 0.0175,
+      "image_aupr": 0.19222930029687296,
+      "pixel_auroc": 0.8610382466643925,
+      "pixel_aupr": 0.0008600230089200701,
+      "pixel_f1": 0.0021603632313176207,
+      "pixel_precision": 0.00108770830886479,
+      "pixel_recall": 0.1561007584979867,
+      "pixel_threshold": 24.45650291442871,
+      "n_normal": 120,
+      "n_anomaly": 60
+    },
+    "Rotation": {
+      "image_auroc": 0.11166666666666666,
+      "image_aupr": 0.2702756069634642,
+      "pixel_auroc": 0.8761642841940269,
+      "pixel_aupr": 0.0023340356791897885,
+      "pixel_f1": 0.006218068115217144,
+      "pixel_precision": 0.0031453550134761016,
+      "pixel_recall": 0.2692389455782313,
+      "pixel_threshold": 24.920673370361328,
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "Position": {
+      "image_auroc": 0.1970833333333333,
+      "image_aupr": 0.28897070097066646,
+      "pixel_auroc": 0.8649743824876676,
+      "pixel_aupr": 0.0019939414897365377,
+      "pixel_f1": 0.00523875027799972,
+      "pixel_precision": 0.0026926789615404154,
+      "pixel_recall": 0.0962178517397882,
+      "pixel_threshold": 31.423059463500977,
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "Shadows": {
+      "image_auroc": 0.4627083333333333,
+      "image_aupr": 0.40478826835192794,
+      "pixel_auroc": 0.8981217049068212,
+      "pixel_aupr": 0.003265624102593682,
+      "pixel_f1": 0.00737599427555019,
+      "pixel_precision": 0.0037170146988705403,
+      "pixel_recall": 0.4724152910512598,
+      "pixel_threshold": 22.56238555908203,
+      "n_normal": 80,
+      "n_anomaly": 60
+    }
+  }
+}

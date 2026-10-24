@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / Position / seed 0",
+  "metrics": "image AUROC 78.45   pixel AUROC 95.41   pixel AUPR 12.30   pixel F1 22.29（precision 27.04 / recall 18.96）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\anomaly\\Live_Chipping_&_Porosity_Position_+5%_to_-5%_13.jpg",
+      "label": 1,
+      "score": 50.24037170410156,
+      "pixel": {
+        "iou": 0.0962671905697446,
+        "precision": 0.28654970760233917,
+        "recall": 0.12661498708010335
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\anomaly\\Live_Multiple_Porosity_Position_+5%_to_-5%_17.jpg",
+      "label": 1,
+      "score": 47.33345413208008,
+      "pixel": {
+        "iou": 0.16374269005847952,
+        "precision": 0.17445482866043613,
+        "recall": 0.7272727272727273
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\anomaly\\Live_Multiple_Chipping_Position_+5%_to_-5%_14.jpg",
+      "label": 1,
+      "score": 24.775972366333008,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\anomaly\\Live_Multiple_Chipping_Position_+5%_to_-5%_20.jpg",
+      "label": 1,
+      "score": 28.806194305419922,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\normal\\Live_Normal_Position_+5%_to_-5%_27.jpg",
+      "label": 0,
+      "score": 43.19619369506836,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test2\\normal\\Live_Normal_Position_+5%_to_-5%_14.jpg",
+      "label": 0,
+      "score": 16.346187591552734,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

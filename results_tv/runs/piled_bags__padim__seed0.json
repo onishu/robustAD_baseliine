@@ -1,0 +1,52 @@
+{
+  "dataset": "piled_bags",
+  "model": "padim",
+  "backbone": "resnet18.tv_in1k",
+  "weights": "torchvision ImageNet-1K V1\uff08timm \u306e tv_in1k\uff09",
+  "seed": 0,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9978888888888889,
+      "image_aupr": 0.9968137583366499,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.8955555555555555,
+      "image_aupr": 0.9008523215409784,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Background": {
+      "image_auroc": 0.48335648148148147,
+      "image_aupr": 0.4237981374113631,
+      "n_normal": 240,
+      "n_anomaly": 180
+    },
+    "Rot+pos": {
+      "image_auroc": 0.5647222222222222,
+      "image_aupr": 0.46942986855438046,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Scale": {
+      "image_auroc": 0.6249074074074074,
+      "image_aupr": 0.5860133466221225,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Shadows": {
+      "image_auroc": 0.7873148148148148,
+      "image_aupr": 0.7746189074534513,
+      "n_normal": 120,
+      "n_anomaly": 90
+    }
+  }
+}

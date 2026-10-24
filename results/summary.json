@@ -1,0 +1,420 @@
+{
+  "metal_parts": {
+    "padim": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 84.69607843137254,
+          "auroc_std": 1.7005479035546582,
+          "paper_mean": 85.67,
+          "paper_std": 2.03,
+          "delta": -0.9739215686274605
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 96.33541666666667,
+          "auroc_std": 0.5744014850017578,
+          "paper_mean": 96.31,
+          "paper_std": 0.85,
+          "delta": 0.025416666666671972
+        },
+        "Position": {
+          "n": 5,
+          "auroc_mean": 60.65208333333334,
+          "auroc_std": 5.459677991178701,
+          "paper_mean": 63.28,
+          "paper_std": 6.61,
+          "delta": -2.627916666666664
+        },
+        "Rotation": {
+          "n": 5,
+          "auroc_mean": 78.61666666666666,
+          "auroc_std": 7.064103032183597,
+          "paper_mean": 82.28,
+          "paper_std": 6.41,
+          "delta": -3.663333333333341
+        },
+        "Scale": {
+          "n": 5,
+          "auroc_mean": 39.04166666666667,
+          "auroc_std": 5.156676118756148,
+          "paper_mean": 41.01,
+          "paper_std": 3.89,
+          "delta": -1.9683333333333266
+        },
+        "BG1": {
+          "n": 5,
+          "auroc_mean": 70.45,
+          "auroc_std": 11.190560568324244,
+          "paper_mean": 69.43,
+          "paper_std": 9.62,
+          "delta": 1.019999999999996
+        },
+        "BG2": {
+          "n": 5,
+          "auroc_mean": 64.64166666666668,
+          "auroc_std": 15.014131075238568,
+          "paper_mean": 68.15,
+          "paper_std": 11.97,
+          "delta": -3.5083333333333258
+        }
+      },
+      "mean": 70.63336834733893,
+      "std": 18.509834923468837,
+      "source": 84.69607843137254,
+      "ard": -18.34638480392156,
+      "paper_mean": 72.3,
+      "paper_std": 17.99,
+      "paper_ard": -17.37
+    },
+    "patchcore": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 87.83006535947712,
+          "auroc_std": 0.47672111186432553,
+          "paper_mean": 87.92,
+          "paper_std": 0.46,
+          "delta": -0.08993464052288402
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 96.58749999999999,
+          "auroc_std": 0.09564065775948334,
+          "paper_mean": 96.59,
+          "paper_std": 0.09,
+          "delta": -0.002500000000011937
+        },
+        "Position": {
+          "n": 5,
+          "auroc_mean": 89.33749999999999,
+          "auroc_std": 0.5105016935982367,
+          "paper_mean": 89.46,
+          "paper_std": 0.32,
+          "delta": -0.12250000000000227
+        },
+        "Rotation": {
+          "n": 5,
+          "auroc_mean": 88.49375,
+          "auroc_std": 0.4116626602369236,
+          "paper_mean": 88.27,
+          "paper_std": 0.18,
+          "delta": 0.22375000000000966
+        },
+        "Scale": {
+          "n": 5,
+          "auroc_mean": 80.9,
+          "auroc_std": 0.35413602808651623,
+          "paper_mean": 80.88,
+          "paper_std": 0.17,
+          "delta": 0.020000000000010232
+        },
+        "BG1": {
+          "n": 5,
+          "auroc_mean": 73.82499999999999,
+          "auroc_std": 1.45218943897367,
+          "paper_mean": 74.87,
+          "paper_std": 0.6,
+          "delta": -1.045000000000016
+        },
+        "BG2": {
+          "n": 5,
+          "auroc_mean": 84.56666666666666,
+          "auroc_std": 0.5625771552023336,
+          "paper_mean": 83.5,
+          "paper_std": 1.16,
+          "delta": 1.0666666666666629
+        }
+      },
+      "mean": 85.9343545751634,
+      "std": 7.17712680411747,
+      "source": 87.83006535947712,
+      "ard": -4.033088235294116,
+      "paper_mean": 85.93,
+      "paper_std": 6.94,
+      "paper_ard": -4.09
+    }
+  },
+  "pcb": {
+    "padim": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 99.99555555555555,
+          "auroc_std": 0.006085806194498906,
+          "paper_mean": 99.99,
+          "paper_std": 0.02,
+          "delta": 0.005555555555559977
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 4.907407407407407,
+          "auroc_std": 0.5846912472368099,
+          "paper_mean": 10.41,
+          "paper_std": 7.4,
+          "delta": -5.502592592592593
+        },
+        "AWB": {
+          "n": 5,
+          "auroc_mean": 1.911111111111111,
+          "auroc_std": 3.352255321532168,
+          "paper_mean": 6.96,
+          "paper_std": 7.07,
+          "delta": -5.048888888888889
+        },
+        "Rotation": {
+          "n": 5,
+          "auroc_mean": 22.01666666666667,
+          "auroc_std": 18.732552067042135,
+          "paper_mean": 31.79,
+          "paper_std": 12.98,
+          "delta": -9.77333333333333
+        },
+        "Position": {
+          "n": 5,
+          "auroc_mean": 44.333333333333336,
+          "auroc_std": 6.753214255284497,
+          "paper_mean": 40.88,
+          "paper_std": 9.32,
+          "delta": 3.453333333333333
+        },
+        "Shadows": {
+          "n": 5,
+          "auroc_mean": 62.7375,
+          "auroc_std": 4.070814141885839,
+          "paper_mean": 60.68,
+          "paper_std": 10.13,
+          "delta": 2.0574999999999974
+        }
+      },
+      "mean": 39.316929012345675,
+      "std": 37.78383951913851,
+      "source": 99.99555555555555,
+      "ard": -72.81435185185185,
+      "paper_mean": 41.79,
+      "paper_std": 34.76,
+      "paper_ard": -69.85
+    },
+    "patchcore": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 96.3,
+          "auroc_std": 0.11706281947614197,
+          "paper_mean": 96.32,
+          "paper_std": 0.14,
+          "delta": -0.01999999999999602
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 74.37777777777778,
+          "auroc_std": 0.7487529641822762,
+          "paper_mean": 73.93,
+          "paper_std": 0.65,
+          "delta": 0.44777777777777317
+        },
+        "AWB": {
+          "n": 5,
+          "auroc_mean": 81.21666666666667,
+          "auroc_std": 0.5197303134948313,
+          "paper_mean": 81.59,
+          "paper_std": 0.49,
+          "delta": -0.37333333333333485
+        },
+        "Rotation": {
+          "n": 5,
+          "auroc_mean": 69.07500000000002,
+          "auroc_std": 0.674530443675036,
+          "paper_mean": 68.53,
+          "paper_std": 0.87,
+          "delta": 0.5450000000000159
+        },
+        "Position": {
+          "n": 5,
+          "auroc_mean": 67.50416666666666,
+          "auroc_std": 1.3139377046369702,
+          "paper_mean": 67.18,
+          "paper_std": 0.49,
+          "delta": 0.32416666666665606
+        },
+        "Shadows": {
+          "n": 5,
+          "auroc_mean": 45.545833333333334,
+          "auroc_std": 0.3341136699454932,
+          "paper_mean": 46.69,
+          "paper_std": 0.5,
+          "delta": -1.1441666666666634
+        }
+      },
+      "mean": 72.33657407407408,
+      "std": 16.786912493664783,
+      "source": 96.3,
+      "ard": -28.756111111111103,
+      "paper_mean": 72.38,
+      "paper_std": 16.5,
+      "paper_ard": -28.74
+    }
+  },
+  "piled_bags": {
+    "padim": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 98.73333333333333,
+          "auroc_std": 1.4177229177822153,
+          "paper_mean": 98.8,
+          "paper_std": 0.7,
+          "delta": -0.06666666666666288
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 67.46481481481482,
+          "auroc_std": 9.647546988451307,
+          "paper_mean": 65.7,
+          "paper_std": 10.66,
+          "delta": 1.7648148148148124
+        },
+        "Background": {
+          "n": 5,
+          "auroc_mean": 48.802314814814814,
+          "auroc_std": 2.434061954903496,
+          "paper_mean": 47.67,
+          "paper_std": 1.78,
+          "delta": 1.132314814814812
+        },
+        "Rot+pos": {
+          "n": 5,
+          "auroc_mean": 52.44444444444444,
+          "auroc_std": 7.516964695304394,
+          "paper_mean": 53.41,
+          "paper_std": 3.6,
+          "delta": -0.9655555555555537
+        },
+        "Scale": {
+          "n": 5,
+          "auroc_mean": 58.581481481481475,
+          "auroc_std": 4.407316953631399,
+          "paper_mean": 51.34,
+          "paper_std": 4.79,
+          "delta": 7.241481481481472
+        },
+        "Shadows": {
+          "n": 5,
+          "auroc_mean": 74.4962962962963,
+          "auroc_std": 7.552152351749325,
+          "paper_mean": 77.36,
+          "paper_std": 12.68,
+          "delta": -2.863703703703706
+        }
+      },
+      "mean": 66.75378086419754,
+      "std": 18.31361575395739,
+      "source": 98.73333333333333,
+      "ard": -38.37546296296297,
+      "paper_mean": 65.72,
+      "paper_std": 19.56,
+      "paper_ard": -39.7
+    },
+    "patchcore": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "domains": {
+        "SD": {
+          "n": 5,
+          "auroc_mean": 99.95555555555555,
+          "auroc_std": 0.007856742013185088,
+          "paper_mean": 99.98,
+          "paper_std": 0.01,
+          "delta": -0.02444444444445537
+        },
+        "Lighting": {
+          "n": 5,
+          "auroc_mean": 94.81296296296296,
+          "auroc_std": 0.4806081823748972,
+          "paper_mean": 95.89,
+          "paper_std": 0.15,
+          "delta": -1.0770370370370443
+        },
+        "Background": {
+          "n": 5,
+          "auroc_mean": 46.00416666666666,
+          "auroc_std": 0.27203457093655814,
+          "paper_mean": 51.23,
+          "paper_std": 0.22,
+          "delta": -5.225833333333334
+        },
+        "Rot+pos": {
+          "n": 5,
+          "auroc_mean": 61.62777777777778,
+          "auroc_std": 1.51207417567962,
+          "paper_mean": 61.74,
+          "paper_std": 0.75,
+          "delta": -0.112222222222222
+        },
+        "Scale": {
+          "n": 5,
+          "auroc_mean": 81.68148148148148,
+          "auroc_std": 0.7889030167401289,
+          "paper_mean": 75.34,
+          "paper_std": 0.24,
+          "delta": 6.34148148148148
+        },
+        "Shadows": {
+          "n": 5,
+          "auroc_mean": 79.21666666666667,
+          "auroc_std": 1.0099513427277733,
+          "paper_mean": 84.31,
+          "paper_std": 0.58,
+          "delta": -5.093333333333334
+        }
+      },
+      "mean": 77.21643518518518,
+      "std": 20.336444602228266,
+      "source": 99.95555555555555,
+      "ard": -27.28694444444444,
+      "paper_mean": 78.08,
+      "paper_std": 19.14,
+      "paper_ard": -26.28
+    }
+  }
+}

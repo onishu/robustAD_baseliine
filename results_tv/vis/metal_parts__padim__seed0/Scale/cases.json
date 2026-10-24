@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / Scale / seed 0",
+  "metrics": "image AUROC 55.18   pixel AUROC 91.60   pixel AUPR 2.36   pixel F1 8.85（precision 10.66 / recall 7.56）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\anomaly\\Live_Multiple_Chipping_Scale_+5%_to_-5%_15.jpg",
+      "label": 1,
+      "score": 46.52723693847656,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\anomaly\\Live_Chipping_&_Porosity_Scale_+5%_to_-5%_7.jpg",
+      "label": 1,
+      "score": 45.48607635498047,
+      "pixel": {
+        "iou": 0.1582089552238806,
+        "precision": 0.6091954022988506,
+        "recall": 0.1760797342192691
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\anomaly\\Live_Multiple_Chipping_Scale_+5%_to_-5%_7.jpg",
+      "label": 1,
+      "score": 18.161352157592773,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\anomaly\\Live_Chipping_Scale_+5%_to_-5%_21.jpg",
+      "label": 1,
+      "score": 19.417743682861328,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\normal\\Live_Normal_Scale_+5%_to_-5%_47.jpg",
+      "label": 0,
+      "score": 46.86210632324219,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test4\\normal\\Live_Normal_Scale_+5%_to_-5%_66.jpg",
+      "label": 0,
+      "score": 14.702916145324707,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

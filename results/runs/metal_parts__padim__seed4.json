@@ -1,0 +1,70 @@
+{
+  "dataset": "metal_parts",
+  "model": "padim",
+  "seed": 4,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.861111111111111,
+      "image_aupr": 0.7347988447839013,
+      "pixel_auroc": 0.9814777549676561,
+      "pixel_aupr": 0.052261723480394255,
+      "n_normal": 120,
+      "n_anomaly": 51
+    },
+    "Lighting": {
+      "image_auroc": 0.9690625,
+      "image_aupr": 0.9562173263505576,
+      "pixel_auroc": 0.982378266672344,
+      "pixel_aupr": 0.07178566229867672,
+      "n_normal": 120,
+      "n_anomaly": 80
+    },
+    "Position": {
+      "image_auroc": 0.6017708333333334,
+      "image_aupr": 0.4687568232238136,
+      "pixel_auroc": 0.9203825929245253,
+      "pixel_aupr": 0.0019359376022077177,
+      "n_normal": 120,
+      "n_anomaly": 80
+    },
+    "Rotation": {
+      "image_auroc": 0.7339583333333333,
+      "image_aupr": 0.6252673291967994,
+      "pixel_auroc": 0.9581637799432036,
+      "pixel_aupr": 0.009142764292264311,
+      "n_normal": 120,
+      "n_anomaly": 80
+    },
+    "Scale": {
+      "image_auroc": 0.395625,
+      "image_aupr": 0.38376081983076094,
+      "pixel_auroc": 0.8652567854259468,
+      "pixel_aupr": 0.0010851124293932914,
+      "n_normal": 120,
+      "n_anomaly": 80
+    },
+    "BG1": {
+      "image_auroc": 0.8033333333333333,
+      "image_aupr": 0.7700004183677625,
+      "pixel_auroc": 0.9822847445124028,
+      "pixel_aupr": 0.06147896904422057,
+      "n_normal": 60,
+      "n_anomaly": 40
+    },
+    "BG2": {
+      "image_auroc": 0.7470833333333333,
+      "image_aupr": 0.6401145464823963,
+      "pixel_auroc": 0.979836960107241,
+      "pixel_aupr": 0.021049701541436486,
+      "n_normal": 60,
+      "n_anomaly": 40
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / Lighting / seed 0",
+  "metrics": "image AUROC 96.27   pixel AUROC 98.01   pixel AUPR 22.54   pixel F1 34.06（precision 38.00 / recall 30.87）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\anomaly\\Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_7.jpg",
+      "label": 1,
+      "score": 51.841251373291016,
+      "pixel": {
+        "iou": 0.1111111111111111,
+        "precision": 0.19333333333333333,
+        "recall": 0.20714285714285716
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\anomaly\\Live_Porosity_Lighting_Ambient_Light_Var_30.jpg",
+      "label": 1,
+      "score": 49.18424987792969,
+      "pixel": {
+        "iou": 0.32344213649851633,
+        "precision": 0.32344213649851633,
+        "recall": 1.0
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\anomaly\\Live_Chipping_Lighting_Ambient_Light_Var_13.jpg",
+      "label": 1,
+      "score": 13.070444107055664,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\anomaly\\Live_Chipping_Lighting_Ambient_Light_Var_10.jpg",
+      "label": 1,
+      "score": 14.15713882446289,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\normal\\Live_Normal_Lighting_Ambient_Light_Var_185.jpg",
+      "label": 0,
+      "score": 23.71149253845215,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test1\\normal\\Live_Normal_Lighting_Ambient_Light_Var_210.jpg",
+      "label": 0,
+      "score": 8.252263069152832,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

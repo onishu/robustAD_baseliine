@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Rot+pos / seed 0",
+  "metrics": "image AUROC 56.47",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Underload_R_2.jpg",
+      "label": 1,
+      "score": 42.77713394165039,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Underload_R_5.jpg",
+      "label": 1,
+      "score": 42.596988677978516,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Flipped_R_2.jpg",
+      "label": 1,
+      "score": 32.261924743652344,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Overload_14.jpg",
+      "label": 1,
+      "score": 32.57706832885742,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_3%_Normal_R_3.jpg",
+      "label": 0,
+      "score": 43.66789245605469,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_3%_Normal_62.jpg",
+      "label": 0,
+      "score": 29.491464614868164,
+      "pixel": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Scale / seed 0",
+  "metrics": "image AUROC 62.49",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\anomaly\\Piled Bags_Live_Test_Scale_15% to -15%_Flipped_32.jpg",
+      "label": 1,
+      "score": 39.674781799316406,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\anomaly\\Piled Bags_Live_Test_Scale_15% to -15%_Flipped_27.jpg",
+      "label": 1,
+      "score": 39.40314865112305,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\anomaly\\Piled Bags_Live_Test_Scale_15% to -15%_Flipped_19.jpg",
+      "label": 1,
+      "score": 29.462621688842773,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\anomaly\\Piled Bags_Live_Test_Scale_15% to -15%_Flipped_1.jpg",
+      "label": 1,
+      "score": 29.79417610168457,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\normal\\Piled Bags_Live_Test_Scale_15% to -15%_Normal_61.jpg",
+      "label": 0,
+      "score": 38.277366638183594,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test4\\normal\\Piled Bags_Live_Test_Scale_15% to -15%_Normal_32.jpg",
+      "label": 0,
+      "score": 29.53486442565918,
+      "pixel": null
+    }
+  ]
+}

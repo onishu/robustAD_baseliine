@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Lighting / seed 0",
+  "metrics": "image AUROC 89.56",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Morning_Overload_3.jpg",
+      "label": 1,
+      "score": 32.85453796386719,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Evening_Overload_7.jpg",
+      "label": 1,
+      "score": 31.77012825012207,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Morning_Underload_2.jpg",
+      "label": 1,
+      "score": 23.90389633178711,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Evening_Flipped_1.jpg",
+      "label": 1,
+      "score": 24.319717407226562,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Afternoon_Normal_45.jpg",
+      "label": 0,
+      "score": 26.73129653930664,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Evening_Normal_14.jpg",
+      "label": 0,
+      "score": 23.000415802001953,
+      "pixel": null
+    }
+  ]
+}
