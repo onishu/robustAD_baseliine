@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / SD / seed 0",
+  "metrics": "image AUROC 99.96   image F1 99.33",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_14.jpg",
+      "label": 1,
+      "score": 52.943511962890625,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_11.jpg",
+      "label": 1,
+      "score": 52.44579315185547,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Overload_29.jpg",
+      "label": 1,
+      "score": 39.43635559082031,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Overload_2.jpg",
+      "label": 1,
+      "score": 40.59484100341797,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_114.jpg",
+      "label": 0,
+      "score": 40.03925704956055,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_119.jpg",
+      "label": 0,
+      "score": 32.867591857910156,
+      "pixel": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / Shadows / seed 0",
+  "metrics": "image AUROC 77.58   image F1 69.89",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Flipped_24.jpg",
+      "label": 1,
+      "score": 55.35458755493164,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Flipped_34.jpg",
+      "label": 1,
+      "score": 53.88466262817383,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Overload_3.jpg",
+      "label": 1,
+      "score": 44.10890579223633,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\anomaly\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Overload_10.jpg",
+      "label": 1,
+      "score": 45.53428649902344,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\normal\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Normal_50.jpg",
+      "label": 0,
+      "score": 54.7341194152832,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test5\\normal\\Piled Bags_Live_Test_Shadow_Alternate Light Position_Normal_127.jpg",
+      "label": 0,
+      "score": 39.96712875366211,
+      "pixel": null
+    }
+  ]
+}

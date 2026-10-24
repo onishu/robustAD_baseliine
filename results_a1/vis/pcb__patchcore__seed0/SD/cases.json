@@ -1,0 +1,84 @@
+{
+  "title": "PCB / patchcore / SD / seed 0",
+  "metrics": "image AUROC 96.24   image F1 90.45   pixel AUROC 97.54   pixel AUPR 5.69   pixel F1 13.19（precision 20.15 / recall 9.80）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\anomaly\\Test_PCB_None_None_Scratch_27.jpg",
+      "label": 1,
+      "score": 52.284175872802734,
+      "pixel": {
+        "iou": 0.1161504424778761,
+        "precision": 0.11837655016910936,
+        "recall": 0.860655737704918
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\anomaly\\Test_PCB_None_None_Soldering Melt_27.jpg",
+      "label": 1,
+      "score": 48.38302993774414,
+      "pixel": {
+        "iou": 0.519280205655527,
+        "precision": 0.6342229199372057,
+        "recall": 0.7412844036697248
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\anomaly\\Test_PCB_None_None_Missing Component_23.jpg",
+      "label": 1,
+      "score": 33.508880615234375,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\anomaly\\Test_PCB_None_None_Missing Component_1.jpg",
+      "label": 1,
+      "score": 34.68368148803711,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\normal\\Test_PCB_resized_None_None_Normal_Set2_208.jpg",
+      "label": 0,
+      "score": 42.8016471862793,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test0\\normal\\Test_PCB_resized_None_None_Normal_Set2_296.jpg",
+      "label": 0,
+      "score": 23.60719108581543,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

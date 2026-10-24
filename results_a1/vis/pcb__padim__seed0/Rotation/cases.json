@@ -1,0 +1,84 @@
+{
+  "title": "PCB / padim / Rotation / seed 0",
+  "metrics": "image AUROC 5.12   image F1 60.00   pixel AUROC 82.72   pixel AUPR 0.14   pixel F1 0.33（precision 0.16 / recall 44.13）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\anomaly\\Test_PCB_Rotation_5%_Soldering Melt_10.jpg",
+      "label": 1,
+      "score": 292.51690673828125,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\anomaly\\Test_PCB_Rotation_5%_Missing Component_4.jpg",
+      "label": 1,
+      "score": 290.0943908691406,
+      "pixel": {
+        "iou": 0.004822199869830187,
+        "precision": 0.004841967680608365,
+        "recall": 0.5415282392026578
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\anomaly\\Test_PCB_Rotation_-5%_Missing Component_7.jpg",
+      "label": 1,
+      "score": 231.2252197265625,
+      "pixel": {
+        "iou": 0.004795727913728743,
+        "precision": 0.004807317516825611,
+        "recall": 0.6654676258992805
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\anomaly\\Test_PCB_Rotation_5%_Scratch_10.jpg",
+      "label": 1,
+      "score": 236.1975555419922,
+      "pixel": {
+        "iou": 0.0018290072771140601,
+        "precision": 0.001842703677566063,
+        "recall": 0.19747899159663865
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\normal\\Test_PCB_Rotation_5%_Normal_13.jpg",
+      "label": 0,
+      "score": 329.5466003417969,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test3\\normal\\Test_PCB_Rotation_-5%_Normal_29.jpg",
+      "label": 0,
+      "score": 262.0990905761719,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

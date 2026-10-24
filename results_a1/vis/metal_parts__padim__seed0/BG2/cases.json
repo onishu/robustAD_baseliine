@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / BG2 / seed 0",
+  "metrics": "image AUROC 66.62   image F1 64.52   pixel AUROC 89.32   pixel AUPR 2.23   pixel F1 8.15（precision 5.34 / recall 17.25）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\anomaly\\Live_Multiple_Chipping_Background_Background_2_9.jpg",
+      "label": 1,
+      "score": 170.8778076171875,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\anomaly\\Live_Multiple_Porosity_Background_Background_2_6.jpg",
+      "label": 1,
+      "score": 117.65278625488281,
+      "pixel": {
+        "iou": 0.056721750781598926,
+        "precision": 0.057518115942028984,
+        "recall": 0.8037974683544303
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\anomaly\\Live_Chipping_Background_Background_2_16.jpg",
+      "label": 1,
+      "score": 69.73353576660156,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\anomaly\\Live_Chipping_Background_Background_2_26.jpg",
+      "label": 1,
+      "score": 69.89776611328125,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\normal\\Live_Normal_Background_Background_2_57.jpg",
+      "label": 0,
+      "score": 114.5758056640625,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test6\\normal\\Live_Normal_Background_Background_2_71.jpg",
+      "label": 0,
+      "score": 62.00358200073242,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

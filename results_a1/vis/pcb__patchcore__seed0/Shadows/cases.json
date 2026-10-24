@@ -1,0 +1,84 @@
+{
+  "title": "PCB / patchcore / Shadows / seed 0",
+  "metrics": "image AUROC 45.42   image F1 62.70   pixel AUROC 93.34   pixel AUPR 0.87   pixel F1 2.89（precision 1.52 / recall 28.17）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Light Alternate Position_Scratch_15.jpg",
+      "label": 1,
+      "score": 66.75273132324219,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Light Alternate Position_Missing Component_13.jpg",
+      "label": 1,
+      "score": 66.09950256347656,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Object Alternate Location_Missing Component_7.jpg",
+      "label": 1,
+      "score": 40.42469787597656,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Object Alternate Location_Scratch_4.jpg",
+      "label": 1,
+      "score": 42.455299377441406,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\normal\\Test_PCB_Shadow_Object Alternate Location_Normal_34.jpg",
+      "label": 0,
+      "score": 65.73970031738281,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\normal\\Test_PCB_Shadow_Light Alternate Position_Normal_12.jpg",
+      "label": 0,
+      "score": 38.41429901123047,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

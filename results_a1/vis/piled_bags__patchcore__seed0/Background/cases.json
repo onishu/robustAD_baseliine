@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / Background / seed 0",
+  "metrics": "image AUROC 45.84   image F1 60.52",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 1_Flipped_15.jpg",
+      "label": 1,
+      "score": 89.23332214355469,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 1_Flipped_4.jpg",
+      "label": 1,
+      "score": 89.2181625366211,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Box Color_Box Color 2_Overload_9.jpg",
+      "label": 1,
+      "score": 50.05424499511719,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Box Color_Box Color 2_Overload_5.jpg",
+      "label": 1,
+      "score": 50.24602508544922,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\normal\\Piled Bags_Live_Test_Background_Background 2_Normal_6.jpg",
+      "label": 0,
+      "score": 90.13809204101562,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\normal\\Piled Bags_Live_Test_Box Color_Box Color 2_Normal_4.jpg",
+      "label": 0,
+      "score": 49.694766998291016,
+      "pixel": null
+    }
+  ]
+}

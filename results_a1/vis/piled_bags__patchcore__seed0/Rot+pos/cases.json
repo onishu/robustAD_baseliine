@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / patchcore / Rot+pos / seed 0",
+  "metrics": "image AUROC 61.09   image F1 61.70",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Overload_1.jpg",
+      "label": 1,
+      "score": 54.806087493896484,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Underload_16.jpg",
+      "label": 1,
+      "score": 54.56437683105469,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Overload_R_6.jpg",
+      "label": 1,
+      "score": 46.283721923828125,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Overload_5.jpg",
+      "label": 1,
+      "score": 46.644779205322266,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_3%_Normal_R_35.jpg",
+      "label": 0,
+      "score": 54.542320251464844,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_3%_Normal_33.jpg",
+      "label": 0,
+      "score": 45.876983642578125,
+      "pixel": null
+    }
+  ]
+}

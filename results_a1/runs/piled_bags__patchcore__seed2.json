@@ -1,0 +1,76 @@
+{
+  "dataset": "piled_bags",
+  "model": "patchcore",
+  "backbone": "wide_resnet50_2",
+  "weights": "anomalib 2.7 \u306e\u65e2\u5b9a\uff08resnet18.a1_in1k / wide_resnet50_2.racm_in1k\uff09",
+  "seed": 2,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9995555555555555,
+      "image_aupr": 0.9993248945147678,
+      "image_f1": 0.9932885906040269,
+      "image_precision": 1.0,
+      "image_recall": 0.9866666666666667,
+      "image_threshold": 40.34615707397461,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.9514814814814814,
+      "image_aupr": 0.931598601344835,
+      "image_f1": 0.90625,
+      "image_precision": 0.8529411764705882,
+      "image_recall": 0.9666666666666667,
+      "image_threshold": 48.455108642578125,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Background": {
+      "image_auroc": 0.46319444444444446,
+      "image_aupr": 0.4067719157894019,
+      "image_f1": 0.607773851590106,
+      "image_precision": 0.44559585492227977,
+      "image_recall": 0.9555555555555556,
+      "image_threshold": 52.19340896606445,
+      "n_normal": 240,
+      "n_anomaly": 180
+    },
+    "Rot+pos": {
+      "image_auroc": 0.6270370370370371,
+      "image_aupr": 0.5778673106188102,
+      "image_f1": 0.6141732283464566,
+      "image_precision": 0.47560975609756095,
+      "image_recall": 0.8666666666666667,
+      "image_threshold": 49.01700973510742,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Scale": {
+      "image_auroc": 0.8161111111111111,
+      "image_aupr": 0.7194527504093603,
+      "image_f1": 0.813397129186603,
+      "image_precision": 0.7142857142857143,
+      "image_recall": 0.9444444444444444,
+      "image_threshold": 45.750736236572266,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Shadows": {
+      "image_auroc": 0.793888888888889,
+      "image_aupr": 0.6763307143434399,
+      "image_f1": 0.7177033492822966,
+      "image_precision": 0.6302521008403361,
+      "image_recall": 0.8333333333333334,
+      "image_threshold": 48.124794006347656,
+      "n_normal": 120,
+      "n_anomaly": 90
+    }
+  }
+}

@@ -270,7 +270,7 @@ def _render_panel(sample: dict, threshold: float | None) -> Image.Image:
     views = [rgb, heat, overlay] if not show_pixels else [rgb, heat, overlay, gt, detection]
     names = ["原画像", "異常ヒートマップ", "重畳"]
     if show_pixels:
-        names += ["正解マスク", "検出（緑=一致 赤=過剰 青=見逃し）"]
+        names += ["正解マスク", "検出マスク（黄枠=予測 水色枠=正解）"]
     fig, axes = plt.subplots(1, len(views), figsize=(3.2 * len(views), 3.8))
     for axis, view, name in zip(axes, views, names, strict=True):
         axis.imshow(view)
@@ -358,7 +358,24 @@ def _views(
     detection[true_pos] = (40, 190, 70)
     detection[false_pos] = (220, 40, 40)
     detection[false_neg] = (30, 90, 230)
+    # Yellow traces the predicted mask. Cyan traces the ground-truth mask.
+    detection[_outline(prediction)] = (255, 220, 0)
+    detection[_outline(gt)] = (0, 220, 255)
     return rgb, heat, overlay, gt_view, detection
+
+
+def _outline(mask: np.ndarray) -> np.ndarray:
+    """One-pixel boundary of a binary mask."""
+
+    up = np.zeros_like(mask)
+    down = np.zeros_like(mask)
+    left = np.zeros_like(mask)
+    right = np.zeros_like(mask)
+    up[1:] = mask[:-1]
+    down[:-1] = mask[1:]
+    left[:, 1:] = mask[:, :-1]
+    right[:, :-1] = mask[:, 1:]
+    return mask & ~(up & down & left & right)
 
 
 def _pixel_counts(sample: dict, threshold: float | None) -> dict[str, float] | None:

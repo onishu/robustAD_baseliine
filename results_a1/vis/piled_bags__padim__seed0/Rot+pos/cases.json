@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Rot+pos / seed 0",
+  "metrics": "image AUROC 59.50   image F1 60.27",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Overload_14.jpg",
+      "label": 1,
+      "score": 227.9437255859375,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_3%_Overload_2.jpg",
+      "label": 1,
+      "score": 225.62139892578125,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Flipped_R_3.jpg",
+      "label": 1,
+      "score": 135.81382751464844,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\anomaly\\Piled Bags_Live_Test_Position & Rotation_-3%_Flipped_R_1.jpg",
+      "label": 1,
+      "score": 139.1162872314453,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_3%_Normal_10.jpg",
+      "label": 0,
+      "score": 224.9774169921875,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test3\\normal\\Piled Bags_Live_Test_Position & Rotation_-3%_Normal_R_19.jpg",
+      "label": 0,
+      "score": 134.51112365722656,
+      "pixel": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Metal Parts / padim / Rotation / seed 0",
+  "metrics": "image AUROC 72.57   image F1 66.97   pixel AUROC 96.71   pixel AUPR 1.10   pixel F1 4.10（precision 2.19 / recall 31.44）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\anomaly\\Live_Chipping_Rotation_+5_deg_and_-5_deg_24.jpg",
+      "label": 1,
+      "score": 255.61270141601562,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\anomaly\\Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_16.jpg",
+      "label": 1,
+      "score": 214.534912109375,
+      "pixel": {
+        "iou": 0.017474185861795076,
+        "precision": 0.017508953442101075,
+        "recall": 0.8979591836734694
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\anomaly\\Live_Chipping_Rotation_+5_deg_and_-5_deg_12.jpg",
+      "label": 1,
+      "score": 55.09916687011719,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\anomaly\\Live_Chipping_Rotation_+5_deg_and_-5_deg_1.jpg",
+      "label": 1,
+      "score": 59.8276252746582,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\normal\\Live_Normal_Rotation_+5_deg_and_-5_deg_30.jpg",
+      "label": 0,
+      "score": 228.67759704589844,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\MetalParts\\metal_parts_data_dir_test3\\normal\\Live_Normal_Rotation_+5_deg_and_-5_deg_141.jpg",
+      "label": 0,
+      "score": 26.375993728637695,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

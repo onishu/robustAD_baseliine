@@ -1,0 +1,84 @@
+{
+  "title": "PCB / padim / Shadows / seed 0",
+  "metrics": "image AUROC 61.96   image F1 65.12   pixel AUROC 85.29   pixel AUPR 0.21   pixel F1 0.47（precision 0.24 / recall 49.54）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Object Alternate Location_Missing Component_6.jpg",
+      "label": 1,
+      "score": 289.2474365234375,
+      "pixel": {
+        "iou": 0.00532442198842378,
+        "precision": 0.005334230381085108,
+        "recall": 0.7433035714285714
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Object Alternate Location_Soldering Melt_4.jpg",
+      "label": 1,
+      "score": 277.7641906738281,
+      "pixel": {
+        "iou": 0.00017821817468945483,
+        "precision": 0.0001783198701831345,
+        "recall": 0.23809523809523808
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Light Alternate Position_Scratch_10.jpg",
+      "label": 1,
+      "score": 133.05848693847656,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\anomaly\\Test_PCB_Shadow_Light Alternate Position_Scratch_18.jpg",
+      "label": 1,
+      "score": 135.82774353027344,
+      "pixel": {
+        "iou": 0.0006683251030334534,
+        "precision": 0.0006689708997658602,
+        "recall": 0.4090909090909091
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\normal\\Test_PCB_Shadow_Object Alternate Location_Normal_17.jpg",
+      "label": 0,
+      "score": 287.84814453125,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test5\\normal\\Test_PCB_Shadow_Light Alternate Position_Normal_23.jpg",
+      "label": 0,
+      "score": 115.84481048583984,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

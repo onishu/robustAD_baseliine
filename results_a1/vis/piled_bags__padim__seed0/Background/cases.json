@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Background / seed 0",
+  "metrics": "image AUROC 45.37   image F1 61.46",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 1_Underload_15.jpg",
+      "label": 1,
+      "score": 282.8385314941406,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 1_Underload_13.jpg",
+      "label": 1,
+      "score": 276.72686767578125,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 2_Flipped_12.jpg",
+      "label": 1,
+      "score": 114.73416900634766,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\anomaly\\Piled Bags_Live_Test_Background_Background 2_Underload_22.jpg",
+      "label": 1,
+      "score": 115.4623794555664,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\normal\\Piled Bags_Live_Test_Background_Background 1_Normal_33.jpg",
+      "label": 0,
+      "score": 315.05780029296875,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test2\\normal\\Piled Bags_Live_Test_Background_Background 2_Normal_62.jpg",
+      "label": 0,
+      "score": 109.63844299316406,
+      "pixel": null
+    }
+  ]
+}

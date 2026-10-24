@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / Lighting / seed 0",
+  "metrics": "image AUROC 72.02   image F1 64.26",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Morning_Overload_1.jpg",
+      "label": 1,
+      "score": 160.55882263183594,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Afternoon_Overload_4.jpg",
+      "label": 1,
+      "score": 159.92388916015625,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Morning_Underload_5.jpg",
+      "label": 1,
+      "score": 79.3570556640625,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\anomaly\\Piled Bags_Live_Test_Lighting_Morning_Underload_3.jpg",
+      "label": 1,
+      "score": 79.62886047363281,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Evening_Normal_37.jpg",
+      "label": 0,
+      "score": 105.06452178955078,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test1\\normal\\Piled Bags_Live_Test_Lighting_Morning_Normal_19.jpg",
+      "label": 0,
+      "score": 75.48345947265625,
+      "pixel": null
+    }
+  ]
+}

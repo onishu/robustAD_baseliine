@@ -1,0 +1,84 @@
+{
+  "title": "PCB / patchcore / Lighting / seed 0",
+  "metrics": "image AUROC 75.56   image F1 69.20   pixel AUROC 93.99   pixel AUPR 33.08   pixel F1 40.23（precision 53.20 / recall 32.35）",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\anomaly\\Test_PCB_Lighting_Afternoon_Missing Component_4.jpg",
+      "label": 1,
+      "score": 61.007904052734375,
+      "pixel": {
+        "iou": 0.502092050209205,
+        "precision": 0.5337286879169756,
+        "recall": 0.8944099378881988
+      }
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\anomaly\\Test_PCB_Lighting_Evening_Missing Component_4.jpg",
+      "label": 1,
+      "score": 58.15882873535156,
+      "pixel": {
+        "iou": 0.5489485134155185,
+        "precision": 0.5923317683881064,
+        "recall": 0.8822843822843823
+      }
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\anomaly\\Test_PCB_Lighting_Afternoon_Scratch_3.jpg",
+      "label": 1,
+      "score": 36.51115798950195,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\anomaly\\Test_PCB_Lighting_Morning_Missing Component_2.jpg",
+      "label": 1,
+      "score": 36.91331100463867,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\normal\\Test_PCB_Lighting_Morning_Normal_32.jpg",
+      "label": 0,
+      "score": 46.714176177978516,
+      "pixel": {
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PCB\\pcb_data_dir_test1\\normal\\Test_PCB_Lighting_Morning_Normal_27.jpg",
+      "label": 0,
+      "score": 35.450191497802734,
+      "pixel": {
+        "iou": 1.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    }
+  ]
+}

@@ -9,3 +9,4 @@ lightning_logs/
 wandb/
 results/lightning/
 results_tv/lightning/
+results_a1/lightning/

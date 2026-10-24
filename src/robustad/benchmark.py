@@ -15,7 +15,7 @@ import torch.nn.functional as F
 from PIL import Image
 from torchvision.transforms.v2 import Normalize, Resize
 
-from robustad.catalog import PAPER_IMAGE_AUROC, PAPER_SUMMARY, SUBSETS
+from robustad.catalog import DOMAIN_FACTOR, FACTOR_ORDER, PAPER_IMAGE_AUROC, PAPER_SUMMARY, SUBSETS
 from robustad.data import build_domain_module, build_train_module
 from robustad.metrics import average_relative_drop, best_detection, mean_std, safe_aupr, safe_auroc
 from robustad.visualize import render_domain, save_result_figures
@@ -25,13 +25,23 @@ LOGGER = logging.getLogger("robustad")
 IMAGE_NET_MEAN = [0.485, 0.456, 0.406]
 IMAGE_NET_STD = [0.229, 0.224, 0.225]
 BATCH_SIZE = {"padim": 8, "patchcore": 2}
-# anomalib 1.x loaded torchvision ImageNet-1K V1. anomalib 2.7's bare names
-# resolve to timm resnet18.a1_in1k and wide_resnet50_2.racm_in1k instead.
-BACKBONES = {
-    "padim": "resnet18.tv_in1k",
-    "patchcore": "wide_resnet50_2.tv_in1k",
+# The first reproduction uses anomalib 2.7's bare names, which load
+# resnet18.a1_in1k and wide_resnet50_2.racm_in1k. torchvision is the
+# ImageNet-1K V1 comparison stored in results_tv.
+WEIGHT_SETS = {
+    "timm": {
+        "padim": "resnet18",
+        "patchcore": "wide_resnet50_2",
+        "note": "anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）",
+        "tags": ("a1_in1k", "racm_in1k"),
+    },
+    "torchvision": {
+        "padim": "resnet18.tv_in1k",
+        "patchcore": "wide_resnet50_2.tv_in1k",
+        "note": "torchvision ImageNet-1K V1（timm の tv_in1k）",
+        "tags": ("tv_in1k",),
+    },
 }
-WEIGHT_NOTE = "torchvision ImageNet-1K V1（timm の tv_in1k）"
 
 
 def paper_pre_processor(image_size: int):
@@ -125,9 +135,10 @@ def accelerate_patchcore_coreset() -> None:
     kcenter.KCenterGreedy._robustad_gpu = True
 
 
-def build_model(model_name: str, image_size: int):
+def build_model(model_name: str, image_size: int, weights: str = "timm"):
     pre_processor = paper_pre_processor(image_size)
-    backbone = BACKBONES[model_name]
+    spec = WEIGHT_SETS[weights]
+    backbone = spec[model_name]
     if model_name == "padim":
         from anomalib.models import Padim
 
@@ -158,8 +169,8 @@ def build_model(model_name: str, image_size: int):
         raise ValueError(f"未知のモデルです: {model_name}")
     tag, url = _pretrained_fields(model)
     LOGGER.info("backbone %s tag=%s url=%s", backbone, tag, url)
-    if "tv_in1k" not in tag and "f37072fd" not in url and "95faca4d" not in url:
-        raise RuntimeError(f"torchvision の ImageNet-1K 重みではありません: tag={tag} url={url}")
+    if not any(expected in tag or expected in url for expected in spec["tags"]):
+        raise RuntimeError(f"想定した重みではありません: tag={tag} url={url} expected={spec['tags']}")
     return model
 
 
@@ -267,9 +278,14 @@ def score_domain(outputs, *, localization: bool, keep_samples: bool) -> tuple[di
 
     image_score = torch.cat(scores).numpy()
     image_label = torch.cat(labels).numpy()
+    image_detection = best_detection(image_label, image_score)
     result = {
         "image_auroc": safe_auroc(image_label, image_score),
         "image_aupr": safe_aupr(image_label, image_score),
+        "image_f1": image_detection["f1"],
+        "image_precision": image_detection["precision"],
+        "image_recall": image_detection["recall"],
+        "image_threshold": image_detection["threshold"],
     }
     if localization:
         pixel_score = torch.cat(maps).numpy()
@@ -315,6 +331,7 @@ def run_once(
     save_checkpoint: bool,
     force: bool,
     save_gallery: bool,
+    weights: str,
 ) -> dict:
     destination = run_path(output_dir, dataset, model_name, seed)
     if destination.exists() and not force:
@@ -343,7 +360,7 @@ def run_once(
         train_counts["n_train"],
         train_counts["n_val"],
     )
-    model = build_model(model_name, image_size)
+    model = build_model(model_name, image_size, weights)
     engine = make_engine(output_dir)
     engine.fit(model=model, datamodule=train_module)
 
@@ -371,14 +388,18 @@ def run_once(
                 f"  F1 {metrics['pixel_f1'] * 100.0:6.2f}"
             )
         LOGGER.info(
-            "  %-12s image AUROC %6.2f%s",
+            "  %-12s image AUROC %6.2f  F1 %6.2f%s",
             domain.name,
             metrics["image_auroc"] * 100.0,
+            metrics["image_f1"] * 100.0,
             pixel_note,
         )
         if save_gallery and samples:
             gallery = output_dir / "vis" / f"{dataset}__{model_name}__seed{seed}" / domain.name
-            metrics_line = f"image AUROC {metrics['image_auroc'] * 100.0:.2f}"
+            metrics_line = (
+                f"image AUROC {metrics['image_auroc'] * 100.0:.2f}"
+                f"   image F1 {metrics['image_f1'] * 100.0:.2f}"
+            )
             if "pixel_auroc" in metrics:
                 metrics_line += (
                     f"   pixel AUROC {metrics['pixel_auroc'] * 100.0:.2f}"
@@ -400,8 +421,8 @@ def run_once(
     payload = {
         "dataset": dataset,
         "model": model_name,
-        "backbone": BACKBONES[model_name],
-        "weights": WEIGHT_NOTE,
+        "backbone": WEIGHT_SETS[weights][model_name],
+        "weights": WEIGHT_SETS[weights]["note"],
         "seed": seed,
         "image_size": image_size,
         "val_ratio": val_ratio,
@@ -446,7 +467,16 @@ def summarize(output_dir: Path) -> dict:
                 "paper_std": paper_std,
                 "delta": mean - paper_mean if not math.isnan(mean) else float("nan"),
             }
-            for metric in ("pixel_auroc", "pixel_aupr", "pixel_f1", "pixel_precision", "pixel_recall"):
+            for metric in (
+                "image_f1",
+                "image_precision",
+                "image_recall",
+                "pixel_auroc",
+                "pixel_aupr",
+                "pixel_f1",
+                "pixel_precision",
+                "pixel_recall",
+            ):
                 pixel_scores = [
                     item["domains"][domain.name][metric] * 100.0
                     for item in items
@@ -462,14 +492,34 @@ def summarize(output_dir: Path) -> dict:
         source = domain_stats["SD"]["auroc_mean"]
         targets = [domain_stats[domain.name]["auroc_mean"] for domain in subset.domains if domain.name != "SD"]
         ard = average_relative_drop(source, targets)
+        source_pixel = domain_stats["SD"].get("pixel_auroc_mean", float("nan"))
+        pixel_targets = [
+            domain_stats[domain.name]["pixel_auroc_mean"]
+            for domain in subset.domains
+            if domain.name != "SD" and "pixel_auroc_mean" in domain_stats[domain.name]
+        ]
+        ard_pixel = average_relative_drop(source_pixel, pixel_targets)
+        for domain in subset.domains:
+            entry = domain_stats[domain.name]
+            if domain.name == "SD":
+                entry["image_drop"] = 0.0
+                entry["pixel_drop"] = 0.0 if "pixel_auroc_mean" in entry else float("nan")
+                continue
+            entry["image_drop"] = min(0.0, entry["auroc_mean"] - source)
+            if "pixel_auroc_mean" in entry and not math.isnan(source_pixel):
+                entry["pixel_drop"] = min(0.0, entry["pixel_auroc_mean"] - source_pixel)
         paper = PAPER_SUMMARY[dataset][model_name]
         summary.setdefault(dataset, {})[model_name] = {
             "seeds": sorted(item["seed"] for item in items),
+            "backbone": items[0].get("backbone", ""),
+            "weights": items[0].get("weights", ""),
             "domains": domain_stats,
             "mean": overall_mean,
             "std": overall_std,
             "source": source,
             "ard": ard,
+            "source_pixel": source_pixel,
+            "ard_pixel": ard_pixel,
             "paper_mean": paper["mean"],
             "paper_std": paper["std"],
             "paper_ard": paper["ard"],
@@ -479,18 +529,38 @@ def summarize(output_dir: Path) -> dict:
     return summary
 
 
+def _points(value: float, width: int) -> str:
+    if value is None or (isinstance(value, float) and math.isnan(value)):
+        return f"{'—':>{width}}"
+    return f"{value:{width}.2f}"
+
+
+def _metric_cell(domain: dict, name: str) -> str:
+    mean = domain.get(f"{name}_mean", domain.get(name, float("nan")))
+    std = domain.get(f"{name}_std", 0.0)
+    if mean is None or (isinstance(mean, float) and math.isnan(mean)):
+        return f"{'—':>16}"
+    if f"{name}_std" not in domain and f"{name}_mean" not in domain:
+        return f"{mean:16.2f}"
+    return f"{mean:6.2f} ± {std:5.2f}"
+
+
 def format_summary(summary: dict, baseline: dict | None = None) -> str:
     lines = [
-        f"Image AUROC (%)。重みは {WEIGHT_NOTE}。",
-        "論文 Table 2 の mean ± std（5 runs）との差です。",
-        "mean / std はドメイン間、± はシード間、ARD はターゲットドメインの平均相対低下です。",
-        "画素 F1 は、そのテストドメインの中で F1 が最大になるしきい値での値です。",
+        "各撮影条件の image AUROC / image F1 / pixel AUROC / pixel F1（%）。",
+        "F1 は、そのテスト条件の中で F1 が最大になるしきい値。画像と画素で別々に決める。",
+        "ARD はターゲットについて min(0, T - S) の平均。image drop / pixel drop はその各項。",
+        "Pile of Packets にマスクはないので、画素指標と画素 ARD はない。",
         "",
     ]
     for dataset, models in summary.items():
         title = SUBSETS[dataset].title
         for model_name, stats in models.items():
-            lines.append(f"## {title} / {model_name}   seeds={stats['seeds']}   backbone={BACKBONES[model_name]}")
+            lines.append(
+                f"## {title} / {model_name}   seeds={stats['seeds']}   {stats.get('backbone', '')}"
+            )
+            if stats.get("weights"):
+                lines.append(stats["weights"])
             header = f"{'domain':<12} {'ours':>16} {'paper':>16} {'delta':>8}"
             if baseline:
                 header += f" {'vs old':>8}"
@@ -512,21 +582,57 @@ def format_summary(summary: dict, baseline: dict | None = None) -> str:
                 f"{'SD, ARD':<12} ({stats['source']:.2f}, {stats['ard']:.2f})   "
                 f"paper ({PAPER_IMAGE_AUROC[dataset][model_name]['SD'][0]:.2f}, {stats['paper_ard']:.2f})"
             )
-            if any("pixel_auroc_mean" in domain for domain in stats["domains"].values()):
+            lines.append(
+                f"{'domain':<12} {'factor':<10} {'image AUROC':>16} {'image F1':>16} {'image drop':>10}"
+                f" {'pixel AUROC':>16} {'pixel F1':>16} {'pixel drop':>10}"
+            )
+            for domain_name, domain in stats["domains"].items():
                 lines.append(
-                    f"{'domain':<12} {'pixel AUROC':>16} {'pixel AUPR':>16} {'pixel F1':>16}"
+                    f"{domain_name:<12} {DOMAIN_FACTOR.get(domain_name, ''):<10} "
+                    f"{_metric_cell(domain, 'auroc'):>16} {_metric_cell(domain, 'image_f1'):>16} "
+                    f"{_points(domain.get('image_drop', float('nan')), 10)} "
+                    f"{_metric_cell(domain, 'pixel_auroc'):>16} {_metric_cell(domain, 'pixel_f1'):>16} "
+                    f"{_points(domain.get('pixel_drop', float('nan')), 10)}"
                 )
-                for domain_name, domain in stats["domains"].items():
-                    if "pixel_auroc_mean" not in domain:
-                        continue
-                    lines.append(
-                        f"{domain_name:<12} "
-                        f"{domain['pixel_auroc_mean']:6.2f} ± {domain['pixel_auroc_std']:5.2f} "
-                        f"{domain['pixel_aupr_mean']:6.2f} ± {domain['pixel_aupr_std']:5.2f} "
-                        f"{domain['pixel_f1_mean']:6.2f} ± {domain['pixel_f1_std']:5.2f}"
-                    )
+            if not math.isnan(stats.get("ard_pixel", float("nan"))):
+                lines.append(
+                    f"{'pixel ARD':<12} {stats['ard_pixel']:.2f}   "
+                    f"source pixel AUROC {stats['source_pixel']:.2f}"
+                )
             lines.append("")
+    lines.extend(_factor_lines(summary))
     return "\n".join(lines)
+
+
+def _factor_lines(summary: dict) -> list[str]:
+    grouped: dict[str, list[tuple[str, str, str, dict]]] = {factor: [] for factor in FACTOR_ORDER}
+    for dataset, models in summary.items():
+        for model_name, stats in models.items():
+            for domain_name, domain in stats["domains"].items():
+                factor = DOMAIN_FACTOR.get(domain_name, "")
+                if factor in grouped:
+                    grouped[factor].append((SUBSETS[dataset].title, model_name, domain_name, domain))
+    lines = ["## 変動要因", ""]
+    for factor, rows in grouped.items():
+        if not rows:
+            continue
+        lines.append(f"### {factor}")
+        lines.append(
+            f"{'dataset':<18} {'model':<12} {'domain':<12} "
+            f"{'imgAUROC':>8} {'imgF1':>8} {'imgDrop':>8} {'pixAUROC':>8} {'pixF1':>8} {'pixDrop':>8}"
+        )
+        for title, model_name, domain_name, domain in rows:
+            def cell(name: str) -> str:
+                value = domain.get(f"{name}_mean", float("nan"))
+                return f"{value:8.2f}" if not math.isnan(value) else f"{'—':>8}"
+
+            lines.append(
+                f"{title:<18} {model_name:<12} {domain_name:<12} "
+                f"{cell('auroc')} {cell('image_f1')} {_points(domain.get('image_drop', float('nan')), 8)} "
+                f"{cell('pixel_auroc')} {cell('pixel_f1')} {_points(domain.get('pixel_drop', float('nan')), 8)}"
+            )
+        lines.append("")
+    return lines
 
 
 def _baseline_auroc(baseline: dict, dataset: str, model_name: str, domain_name: str) -> float:
@@ -564,6 +670,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--models", nargs="+", choices=["padim", "patchcore"], default=["padim", "patchcore"])
     parser.add_argument("--datasets", nargs="+", choices=sorted(SUBSETS), default=["piled_bags", "metal_parts", "pcb"])
     parser.add_argument("--seeds", nargs="+", type=int, default=[0, 1, 2, 3, 4])
+    parser.add_argument(
+        "--weights",
+        choices=sorted(WEIGHT_SETS),
+        default="timm",
+        help="timm は1つ目の実験（anomalib 既定）。torchvision は ImageNet-1K V1。",
+    )
     parser.add_argument("--image-size", type=int, default=512)
     parser.add_argument("--val-ratio", type=float, default=0.0)
     parser.add_argument("--num-workers", type=int, default=0)
@@ -604,6 +716,7 @@ def main() -> None:
                         save_checkpoint=args.save_checkpoint,
                         force=args.force,
                         save_gallery=seed == args.seeds[0] and not args.no_vis,
+                        weights=args.weights,
                     )
                     text = write_reports(output_dir, args.baseline_dir)
     else:

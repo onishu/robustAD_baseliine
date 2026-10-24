@@ -84,6 +84,25 @@ SUBSETS: dict[str, Subset] = {
     ),
 }
 
+# Each test folder is one shooting condition. Factor labels group those
+# conditions when a shift appears in more than one subset.
+DOMAIN_FACTOR: dict[str, str] = {
+    "SD": "ソース",
+    "Scale": "スケール",
+    "Position": "視点移動",
+    "Rot+pos": "視点移動",
+    "Rotation": "回転",
+    "Lighting": "照明",
+    "Background": "背景",
+    "BG1": "背景",
+    "BG2": "背景",
+    "AWB": "色",
+    "Shadows": "影",
+}
+
+FACTOR_ORDER: tuple[str, ...] = ("スケール", "視点移動", "回転", "照明", "背景", "色", "影")
+
+
 # Image-level AUROC (%) reported in Table 2. Cell values are mean ± std over 5 runs.
 PAPER_IMAGE_AUROC: dict[str, dict[str, dict[str, tuple[float, float]]]] = {
     "metal_parts": {

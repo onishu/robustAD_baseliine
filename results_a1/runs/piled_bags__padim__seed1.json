@@ -1,0 +1,76 @@
+{
+  "dataset": "piled_bags",
+  "model": "padim",
+  "backbone": "resnet18",
+  "weights": "anomalib 2.7 \u306e\u65e2\u5b9a\uff08resnet18.a1_in1k / wide_resnet50_2.racm_in1k\uff09",
+  "seed": 1,
+  "image_size": 512,
+  "val_ratio": 0.0,
+  "train": {
+    "n_normal_pool": 180,
+    "n_train": 180,
+    "n_val": 0
+  },
+  "domains": {
+    "SD": {
+      "image_auroc": 0.9801111111111112,
+      "image_aupr": 0.9703880225230458,
+      "image_f1": 0.8982035928143712,
+      "image_precision": 0.8152173913043478,
+      "image_recall": 1.0,
+      "image_threshold": 68.0309829711914,
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "Lighting": {
+      "image_auroc": 0.7530555555555556,
+      "image_aupr": 0.7905593495687566,
+      "image_f1": 0.7017543859649122,
+      "image_precision": 0.7407407407407407,
+      "image_recall": 0.6666666666666666,
+      "image_threshold": 85.59834289550781,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Background": {
+      "image_auroc": 0.5104398148148148,
+      "image_aupr": 0.49311775183560086,
+      "image_f1": 0.6151142355008787,
+      "image_precision": 0.4498714652956298,
+      "image_recall": 0.9722222222222222,
+      "image_threshold": 88.65097045898438,
+      "n_normal": 240,
+      "n_anomaly": 180
+    },
+    "Rot+pos": {
+      "image_auroc": 0.40592592592592597,
+      "image_aupr": 0.3966921030938291,
+      "image_f1": 0.6013513513513513,
+      "image_precision": 0.4320388349514563,
+      "image_recall": 0.9888888888888889,
+      "image_threshold": 99.00576782226562,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Scale": {
+      "image_auroc": 0.5937037037037037,
+      "image_aupr": 0.5984807697048106,
+      "image_f1": 0.6,
+      "image_precision": 0.42857142857142855,
+      "image_recall": 1.0,
+      "image_threshold": 94.0577392578125,
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "Shadows": {
+      "image_auroc": 0.6479629629629631,
+      "image_aupr": 0.6284716794270963,
+      "image_f1": 0.6075085324232082,
+      "image_precision": 0.43842364532019706,
+      "image_recall": 0.9888888888888889,
+      "image_threshold": 81.02569580078125,
+      "n_normal": 120,
+      "n_anomaly": 90
+    }
+  }
+}

@@ -1,0 +1,181 @@
+各撮影条件の image AUROC / image F1 / pixel AUROC / pixel F1（%）。
+F1 は、そのテスト条件の中で F1 が最大になるしきい値。画像と画素で別々に決める。
+ARD はターゲットについて min(0, T - S) の平均。image drop / pixel drop はその各項。
+Pile of Packets にマスクはないので、画素指標と画素 ARD はない。
+
+## Metal Parts / padim   seeds=[0, 1, 2, 3, 4]   resnet18
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD              84.70 ±  1.70    85.67 ±  2.03    -0.97    +0.00
+Lighting        96.34 ±  0.57    96.31 ±  0.85    +0.03    +0.00
+Position        60.65 ±  5.46    63.28 ±  6.61    -2.63    +0.00
+Rotation        78.62 ±  7.06    82.28 ±  6.41    -3.66    +0.00
+Scale           39.04 ±  5.16    41.01 ±  3.89    -1.97    +0.00
+BG1             70.45 ± 11.19    69.43 ±  9.62    +1.02    +0.00
+BG2             64.64 ± 15.01    68.15 ± 11.97    -3.51    +0.00
+mean          70.63 ± 18.51   paper 72.30 ± 17.99
+SD, ARD      (84.70, -18.35)   paper (85.67, -17.37)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース           84.70 ±  1.70    72.38 ±  1.68       0.00    98.14 ±  0.35    19.35 ±  3.65       0.00
+Lighting     照明            96.34 ±  0.57    88.13 ±  2.10       0.00    98.70 ±  0.32    21.44 ±  3.71       0.00
+Position     視点移動          60.65 ±  5.46    61.69 ±  1.88     -24.04    93.12 ±  1.03     2.80 ±  4.71      -5.02
+Rotation     回転            78.62 ±  7.06    71.17 ±  5.61      -6.08    96.39 ±  0.68     8.55 ±  7.27      -1.75
+Scale        スケール          39.04 ±  5.16    58.59 ±  0.42     -45.65    88.58 ±  2.33     0.91 ±  1.17      -9.56
+BG1          背景            70.45 ± 11.19    67.29 ±  6.19     -14.25    94.78 ±  3.30    13.31 ±  9.84      -3.36
+BG2          背景            64.64 ± 15.01    65.35 ±  7.34     -20.05    93.77 ±  4.50     8.59 ±  7.68      -4.37
+pixel ARD    -4.01   source pixel AUROC 98.14
+
+## Metal Parts / patchcore   seeds=[0, 1, 2, 3, 4]   wide_resnet50_2
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD              87.83 ±  0.48    87.92 ±  0.46    -0.09    +0.00
+Lighting        96.59 ±  0.10    96.59 ±  0.09    -0.00    +0.00
+Position        89.34 ±  0.51    89.46 ±  0.32    -0.12    +0.00
+Rotation        88.49 ±  0.41    88.27 ±  0.18    +0.22    +0.00
+Scale           80.90 ±  0.35    80.88 ±  0.17    +0.02    +0.00
+BG1             73.82 ±  1.45    74.87 ±  0.60    -1.05    +0.00
+BG2             84.57 ±  0.56    83.50 ±  1.16    +1.07    +0.00
+mean          85.93 ±  7.18   paper 85.93 ± 6.94
+SD, ARD      (87.83, -4.03)   paper (87.92, -4.09)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース           87.83 ±  0.48    73.68 ±  0.60       0.00    96.93 ±  0.10    23.60 ±  0.42       0.00
+Lighting     照明            96.59 ±  0.10    90.29 ±  0.27       0.00    98.23 ±  0.05    25.32 ±  0.34       0.00
+Position     視点移動          89.34 ±  0.51    78.04 ±  0.66       0.00    98.09 ±  0.07    24.76 ±  0.26       0.00
+Rotation     回転            88.49 ±  0.41    76.28 ±  0.06       0.00    97.97 ±  0.07    24.65 ±  0.51       0.00
+Scale        スケール          80.90 ±  0.35    69.70 ±  1.53      -6.93    97.61 ±  0.07    17.70 ±  0.54       0.00
+BG1          背景            73.82 ±  1.45    64.68 ±  1.65     -14.01    97.98 ±  0.06    22.39 ±  1.24       0.00
+BG2          背景            84.57 ±  0.56    75.16 ±  1.31      -3.26    97.74 ±  0.17    16.14 ±  0.44       0.00
+pixel ARD    0.00   source pixel AUROC 96.93
+
+## PCB / padim   seeds=[0, 1, 2, 3, 4]   resnet18
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD             100.00 ±  0.01    99.99 ±  0.02    +0.01    +0.00
+Lighting         4.91 ±  0.58    10.41 ±  7.40    -5.50    +0.00
+AWB              1.91 ±  3.35     6.96 ±  7.07    -5.05    +0.00
+Rotation        22.02 ± 18.73    31.79 ± 12.98    -9.77    +0.00
+Position        44.33 ±  6.75    40.88 ±  9.32    +3.45    +0.00
+Shadows         62.74 ±  4.07    60.68 ± 10.13    +2.06    +0.00
+mean          39.32 ± 37.78   paper 41.79 ± 34.76
+SD, ARD      (100.00, -72.81)   paper (99.99, -69.85)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース          100.00 ±  0.01    99.74 ±  0.36       0.00    94.92 ±  0.28     0.80 ±  0.27       0.00
+Lighting     照明             4.91 ±  0.58    60.00 ±  0.00     -95.09    84.22 ±  1.35     0.40 ±  0.06     -10.70
+AWB          色              1.91 ±  3.35    50.00 ±  0.00     -98.08    80.82 ±  3.02     0.15 ±  0.01     -14.10
+Rotation     回転            22.02 ± 18.73    61.49 ±  3.34     -77.98    83.01 ±  1.77     0.37 ±  0.07     -11.91
+Position     視点移動          44.33 ±  6.75    60.60 ±  0.85     -55.66    79.74 ±  2.13     0.25 ±  0.03     -15.18
+Shadows      影             62.74 ±  4.07    65.09 ±  1.32     -37.26    87.10 ±  1.24     0.62 ±  0.11      -7.82
+pixel ARD    -11.94   source pixel AUROC 94.92
+
+## PCB / patchcore   seeds=[0, 1, 2, 3, 4]   wide_resnet50_2
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD              96.30 ±  0.12    96.32 ±  0.14    -0.02    +0.00
+Lighting        74.38 ±  0.75    73.93 ±  0.65    +0.45    +0.00
+AWB             81.22 ±  0.52    81.59 ±  0.49    -0.37    +0.00
+Rotation        69.08 ±  0.67    68.53 ±  0.87    +0.55    +0.00
+Position        67.50 ±  1.31    67.18 ±  0.49    +0.32    +0.00
+Shadows         45.55 ±  0.33    46.69 ±  0.50    -1.14    +0.00
+mean          72.34 ± 16.79   paper 72.38 ± 16.50
+SD, ARD      (96.30, -28.76)   paper (96.32, -28.74)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース           96.30 ±  0.12    90.03 ±  0.27       0.00    97.48 ±  0.08    13.38 ±  0.14       0.00
+Lighting     照明            74.38 ±  0.75    68.12 ±  0.76     -21.92    93.86 ±  0.12    40.19 ±  0.24      -3.62
+AWB          色             81.22 ±  0.52    66.48 ±  1.25     -15.08    95.14 ±  0.10    18.60 ±  0.43      -2.34
+Rotation     回転            69.08 ±  0.67    64.21 ±  2.09     -27.22    96.73 ±  0.03    45.08 ±  0.14      -0.75
+Position     視点移動          67.50 ±  1.31    62.80 ±  0.57     -28.80    90.24 ±  0.07    37.27 ±  0.12      -7.24
+Shadows      影             45.55 ±  0.33    62.35 ±  0.34     -50.75    93.34 ±  0.03     2.88 ±  0.01      -4.14
+pixel ARD    -3.62   source pixel AUROC 97.48
+
+## Pile of Packets / padim   seeds=[0, 1, 2, 3, 4]   resnet18
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD              98.73 ±  1.42    98.80 ±  0.70    -0.07    +0.00
+Lighting        67.46 ±  9.65    65.70 ± 10.66    +1.76    +0.00
+Background      48.80 ±  2.43    47.67 ±  1.78    +1.13    +0.00
+Rot+pos         52.44 ±  7.52    53.41 ±  3.60    -0.97    +0.00
+Scale           58.58 ±  4.41    51.34 ±  4.79    +7.24    +0.00
+Shadows         74.50 ±  7.55    77.36 ± 12.68    -2.86    +0.00
+mean          66.75 ± 18.31   paper 65.72 ± 19.56
+SD, ARD      (98.73, -38.38)   paper (98.80, -39.70)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース           98.73 ±  1.42    94.13 ±  4.55       0.00                —                —          —
+Lighting     照明            67.46 ±  9.65    64.81 ±  3.76     -31.27                —                —          —
+Background   背景            48.80 ±  2.43    61.57 ±  1.28     -49.93                —                —          —
+Rot+pos      視点移動          52.44 ±  7.52    60.79 ±  0.71     -46.29                —                —          —
+Scale        スケール          58.58 ±  4.41    61.38 ±  2.69     -40.15                —                —          —
+Shadows      影             74.50 ±  7.55    66.51 ±  5.37     -24.24                —                —          —
+
+## Pile of Packets / patchcore   seeds=[0, 1, 2, 3, 4]   wide_resnet50_2
+anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）
+domain                   ours            paper    delta   vs old
+SD              99.96 ±  0.01    99.98 ±  0.01    -0.02    +0.00
+Lighting        94.81 ±  0.48    95.89 ±  0.15    -1.08    +0.00
+Background      46.00 ±  0.27    51.23 ±  0.22    -5.23    +0.00
+Rot+pos         61.63 ±  1.51    61.74 ±  0.75    -0.11    +0.00
+Scale           81.68 ±  0.79    75.34 ±  0.24    +6.34    +0.00
+Shadows         79.22 ±  1.01    84.31 ±  0.58    -5.09    +0.00
+mean          77.22 ± 20.34   paper 78.08 ± 19.14
+SD, ARD      (99.96, -27.29)   paper (99.98, -26.28)
+domain       factor          image AUROC         image F1 image drop      pixel AUROC         pixel F1 pixel drop
+SD           ソース           99.96 ±  0.01    99.33 ±  0.00       0.00                —                —          —
+Lighting     照明            94.81 ±  0.48    88.33 ±  1.84      -5.14                —                —          —
+Background   背景            46.00 ±  0.27    60.49 ±  0.23     -53.95                —                —          —
+Rot+pos      視点移動          61.63 ±  1.51    61.37 ±  0.23     -38.33                —                —          —
+Scale        スケール          81.68 ±  0.79    81.03 ±  0.32     -18.27                —                —          —
+Shadows      影             79.22 ±  1.01    71.43 ±  1.04     -20.74                —                —          —
+
+## 変動要因
+
+### スケール
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+Metal Parts        padim        Scale           39.04    58.59   -45.65    88.58     0.91    -9.56
+Metal Parts        patchcore    Scale           80.90    69.70    -6.93    97.61    17.70     0.00
+Pile of Packets    padim        Scale           58.58    61.38   -40.15        —        —        —
+Pile of Packets    patchcore    Scale           81.68    81.03   -18.27        —        —        —
+
+### 視点移動
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+Metal Parts        padim        Position        60.65    61.69   -24.04    93.12     2.80    -5.02
+Metal Parts        patchcore    Position        89.34    78.04     0.00    98.09    24.76     0.00
+PCB                padim        Position        44.33    60.60   -55.66    79.74     0.25   -15.18
+PCB                patchcore    Position        67.50    62.80   -28.80    90.24    37.27    -7.24
+Pile of Packets    padim        Rot+pos         52.44    60.79   -46.29        —        —        —
+Pile of Packets    patchcore    Rot+pos         61.63    61.37   -38.33        —        —        —
+
+### 回転
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+Metal Parts        padim        Rotation        78.62    71.17    -6.08    96.39     8.55    -1.75
+Metal Parts        patchcore    Rotation        88.49    76.28     0.00    97.97    24.65     0.00
+PCB                padim        Rotation        22.02    61.49   -77.98    83.01     0.37   -11.91
+PCB                patchcore    Rotation        69.08    64.21   -27.22    96.73    45.08    -0.75
+
+### 照明
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+Metal Parts        padim        Lighting        96.34    88.13     0.00    98.70    21.44     0.00
+Metal Parts        patchcore    Lighting        96.59    90.29     0.00    98.23    25.32     0.00
+PCB                padim        Lighting         4.91    60.00   -95.09    84.22     0.40   -10.70
+PCB                patchcore    Lighting        74.38    68.12   -21.92    93.86    40.19    -3.62
+Pile of Packets    padim        Lighting        67.46    64.81   -31.27        —        —        —
+Pile of Packets    patchcore    Lighting        94.81    88.33    -5.14        —        —        —
+
+### 背景
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+Metal Parts        padim        BG1             70.45    67.29   -14.25    94.78    13.31    -3.36
+Metal Parts        padim        BG2             64.64    65.35   -20.05    93.77     8.59    -4.37
+Metal Parts        patchcore    BG1             73.82    64.68   -14.01    97.98    22.39     0.00
+Metal Parts        patchcore    BG2             84.57    75.16    -3.26    97.74    16.14     0.00
+Pile of Packets    padim        Background      48.80    61.57   -49.93        —        —        —
+Pile of Packets    patchcore    Background      46.00    60.49   -53.95        —        —        —
+
+### 色
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+PCB                padim        AWB              1.91    50.00   -98.08    80.82     0.15   -14.10
+PCB                patchcore    AWB             81.22    66.48   -15.08    95.14    18.60    -2.34
+
+### 影
+dataset            model        domain       imgAUROC    imgF1  imgDrop pixAUROC    pixF1  pixDrop
+PCB                padim        Shadows         62.74    65.09   -37.26    87.10     0.62    -7.82
+PCB                patchcore    Shadows         45.55    62.35   -50.75    93.34     2.88    -4.14
+Pile of Packets    padim        Shadows         74.50    66.51   -24.24        —        —        —
+Pile of Packets    patchcore    Shadows         79.22    71.43   -20.74        —        —        —

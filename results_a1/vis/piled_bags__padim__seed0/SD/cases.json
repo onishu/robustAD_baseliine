@@ -1,0 +1,60 @@
+{
+  "title": "Pile of Packets / padim / SD / seed 0",
+  "metrics": "image AUROC 96.58   image F1 88.89",
+  "cases": [
+    {
+      "file": "01_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Overload_5.jpg",
+      "label": 1,
+      "score": 170.09207153320312,
+      "pixel": null
+    },
+    {
+      "file": "02_anomaly_high.png",
+      "role": "anomaly_high",
+      "caption": "異常・高スコア（検出）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Overload_23.jpg",
+      "label": 1,
+      "score": 159.31480407714844,
+      "pixel": null
+    },
+    {
+      "file": "03_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_8.jpg",
+      "label": 1,
+      "score": 73.10499572753906,
+      "pixel": null
+    },
+    {
+      "file": "04_anomaly_low.png",
+      "role": "anomaly_low",
+      "caption": "異常・低スコア（見逃し）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\anomaly\\Piled Bags_Live_Test_None_None_Flipped_19.jpg",
+      "label": 1,
+      "score": 77.39028930664062,
+      "pixel": null
+    },
+    {
+      "file": "05_normal_high.png",
+      "role": "normal_high",
+      "caption": "正常・高スコア（誤検知）",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_63.jpg",
+      "label": 0,
+      "score": 103.45731353759766,
+      "pixel": null
+    },
+    {
+      "file": "06_normal_low.png",
+      "role": "normal_low",
+      "caption": "正常・低スコア",
+      "image_path": "K:\\RobustAD\\PiledBags\\piled_bags_data_dir_test0\\normal\\Piled Bags_Live_Test_None_None_Normal_120.jpg",
+      "label": 0,
+      "score": 38.51749801635742,
+      "pixel": null
+    }
+  ]
+}

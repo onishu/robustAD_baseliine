@@ -22,20 +22,53 @@ python -m venv .venv
 .\.venv\Scripts\python -m pip install -e .
 ```
 
-## 実行
+## 実行の How to
 
-論文どおり 3 サブセット × 2 モデル × 5 シード:
+作業ディレクトリはリポジトリのルート。PowerShell で打つ。コンソールの文字化けを避けるため、実行前に次を入れる。
 
 ```powershell
-.\.venv\Scripts\python -m robustad --data-root K:\RobustAD --output-dir results
+$env:PYTHONIOENCODING = "utf-8"
+$env:PYTHONUNBUFFERED = "1"
+```
+
+終わった run の JSON があればその条件は飛ばす。やり直すときは `--force`。集計だけやり直すときは `--summarize-only`。3 サブセット × 2 モデル × 5 シードで、GPU 上のおおよそ 6–8 時間。
+
+### 1. 論文 Table 2 の再現（既定の timm 重み）
+
+anomalib 2.7 の既定バックボーン（`resnet18.a1_in1k`、`wide_resnet50_2.racm_in1k`）。Image AUROC を `results/` に残す。
+
+```powershell
+.\.venv\Scripts\python -m robustad --data-root K:\RobustAD --output-dir results --weights timm --num-workers 4
 ```
 
 1 シードだけ先に確認する場合:
 
 ```powershell
-.\.venv\Scripts\python -m robustad --seeds 0 --output-dir results
+.\.venv\Scripts\python -m robustad --data-root K:\RobustAD --output-dir results --weights timm --seeds 0 --num-workers 4
 ```
 
-終わった run の JSON があれば飛ばす。集計だけやり直すときは `--summarize-only`。
-
 結果は `results/runs/*.json` と `results/summary.txt`。各ドメインの image AUROC を論文 Table 2 と並べる。
+
+### 2. 全指標と検出画像（1 と同じ重み）
+
+Image AUROC / Image F1、Pixel AUROC / Pixel F1、画像 ARD、画素 ARD、変動要因ごとの低下を計算する。F1 最大のしきい値で検出マスクを描き、シード 0 の画像ログを残す。比較相手は 1 の `results/`。
+
+```powershell
+.\.venv\Scripts\python -m robustad --data-root K:\RobustAD --output-dir results_a1 --weights timm --num-workers 4 --baseline-dir results
+```
+
+結果は `results_a1/summary.txt`、`results_a1/figures/`、`results_a1/vis/`。画像ログを書かないときは `--no-vis` を足す。
+
+### 3. torchvision の ImageNet-1K V1 との比較
+
+Table 2 に寄せるための重み確認。再現の本体は 1 と 2 で、この結果は `results_tv/` に分ける。
+
+```powershell
+.\.venv\Scripts\python -m robustad --data-root K:\RobustAD --output-dir results_tv --weights torchvision --num-workers 4 --baseline-dir results
+```
+
+集計だけやり直す例:
+
+```powershell
+.\.venv\Scripts\python -m robustad --output-dir results_a1 --summarize-only --baseline-dir results
+```
