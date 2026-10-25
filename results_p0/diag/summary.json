@@ -1,0 +1,303 @@
+[
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "metal_parts",
+    "model": "patchcore",
+    "domain": "SD",
+    "counts": {
+      "n_normal": 120,
+      "n_anomaly": 51
+    },
+    "n_rows": 171,
+    "n_components": 90,
+    "n_unevaluable_input_transform": 0,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [],
+    "measured": {
+      "image_auroc": 0.8831699346405228,
+      "image_f1_test_max": 0.7333333333333334,
+      "n_images": 171,
+      "pixel_auroc": 0.9702954904636321,
+      "pixel_f1_test_max": 0.22887191686490546,
+      "image_auroc_max_patch": 0.8834967320261438,
+      "image_auroc_max_upsampled": 0.8834967320261438,
+      "image_auroc_max_smoothed": 0.8751633986928105,
+      "image_auroc_max_sigma8": 0.8637254901960784
+    },
+    "reference_image_auroc": 0.8831699346405228,
+    "reference_pixel_auroc": 0.9702954904636321,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\metal_parts__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "metal_parts",
+    "model": "patchcore",
+    "domain": "Scale",
+    "counts": {
+      "n_normal": 120,
+      "n_anomaly": 80
+    },
+    "n_rows": 200,
+    "n_components": 131,
+    "n_unevaluable_input_transform": 0,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [],
+    "measured": {
+      "image_auroc": 0.8057291666666666,
+      "image_f1_test_max": 0.6783625730994152,
+      "n_images": 200,
+      "pixel_auroc": 0.9761190072201908,
+      "pixel_f1_test_max": 0.17033732924449402,
+      "image_auroc_max_patch": 0.80625,
+      "image_auroc_max_upsampled": 0.80625,
+      "image_auroc_max_smoothed": 0.8090625,
+      "image_auroc_max_sigma8": 0.8053125
+    },
+    "reference_image_auroc": 0.8057291666666666,
+    "reference_pixel_auroc": 0.9761190072201908,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\metal_parts__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "pcb",
+    "model": "patchcore",
+    "domain": "SD",
+    "counts": {
+      "n_normal": 120,
+      "n_anomaly": 75
+    },
+    "n_rows": 195,
+    "n_components": 111,
+    "n_unevaluable_input_transform": 1,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [
+      {
+        "image_id": "Test_PCB_None_None_Scratch_27",
+        "component_id": 3,
+        "area_original": 10
+      }
+    ],
+    "measured": {
+      "image_auroc": 0.9624444444444444,
+      "image_f1_test_max": 0.9044585987261147,
+      "n_images": 195,
+      "pixel_auroc": 0.9754237163504103,
+      "pixel_f1_test_max": 0.13190153966852997,
+      "image_auroc_max_patch": 0.9637777777777778,
+      "image_auroc_max_upsampled": 0.9637777777777778,
+      "image_auroc_max_smoothed": 0.9686666666666667,
+      "image_auroc_max_sigma8": 0.9777777777777777
+    },
+    "reference_image_auroc": 0.9624444444444444,
+    "reference_pixel_auroc": 0.9754237163504103,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "pcb",
+    "model": "patchcore",
+    "domain": "Rotation",
+    "counts": {
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "n_rows": 140,
+    "n_components": 110,
+    "n_unevaluable_input_transform": 0,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [],
+    "measured": {
+      "image_auroc": 0.6877083333333334,
+      "image_f1_test_max": 0.6434782608695652,
+      "n_images": 140,
+      "pixel_auroc": 0.9676006431439781,
+      "pixel_f1_test_max": 0.4493318671065347,
+      "image_auroc_max_patch": 0.6829166666666666,
+      "image_auroc_max_upsampled": 0.6829166666666666,
+      "image_auroc_max_smoothed": 0.6699999999999999,
+      "image_auroc_max_sigma8": 0.6320833333333333
+    },
+    "reference_image_auroc": 0.6877083333333334,
+    "reference_pixel_auroc": 0.9676006431439781,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "pcb",
+    "model": "patchcore",
+    "domain": "Position",
+    "counts": {
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "n_rows": 140,
+    "n_components": 102,
+    "n_unevaluable_input_transform": 0,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [],
+    "measured": {
+      "image_auroc": 0.6666666666666666,
+      "image_f1_test_max": 0.6265060240963856,
+      "n_images": 140,
+      "pixel_auroc": 0.9033869021678111,
+      "pixel_f1_test_max": 0.37371113734750094,
+      "image_auroc_max_patch": 0.6660416666666668,
+      "image_auroc_max_upsampled": 0.6660416666666668,
+      "image_auroc_max_smoothed": 0.66375,
+      "image_auroc_max_sigma8": 0.6347916666666666
+    },
+    "reference_image_auroc": 0.6666666666666666,
+    "reference_pixel_auroc": 0.9033869021678111,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "pcb",
+    "model": "patchcore",
+    "domain": "Shadows",
+    "counts": {
+      "n_normal": 80,
+      "n_anomaly": 60
+    },
+    "n_rows": 140,
+    "n_components": 117,
+    "n_unevaluable_input_transform": 2,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [
+      {
+        "image_id": "Test_PCB_Shadow_Object Alternate Location_Scratch_10",
+        "component_id": 2,
+        "area_original": 11
+      },
+      {
+        "image_id": "Test_PCB_Shadow_Object Alternate Location_Soldering Melt_5",
+        "component_id": 8,
+        "area_original": 13
+      }
+    ],
+    "measured": {
+      "image_auroc": 0.45416666666666666,
+      "image_f1_test_max": 0.627027027027027,
+      "n_images": 140,
+      "pixel_auroc": 0.9333766272467346,
+      "pixel_f1_test_max": 0.028887829693214365,
+      "image_auroc_max_patch": 0.4529166666666667,
+      "image_auroc_max_upsampled": 0.4529166666666667,
+      "image_auroc_max_smoothed": 0.454375,
+      "image_auroc_max_sigma8": 0.46291666666666664
+    },
+    "reference_image_auroc": 0.45416666666666666,
+    "reference_pixel_auroc": 0.9333766272467346,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+      "shape": [
+        73728,
+        1536
+      ],
+      "bytes": 452984832
+    },
+    "auroc_not_used_for_specification": true
+  },
+  {
+    "run_id": "p0-diag-seed0",
+    "dataset": "pcb",
+    "model": "padim",
+    "domain": "Lighting",
+    "counts": {
+      "n_normal": 120,
+      "n_anomaly": 90
+    },
+    "n_rows": 210,
+    "n_components": 162,
+    "n_unevaluable_input_transform": 1,
+    "unevaluable_kept_in_component_count": true,
+    "unevaluable_components": [
+      {
+        "image_id": "Test_PCB_Lighting_Evening_Missing Component_2",
+        "component_id": 1,
+        "area_original": 1
+      }
+    ],
+    "measured": {
+      "image_auroc": 0.04129629629629629,
+      "image_f1_test_max": 0.6,
+      "n_images": 210,
+      "pixel_auroc": 0.8475744595288653,
+      "pixel_f1_test_max": 0.0035892179335098055,
+      "image_auroc_max_patch": 0.08972222222222222,
+      "image_auroc_max_upsampled": 0.08972222222222222,
+      "image_auroc_max_smoothed": 0.04129629629629629,
+      "image_auroc_max_sigma8": 0.04074074074074074
+    },
+    "reference_image_auroc": 0.04129629629629629,
+    "reference_pixel_auroc": 0.8475744595288653,
+    "image_auroc_gap": 0.0,
+    "pixel_auroc_gap": 0.0,
+    "bank": {
+      "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__padim__seed0.pt",
+      "mean_shape": [
+        100,
+        16384
+      ],
+      "inv_covariance_shape": [
+        16384,
+        100,
+        100
+      ],
+      "bytes": 661913600
+    },
+    "auroc_not_used_for_specification": true
+  }
+]

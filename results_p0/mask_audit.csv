@@ -1,0 +1,983 @@
+run_id,category,domain,image_id,mask_found,mask_height,mask_width,n_values,binary_0_255,positive
+p0,metal_parts,train,Live_Chipping_&_Porosity_None_None_4,1,1500,2681,2,1,5328
+p0,metal_parts,train,Live_Chipping_&_Porosity_None_None_5,1,1500,2681,2,1,4875
+p0,metal_parts,train,Live_Chipping_&_Porosity_None_None_7,1,1500,2681,2,1,3244
+p0,metal_parts,train,Live_Chipping_&_Porosity_None_None_8,1,1500,2681,2,1,3000
+p0,metal_parts,train,Live_Chipping_&_Porosity_None_None_9,1,1500,2681,2,1,4654
+p0,metal_parts,train,Live_Chipping_None_None_1,1,1500,2681,2,1,574
+p0,metal_parts,train,Live_Chipping_None_None_10,1,1500,2681,2,1,777
+p0,metal_parts,train,Live_Chipping_None_None_11,1,1500,2681,2,1,1900
+p0,metal_parts,train,Live_Chipping_None_None_14,1,1500,2681,2,1,2412
+p0,metal_parts,train,Live_Chipping_None_None_15,1,1500,2681,2,1,2626
+p0,metal_parts,train,Live_Chipping_None_None_16,1,1500,2681,2,1,1388
+p0,metal_parts,train,Live_Chipping_None_None_17,1,1500,2681,2,1,974
+p0,metal_parts,train,Live_Chipping_None_None_2,1,1500,2681,2,1,1358
+p0,metal_parts,train,Live_Chipping_None_None_3,1,1500,2681,2,1,356
+p0,metal_parts,train,Live_Chipping_None_None_4,1,1500,2681,2,1,827
+p0,metal_parts,train,Live_Chipping_None_None_5,1,1500,2681,2,1,1782
+p0,metal_parts,train,Live_Chipping_None_None_6,1,1500,2681,2,1,952
+p0,metal_parts,train,Live_Chipping_None_None_7,1,1500,2681,2,1,951
+p0,metal_parts,train,Live_Chipping_None_None_8,1,1500,2681,2,1,1102
+p0,metal_parts,train,Live_Chipping_None_None_9,1,1500,2681,2,1,533
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_1,1,1500,2681,2,1,3563
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_10,1,1500,2681,2,1,1484
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_11,1,1500,2681,2,1,716
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_2,1,1500,2681,2,1,2925
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_3,1,1500,2681,2,1,1445
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_5,1,1500,2681,2,1,1804
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_6,1,1500,2681,2,1,3525
+p0,metal_parts,train,Live_Multiple_Chipping_None_None_7,1,1500,2681,2,1,1588
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_1,1,1500,2681,2,1,3131
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_3,1,1500,2681,2,1,1593
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_4,1,1500,2681,2,1,2072
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_5,1,1500,2681,2,1,1561
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_6,1,1500,2681,2,1,2172
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_7,1,1500,2681,2,1,1495
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_8,1,1500,2681,2,1,2215
+p0,metal_parts,train,Live_Multiple_Porosity_None_None_9,1,1500,2681,2,1,1613
+p0,metal_parts,train,Live_Porosity_None_None_1,1,1500,2681,2,1,774
+p0,metal_parts,train,Live_Porosity_None_None_12,1,1500,2681,2,1,1132
+p0,metal_parts,train,Live_Porosity_None_None_13,1,1500,2681,2,1,1025
+p0,metal_parts,train,Live_Porosity_None_None_14,1,1500,2681,2,1,668
+p0,metal_parts,train,Live_Porosity_None_None_15,1,1500,2681,2,1,739
+p0,metal_parts,train,Live_Porosity_None_None_18,1,1500,2681,2,1,754
+p0,metal_parts,train,Live_Porosity_None_None_19,1,1500,2681,2,1,952
+p0,metal_parts,train,Live_Porosity_None_None_2,1,1500,2681,2,1,776
+p0,metal_parts,train,Live_Porosity_None_None_20,1,1500,2681,2,1,926
+p0,metal_parts,train,Live_Porosity_None_None_3,1,1500,2681,2,1,727
+p0,metal_parts,train,Live_Porosity_None_None_4,1,1500,2681,2,1,758
+p0,metal_parts,train,Live_Porosity_None_None_5,1,1500,2681,2,1,592
+p0,metal_parts,train,Live_Porosity_None_None_6,1,1500,2681,2,1,1043
+p0,metal_parts,train,Live_Porosity_None_None_7,1,1500,2681,2,1,746
+p0,metal_parts,train,Live_Porosity_None_None_9,1,1500,2681,2,1,776
+p0,metal_parts,SD,Live_Chipping_&_Porosity_None_None_3,1,1500,2681,2,1,6483
+p0,metal_parts,SD,Live_Chipping_&_Porosity_None_None_4,1,1500,2681,2,1,7835
+p0,metal_parts,SD,Live_Chipping_&_Porosity_None_None_5,1,1500,2681,2,1,5841
+p0,metal_parts,SD,Live_Chipping_&_Porosity_None_None_7,1,1500,2681,2,1,5519
+p0,metal_parts,SD,Live_Chipping_&_Porosity_None_None_9,1,1500,2681,2,1,3375
+p0,metal_parts,SD,Live_Chipping_None_None_1,1,1500,2681,2,1,252
+p0,metal_parts,SD,Live_Chipping_None_None_10,1,1500,2681,2,1,1041
+p0,metal_parts,SD,Live_Chipping_None_None_12,1,1500,2681,2,1,1655
+p0,metal_parts,SD,Live_Chipping_None_None_13,1,1500,2681,2,1,1320
+p0,metal_parts,SD,Live_Chipping_None_None_14,1,1500,2681,2,1,1664
+p0,metal_parts,SD,Live_Chipping_None_None_15,1,1500,2681,2,1,1135
+p0,metal_parts,SD,Live_Chipping_None_None_16,1,1500,2681,2,1,1983
+p0,metal_parts,SD,Live_Chipping_None_None_2,1,1500,2681,2,1,2567
+p0,metal_parts,SD,Live_Chipping_None_None_3,1,1500,2681,2,1,478
+p0,metal_parts,SD,Live_Chipping_None_None_4,1,1500,2681,2,1,1897
+p0,metal_parts,SD,Live_Chipping_None_None_5,1,1500,2681,2,1,1880
+p0,metal_parts,SD,Live_Chipping_None_None_6,1,1500,2681,2,1,787
+p0,metal_parts,SD,Live_Chipping_None_None_7,1,1500,2681,2,1,1199
+p0,metal_parts,SD,Live_Chipping_None_None_8,1,1500,2681,2,1,1252
+p0,metal_parts,SD,Live_Chipping_None_None_9,1,1500,2681,2,1,2275
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_1,1,1500,2681,2,1,3698
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_11,1,1500,2681,2,1,1487
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_2,1,1500,2681,2,1,3767
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_3,1,1500,2681,2,1,1932
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_4,1,1500,2681,2,1,4246
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_5,1,1500,2681,2,1,4046
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_7,1,1500,2681,2,1,2870
+p0,metal_parts,SD,Live_Multiple_Chipping_None_None_9,1,1500,2681,2,1,2368
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_1,1,1500,2681,2,1,1968
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_2,1,1500,2681,2,1,1577
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_3,1,1500,2681,2,1,2658
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_4,1,1500,2681,2,1,2108
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_5,1,1500,2681,2,1,1856
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_6,1,1500,2681,2,1,2469
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_7,1,1500,2681,2,1,2318
+p0,metal_parts,SD,Live_Multiple_Porosity_None_None_9,1,1500,2681,2,1,1385
+p0,metal_parts,SD,Live_Porosity_None_None_1,1,1500,2681,2,1,650
+p0,metal_parts,SD,Live_Porosity_None_None_11,1,1500,2681,2,1,711
+p0,metal_parts,SD,Live_Porosity_None_None_12,1,1500,2681,2,1,613
+p0,metal_parts,SD,Live_Porosity_None_None_13,1,1500,2681,2,1,1225
+p0,metal_parts,SD,Live_Porosity_None_None_14,1,1500,2681,2,1,1000
+p0,metal_parts,SD,Live_Porosity_None_None_16,1,1500,2681,2,1,817
+p0,metal_parts,SD,Live_Porosity_None_None_17,1,1500,2681,2,1,1669
+p0,metal_parts,SD,Live_Porosity_None_None_2,1,1500,2681,2,1,775
+p0,metal_parts,SD,Live_Porosity_None_None_20,1,1500,2681,2,1,1340
+p0,metal_parts,SD,Live_Porosity_None_None_3,1,1500,2681,2,1,643
+p0,metal_parts,SD,Live_Porosity_None_None_4,1,1500,2681,2,1,535
+p0,metal_parts,SD,Live_Porosity_None_None_5,1,1500,2681,2,1,1082
+p0,metal_parts,SD,Live_Porosity_None_None_6,1,1500,2681,2,1,1070
+p0,metal_parts,SD,Live_Porosity_None_None_7,1,1500,2681,2,1,911
+p0,metal_parts,SD,Live_Porosity_None_None_8,1,1500,2681,2,1,884
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_10,1,1500,2681,2,1,3182
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_11,1,1500,2681,2,1,6523
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_12,1,1500,2681,2,1,3299
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_13,1,1500,2681,2,1,5547
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_14,1,1500,2681,2,1,4964
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_16,1,1500,2681,2,1,5785
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_18,1,1500,2681,2,1,4788
+p0,metal_parts,Lighting,Live_Chipping_&_Porosity_Lighting_Ambient_Light_Var_7,1,1500,2681,2,1,4719
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_10,1,1500,2681,2,1,1970
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_11,1,1500,2681,2,1,1442
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_12,1,1500,2681,2,1,606
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_13,1,1500,2681,2,1,710
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_14,1,1500,2681,2,1,434
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_15,1,1500,2681,2,1,1335
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_16,1,1500,2681,2,1,1039
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_17,1,1500,2681,2,1,737
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_18,1,1500,2681,2,1,853
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_2,1,1500,2681,2,1,479
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_20,1,1500,2681,2,1,2349
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_23,1,1500,2681,2,1,1377
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_26,1,1500,2681,2,1,1318
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_27,1,1500,2681,2,1,634
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_28,1,1500,2681,2,1,1131
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_29,1,1500,2681,2,1,3535
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_30,1,1500,2681,2,1,1254
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_31,1,1500,2681,2,1,608
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_32,1,1500,2681,2,1,1213
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_33,1,1500,2681,2,1,615
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_4,1,1500,2681,2,1,336
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_5,1,1500,2681,2,1,1428
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_7,1,1500,2681,2,1,823
+p0,metal_parts,Lighting,Live_Chipping_Lighting_Ambient_Light_Var_9,1,1500,2681,2,1,822
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_1,1,1500,2681,2,1,3599
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_10,1,1500,2681,2,1,2128
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_11,1,1500,2681,2,1,3809
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_12,1,1500,2681,2,1,3120
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_16,1,1500,2681,2,1,2222
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_19,1,1500,2681,2,1,6489
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_2,1,1500,2681,2,1,5801
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_3,1,1500,2681,2,1,4442
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_4,1,1500,2681,2,1,3959
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_5,1,1500,2681,2,1,2553
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_6,1,1500,2681,2,1,2480
+p0,metal_parts,Lighting,Live_Multiple_Chipping_Lighting_Ambient_Light_Var_9,1,1500,2681,2,1,4650
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_1,1,1500,2681,2,1,2127
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_10,1,1500,2681,2,1,2523
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_13,1,1500,2681,2,1,1792
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_14,1,1500,2681,2,1,2692
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_15,1,1500,2681,2,1,1580
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_16,1,1500,2681,2,1,2832
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_4,1,1500,2681,2,1,1652
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_5,1,1500,2681,2,1,1703
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_6,1,1500,2681,2,1,3304
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_7,1,1500,2681,2,1,2256
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_8,1,1500,2681,2,1,2649
+p0,metal_parts,Lighting,Live_Multiple_Porosity_Lighting_Ambient_Light_Var_9,1,1500,2681,2,1,2212
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_1,1,1500,2681,2,1,702
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_11,1,1500,2681,2,1,737
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_12,1,1500,2681,2,1,549
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_14,1,1500,2681,2,1,900
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_17,1,1500,2681,2,1,1514
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_2,1,1500,2681,2,1,760
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_23,1,1500,2681,2,1,771
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_24,1,1500,2681,2,1,729
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_25,1,1500,2681,2,1,652
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_26,1,1500,2681,2,1,1003
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_27,1,1500,2681,2,1,766
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_29,1,1500,2681,2,1,789
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_3,1,1500,2681,2,1,588
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_30,1,1500,2681,2,1,1658
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_32,1,1500,2681,2,1,1043
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_33,1,1500,2681,2,1,1034
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_34,1,1500,2681,2,1,705
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_35,1,1500,2681,2,1,761
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_37,1,1500,2681,2,1,696
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_38,1,1500,2681,2,1,750
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_39,1,1500,2681,2,1,1255
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_40,1,1500,2681,2,1,963
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_5,1,1500,2681,2,1,1092
+p0,metal_parts,Lighting,Live_Porosity_Lighting_Ambient_Light_Var_7,1,1500,2681,2,1,903
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_10,1,1500,2681,2,1,3589
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_11,1,1500,2681,2,1,2839
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_12,1,1500,2681,2,1,6538
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_13,1,1500,2681,2,1,6029
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_15,1,1500,2681,2,1,5299
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_17,1,1500,2681,2,1,5198
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_5,1,1500,2681,2,1,8577
+p0,metal_parts,Position,Live_Chipping_&_Porosity_Position_+5%_to_-5%_8,1,1500,2681,2,1,6446
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_1,1,1500,2681,2,1,445
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_10,1,1500,2681,2,1,1560
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_11,1,1500,2681,2,1,1148
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_13,1,1500,2681,2,1,1485
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_15,1,1500,2681,2,1,1105
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_16,1,1500,2681,2,1,1837
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_17,1,1500,2681,2,1,1092
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_18,1,1500,2681,2,1,659
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_2,1,1500,2681,2,1,1716
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_21,1,1500,2681,2,1,2398
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_24,1,1500,2681,2,1,1326
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_25,1,1500,2681,2,1,2053
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_26,1,1500,2681,2,1,1522
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_27,1,1500,2681,2,1,1416
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_28,1,1500,2681,2,1,1013
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_29,1,1500,2681,2,1,2633
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_31,1,1500,2681,2,1,620
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_32,1,1500,2681,2,1,1230
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_33,1,1500,2681,2,1,887
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_4,1,1500,2681,2,1,457
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_5,1,1500,2681,2,1,1251
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_7,1,1500,2681,2,1,845
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_8,1,1500,2681,2,1,780
+p0,metal_parts,Position,Live_Chipping_Position_+5%_to_-5%_9,1,1500,2681,2,1,1642
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_1,1,1500,2681,2,1,2752
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_10,1,1500,2681,2,1,3145
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_14,1,1500,2681,2,1,1695
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_19,1,1500,2681,2,1,5834
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_2,1,1500,2681,2,1,5898
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_20,1,1500,2681,2,1,1007
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_22,1,1500,2681,2,1,1022
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_3,1,1500,2681,2,1,4158
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_4,1,1500,2681,2,1,3214
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_7,1,1500,2681,2,1,4092
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_8,1,1500,2681,2,1,4086
+p0,metal_parts,Position,Live_Multiple_Chipping_Position_+5%_to_-5%_9,1,1500,2681,2,1,2185
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_1,1,1500,2681,2,1,2025
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_10,1,1500,2681,2,1,2574
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_12,1,1500,2681,2,1,2481
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_13,1,1500,2681,2,1,1645
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_14,1,1500,2681,2,1,2288
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_16,1,1500,2681,2,1,1442
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_17,1,1500,2681,2,1,1279
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_18,1,1500,2681,2,1,1874
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_4,1,1500,2681,2,1,1744
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_5,1,1500,2681,2,1,2930
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_6,1,1500,2681,2,1,1714
+p0,metal_parts,Position,Live_Multiple_Porosity_Position_+5%_to_-5%_7,1,1500,2681,2,1,2268
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_10,1,1500,2681,2,1,735
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_12,1,1500,2681,2,1,621
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_14,1,1500,2681,2,1,1031
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_15,1,1500,2681,2,1,786
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_16,1,1500,2681,2,1,979
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_17,1,1500,2681,2,1,1799
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_18,1,1500,2681,2,1,539
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_19,1,1500,2681,2,1,1336
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_2,1,1500,2681,2,1,795
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_24,1,1500,2681,2,1,1082
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_25,1,1500,2681,2,1,916
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_26,1,1500,2681,2,1,794
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_28,1,1500,2681,2,1,859
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_29,1,1500,2681,2,1,1327
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_30,1,1500,2681,2,1,991
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_33,1,1500,2681,2,1,784
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_34,1,1500,2681,2,1,1321
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_35,1,1500,2681,2,1,856
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_36,1,1500,2681,2,1,749
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_37,1,1500,2681,2,1,676
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_38,1,1500,2681,2,1,1468
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_40,1,1500,2681,2,1,936
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_7,1,1500,2681,2,1,978
+p0,metal_parts,Position,Live_Porosity_Position_+5%_to_-5%_8,1,1500,2681,2,1,855
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_11,1,1500,2681,2,1,3141
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_12,1,1500,2681,2,1,7162
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_13,1,1500,2681,2,1,5914
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_15,1,1500,2681,2,1,4638
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_17,1,1500,2681,2,1,5181
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_5,1,1500,2681,2,1,7073
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_6,1,1500,2681,2,1,5798
+p0,metal_parts,Rotation,Live_Chipping_&_Porosity_Rotation_+5_deg_and_-5_deg_8,1,1500,2681,2,1,5018
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_1,1,1500,2681,2,1,2318
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_10,1,1500,2681,2,1,575
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_11,1,1500,2681,2,1,1846
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_12,1,1500,2681,2,1,545
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_13,1,1500,2681,2,1,1510
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_14,1,1500,2681,2,1,647
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_15,1,1500,2681,2,1,2204
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_16,1,1500,2681,2,1,1466
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_18,1,1500,2681,2,1,2409
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_19,1,1500,2681,2,1,2310
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_23,1,1500,2681,2,1,1683
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_24,1,1500,2681,2,1,1421
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_25,1,1500,2681,2,1,1169
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_26,1,1500,2681,2,1,2773
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_27,1,1500,2681,2,1,3127
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_28,1,1500,2681,2,1,1575
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_29,1,1500,2681,2,1,1668
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_3,1,1500,2681,2,1,593
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_30,1,1500,2681,2,1,890
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_4,1,1500,2681,2,1,485
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_5,1,1500,2681,2,1,2827
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_7,1,1500,2681,2,1,1886
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_8,1,1500,2681,2,1,715
+p0,metal_parts,Rotation,Live_Chipping_Rotation_+5_deg_and_-5_deg_9,1,1500,2681,2,1,2345
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_1,1,1500,2681,2,1,3262
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_10,1,1500,2681,2,1,1785
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_11,1,1500,2681,2,1,2949
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_12,1,1500,2681,2,1,1461
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_15,1,1500,2681,2,1,1572
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_2,1,1500,2681,2,1,5463
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_20,1,1500,2681,2,1,4647
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_23,1,1500,2681,2,1,1172
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_3,1,1500,2681,2,1,2888
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_4,1,1500,2681,2,1,2171
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_5,1,1500,2681,2,1,4970
+p0,metal_parts,Rotation,Live_Multiple_Chipping_Rotation_+5_deg_and_-5_deg_9,1,1500,2681,2,1,3097
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_1,1,1500,2681,2,1,2117
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_12,1,1500,2681,2,1,2738
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_13,1,1500,2681,2,1,1673
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_14,1,1500,2681,2,1,2322
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_15,1,1500,2681,2,1,1691
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_16,1,1500,2681,2,1,1529
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_17,1,1500,2681,2,1,1469
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_18,1,1500,2681,2,1,1782
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_3,1,1500,2681,2,1,3346
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_4,1,1500,2681,2,1,1709
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_6,1,1500,2681,2,1,1850
+p0,metal_parts,Rotation,Live_Multiple_Porosity_Rotation_+5_deg_and_-5_deg_7,1,1500,2681,2,1,2213
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_10,1,1500,2681,2,1,727
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_13,1,1500,2681,2,1,612
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_14,1,1500,2681,2,1,1001
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_17,1,1500,2681,2,1,515
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_2,1,1500,2681,2,1,801
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_20,1,1500,2681,2,1,1211
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_21,1,1500,2681,2,1,636
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_22,1,1500,2681,2,1,1054
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_24,1,1500,2681,2,1,907
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_25,1,1500,2681,2,1,741
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_26,1,1500,2681,2,1,843
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_27,1,1500,2681,2,1,763
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_29,1,1500,2681,2,1,976
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_3,1,1500,2681,2,1,626
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_30,1,1500,2681,2,1,854
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_32,1,1500,2681,2,1,763
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_33,1,1500,2681,2,1,1212
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_34,1,1500,2681,2,1,784
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_35,1,1500,2681,2,1,735
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_36,1,1500,2681,2,1,803
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_38,1,1500,2681,2,1,1331
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_39,1,1500,2681,2,1,933
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_7,1,1500,2681,2,1,962
+p0,metal_parts,Rotation,Live_Porosity_Rotation_+5_deg_and_-5_deg_8,1,1500,2681,2,1,875
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_10,1,1500,2681,2,1,1679
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_11,1,1500,2681,2,1,3251
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_12,1,1500,2681,2,1,4045
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_13,1,1500,2681,2,1,2485
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_15,1,1500,2681,2,1,4320
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_6,1,1500,2681,2,1,4034
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_7,1,1500,2681,2,1,4765
+p0,metal_parts,Scale,Live_Chipping_&_Porosity_Scale_+5%_to_-5%_8,1,1500,2681,2,1,5682
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_1,1,1500,2681,2,1,640
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_10,1,1500,2681,2,1,1389
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_11,1,1500,2681,2,1,1075
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_12,1,1500,2681,2,1,437
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_13,1,1500,2681,2,1,2135
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_14,1,1500,2681,2,1,599
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_15,1,1500,2681,2,1,728
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_18,1,1500,2681,2,1,640
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_2,1,1500,2681,2,1,1593
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_21,1,1500,2681,2,1,2914
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_24,1,1500,2681,2,1,1041
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_25,1,1500,2681,2,1,2743
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_26,1,1500,2681,2,1,1354
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_27,1,1500,2681,2,1,467
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_29,1,1500,2681,2,1,676
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_30,1,1500,2681,2,1,2392
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_31,1,1500,2681,2,1,471
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_33,1,1500,2681,2,1,758
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_4,1,1500,2681,2,1,1128
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_5,1,1500,2681,2,1,243
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_7,1,1500,2681,2,1,529
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_8,1,1500,2681,2,1,556
+p0,metal_parts,Scale,Live_Chipping_Scale_+5%_to_-5%_9,1,1500,2681,2,1,2303
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_1,1,1500,2681,2,1,3297
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_10,1,1500,2681,2,1,1278
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_11,1,1500,2681,2,1,2272
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_12,1,1500,2681,2,1,991
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_15,1,1500,2681,2,1,713
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_2,1,1500,2681,2,1,4094
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_20,1,1500,2681,2,1,3744
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_28,1,1500,2681,2,1,1475
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_3,1,1500,2681,2,1,3182
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_4,1,1500,2681,2,1,2641
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_5,1,1500,2681,2,1,2741
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_7,1,1500,2681,2,1,1639
+p0,metal_parts,Scale,Live_Multiple_Chipping_Scale_+5%_to_-5%_9,1,1500,2681,2,1,2564
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_1,1,1500,2681,2,1,1099
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_13,1,1500,2681,2,1,1359
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_14,1,1500,2681,2,1,2359
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_15,1,1500,2681,2,1,983
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_16,1,1500,2681,2,1,943
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_17,1,1500,2681,2,1,915
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_18,1,1500,2681,2,1,2019
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_3,1,1500,2681,2,1,2016
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_4,1,1500,2681,2,1,1252
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_6,1,1500,2681,2,1,1885
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_7,1,1500,2681,2,1,1943
+p0,metal_parts,Scale,Live_Multiple_Porosity_Scale_+5%_to_-5%_8,1,1500,2681,2,1,1487
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_10,1,1500,2681,2,1,356
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_12,1,1500,2681,2,1,300
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_14,1,1500,2681,2,1,1030
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_16,1,1500,2681,2,1,1031
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_17,1,1500,2681,2,1,1272
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_19,1,1500,2681,2,1,897
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_2,1,1500,2681,2,1,597
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_22,1,1500,2681,2,1,600
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_23,1,1500,2681,2,1,1150
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_25,1,1500,2681,2,1,467
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_26,1,1500,2681,2,1,429
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_27,1,1500,2681,2,1,617
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_28,1,1500,2681,2,1,629
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_3,1,1500,2681,2,1,344
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_30,1,1500,2681,2,1,606
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_31,1,1500,2681,2,1,577
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_33,1,1500,2681,2,1,687
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_35,1,1500,2681,2,1,432
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_36,1,1500,2681,2,1,700
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_38,1,1500,2681,2,1,1281
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_39,1,1500,2681,2,1,1111
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_40,1,1500,2681,2,1,510
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_5,1,1500,2681,2,1,663
+p0,metal_parts,Scale,Live_Porosity_Scale_+5%_to_-5%_7,1,1500,2681,2,1,416
+p0,metal_parts,BG1,Live_Chipping_&_Porosity_Background_Background_1_10,1,1500,2681,2,1,3588
+p0,metal_parts,BG1,Live_Chipping_&_Porosity_Background_Background_1_11,1,1500,2681,2,1,4213
+p0,metal_parts,BG1,Live_Chipping_&_Porosity_Background_Background_1_13,1,1500,2681,2,1,5085
+p0,metal_parts,BG1,Live_Chipping_&_Porosity_Background_Background_1_15,1,1500,2681,2,1,6673
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_1,1,1500,2681,2,1,671
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_11,1,1500,2681,2,1,1793
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_14,1,1500,2681,2,1,3146
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_15,1,1500,2681,2,1,1404
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_16,1,1500,2681,2,1,1948
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_17,1,1500,2681,2,1,795
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_22,1,1500,2681,2,1,911
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_24,1,1500,2681,2,1,1537
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_25,1,1500,2681,2,1,1624
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_5,1,1500,2681,2,1,1199
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_6,1,1500,2681,2,1,1416
+p0,metal_parts,BG1,Live_Chipping_Background_Background_1_9,1,1500,2681,2,1,851
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_10,1,1500,2681,2,1,1463
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_11,1,1500,2681,2,1,2299
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_12,1,1500,2681,2,1,3865
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_13,1,1500,2681,2,1,2775
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_15,1,1500,2681,2,1,6331
+p0,metal_parts,BG1,Live_Multiple_Chipping_Background_Background_1_9,1,1500,2681,2,1,3880
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_1,1,1500,2681,2,1,1714
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_10,1,1500,2681,2,1,1906
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_11,1,1500,2681,2,1,1506
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_12,1,1500,2681,2,1,1827
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_15,1,1500,2681,2,1,2125
+p0,metal_parts,BG1,Live_Multiple_Porosity_Background_Background_1_16,1,1500,2681,2,1,2114
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_1,1,1500,2681,2,1,1433
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_10,1,1500,2681,2,1,1128
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_12,1,1500,2681,2,1,1213
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_13,1,1500,2681,2,1,1103
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_14,1,1500,2681,2,1,1127
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_17,1,1500,2681,2,1,548
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_19,1,1500,2681,2,1,848
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_2,1,1500,2681,2,1,1087
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_3,1,1500,2681,2,1,958
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_4,1,1500,2681,2,1,1086
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_5,1,1500,2681,2,1,1296
+p0,metal_parts,BG1,Live_Porosity_Background_Background_1_9,1,1500,2681,2,1,1488
+p0,metal_parts,BG2,Live_Chipping_&_Porosity_Background_Background_2_13,1,1500,2681,2,1,5453
+p0,metal_parts,BG2,Live_Chipping_&_Porosity_Background_Background_2_18,1,1500,2681,2,1,5147
+p0,metal_parts,BG2,Live_Chipping_&_Porosity_Background_Background_2_6,1,1500,2681,2,1,6357
+p0,metal_parts,BG2,Live_Chipping_&_Porosity_Background_Background_2_8,1,1500,2681,2,1,7043
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_1,1,1500,2681,2,1,1453
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_11,1,1500,2681,2,1,1985
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_13,1,1500,2681,2,1,2023
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_14,1,1500,2681,2,1,3389
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_16,1,1500,2681,2,1,2025
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_17,1,1500,2681,2,1,2699
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_19,1,1500,2681,2,1,1587
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_2,1,1500,2681,2,1,2815
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_24,1,1500,2681,2,1,2354
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_25,1,1500,2681,2,1,1157
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_26,1,1500,2681,2,1,2839
+p0,metal_parts,BG2,Live_Chipping_Background_Background_2_30,1,1500,2681,2,1,2036
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_12,1,1500,2681,2,1,5677
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_17,1,1500,2681,2,1,3828
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_5,1,1500,2681,2,1,4520
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_6,1,1500,2681,2,1,7236
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_8,1,1500,2681,2,1,4136
+p0,metal_parts,BG2,Live_Multiple_Chipping_Background_Background_2_9,1,1500,2681,2,1,4256
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_1,1,1500,2681,2,1,2284
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_13,1,1500,2681,2,1,1368
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_14,1,1500,2681,2,1,2825
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_17,1,1500,2681,2,1,1850
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_2,1,1500,2681,2,1,2077
+p0,metal_parts,BG2,Live_Multiple_Porosity_Background_Background_2_6,1,1500,2681,2,1,2376
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_1,1,1500,2681,2,1,1400
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_10,1,1500,2681,2,1,1139
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_12,1,1500,2681,2,1,1203
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_13,1,1500,2681,2,1,1413
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_14,1,1500,2681,2,1,524
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_16,1,1500,2681,2,1,874
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_19,1,1500,2681,2,1,758
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_4,1,1500,2681,2,1,1153
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_5,1,1500,2681,2,1,1075
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_7,1,1500,2681,2,1,1257
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_8,1,1500,2681,2,1,1184
+p0,metal_parts,BG2,Live_Porosity_Background_Background_2_9,1,1500,2681,2,1,1174
+p0,pcb,train,Train_PCB_None_None_Missing Component_17,1,2048,2048,2,1,6896
+p0,pcb,train,Train_PCB_None_None_Missing Component_33,1,2048,2048,2,1,4938
+p0,pcb,train,Train_PCB_None_None_Missing Component_34,1,2048,2048,2,1,4751
+p0,pcb,train,Train_PCB_None_None_Missing Component_35,1,2048,2048,2,1,29949
+p0,pcb,train,Train_PCB_None_None_Missing Component_36,1,2048,2048,2,1,34009
+p0,pcb,train,Train_PCB_None_None_Missing Component_37,1,2048,2048,2,1,32728
+p0,pcb,train,Train_PCB_None_None_Missing Component_38,1,2048,2048,2,1,32762
+p0,pcb,train,Train_PCB_None_None_Missing Component_39,1,2048,2048,2,1,34754
+p0,pcb,train,Train_PCB_None_None_Missing Component_4,1,2048,2048,2,1,4784
+p0,pcb,train,Train_PCB_None_None_Missing Component_40,1,2048,2048,2,1,13395
+p0,pcb,train,Train_PCB_None_None_Missing Component_41,1,2048,2048,2,1,33394
+p0,pcb,train,Train_PCB_None_None_Missing Component_42,1,2048,2048,2,1,14080
+p0,pcb,train,Train_PCB_None_None_Missing Component_43,1,2048,2048,2,1,34739
+p0,pcb,train,Train_PCB_None_None_Missing Component_44,1,2048,2048,2,1,31809
+p0,pcb,train,Train_PCB_None_None_Missing Component_45,1,2048,2048,2,1,13703
+p0,pcb,train,Train_PCB_None_None_Missing Component_46,1,2048,2048,2,1,30902
+p0,pcb,train,Train_PCB_None_None_Missing Component_47,1,2048,2048,2,1,13349
+p0,pcb,train,Train_PCB_None_None_Missing Component_48,1,2048,2048,2,1,13181
+p0,pcb,train,Train_PCB_None_None_Missing Component_49,1,2048,2048,2,1,13366
+p0,pcb,train,Train_PCB_None_None_Missing Component_5,1,2048,2048,2,1,4839
+p0,pcb,train,Train_PCB_None_None_Missing Component_50,1,2048,2048,2,1,5809
+p0,pcb,train,Train_PCB_None_None_Missing Component_6,1,2048,2048,2,1,4571
+p0,pcb,train,Train_PCB_None_None_Missing Component_7,1,2048,2048,2,1,6727
+p0,pcb,train,Train_PCB_None_None_Missing Component_8,1,2048,2048,2,1,4793
+p0,pcb,train,Train_PCB_None_None_Missing Component_9,1,2048,2048,2,1,4582
+p0,pcb,train,Train_PCB_None_None_Scratch_32,1,2048,2048,2,1,2023
+p0,pcb,train,Train_PCB_None_None_Scratch_33,1,2048,2048,2,1,2735
+p0,pcb,train,Train_PCB_None_None_Scratch_34,1,2048,2048,2,1,1943
+p0,pcb,train,Train_PCB_None_None_Scratch_35,1,2048,2048,2,1,1604
+p0,pcb,train,Train_PCB_None_None_Scratch_36,1,2048,2048,2,1,1337
+p0,pcb,train,Train_PCB_None_None_Scratch_37,1,2048,2048,2,1,3949
+p0,pcb,train,Train_PCB_None_None_Scratch_38,1,2048,2048,2,1,4103
+p0,pcb,train,Train_PCB_None_None_Scratch_39,1,2048,2048,2,1,689
+p0,pcb,train,Train_PCB_None_None_Scratch_4,1,2048,2048,2,1,539
+p0,pcb,train,Train_PCB_None_None_Scratch_40,1,2048,2048,2,1,4095
+p0,pcb,train,Train_PCB_None_None_Scratch_41,1,2048,2048,2,1,2872
+p0,pcb,train,Train_PCB_None_None_Scratch_42,1,2048,2048,2,1,1445
+p0,pcb,train,Train_PCB_None_None_Scratch_43,1,2048,2048,2,1,961
+p0,pcb,train,Train_PCB_None_None_Scratch_44,1,2048,2048,2,1,6732
+p0,pcb,train,Train_PCB_None_None_Scratch_45,1,2048,2048,2,1,8946
+p0,pcb,train,Train_PCB_None_None_Scratch_46,1,2048,2048,2,1,527
+p0,pcb,train,Train_PCB_None_None_Scratch_47,1,2048,2048,2,1,8702
+p0,pcb,train,Train_PCB_None_None_Scratch_48,1,2048,2048,2,1,7905
+p0,pcb,train,Train_PCB_None_None_Scratch_49,1,2048,2048,2,1,6919
+p0,pcb,train,Train_PCB_None_None_Scratch_5,1,2048,2048,2,1,213
+p0,pcb,train,Train_PCB_None_None_Scratch_50,1,2048,2048,2,1,5802
+p0,pcb,train,Train_PCB_None_None_Scratch_6,1,2048,2048,2,1,868
+p0,pcb,train,Train_PCB_None_None_Scratch_7,1,2048,2048,2,1,1190
+p0,pcb,train,Train_PCB_None_None_Scratch_8,1,2048,2048,2,1,1084
+p0,pcb,train,Train_PCB_None_None_Scratch_9,1,2048,2048,2,1,1031
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_32,1,2048,2048,2,1,1114
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_33,1,2048,2048,2,1,1275
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_34,1,2048,2048,2,1,2568
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_35,1,2048,2048,2,1,3446
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_36,1,2048,2048,2,1,660
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_37,1,2048,2048,2,1,2512
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_38,1,2048,2048,2,1,1384
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_39,1,2048,2048,2,1,4619
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_4,1,2048,2048,2,1,4205
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_40,1,2048,2048,2,1,1119
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_41,1,2048,2048,2,1,2212
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_42,1,2048,2048,2,1,945
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_43,1,2048,2048,2,1,2500
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_44,1,2048,2048,2,1,1883
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_45,1,2048,2048,2,1,3041
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_46,1,2048,2048,2,1,1646
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_47,1,2048,2048,2,1,10816
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_48,1,2048,2048,2,1,2480
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_49,1,2048,2048,2,1,8056
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_5,1,2048,2048,2,1,2409
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_50,1,2048,2048,2,1,6769
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_6,1,2048,2048,2,1,3693
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_7,1,2048,2048,2,1,1160
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_8,1,2048,2048,2,1,1408
+p0,pcb,train,Train_PCB_None_None_Soldering Melt_9,1,2048,2048,2,1,1779
+p0,pcb,SD,Test_PCB_None_None_Missing Component_1,1,2048,2048,2,1,4442
+p0,pcb,SD,Test_PCB_None_None_Missing Component_10,1,2048,2048,2,1,4504
+p0,pcb,SD,Test_PCB_None_None_Missing Component_11,1,2048,2048,2,1,4838
+p0,pcb,SD,Test_PCB_None_None_Missing Component_12,1,2048,2048,2,1,4937
+p0,pcb,SD,Test_PCB_None_None_Missing Component_13,1,2048,2048,2,1,5123
+p0,pcb,SD,Test_PCB_None_None_Missing Component_14,1,2048,2048,2,1,4546
+p0,pcb,SD,Test_PCB_None_None_Missing Component_15,1,2048,2048,2,1,4465
+p0,pcb,SD,Test_PCB_None_None_Missing Component_16,1,2048,2048,2,1,4684
+p0,pcb,SD,Test_PCB_None_None_Missing Component_18,1,2048,2048,2,1,5053
+p0,pcb,SD,Test_PCB_None_None_Missing Component_19,1,2048,2048,2,1,4952
+p0,pcb,SD,Test_PCB_None_None_Missing Component_2,1,2048,2048,2,1,5106
+p0,pcb,SD,Test_PCB_None_None_Missing Component_20,1,2048,2048,2,1,4886
+p0,pcb,SD,Test_PCB_None_None_Missing Component_21,1,2048,2048,2,1,4488
+p0,pcb,SD,Test_PCB_None_None_Missing Component_22,1,2048,2048,2,1,5015
+p0,pcb,SD,Test_PCB_None_None_Missing Component_23,1,2048,2048,2,1,4698
+p0,pcb,SD,Test_PCB_None_None_Missing Component_24,1,2048,2048,2,1,4843
+p0,pcb,SD,Test_PCB_None_None_Missing Component_25,1,2048,2048,2,1,5265
+p0,pcb,SD,Test_PCB_None_None_Missing Component_26,1,2048,2048,2,1,4997
+p0,pcb,SD,Test_PCB_None_None_Missing Component_27,1,2048,2048,2,1,4370
+p0,pcb,SD,Test_PCB_None_None_Missing Component_28,1,2048,2048,2,1,4443
+p0,pcb,SD,Test_PCB_None_None_Missing Component_29,1,2048,2048,2,1,4554
+p0,pcb,SD,Test_PCB_None_None_Missing Component_3,1,2048,2048,2,1,5033
+p0,pcb,SD,Test_PCB_None_None_Missing Component_30,1,2048,2048,2,1,5809
+p0,pcb,SD,Test_PCB_None_None_Missing Component_31,1,2048,2048,2,1,4569
+p0,pcb,SD,Test_PCB_None_None_Missing Component_32,1,2048,2048,2,1,4553
+p0,pcb,SD,Test_PCB_None_None_Scratch_1,1,2048,2048,2,1,636
+p0,pcb,SD,Test_PCB_None_None_Scratch_10,1,2048,2048,2,1,454
+p0,pcb,SD,Test_PCB_None_None_Scratch_11,1,2048,2048,2,1,1660
+p0,pcb,SD,Test_PCB_None_None_Scratch_12,1,2048,2048,2,1,389
+p0,pcb,SD,Test_PCB_None_None_Scratch_13,1,2048,2048,2,1,4181
+p0,pcb,SD,Test_PCB_None_None_Scratch_14,1,2048,2048,2,1,11297
+p0,pcb,SD,Test_PCB_None_None_Scratch_15,1,2048,2048,2,1,2104
+p0,pcb,SD,Test_PCB_None_None_Scratch_16,1,2048,2048,2,1,1674
+p0,pcb,SD,Test_PCB_None_None_Scratch_17,1,2048,2048,2,1,761
+p0,pcb,SD,Test_PCB_None_None_Scratch_18,1,2048,2048,2,1,562
+p0,pcb,SD,Test_PCB_None_None_Scratch_19,1,2048,2048,2,1,620
+p0,pcb,SD,Test_PCB_None_None_Scratch_2,1,2048,2048,2,1,728
+p0,pcb,SD,Test_PCB_None_None_Scratch_20,1,2048,2048,2,1,466
+p0,pcb,SD,Test_PCB_None_None_Scratch_21,1,2048,2048,2,1,436
+p0,pcb,SD,Test_PCB_None_None_Scratch_22,1,2048,2048,2,1,613
+p0,pcb,SD,Test_PCB_None_None_Scratch_23,1,2048,2048,2,1,560
+p0,pcb,SD,Test_PCB_None_None_Scratch_24,1,2048,2048,2,1,375
+p0,pcb,SD,Test_PCB_None_None_Scratch_25,1,2048,2048,2,1,302
+p0,pcb,SD,Test_PCB_None_None_Scratch_26,1,2048,2048,2,1,3940
+p0,pcb,SD,Test_PCB_None_None_Scratch_27,1,2048,2048,2,1,1886
+p0,pcb,SD,Test_PCB_None_None_Scratch_28,1,2048,2048,2,1,5972
+p0,pcb,SD,Test_PCB_None_None_Scratch_29,1,2048,2048,2,1,839
+p0,pcb,SD,Test_PCB_None_None_Scratch_3,1,2048,2048,2,1,377
+p0,pcb,SD,Test_PCB_None_None_Scratch_30,1,2048,2048,2,1,465
+p0,pcb,SD,Test_PCB_None_None_Scratch_31,1,2048,2048,2,1,883
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_1,1,2048,2048,2,1,5345
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_10,1,2048,2048,2,1,548
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_11,1,2048,2048,2,1,1388
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_12,1,2048,2048,2,1,729
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_13,1,2048,2048,2,1,1097
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_14,1,2048,2048,2,1,517
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_15,1,2048,2048,2,1,1849
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_16,1,2048,2048,2,1,923
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_17,1,2048,2048,2,1,1777
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_18,1,2048,2048,2,1,1928
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_19,1,2048,2048,2,1,717
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_2,1,2048,2048,2,1,2894
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,1,2048,2048,2,1,5386
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_21,1,2048,2048,2,1,3773
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_22,1,2048,2048,2,1,2599
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_23,1,2048,2048,2,1,799
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_24,1,2048,2048,2,1,1579
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_25,1,2048,2048,2,1,1287
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_26,1,2048,2048,2,1,1520
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,1,2048,2048,2,1,8737
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_28,1,2048,2048,2,1,1390
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_29,1,2048,2048,2,1,2657
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_3,1,2048,2048,2,1,886
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_30,1,2048,2048,2,1,4552
+p0,pcb,SD,Test_PCB_None_None_Soldering Melt_31,1,2048,2048,2,1,2097
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_1,1,2048,2048,2,1,4791
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_10,1,2048,2048,2,1,4945
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_2,1,2048,2048,2,1,6205
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_3,1,2048,2048,2,1,4403
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_4,1,2048,2048,2,1,13058
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_5,1,2048,2048,2,1,7209
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_6,1,2048,2048,2,1,23845
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_7,1,2048,2048,2,1,5118
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_8,1,2048,2048,2,1,4690
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_9,1,2048,2048,2,1,6664
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_1,1,2048,2048,2,1,696
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_10,1,2048,2048,2,1,885
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_2,1,2048,2048,2,1,700
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_3,1,2048,2048,2,1,530
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_4,1,2048,2048,2,1,2453
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_5,1,2048,2048,2,1,999
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_6,1,2048,2048,2,1,1485
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,1,2048,2048,2,1,5954
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_8,1,2048,2048,2,1,5186
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_9,1,2048,2048,2,1,5638
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_1,1,2048,2048,2,1,6323
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_10,1,2048,2048,2,1,922
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_2,1,2048,2048,2,1,1410
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_3,1,2048,2048,2,1,8490
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_4,1,2048,2048,2,1,3631
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_5,1,2048,2048,2,1,3007
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_6,1,2048,2048,2,1,1111
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_7,1,2048,2048,2,1,1960
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_8,1,2048,2048,2,1,1384
+p0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_9,1,2048,2048,2,1,533
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_1,1,2048,2048,2,1,29503
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_10,1,2048,2048,2,1,5120
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_2,1,2048,2048,2,1,6659
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_3,1,2048,2048,2,1,4475
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_4,1,2048,2048,2,1,13535
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_5,1,2048,2048,2,1,4920
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_6,1,2048,2048,2,1,4929
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,1,2048,2048,2,1,30801
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_8,1,2048,2048,2,1,4640
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_9,1,2048,2048,2,1,4588
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_1,1,2048,2048,2,1,900
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_10,1,2048,2048,2,1,433
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_2,1,2048,2048,2,1,642
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_3,1,2048,2048,2,1,885
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_4,1,2048,2048,2,1,6476
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_5,1,2048,2048,2,1,451
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_6,1,2048,2048,2,1,8325
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_7,1,2048,2048,2,1,1020
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_8,1,2048,2048,2,1,2311
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_9,1,2048,2048,2,1,651
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_1,1,2048,2048,2,1,933
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_10,1,2048,2048,2,1,8105
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_2,1,2048,2048,2,1,8250
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,1,2048,2048,2,1,9837
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_4,1,2048,2048,2,1,769
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_5,1,2048,2048,2,1,7988
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_6,1,2048,2048,2,1,1488
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_7,1,2048,2048,2,1,628
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,1,2048,2048,2,1,3311
+p0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,1,2048,2048,2,1,4517
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_1,1,2048,2048,2,1,4443
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_10,1,2048,2048,2,1,4649
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_2,1,2048,2048,2,1,4820
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_3,1,2048,2048,2,1,13631
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_4,1,2048,2048,2,1,5032
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_5,1,2048,2048,2,1,5136
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_6,1,2048,2048,2,1,5164
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_7,1,2048,2048,2,1,26736
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_8,1,2048,2048,2,1,7021
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_9,1,2048,2048,2,1,5121
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_1,1,2048,2048,2,1,4532
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_10,1,2048,2048,2,1,4004
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_2,1,2048,2048,2,1,572
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_3,1,2048,2048,2,1,2122
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_4,1,2048,2048,2,1,675
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_5,1,2048,2048,2,1,3606
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_6,1,2048,2048,2,1,887
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_7,1,2048,2048,2,1,1130
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_8,1,2048,2048,2,1,2328
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_9,1,2048,2048,2,1,5934
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_1,1,2048,2048,2,1,7255
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_10,1,2048,2048,2,1,1581
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_2,1,2048,2048,2,1,7616
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_3,1,2048,2048,2,1,1063
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_4,1,2048,2048,2,1,3915
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_5,1,2048,2048,2,1,5424
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,1,2048,2048,2,1,8808
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_7,1,2048,2048,2,1,2490
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_8,1,2048,2048,2,1,1455
+p0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_9,1,2048,2048,2,1,499
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_1,1,2048,2048,2,1,315
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_10,1,2048,2048,2,1,429
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_2,1,2048,2048,2,1,6576
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_3,1,2048,2048,2,1,703
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_4,1,2048,2048,2,1,2337
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_5,1,2048,2048,2,1,924
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_6,1,2048,2048,2,1,4907
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_7,1,2048,2048,2,1,1073
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_8,1,2048,2048,2,1,1480
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Scratch_9,1,2048,2048,2,1,932
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_1,1,2048,2048,2,1,1138
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_10,1,2048,2048,2,1,594
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_2,1,2048,2048,2,1,839
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_3,1,2048,2048,2,1,1059
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_4,1,2048,2048,2,1,5379
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_5,1,2048,2048,2,1,1733
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_6,1,2048,2048,2,1,1526
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_7,1,2048,2048,2,1,6052
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_8,1,2048,2048,2,1,617
+p0,pcb,AWB,Test_PCB_White Balancing_Afternoon + AWB_Soldering Melt_9,1,2048,2048,2,1,3387
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_1,1,2048,2048,2,1,563
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_10,1,2048,2048,2,1,7066
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_2,1,2048,2048,2,1,699
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_3,1,2048,2048,2,1,372
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_4,1,2048,2048,2,1,1360
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_5,1,2048,2048,2,1,960
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_6,1,2048,2048,2,1,5817
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_7,1,2048,2048,2,1,7116
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_8,1,2048,2048,2,1,8878
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Scratch_9,1,2048,2048,2,1,6483
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_1,1,2048,2048,2,1,2709
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_10,1,2048,2048,2,1,738
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_2,1,2048,2048,2,1,3594
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_3,1,2048,2048,2,1,7131
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_4,1,2048,2048,2,1,965
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_5,1,2048,2048,2,1,6333
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_6,1,2048,2048,2,1,9229
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_7,1,2048,2048,2,1,1641
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_8,1,2048,2048,2,1,1450
+p0,pcb,AWB,Test_PCB_White Balancing_Evening + AWB_Soldering Melt_9,1,2048,2048,2,1,1220
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_1,1,2048,2048,2,1,6788
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_10,1,2048,2048,2,1,348
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_2,1,2048,2048,2,1,5980
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_3,1,2048,2048,2,1,2703
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_4,1,2048,2048,2,1,2051
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_5,1,2048,2048,2,1,5398
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_6,1,2048,2048,2,1,1808
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_7,1,2048,2048,2,1,526
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_8,1,2048,2048,2,1,2549
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Scratch_9,1,2048,2048,2,1,655
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_1,1,2048,2048,2,1,5373
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_10,1,2048,2048,2,1,505
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_2,1,2048,2048,2,1,1460
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_3,1,2048,2048,2,1,834
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_4,1,2048,2048,2,1,873
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_5,1,2048,2048,2,1,1428
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_6,1,2048,2048,2,1,1695
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_7,1,2048,2048,2,1,10425
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_8,1,2048,2048,2,1,2075
+p0,pcb,AWB,Test_PCB_White Balancing_Morning + AWB_Soldering Melt_9,1,2048,2048,2,1,944
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_1,1,2048,2048,2,1,4875
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_10,1,2048,2048,2,1,4774
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_2,1,2048,2048,2,1,4669
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_3,1,2048,2048,2,1,4831
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,1,2048,2048,2,1,31559
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_5,1,2048,2048,2,1,5945
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_6,1,2048,2048,2,1,5134
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_7,1,2048,2048,2,1,4470
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_8,1,2048,2048,2,1,4526
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,1,2048,2048,2,1,30530
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_1,1,2048,2048,2,1,5031
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_10,1,2048,2048,2,1,657
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,1,2048,2048,2,1,5915
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_3,1,2048,2048,2,1,4918
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_4,1,2048,2048,2,1,2120
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_5,1,2048,2048,2,1,976
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_6,1,2048,2048,2,1,693
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_7,1,2048,2048,2,1,450
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_8,1,2048,2048,2,1,558
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_9,1,2048,2048,2,1,308
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_1,1,2048,2048,2,1,3050
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_10,1,2048,2048,2,1,5337
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_2,1,2048,2048,2,1,2238
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_3,1,2048,2048,2,1,1428
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_4,1,2048,2048,2,1,929
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_5,1,2048,2048,2,1,2891
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_6,1,2048,2048,2,1,8360
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,1,2048,2048,2,1,10335
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_8,1,2048,2048,2,1,1065
+p0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_9,1,2048,2048,2,1,5079
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_1,1,2048,2048,2,1,6613
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_10,1,2048,2048,2,1,13894
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_2,1,2048,2048,2,1,4982
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_3,1,2048,2048,2,1,4476
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_4,1,2048,2048,2,1,4799
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_5,1,2048,2048,2,1,4517
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_6,1,2048,2048,2,1,4615
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_7,1,2048,2048,2,1,9191
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,1,2048,2048,2,1,7927
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,1,2048,2048,2,1,33615
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_1,1,2048,2048,2,1,871
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_10,1,2048,2048,2,1,3748
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_2,1,2048,2048,2,1,1182
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_3,1,2048,2048,2,1,709
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_4,1,2048,2048,2,1,995
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_5,1,2048,2048,2,1,859
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_6,1,2048,2048,2,1,8003
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_7,1,2048,2048,2,1,831
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_8,1,2048,2048,2,1,437
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_9,1,2048,2048,2,1,1848
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_1,1,2048,2048,2,1,1363
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_10,1,2048,2048,2,1,912
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_2,1,2048,2048,2,1,4509
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_3,1,2048,2048,2,1,1253
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_4,1,2048,2048,2,1,1848
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_5,1,2048,2048,2,1,2178
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_6,1,2048,2048,2,1,7368
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_7,1,2048,2048,2,1,1286
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_8,1,2048,2048,2,1,1272
+p0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_9,1,2048,2048,2,1,1572
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_1,1,2048,2048,2,1,12918
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_10,1,2048,2048,2,1,4803
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_2,1,2048,2048,2,1,12769
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_3,1,2048,2048,2,1,6188
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_4,1,2048,2048,2,1,4753
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_5,1,2048,2048,2,1,5133
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_6,1,2048,2048,2,1,4634
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_7,1,2048,2048,2,1,4588
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_8,1,2048,2048,2,1,4741
+p0,pcb,Position,Test_PCB_Position_-10%_Missing Component_9,1,2048,2048,2,1,4535
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_1,1,2048,2048,2,1,3208
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_10,1,2048,2048,2,1,281
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_2,1,2048,2048,2,1,3472
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_3,1,2048,2048,2,1,2009
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_4,1,2048,2048,2,1,1049
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_5,1,2048,2048,2,1,7045
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_6,1,2048,2048,2,1,358
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_7,1,2048,2048,2,1,333
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_8,1,2048,2048,2,1,2093
+p0,pcb,Position,Test_PCB_Position_-10%_Scratch_9,1,2048,2048,2,1,644
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_1,1,2048,2048,2,1,1288
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_10,1,2048,2048,2,1,8167
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_2,1,2048,2048,2,1,586
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_3,1,2048,2048,2,1,1478
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_4,1,2048,2048,2,1,1055
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_5,1,2048,2048,2,1,3654
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_6,1,2048,2048,2,1,3467
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_7,1,2048,2048,2,1,1531
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_8,1,2048,2048,2,1,2883
+p0,pcb,Position,Test_PCB_Position_-10%_Soldering Melt_9,1,2048,2048,2,1,1035
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_1,1,2048,2048,2,1,5933
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_10,1,2048,2048,2,1,5001
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_2,1,2048,2048,2,1,4760
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_3,1,2048,2048,2,1,13173
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_4,1,2048,2048,2,1,6604
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_5,1,2048,2048,2,1,31250
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_6,1,2048,2048,2,1,4782
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_7,1,2048,2048,2,1,4949
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_8,1,2048,2048,2,1,4701
+p0,pcb,Position,Test_PCB_Position_10%_Missing Component_9,1,2048,2048,2,1,4845
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_1,1,2048,2048,2,1,376
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_10,1,2048,2048,2,1,7680
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_2,1,2048,2048,2,1,634
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_3,1,2048,2048,2,1,202
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_4,1,2048,2048,2,1,855
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_5,1,2048,2048,2,1,1537
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_6,1,2048,2048,2,1,1844
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_7,1,2048,2048,2,1,8539
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_8,1,2048,2048,2,1,1655
+p0,pcb,Position,Test_PCB_Position_10%_Scratch_9,1,2048,2048,2,1,4406
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_1,1,2048,2048,2,1,9366
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_10,1,2048,2048,2,1,1040
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_2,1,2048,2048,2,1,2513
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_3,1,2048,2048,2,1,2314
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_4,1,2048,2048,2,1,5413
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_5,1,2048,2048,2,1,8812
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_6,1,2048,2048,2,1,1649
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_7,1,2048,2048,2,1,854
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_8,1,2048,2048,2,1,2863
+p0,pcb,Position,Test_PCB_Position_10%_Soldering Melt_9,1,2048,2048,2,1,5319
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_1,1,2048,2048,2,1,6876
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_10,1,2048,2048,2,1,29584
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_11,1,2048,2048,2,1,4744
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_12,1,2048,2048,2,1,4827
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_13,1,2048,2048,2,1,4582
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_14,1,2048,2048,2,1,34972
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_15,1,2048,2048,2,1,33645
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_16,1,2048,2048,2,1,30920
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_17,1,2048,2048,2,1,6263
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Missing Component_18,1,2048,2048,2,1,4735
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_1,1,2048,2048,2,1,10387
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_10,1,2048,2048,2,1,721
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_11,1,2048,2048,2,1,3496
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_12,1,2048,2048,2,1,13030
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_13,1,2048,2048,2,1,1307
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_14,1,2048,2048,2,1,358
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_15,1,2048,2048,2,1,635
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_16,1,2048,2048,2,1,1371
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_17,1,2048,2048,2,1,947
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Scratch_18,1,2048,2048,2,1,667
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_1,1,2048,2048,2,1,9290
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_10,1,2048,2048,2,1,670
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_11,1,2048,2048,2,1,6971
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_12,1,2048,2048,2,1,14038
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_13,1,2048,2048,2,1,3881
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_14,1,2048,2048,2,1,2833
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_15,1,2048,2048,2,1,1456
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_16,1,2048,2048,2,1,6228
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_17,1,2048,2048,2,1,1414
+p0,pcb,Shadows,Test_PCB_Shadow_Light Alternate Position_Soldering Melt_18,1,2048,2048,2,1,2153
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_1,1,2048,2048,2,1,4501
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_10,1,2048,2048,2,1,33596
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_2,1,2048,2048,2,1,4598
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_3,1,2048,2048,2,1,5112
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_4,1,2048,2048,2,1,4599
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_5,1,2048,2048,2,1,4896
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_6,1,2048,2048,2,1,6917
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_7,1,2048,2048,2,1,4488
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_8,1,2048,2048,2,1,4742
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Missing Component_9,1,2048,2048,2,1,4451
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_1,1,2048,2048,2,1,2141
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_10,1,2048,2048,2,1,6137
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_2,1,2048,2048,2,1,6739
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_3,1,2048,2048,2,1,5158
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_4,1,2048,2048,2,1,420
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_5,1,2048,2048,2,1,898
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_6,1,2048,2048,2,1,5473
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_7,1,2048,2048,2,1,1204
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_8,1,2048,2048,2,1,894
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Scratch_9,1,2048,2048,2,1,3116
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_1,1,2048,2048,2,1,1500
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_10,1,2048,2048,2,1,3425
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_2,1,2048,2048,2,1,1002
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_3,1,2048,2048,2,1,3672
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_4,1,2048,2048,2,1,692
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_5,1,2048,2048,2,1,1245
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_6,1,2048,2048,2,1,730
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_7,1,2048,2048,2,1,1594
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_8,1,2048,2048,2,1,899
+p0,pcb,Shadows,Test_PCB_Shadow_Object Alternate Location_Soldering Melt_9,1,2048,2048,2,1,1518

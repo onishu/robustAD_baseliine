@@ -1,0 +1,323 @@
+{
+  "run_id": "p0",
+  "data_root": "K:\\RobustAD",
+  "hash_policy": "metadata.jsonl の sha256。全画像の内容ハッシュは取っていない。名前が衝突した Metal Parts の正常画像だけ両者をハッシュした。",
+  "domains": [
+    {
+      "dataset": "metal_parts",
+      "domain": "train",
+      "n_normal": 180,
+      "n_anomaly": 51,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 231
+      },
+      "metadata_sha256": "7d587bc34e31e29d2fae95f7486d024d5e20b8477ab24048a33f2e5d387e65f1",
+      "diagnostic": false
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "SD",
+      "n_normal": 120,
+      "n_anomaly": 51,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 171
+      },
+      "metadata_sha256": "dee9c7b7124056fe7da9275f23e57f6cb8814f98db475cb9f4a53a6292afe6b4",
+      "diagnostic": true
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "Lighting",
+      "n_normal": 120,
+      "n_anomaly": 80,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 200
+      },
+      "metadata_sha256": "510ec83b6b355417695bf33b76120991137ca75d2acdeea6c474c764d043f6b9",
+      "diagnostic": false
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "Position",
+      "n_normal": 120,
+      "n_anomaly": 80,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 200
+      },
+      "metadata_sha256": "2d9cfe43e7d9e8e3a1471cfdb32ff3c3d483885b6e739597066c2ec4f7153123",
+      "diagnostic": false
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "Rotation",
+      "n_normal": 120,
+      "n_anomaly": 80,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 200
+      },
+      "metadata_sha256": "ec56c80e49d3f5e5b9e0d5de447c79aabebd270c2a43bc792d6f724b57b7d3f4",
+      "diagnostic": false
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "Scale",
+      "n_normal": 120,
+      "n_anomaly": 80,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 200
+      },
+      "metadata_sha256": "0dfc58bd2c57a6a1362bc02d660e106aba63a21e1a74455ae0efa94e37e4e9ee",
+      "diagnostic": true
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "BG1",
+      "n_normal": 60,
+      "n_anomaly": 40,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 100
+      },
+      "metadata_sha256": "544df6a47422dc49a0ad21e5fb209e882b748b78a558239c37056943d0be69ad",
+      "diagnostic": false
+    },
+    {
+      "dataset": "metal_parts",
+      "domain": "BG2",
+      "n_normal": 60,
+      "n_anomaly": 40,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2681x1500": 100
+      },
+      "metadata_sha256": "603356e6772dae490bf4c1f8eb1ee2c97d65f86bd03ed91e3a3ee9ec816069c2",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "train",
+      "n_normal": 180,
+      "n_anomaly": 75,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3560x2140": 224,
+        "3630x2160": 31
+      },
+      "metadata_sha256": "65ac3fdcde4dcbea37672c32c126450020e1c662a417f226c88e3233ab397c8d",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "SD",
+      "n_normal": 120,
+      "n_anomaly": 75,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3630x2160": 123,
+        "3560x2140": 72
+      },
+      "metadata_sha256": "d658a84a40a979806dc854a7a397a2102e50cf405750086fc129c38611391cc1",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "Lighting",
+      "n_normal": 120,
+      "n_anomaly": 90,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3560x2140": 210
+      },
+      "metadata_sha256": "89a2934fa2ef7c511ff2f0cf43a67d317c2ead45789262f4f965dbfac798e033",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "Background",
+      "n_normal": 240,
+      "n_anomaly": 180,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3052x2005": 105,
+        "3011x1868": 105,
+        "3650x2430": 70,
+        "3602x2279": 140
+      },
+      "metadata_sha256": "c90c04a34904260e11335ddc229194a6efe1ee598791d2e9a93ad644549c3a81",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "Rot+pos",
+      "n_normal": 120,
+      "n_anomaly": 90,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3208x2068": 17,
+        "3216x2093": 15,
+        "3205x2005": 19,
+        "3052x2005": 112,
+        "3072x2159": 13,
+        "2975x2025": 28,
+        "3208x1956": 1,
+        "3166x1956": 3,
+        "3135x1956": 2
+      },
+      "metadata_sha256": "7cb89eb705c2f5467f4c8eb4d848b4cd872bcbb4153785e8729efff7bdfc2271",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "Scale",
+      "n_normal": 120,
+      "n_anomaly": 90,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3498x2252": 33,
+        "2864x1775": 48,
+        "2763x1565": 44,
+        "2823x1660": 47,
+        "3563x2365": 38
+      },
+      "metadata_sha256": "173078b5e00236e0f3d9195316cc3639cfe2ff65484515f89342bb0ee1f2de5b",
+      "diagnostic": false
+    },
+    {
+      "dataset": "piled_bags",
+      "domain": "Shadows",
+      "n_normal": 120,
+      "n_anomaly": 90,
+      "localization": false,
+      "mask_dir": "none",
+      "sizes": {
+        "3572x2289": 210
+      },
+      "metadata_sha256": "2191abf15e87ae5994d9fd345fb308ac0c6319eda9641f7277beaafe5564bcfc",
+      "diagnostic": false
+    },
+    {
+      "dataset": "pcb",
+      "domain": "train",
+      "n_normal": 180,
+      "n_anomaly": 75,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2560x2560": 180,
+        "2048x2048": 75
+      },
+      "metadata_sha256": "244491445aa55810c6b6b5f646034a557f647701a705bddcdb0b2cf17e87926a",
+      "diagnostic": false
+    },
+    {
+      "dataset": "pcb",
+      "domain": "SD",
+      "n_normal": 120,
+      "n_anomaly": 75,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2560x2560": 120,
+        "2048x2048": 75
+      },
+      "metadata_sha256": "e180d553062899f5df7f4d703e6df6c2c704391964764aeacc9a528322fe0601",
+      "diagnostic": true
+    },
+    {
+      "dataset": "pcb",
+      "domain": "Lighting",
+      "n_normal": 120,
+      "n_anomaly": 90,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2048x2048": 210
+      },
+      "metadata_sha256": "7d809eb2826f10c38572cd07eef52ac7a682b185d28bb237debd2f82eb2e45d8",
+      "diagnostic": true
+    },
+    {
+      "dataset": "pcb",
+      "domain": "AWB",
+      "n_normal": 120,
+      "n_anomaly": 60,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2048x2048": 180
+      },
+      "metadata_sha256": "f849eb7d8c6de1bee55561ea98a9072ab0f8e40a6b7cb96af105669db57abb21",
+      "diagnostic": false
+    },
+    {
+      "dataset": "pcb",
+      "domain": "Rotation",
+      "n_normal": 80,
+      "n_anomaly": 60,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2048x2048": 140
+      },
+      "metadata_sha256": "ab6a6234e6cbec5911646e478d68bf4eab84447408823a831f012d858d54a20c",
+      "diagnostic": true
+    },
+    {
+      "dataset": "pcb",
+      "domain": "Position",
+      "n_normal": 80,
+      "n_anomaly": 60,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2048x2048": 140
+      },
+      "metadata_sha256": "0d1d9fb74f985f8094e40b74d664e3f5de6430dd1bd179c782209e9a33575694",
+      "diagnostic": true
+    },
+    {
+      "dataset": "pcb",
+      "domain": "Shadows",
+      "n_normal": 80,
+      "n_anomaly": 60,
+      "localization": true,
+      "mask_dir": "per_anomaly_file",
+      "sizes": {
+        "2048x2048": 140
+      },
+      "metadata_sha256": "b651fcfe81752feaec621a53d41ed4d067aa00eb106ffbcefd9554d0b1aadf52",
+      "diagnostic": true
+    }
+  ],
+  "n_unparsed_anomaly_names": 0,
+  "unparsed_anomaly_names": [],
+  "n_nonbinary_masks": 0,
+  "nonbinary_masks": [],
+  "metal_train_test_normal_names": {
+    "shared_names": 104,
+    "identical_sha256": 0,
+    "train_normals": 180,
+    "test_normals": 120
+  },
+  "workpiece_roi": "metadata.jsonl の列は file_name, label, mask のみ。正常画像にマスクはなく、ワークと背景を分ける ROI は同梱されていない。"
+}

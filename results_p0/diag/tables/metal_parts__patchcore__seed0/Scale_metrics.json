@@ -1,0 +1,39 @@
+{
+  "run_id": "p0-diag-seed0",
+  "dataset": "metal_parts",
+  "model": "patchcore",
+  "domain": "Scale",
+  "counts": {
+    "n_normal": 120,
+    "n_anomaly": 80
+  },
+  "n_rows": 200,
+  "n_components": 131,
+  "n_unevaluable_input_transform": 0,
+  "unevaluable_kept_in_component_count": true,
+  "unevaluable_components": [],
+  "measured": {
+    "image_auroc": 0.8057291666666666,
+    "image_f1_test_max": 0.6783625730994152,
+    "n_images": 200,
+    "pixel_auroc": 0.9761190072201908,
+    "pixel_f1_test_max": 0.17033732924449402,
+    "image_auroc_max_patch": 0.80625,
+    "image_auroc_max_upsampled": 0.80625,
+    "image_auroc_max_smoothed": 0.8090625,
+    "image_auroc_max_sigma8": 0.8053125
+  },
+  "reference_image_auroc": 0.8057291666666666,
+  "reference_pixel_auroc": 0.9761190072201908,
+  "image_auroc_gap": 0.0,
+  "pixel_auroc_gap": 0.0,
+  "bank": {
+    "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\metal_parts__patchcore__seed0.pt",
+    "shape": [
+      73728,
+      1536
+    ],
+    "bytes": 452984832
+  },
+  "auroc_not_used_for_specification": true
+}

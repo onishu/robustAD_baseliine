@@ -72,3 +72,11 @@ Table 2 に寄せるための重み確認。再現の本体は 1 と 2 で、こ
 ```powershell
 .\.venv\Scripts\python -m robustad --output-dir results_a1 --summarize-only --baseline-dir results
 ```
+
+## 準備PとテーマA
+
+論文再現は上の 180 枚 fit のままである。付録 Table 9 の 144/36 は、研究用の fit と校正にだけ使う。リストは `results_p0/research_split_manifest.json`。`results_a1` と診断出力 `results_p0/diag` は上書きしない。
+
+準備Pの主仕様は `P_DECISIONS.md`。主画像スコアは検出器ごとの再現スコア、平滑化は sigma 4、欠陥成分の主統計量は最大値、画像 FPR の目標は 5% である。改善幅と同等性幅は未確定で、差と区間を出しても実用的改善や同等とは書かない。
+
+テーマAの最初の実験は PCB、PatchCore、seed 0、面内回転だけである。計画は `A_MINIMAL_PLAN.md`。144 枚のモデル構築は、実行の確認の前には始めない。

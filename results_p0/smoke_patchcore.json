@@ -1,0 +1,26 @@
+{
+  "kind": "smoke",
+  "research_result": false,
+  "image_size": 64,
+  "seed": 0,
+  "batch": 2,
+  "embedding_dim": 1536,
+  "patch_shape": [
+    2,
+    64
+  ],
+  "patch_map_shape": [
+    2,
+    1,
+    8,
+    8
+  ],
+  "smoothed_shape": [
+    2,
+    1,
+    64,
+    64
+  ],
+  "max_abs_gap_reweight_vs_smoothed_max": 1.0716094970703125,
+  "reproduction_matches_pred_score": true
+}

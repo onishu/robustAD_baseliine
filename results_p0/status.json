@@ -1,0 +1,20 @@
+{
+  "phase": "P",
+  "status": "p_closed",
+  "frozen": false,
+  "theme_A_started": false,
+  "additional_diagnostics": false,
+  "research_split": "results_p0/research_split_manifest.json",
+  "theme_a_plan": "A_MINIMAL_PLAN.md",
+  "awaiting_confirmation": [
+    "PCB PatchCore seed 0 の 144 枚 fit",
+    "Rotation の ±5% を ±5 度と置くこと"
+  ],
+  "undecided_non_blocking": [
+    "改善幅",
+    "同等性幅",
+    "ROI",
+    "float16診断キャッシュは主統計量に使わない",
+    "境界の受容野"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "run_id": "p0-diag-seed0",
+  "dataset": "pcb",
+  "model": "padim",
+  "domain": "Lighting",
+  "counts": {
+    "n_normal": 120,
+    "n_anomaly": 90
+  },
+  "n_rows": 210,
+  "n_components": 162,
+  "n_unevaluable_input_transform": 1,
+  "unevaluable_kept_in_component_count": true,
+  "unevaluable_components": [
+    {
+      "image_id": "Test_PCB_Lighting_Evening_Missing Component_2",
+      "component_id": 1,
+      "area_original": 1
+    }
+  ],
+  "measured": {
+    "image_auroc": 0.04129629629629629,
+    "image_f1_test_max": 0.6,
+    "n_images": 210,
+    "pixel_auroc": 0.8475744595288653,
+    "pixel_f1_test_max": 0.0035892179335098055,
+    "image_auroc_max_patch": 0.08972222222222222,
+    "image_auroc_max_upsampled": 0.08972222222222222,
+    "image_auroc_max_smoothed": 0.04129629629629629,
+    "image_auroc_max_sigma8": 0.04074074074074074
+  },
+  "reference_image_auroc": 0.04129629629629629,
+  "reference_pixel_auroc": 0.8475744595288653,
+  "image_auroc_gap": 0.0,
+  "pixel_auroc_gap": 0.0,
+  "bank": {
+    "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__padim__seed0.pt",
+    "mean_shape": [
+      100,
+      16384
+    ],
+    "inv_covariance_shape": [
+      16384,
+      100,
+      100
+    ],
+    "bytes": 661913600
+  },
+  "auroc_not_used_for_specification": true
+}

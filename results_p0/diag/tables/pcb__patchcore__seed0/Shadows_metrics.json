@@ -1,0 +1,50 @@
+{
+  "run_id": "p0-diag-seed0",
+  "dataset": "pcb",
+  "model": "patchcore",
+  "domain": "Shadows",
+  "counts": {
+    "n_normal": 80,
+    "n_anomaly": 60
+  },
+  "n_rows": 140,
+  "n_components": 117,
+  "n_unevaluable_input_transform": 2,
+  "unevaluable_kept_in_component_count": true,
+  "unevaluable_components": [
+    {
+      "image_id": "Test_PCB_Shadow_Object Alternate Location_Scratch_10",
+      "component_id": 2,
+      "area_original": 11
+    },
+    {
+      "image_id": "Test_PCB_Shadow_Object Alternate Location_Soldering Melt_5",
+      "component_id": 8,
+      "area_original": 13
+    }
+  ],
+  "measured": {
+    "image_auroc": 0.45416666666666666,
+    "image_f1_test_max": 0.627027027027027,
+    "n_images": 140,
+    "pixel_auroc": 0.9333766272467346,
+    "pixel_f1_test_max": 0.028887829693214365,
+    "image_auroc_max_patch": 0.4529166666666667,
+    "image_auroc_max_upsampled": 0.4529166666666667,
+    "image_auroc_max_smoothed": 0.454375,
+    "image_auroc_max_sigma8": 0.46291666666666664
+  },
+  "reference_image_auroc": 0.45416666666666666,
+  "reference_pixel_auroc": 0.9333766272467346,
+  "image_auroc_gap": 0.0,
+  "pixel_auroc_gap": 0.0,
+  "bank": {
+    "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+    "shape": [
+      73728,
+      1536
+    ],
+    "bytes": 452984832
+  },
+  "auroc_not_used_for_specification": true
+}

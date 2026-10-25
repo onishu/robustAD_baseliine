@@ -1,0 +1,39 @@
+{
+  "run_id": "p0-diag-seed0",
+  "dataset": "pcb",
+  "model": "patchcore",
+  "domain": "Rotation",
+  "counts": {
+    "n_normal": 80,
+    "n_anomaly": 60
+  },
+  "n_rows": 140,
+  "n_components": 110,
+  "n_unevaluable_input_transform": 0,
+  "unevaluable_kept_in_component_count": true,
+  "unevaluable_components": [],
+  "measured": {
+    "image_auroc": 0.6877083333333334,
+    "image_f1_test_max": 0.6434782608695652,
+    "n_images": 140,
+    "pixel_auroc": 0.9676006431439781,
+    "pixel_f1_test_max": 0.4493318671065347,
+    "image_auroc_max_patch": 0.6829166666666666,
+    "image_auroc_max_upsampled": 0.6829166666666666,
+    "image_auroc_max_smoothed": 0.6699999999999999,
+    "image_auroc_max_sigma8": 0.6320833333333333
+  },
+  "reference_image_auroc": 0.6877083333333334,
+  "reference_pixel_auroc": 0.9676006431439781,
+  "image_auroc_gap": 0.0,
+  "pixel_auroc_gap": 0.0,
+  "bank": {
+    "path": "C:\\workspace\\robustad\\results_p0\\diag\\banks\\pcb__patchcore__seed0.pt",
+    "shape": [
+      73728,
+      1536
+    ],
+    "bytes": 452984832
+  },
+  "auroc_not_used_for_specification": true
+}

@@ -1,0 +1,111 @@
+run_id,model,seed,category,domain,image_id,split,component_id,area_original,area_resized_alone,joint_component_ids,status,score_definition,smoothing,region_definition
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_1,test,1,4875,303,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_10,test,1,4774,301,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_2,test,1,4669,294,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_3,test,1,4831,302,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,test,1,5722,360,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,test,2,19509,1221,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,test,3,2150,133,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,test,4,2104,131,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_4,test,5,2074,128,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_5,test,1,4544,285,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_5,test,2,50,4,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_5,test,3,31,2,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_5,test,4,1320,78,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_6,test,1,574,34,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_6,test,2,4560,283,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_7,test,1,4470,278,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_8,test,1,4526,283,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,test,1,4580,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,test,2,19656,1227,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,test,3,2142,131,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,test,4,2109,134,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Missing Component_9,test,5,2043,132,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_1,test,1,2477,151,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_1,test,2,2554,155,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_10,test,1,657,42,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,test,1,392,24,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,test,2,3874,241,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,test,3,166,9,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,test,4,754,45,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_2,test,5,729,43,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_3,test,1,4918,310,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_4,test,1,836,52,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_4,test,2,1279,76,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_4,test,3,5,1,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_5,test,1,976,68,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_6,test,1,693,43,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_7,test,1,450,30,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_8,test,1,558,35,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Scratch_9,test,1,308,19,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_1,test,1,1784,110,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_1,test,2,1266,76,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_10,test,1,5337,333,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_2,test,1,169,10,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_2,test,2,2069,130,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_3,test,1,1428,87,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_4,test,1,929,56,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_5,test,1,2782,176,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_5,test,2,109,7,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_6,test,1,736,46,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_6,test,2,7624,477,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,test,1,2577,159,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,test,2,968,59,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,test,3,1882,117,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,test,4,775,50,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_7,test,5,4133,256,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_8,test,1,1065,68,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_9,test,1,3815,237,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_-5%_Soldering Melt_9,test,2,1264,78,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_1,test,1,6613,409,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_10,test,1,375,26,"1,2,3,4",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_10,test,2,13519,844,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_2,test,1,4982,308,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_3,test,1,4476,278,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_4,test,1,4799,301,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_5,test,1,4517,282,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_6,test,1,4615,288,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_7,test,1,8196,506,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_7,test,2,91,5,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_7,test,3,101,5,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_7,test,4,803,52,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,1,40,3,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,2,53,4,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,3,2421,153,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,4,50,4,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,5,30,2,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,6,845,55,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_8,test,7,4488,282,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,test,1,7092,443,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,test,2,20237,1265,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,test,3,2047,125,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,test,4,2007,125,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Missing Component_9,test,5,2232,140,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_1,test,1,871,56,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_10,test,1,3748,238,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_2,test,1,1182,78,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_3,test,1,709,46,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_4,test,1,995,64,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_5,test,1,859,54,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_6,test,1,7060,441,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_6,test,2,943,56,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_7,test,1,831,54,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_8,test,1,437,21,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Scratch_9,test,1,1848,115,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_1,test,1,1292,86,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_1,test,2,71,5,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_10,test,1,912,55,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_2,test,1,210,12,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_2,test,2,4219,266,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_2,test,3,27,1,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_2,test,4,53,3,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_3,test,1,1253,77,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_4,test,1,1848,114,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_5,test,1,2178,135,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_6,test,1,451,31,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_6,test,2,6761,427,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_6,test,3,156,9,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_7,test,1,343,20,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_7,test,2,943,63,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_8,test,1,1272,75,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,Rotation,Test_PCB_Rotation_5%_Soldering Melt_9,test,1,1572,103,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512

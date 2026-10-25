@@ -1,0 +1,218 @@
+{
+  "run_id": "p0-diag-seed0",
+  "status": "awaiting_researcher_decision",
+  "purpose": "準備Pの診断用再推論。独立calibrationによる主評価ではない。",
+  "fit": {
+    "seed": 0,
+    "image_size": 512,
+    "val_ratio": 0.0,
+    "n_normal": 180,
+    "num_workers": 4
+  },
+  "split_144_36_applied": false,
+  "roi_added": false,
+  "undecided": [
+    "目標FPR",
+    "改善幅",
+    "同等性幅",
+    "連結領域の主統計量",
+    "144/36の採否",
+    "ROIの要否"
+  ],
+  "runs": [
+    {
+      "dataset": "metal_parts",
+      "model": "patchcore",
+      "domains": [
+        "SD",
+        "Scale"
+      ]
+    },
+    {
+      "dataset": "pcb",
+      "model": "patchcore",
+      "domains": [
+        "SD",
+        "Rotation",
+        "Position",
+        "Shadows"
+      ]
+    },
+    {
+      "dataset": "pcb",
+      "model": "padim",
+      "domains": [
+        "Lighting"
+      ]
+    }
+  ],
+  "storage_estimate": {
+    "patchcore_images": 986,
+    "padim_images": 210,
+    "assumed_coreset_patches": 73728,
+    "two_patchcore_banks_bytes": 905969664,
+    "padim_statistics_bytes": 661913600,
+    "maps_float16_bytes": 642007040,
+    "total_bytes": 2209890304,
+    "excluded": "CNN embeddings and the pre-blur full-resolution map. The latter is the upsample of the stored patch grid."
+  },
+  "disk_free_bytes": 3561525248,
+  "data": {
+    "metal_parts": {
+      "train_normal": {
+        "n": 180,
+        "name_size_sha256": "ed348982e6dbee1b27b795c5d18795199052b1edf052155abe95bb11e83b14de"
+      },
+      "domains": {
+        "SD": {
+          "normal": {
+            "n": 120,
+            "name_size_sha256": "d0c35176ac5ac5301b9a45ab56ee25872aac19dde085bd55dbb8092f8542fb58"
+          },
+          "anomaly": {
+            "n": 51,
+            "name_size_sha256": "5e9bb9c69aa2ec80c2a2b5530c3a3cc34c010d5fccb9ef32db002521c8dbf316"
+          }
+        },
+        "Scale": {
+          "normal": {
+            "n": 120,
+            "name_size_sha256": "c22bef418d575c5d7fa90b2597cfa136598bed6f201acd7d72cbb8669b7aaf87"
+          },
+          "anomaly": {
+            "n": 80,
+            "name_size_sha256": "fa85207a4936409f96debe71713962e82357906002e3c437e3cf15427d8f4dee"
+          }
+        }
+      }
+    },
+    "pcb": {
+      "train_normal": {
+        "n": 180,
+        "name_size_sha256": "344d6d063519556bfbb9586c9be2fe8d7e172328490243839c70e4a4cfd6d0d2"
+      },
+      "domains": {
+        "SD": {
+          "normal": {
+            "n": 120,
+            "name_size_sha256": "25ddd4e98b860ea8e968fe95161757fe3ffba4e15fd22b49ffb0f7acfc29b5f8"
+          },
+          "anomaly": {
+            "n": 75,
+            "name_size_sha256": "49472f646ffc7ce650971d6f54a5b7a64ae1d82959b43b0ab34ae7451ad76223"
+          }
+        },
+        "Lighting": {
+          "normal": {
+            "n": 120,
+            "name_size_sha256": "5a673d603ca69cf43e9a10b7554c2ae502a5375bb5d8caafc7335a85403abb96"
+          },
+          "anomaly": {
+            "n": 90,
+            "name_size_sha256": "809615867de9be72711a5426395dc98de3a97a03d270d487cf1e2d34e92fbf7b"
+          }
+        },
+        "Rotation": {
+          "normal": {
+            "n": 80,
+            "name_size_sha256": "478309b1cc0eb0d93d234e60ea4c36796de3574f77bf455493650737f2b3ae24"
+          },
+          "anomaly": {
+            "n": 60,
+            "name_size_sha256": "3ec2f803c29dbd41e4f645a0952fae3a11509f1d5dcf8d78c7049274983bed99"
+          }
+        },
+        "Position": {
+          "normal": {
+            "n": 80,
+            "name_size_sha256": "2b98987abe3eff1fe4abd2abc8fe455186fecb321dcca643af44acd47ea4e6e5"
+          },
+          "anomaly": {
+            "n": 60,
+            "name_size_sha256": "21b3f9822239c1d6bf393f10e1e14dc83a292a7d93000b9082899c60a5806357"
+          }
+        },
+        "Shadows": {
+          "normal": {
+            "n": 80,
+            "name_size_sha256": "ff4c801ec8d75be9004688a1ae310b76eb5d91b87841753909296733861148f7"
+          },
+          "anomaly": {
+            "n": 60,
+            "name_size_sha256": "26f9ca2338000b5dce755161ce283434ee16c6e800fbde8453819bf71acff790"
+          }
+        }
+      }
+    }
+  },
+  "environment": {
+    "run_id": "p0",
+    "status": "awaiting_researcher_decision",
+    "git_commit": "1abdfce8127c75689b979ce7b94ad232822ed16c",
+    "git_status": "M .gitignore\n?? P_CALIBRATION.md\n?? P_DECISIONS.md\n?? P_IMPLEMENTATION_AUDIT.md\n?? P_PROTOCOL.md\n?? P_REGION_DEFINITION.md\n?? P_REPORT.md\n?? P_SCORE_DEFINITION.md\n?? REPORT.pdf\n?? results_p0/\n?? src/robustad/prepare/\n?? tests/",
+    "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD",
+    "torch": "2.6.0+cu124",
+    "torchvision": "0.21.0+cu124",
+    "timm": "1.0.30",
+    "anomalib": "2.7.0",
+    "cuda": "12.4",
+    "cuda_available": true,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "weights": {
+      "padim": "resnet18",
+      "patchcore": "wide_resnet50_2",
+      "note": "anomalib 2.7 の既定（resnet18.a1_in1k / wide_resnet50_2.racm_in1k）",
+      "tags": [
+        "a1_in1k",
+        "racm_in1k"
+      ]
+    },
+    "image_size": 512,
+    "normalize_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalize_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "center_crop": false,
+    "preprocessor_padding": "なし。Resize のみ。GaussianBlur2d は出力サイズを保つ reflect padding。",
+    "padim": {
+      "backbone": "resnet18",
+      "layers": [
+        "layer1",
+        "layer2",
+        "layer3"
+      ],
+      "n_features": 100,
+      "image_score": "平滑化後異常マップの最大値",
+      "smooth_sigma": 4
+    },
+    "patchcore": {
+      "backbone": "wide_resnet50_2",
+      "layers": [
+        "layer2",
+        "layer3"
+      ],
+      "coreset_sampling_ratio": 0.1,
+      "stored_patch_count": "未測定",
+      "num_neighbors": 9,
+      "num_neighbors_applies_to": "最悪パッチの再重み付け。異常マップの近傍数は 1。",
+      "image_score": "再重み付けスコア。平滑化マップの最大値ではない。",
+      "smooth_sigma": 4,
+      "smooth_kernel": 33,
+      "smooth_radius": 16,
+      "upsample": "F.interpolate の既定。mode 引数なし。"
+    },
+    "fit": "val_ratio 0。公開 train/normal 180 枚をすべて fit。独立した calibration は未作成。",
+    "threshold_in_existing_results": "各テスト条件の正解で F1 を最大化。",
+    "caches_reused": "results*/runs/*.json の集計値と vis の cases.json。パッチ距離、平滑化前マップ、メモリバンクは保存されていない。",
+    "repo_root": "."
+  },
+  "reference_results": "results_a1"
+}

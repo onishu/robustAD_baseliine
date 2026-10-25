@@ -1,0 +1,112 @@
+run_id,model,seed,category,domain,image_id,split,component_id,area_original,area_resized_alone,joint_component_ids,status,score_definition,smoothing,region_definition
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_1,test,1,4442,275,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_10,test,1,4504,281,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_11,test,1,4838,298,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_12,test,1,4937,313,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_13,test,1,5123,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_14,test,1,4546,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_15,test,1,4465,275,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_16,test,1,4684,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_18,test,1,5053,313,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_19,test,1,4952,300,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_2,test,1,5106,335,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_20,test,1,4886,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_21,test,1,4488,275,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_22,test,1,5015,322,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_23,test,1,4698,287,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_24,test,1,4843,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_25,test,1,666,41,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_25,test,2,4599,312,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_26,test,1,4997,317,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_27,test,1,4370,265,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_28,test,1,4443,275,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_29,test,1,4554,282,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_3,test,1,5033,312,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_30,test,1,1039,65,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_30,test,2,4770,304,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_31,test,1,4569,285,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Missing Component_32,test,1,4553,287,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_1,test,1,636,40,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_10,test,1,454,31,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_11,test,1,1660,104,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_12,test,1,389,27,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_13,test,1,1744,110,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_13,test,2,725,44,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_13,test,3,1712,109,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_14,test,1,6494,406,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_14,test,2,2444,149,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_14,test,3,1455,90,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_14,test,4,904,56,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_15,test,1,2104,131,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_16,test,1,1674,108,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_17,test,1,86,3,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_17,test,2,497,30,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_17,test,3,178,10,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_18,test,1,562,36,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_19,test,1,620,49,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_2,test,1,728,43,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_20,test,1,466,28,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_21,test,1,436,26,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_22,test,1,613,37,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_23,test,1,560,37,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_24,test,1,375,21,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_25,test,1,302,18,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_26,test,1,3409,217,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_26,test,2,531,30,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,1,70,5,"1,2,3,4,5",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,2,20,1,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,3,10,0,,入力変換による評価不能,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,4,11,1,7,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,5,10,1,8,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,6,9,1,9,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_27,test,7,1756,113,10,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_28,test,1,2584,160,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_28,test,2,431,25,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_28,test,3,11,1,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_28,test,4,2468,152,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_28,test,5,478,31,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_29,test,1,839,54,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_3,test,1,377,24,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_30,test,1,465,30,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Scratch_31,test,1,883,54,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_1,test,1,5345,334,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_10,test,1,548,34,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_11,test,1,1388,87,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_12,test,1,729,47,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_13,test,1,1097,67,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_14,test,1,517,30,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_15,test,1,1849,115,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_16,test,1,923,55,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_17,test,1,1777,111,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_18,test,1,1928,120,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_19,test,1,717,44,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_2,test,1,1784,110,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_2,test,2,1110,68,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,test,1,659,40,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,test,2,2275,142,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,test,3,336,20,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,test,4,387,22,"4,5",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_20,test,5,1729,106,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_21,test,1,3773,234,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_22,test,1,1741,112,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_22,test,2,164,12,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_22,test,3,325,21,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_22,test,4,369,24,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_23,test,1,799,49,"1,2,3",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_24,test,1,1579,97,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_25,test,1,1287,83,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_26,test,1,1520,98,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,test,1,7386,461,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,test,2,143,9,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,test,3,528,33,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,test,4,78,4,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_27,test,5,602,38,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_28,test,1,378,27,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_28,test,2,1012,59,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_29,test,1,2600,159,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_29,test,2,31,3,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_29,test,3,26,2,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_3,test,1,886,57,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_30,test,1,428,31,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_30,test,2,4124,254,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,patchcore,0,pcb,SD,Test_PCB_None_None_Soldering Melt_31,test,1,2097,132,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512

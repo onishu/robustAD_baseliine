@@ -1,0 +1,163 @@
+run_id,model,seed,category,domain,image_id,split,component_id,area_original,area_resized_alone,joint_component_ids,status,score_definition,smoothing,region_definition
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_1,test,1,4791,300,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_10,test,1,4945,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_2,test,1,1448,93,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_2,test,2,4757,287,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_3,test,1,4403,280,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_4,test,1,13058,805,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_5,test,1,7209,450,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_6,test,1,4606,287,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_6,test,2,19239,1225,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_7,test,1,5118,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_8,test,1,4690,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Missing Component_9,test,1,6664,420,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_1,test,1,696,43,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_10,test,1,885,56,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_2,test,1,700,43,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_3,test,1,530,32,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_4,test,1,2453,148,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_5,test,1,999,61,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_6,test,1,721,45,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_6,test,2,764,49,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,1,489,28,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,2,1722,110,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,3,458,28,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,4,1433,92,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,5,205,12,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,6,1161,75,"6,7",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_7,test,7,486,27,"8,9",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_8,test,1,47,4,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_8,test,2,99,6,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_8,test,3,5040,315,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_9,test,1,4963,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Scratch_9,test,2,675,40,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_1,test,1,6323,395,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_10,test,1,922,55,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_2,test,1,1410,91,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_3,test,1,8490,529,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_4,test,1,3631,225,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_5,test,1,2914,178,"1,3,4",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_5,test,2,93,6,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_6,test,1,1111,73,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_7,test,1,1890,114,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_7,test,2,24,1,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_7,test,3,46,1,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_8,test,1,1384,90,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_9,test,1,131,9,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Afternoon_Soldering Melt_9,test,2,402,22,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_1,test,1,29503,1826,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_10,test,1,5120,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_2,test,1,1,0,,入力変換による評価不能,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_2,test,2,393,27,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_2,test,3,6265,374,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_3,test,1,4475,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_4,test,1,13535,858,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_5,test,1,4920,310,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_6,test,1,4929,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,1,4796,301,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,2,372,24,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,3,18997,1177,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,4,2366,149,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,5,2214,137,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_7,test,6,2056,122,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_8,test,1,4640,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Missing Component_9,test,1,4588,290,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_1,test,1,900,57,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_10,test,1,433,26,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_2,test,1,642,41,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_3,test,1,885,56,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_4,test,1,6476,396,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_5,test,1,206,13,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_5,test,2,54,5,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_5,test,3,29,2,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_5,test,4,162,9,"5,6,7,8,9",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_6,test,1,930,69,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_6,test,2,7019,444,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_6,test,3,376,24,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_7,test,1,1020,65,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_8,test,1,2114,132,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_8,test,2,197,12,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Scratch_9,test,1,651,41,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_1,test,1,933,57,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_10,test,1,4794,294,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_10,test,2,2285,143,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_10,test,3,475,29,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_10,test,4,551,35,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_2,test,1,1914,121,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_2,test,2,1993,127,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_2,test,3,4343,256,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,test,1,1472,95,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,test,2,1108,72,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,test,3,1851,111,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,test,4,779,44,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_3,test,5,4627,287,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_4,test,1,769,51,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_5,test,1,7988,494,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_6,test,1,1488,92,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_7,test,1,628,40,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,1,1418,88,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,2,348,23,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,3,135,8,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,4,205,12,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,5,223,14,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,6,423,26,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,7,505,31,7,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_8,test,8,54,3,8,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,1,1013,63,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,2,2357,149,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,3,45,3,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,4,19,2,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,5,570,34,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,6,480,31,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,7,10,1,6,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Evening_Soldering Melt_9,test,8,23,2,7,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_1,test,1,4443,286,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_10,test,1,4649,290,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_2,test,1,4820,315,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_3,test,1,554,32,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_3,test,2,13077,812,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_4,test,1,5032,307,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_5,test,1,5136,324,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_6,test,1,5164,313,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_7,test,1,7518,468,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_7,test,2,19218,1199,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_8,test,1,5002,312,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_8,test,2,2019,127,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_9,test,1,764,48,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Missing Component_9,test,2,4357,275,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_1,test,1,1860,115,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_1,test,2,837,52,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_1,test,3,1835,115,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_10,test,1,4004,252,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_2,test,1,572,35,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_3,test,1,1829,112,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_3,test,2,293,19,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_4,test,1,675,44,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_5,test,1,3177,200,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_5,test,2,429,27,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_6,test,1,384,24,"1,2",evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_6,test,2,105,8,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_6,test,3,398,27,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_7,test,1,1130,70,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_8,test,1,2328,143,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Scratch_9,test,1,5934,368,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_1,test,1,5488,345,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_1,test,2,1767,105,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_10,test,1,1581,97,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_2,test,1,748,50,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_2,test,2,25,1,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_2,test,3,6843,431,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_3,test,1,1063,67,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_4,test,1,538,35,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_4,test,2,2522,154,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_4,test,3,420,26,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_4,test,4,435,26,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_5,test,1,5424,339,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,test,1,1818,114,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,test,2,764,49,2,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,test,3,1406,83,3,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,test,4,528,33,4,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_6,test,5,4292,267,5,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_7,test,1,2490,155,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_8,test,1,1455,90,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
+p0-diag-seed0,padim,0,pcb,Lighting,Test_PCB_Lighting_Morning_Soldering Melt_9,test,1,499,31,1,evaluable,not_a_threshold,not_applied_to_component_status,original_component_to_nearest_512
