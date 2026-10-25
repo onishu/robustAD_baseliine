@@ -17,3 +17,6 @@ results_p0/**/*.npz
 results_a0/lightning/
 results_a0/**/*.pt
 results_a0/**/*.npz
+results_a0_boundary/lightning/
+results_a0_boundary/**/*.pt
+results_a0_boundary/**/*.npz

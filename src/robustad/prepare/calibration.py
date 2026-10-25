@@ -20,11 +20,13 @@ from robustad.prepare.spec import (
 
 
 def empirical_threshold(normal_scores: np.ndarray, target_fpr: float) -> float:
-    """Smallest score at which the normal tail is at most ``target_fpr``.
+    """Quantile at ``1 - target_fpr``. For 0.05 this is the 95% quantile.
 
-    The score is the empirical quantile at ``1 - target_fpr``. With ``n``
-    normals, rates below ``1/n`` are not identifiable; the caller decides
-    whether that candidate is usable.
+    ``np.quantile(..., method="linear")`` interpolates between order
+    statistics, so the threshold need not equal a sample. A later comparison
+    treats every score greater than or equal to that threshold as anomalous,
+    including exact ties. With ``n`` normals, rates below ``1/n`` are not
+    identifiable; the caller decides whether that candidate is usable.
     """
 
     if not 0.0 < target_fpr < 1.0:
@@ -38,6 +40,8 @@ def empirical_threshold(normal_scores: np.ndarray, target_fpr: float) -> float:
 
 
 def realized_fpr(normal_scores: np.ndarray, threshold: float) -> dict[str, float]:
+    """Count scores greater than or equal to ``threshold``. Ties are positives."""
+
     scores = np.asarray(normal_scores, dtype=np.float64).reshape(-1)
     finite = scores[np.isfinite(scores)]
     if finite.size == 0:

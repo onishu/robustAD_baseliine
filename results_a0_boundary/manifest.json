@@ -1,0 +1,65 @@
+{
+  "label": "反射延長でfill混入を抑えた対照",
+  "not_called": [
+    "真の画像外情報の復元",
+    "境界影響の完全除去",
+    "実用的改善",
+    "同等",
+    "既知変換による性能上限"
+  ],
+  "margin_pixels": 22,
+  "margin_rule": "approved geometric width; increased only if the sequential fill probe entered the center crop",
+  "conditions": [
+    {
+      "name": "pad_warp_0",
+      "angles": [
+        0.0
+      ],
+      "source_condition": "warp_0"
+    },
+    {
+      "name": "pad_synthetic_m5",
+      "angles": [
+        -5.0
+      ],
+      "source_condition": "synthetic_m5"
+    },
+    {
+      "name": "pad_synthetic_p5",
+      "angles": [
+        5.0
+      ],
+      "source_condition": "synthetic_p5"
+    },
+    {
+      "name": "pad_restore_m5",
+      "angles": [
+        -5.0,
+        5.0
+      ],
+      "source_condition": "restore_m5"
+    },
+    {
+      "name": "pad_restore_p5",
+      "angles": [
+        5.0,
+        -5.0
+      ],
+      "source_condition": "restore_p5"
+    }
+  ],
+  "source_images": 195,
+  "forwards": 975,
+  "bank": "results_a0\\bank\\pcb__patchcore__seed0.pt",
+  "refit": false,
+  "recalibrate": false,
+  "disk_free_bytes_before_score": 22231527424,
+  "source_conditions_present": [
+    "original",
+    "warp_0",
+    "synthetic_m5",
+    "synthetic_p5",
+    "restore_m5",
+    "restore_p5"
+  ]
+}

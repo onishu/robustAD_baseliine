@@ -1,0 +1,67 @@
+{
+  "protocol": "synthetic_sd_rotation",
+  "real_rotation_folder_used": false,
+  "angle_meaning": "synthetic experiment setting, not RobustAD ±5%",
+  "conditions": [
+    {
+      "name": "original",
+      "angles": []
+    },
+    {
+      "name": "warp_0",
+      "angles": [
+        0.0
+      ]
+    },
+    {
+      "name": "synthetic_m5",
+      "angles": [
+        -5.0
+      ]
+    },
+    {
+      "name": "synthetic_p5",
+      "angles": [
+        5.0
+      ]
+    },
+    {
+      "name": "restore_m5",
+      "angles": [
+        -5.0,
+        5.0
+      ]
+    },
+    {
+      "name": "restore_p5",
+      "angles": [
+        5.0,
+        -5.0
+      ]
+    }
+  ],
+  "quantile": "np.quantile(scores, 1 - 0.05, method='linear')",
+  "decision": "score >= threshold; ties count as anomalous",
+  "fit_images": 144,
+  "calibration_images": 36,
+  "capacity": {
+    "output_dir": "C:\\workspace\\robustad\\results_a0",
+    "disk_free_bytes": 4105060352,
+    "estimate": {
+      "coreset_patches": 58982,
+      "bank_bytes": 362385408,
+      "scored_condition_images": 1170,
+      "calibration_images": 36,
+      "patch_grids_bytes": 19169280,
+      "valid_masks_bytes": 1835008,
+      "total_bytes": 383389696
+    },
+    "model_was_fit": false,
+    "free_exceeds_estimate": true,
+    "runtime_note": "p0 の PatchCore 180 枚は coreset 約 11 分、その後 200 枚の推論が約 3 分だった。今回の推論は SD 195 枚×6 条件で 1170 枚。見込は fit 7–12 分、推論 15–25 分、合計 25–40 分。計測した所要時間ではない。実撮影 Rotation 140 枚は含まない。"
+  },
+  "do_not_modify": [
+    "results_a1",
+    "results_p0/diag"
+  ]
+}

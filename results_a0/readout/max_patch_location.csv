@@ -1,0 +1,1171 @@
+source_id,condition,label,argmax_row,argmax_col,n_tied_max,relation,chebyshev_cells_to_invalid
+Test_PCB_resized_None_None_Normal_Set2_181,original,0,10,43,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_181,warp_0,0,10,43,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_181,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_181,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_181,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_181,restore_p5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_182,original,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_182,warp_0,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_182,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_182,synthetic_p5,0,4,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_182,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_182,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_183,original,0,19,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_183,warp_0,0,19,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_183,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_183,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_183,restore_m5,0,60,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_183,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_184,original,0,36,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_184,warp_0,0,36,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_184,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_184,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_184,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_184,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_185,original,0,41,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_185,warp_0,0,41,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_185,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_185,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_185,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_185,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_186,original,0,16,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_186,warp_0,0,16,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_186,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_186,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_186,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_186,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_187,original,0,24,50,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_187,warp_0,0,24,50,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_187,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_187,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_187,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_187,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_188,original,0,36,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_188,warp_0,0,36,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_188,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_188,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_188,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_188,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_189,original,0,37,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_189,warp_0,0,37,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_189,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_189,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_189,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_189,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_190,original,0,18,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_190,warp_0,0,18,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_190,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_190,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_190,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_190,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_191,original,0,38,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_191,warp_0,0,38,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_191,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_191,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_191,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_191,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_192,original,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_192,warp_0,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_192,synthetic_m5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_192,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_192,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_192,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_193,original,0,18,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_193,warp_0,0,18,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_193,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_193,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_193,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_193,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_194,original,0,3,61,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_194,warp_0,0,3,61,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_194,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_194,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_194,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_194,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_195,original,0,39,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_195,warp_0,0,39,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_195,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_195,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_195,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_195,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_196,original,0,36,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_196,warp_0,0,36,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_196,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_196,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_196,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_196,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_197,original,0,25,48,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_197,warp_0,0,25,48,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_197,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_197,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_197,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_197,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_198,original,0,14,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_198,warp_0,0,14,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_198,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_198,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_198,restore_m5,0,61,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_198,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_199,original,0,39,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_199,warp_0,0,39,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_199,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_199,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_199,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_199,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_200,original,0,22,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_200,warp_0,0,22,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_200,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_200,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_200,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_200,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_201,original,0,42,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_201,warp_0,0,42,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_201,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_201,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_201,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_201,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_202,original,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_202,warp_0,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_202,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_202,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_202,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_202,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_203,original,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_203,warp_0,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_203,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_203,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_203,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_203,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_204,original,0,15,32,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_204,warp_0,0,15,32,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_204,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_204,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_204,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_204,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_205,original,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_205,warp_0,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_205,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_205,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_205,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_205,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_206,original,0,36,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_206,warp_0,0,36,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_206,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_206,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_206,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_206,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_207,original,0,36,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_207,warp_0,0,36,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_207,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_207,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_207,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_207,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_208,original,0,39,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_208,warp_0,0,39,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_208,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_208,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_208,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_208,restore_p5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_209,original,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_209,warp_0,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_209,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_209,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_209,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_209,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_210,original,0,38,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_210,warp_0,0,38,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_210,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_210,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_210,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_210,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_211,original,0,35,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_211,warp_0,0,35,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_211,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_211,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_211,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_211,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_212,original,0,33,11,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_212,warp_0,0,33,11,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_212,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_212,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_212,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_212,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_213,original,0,40,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_213,warp_0,0,40,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_213,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_213,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_213,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_213,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_214,original,0,18,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_214,warp_0,0,18,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_214,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_214,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_214,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_214,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_215,original,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_215,warp_0,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_215,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_215,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_215,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_215,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_216,original,0,25,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_216,warp_0,0,25,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_216,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_216,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_216,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_216,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_217,original,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_217,warp_0,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_217,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_217,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_217,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_217,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_218,original,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_218,warp_0,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_218,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_218,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_218,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_218,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_219,original,0,4,43,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_219,warp_0,0,4,43,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_219,synthetic_m5,0,60,62,1,tied_max_fully_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_219,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_219,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_219,restore_p5,0,60,60,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_220,original,0,24,59,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_220,warp_0,0,24,59,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_220,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_220,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_220,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_220,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_221,original,0,36,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_221,warp_0,0,36,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_221,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_221,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_221,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_221,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_222,original,0,61,45,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_222,warp_0,0,61,45,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_222,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_222,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_222,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_222,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_223,original,0,37,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_223,warp_0,0,37,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_223,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_223,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_223,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_223,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_224,original,0,17,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_224,warp_0,0,17,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_224,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_224,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_224,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_224,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_225,original,0,33,10,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_225,warp_0,0,33,10,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_225,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_225,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_225,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_225,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_226,original,0,42,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_226,warp_0,0,42,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_226,synthetic_m5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_226,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_226,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_226,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_227,original,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_227,warp_0,0,42,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_227,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_227,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_227,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_227,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_228,original,0,37,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_228,warp_0,0,37,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_228,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_228,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_228,restore_m5,0,60,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_228,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_229,original,0,44,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_229,warp_0,0,44,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_229,synthetic_m5,0,2,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_229,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_229,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_229,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_230,original,0,18,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_230,warp_0,0,18,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_230,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_230,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_230,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_230,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_231,original,0,20,11,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_231,warp_0,0,20,11,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_231,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_231,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_231,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_231,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_232,original,0,13,30,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_232,warp_0,0,13,30,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_232,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_232,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_232,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_232,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_233,original,0,46,49,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_233,warp_0,0,46,49,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_233,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_233,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_233,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_233,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_234,original,0,53,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_234,warp_0,0,53,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_234,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_234,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_234,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_234,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_235,original,0,28,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_235,warp_0,0,28,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_235,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_235,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_235,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_235,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_236,original,0,22,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_236,warp_0,0,22,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_236,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_236,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_236,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_236,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_237,original,0,7,42,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_237,warp_0,0,7,42,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_237,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_237,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_237,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_237,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_238,original,0,34,40,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_238,warp_0,0,34,40,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_238,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_238,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_238,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_238,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_239,original,0,54,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_239,warp_0,0,54,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_239,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_239,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_239,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_239,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_240,original,0,17,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_240,warp_0,0,17,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_240,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_240,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_240,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_240,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_241,original,0,24,59,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_241,warp_0,0,24,59,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_241,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_241,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_241,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_241,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_242,original,0,12,24,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_242,warp_0,0,12,24,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_242,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_242,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_242,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_242,restore_p5,0,60,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_243,original,0,42,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_243,warp_0,0,42,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_243,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_243,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_243,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_243,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_244,original,0,37,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_244,warp_0,0,37,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_244,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_244,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_244,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_244,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_245,original,0,11,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_245,warp_0,0,11,23,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_245,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_245,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_245,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_245,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_246,original,0,39,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_246,warp_0,0,39,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_246,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_246,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_246,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_246,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_247,original,0,14,30,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_247,warp_0,0,14,30,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_247,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_247,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_247,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_247,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_248,original,0,43,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_248,warp_0,0,43,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_248,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_248,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_248,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_248,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_249,original,0,22,46,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_249,warp_0,0,22,46,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_249,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_249,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_249,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_249,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_250,original,0,19,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_250,warp_0,0,19,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_250,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_250,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_250,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_250,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_251,original,0,20,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_251,warp_0,0,20,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_251,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_251,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_251,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_251,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_252,original,0,12,44,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_252,warp_0,0,12,44,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_252,synthetic_m5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_252,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_252,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_252,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_253,original,0,15,22,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_253,warp_0,0,15,22,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_253,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_253,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_253,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_253,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_254,original,0,2,41,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_254,warp_0,0,2,41,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_254,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_254,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_254,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_254,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_255,original,0,33,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_255,warp_0,0,33,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_255,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_255,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_255,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_255,restore_p5,0,3,60,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_256,original,0,15,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_256,warp_0,0,15,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_256,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_256,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_256,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_256,restore_p5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_257,original,0,38,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_257,warp_0,0,38,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_257,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_257,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_257,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_257,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_258,original,0,16,24,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_258,warp_0,0,16,24,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_258,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_258,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_258,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_258,restore_p5,0,2,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_259,original,0,22,31,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_259,warp_0,0,22,31,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_259,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_259,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_259,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_259,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_260,original,0,20,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_260,warp_0,0,20,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_260,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_260,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_260,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_260,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_261,original,0,31,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_261,warp_0,0,31,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_261,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_261,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_261,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_261,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_262,original,0,37,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_262,warp_0,0,37,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_262,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_262,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_262,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_262,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_263,original,0,24,60,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_263,warp_0,0,24,60,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_263,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_263,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_263,restore_m5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_263,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_264,original,0,55,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_264,warp_0,0,55,3,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_264,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_264,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_264,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_264,restore_p5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_265,original,0,19,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_265,warp_0,0,19,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_265,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_265,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_265,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_265,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_266,original,0,23,58,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_266,warp_0,0,23,58,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_266,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_266,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_266,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_266,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_267,original,0,41,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_267,warp_0,0,41,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_267,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_267,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_267,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_267,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_268,original,0,37,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_268,warp_0,0,37,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_268,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_268,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_268,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_268,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_269,original,0,36,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_269,warp_0,0,36,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_269,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_269,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_269,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_269,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_270,original,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_270,warp_0,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_270,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_270,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_270,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_270,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_271,original,0,57,26,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_271,warp_0,0,57,26,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_271,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_271,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_271,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_271,restore_p5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_272,original,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_272,warp_0,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_272,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_272,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_272,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_272,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_273,original,0,17,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_273,warp_0,0,17,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_273,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_273,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_273,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_273,restore_p5,0,2,60,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_274,original,0,42,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_274,warp_0,0,42,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_274,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_274,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_274,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_274,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_275,original,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_275,warp_0,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_275,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_275,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_275,restore_m5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_275,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_276,original,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_276,warp_0,0,39,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_276,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_276,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_276,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_276,restore_p5,0,61,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_277,original,0,36,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_277,warp_0,0,36,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_277,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_277,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_277,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_277,restore_p5,0,61,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_278,original,0,19,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_278,warp_0,0,19,17,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_278,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_278,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_278,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_278,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_279,original,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_279,warp_0,0,57,25,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_279,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_279,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_279,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_279,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_280,original,0,21,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_280,warp_0,0,21,16,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_280,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_280,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_280,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_280,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_281,original,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_281,warp_0,0,39,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_281,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_281,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_281,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_281,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_282,original,0,16,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_282,warp_0,0,16,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_282,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_282,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_282,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_282,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_283,original,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_283,warp_0,0,40,19,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_283,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_283,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_283,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_283,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_284,original,0,30,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_284,warp_0,0,30,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_284,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_284,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_284,restore_m5,0,60,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_284,restore_p5,0,61,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_285,original,0,21,12,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_285,warp_0,0,21,12,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_285,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_285,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_285,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_285,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_286,original,0,41,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_286,warp_0,0,41,20,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_286,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_286,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_286,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_286,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_287,original,0,29,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_287,warp_0,0,29,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_287,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_287,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_287,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_287,restore_p5,0,2,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_288,original,0,43,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_288,warp_0,0,43,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_288,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_288,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_288,restore_m5,0,2,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_288,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_289,original,0,33,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_289,warp_0,0,33,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_289,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_289,synthetic_p5,0,60,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_289,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_289,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_290,original,0,42,37,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_290,warp_0,0,42,37,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_290,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_290,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_290,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_290,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_291,original,0,40,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_291,warp_0,0,40,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_291,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_291,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_291,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_291,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_292,original,0,39,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_292,warp_0,0,39,18,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_292,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_292,synthetic_p5,0,60,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_292,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_292,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_293,original,0,33,12,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_293,warp_0,0,33,12,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_293,synthetic_m5,0,59,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_293,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_293,restore_m5,0,60,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_293,restore_p5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_294,original,0,40,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_294,warp_0,0,40,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_294,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_294,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_294,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_294,restore_p5,0,3,61,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_295,original,0,38,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_295,warp_0,0,38,13,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_295,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_295,synthetic_p5,0,60,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_295,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_295,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_296,original,0,38,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_296,warp_0,0,38,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_296,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_296,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_296,restore_m5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_296,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_297,original,0,41,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_297,warp_0,0,41,14,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_297,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_297,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_297,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_297,restore_p5,0,61,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_298,original,0,38,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_298,warp_0,0,38,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_298,synthetic_m5,0,60,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_298,synthetic_p5,0,2,3,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_298,restore_m5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_298,restore_p5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_299,original,0,21,36,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_299,warp_0,0,21,36,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_299,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_299,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_299,restore_m5,0,3,60,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_299,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_300,original,0,37,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_300,warp_0,0,37,15,1,tied_max_fully_valid,
+Test_PCB_resized_None_None_Normal_Set2_300,synthetic_m5,0,3,2,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_300,synthetic_p5,0,3,61,1,tied_max_touches_invalid,0
+Test_PCB_resized_None_None_Normal_Set2_300,restore_m5,0,3,2,1,tied_max_fully_valid,1
+Test_PCB_resized_None_None_Normal_Set2_300,restore_p5,0,3,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_1,original,1,55,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_1,warp_0,1,55,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_1,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_1,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_1,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_1,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_10,original,1,46,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_10,warp_0,1,46,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_10,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_10,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_10,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_10,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_11,original,1,18,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_11,warp_0,1,18,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_11,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_11,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_11,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_11,restore_p5,1,2,60,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_12,original,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_12,warp_0,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_12,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_12,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_12,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_12,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_13,original,1,20,50,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_13,warp_0,1,20,50,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_13,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_13,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_13,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_13,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_14,original,1,57,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_14,warp_0,1,57,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_14,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_14,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_14,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_14,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_15,original,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_15,warp_0,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_15,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_15,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_15,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_15,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_16,original,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_16,warp_0,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_16,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_16,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_16,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_16,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_18,original,1,15,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_18,warp_0,1,15,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_18,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_18,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_18,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_18,restore_p5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_19,original,1,4,61,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_19,warp_0,1,4,61,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_19,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_19,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_19,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_19,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_2,original,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_2,warp_0,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_2,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_2,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_2,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_2,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_20,original,1,21,38,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_20,warp_0,1,21,38,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_20,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_20,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_20,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_20,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_21,original,1,57,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_21,warp_0,1,57,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_21,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_21,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_21,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_21,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_22,original,1,46,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_22,warp_0,1,46,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_22,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_22,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_22,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_22,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_23,original,1,43,40,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_23,warp_0,1,43,40,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_23,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_23,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_23,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_23,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_24,original,1,39,19,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_24,warp_0,1,39,19,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_24,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_24,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_24,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_24,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_25,original,1,55,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_25,warp_0,1,55,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_25,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_25,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_25,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_25,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_26,original,1,58,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_26,warp_0,1,58,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_26,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_26,synthetic_p5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_26,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_26,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_27,original,1,57,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_27,warp_0,1,57,46,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_27,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_27,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_27,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_27,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_28,original,1,35,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_28,warp_0,1,35,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_28,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_28,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_28,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_28,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_29,original,1,53,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_29,warp_0,1,53,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_29,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_29,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_29,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_29,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_3,original,1,47,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_3,warp_0,1,47,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_3,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_3,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_3,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_3,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_30,original,1,22,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_30,warp_0,1,22,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_30,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_30,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_30,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_30,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_31,original,1,44,39,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_31,warp_0,1,44,39,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_31,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_31,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_31,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_31,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_32,original,1,19,25,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_32,warp_0,1,19,25,1,tied_max_fully_valid,
+Test_PCB_None_None_Missing Component_32,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_32,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Missing Component_32,restore_m5,1,3,2,1,tied_max_fully_valid,1
+Test_PCB_None_None_Missing Component_32,restore_p5,1,2,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Scratch_1,original,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_1,warp_0,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_1,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_1,synthetic_p5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_1,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_1,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_10,original,1,19,36,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_10,warp_0,1,19,36,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_10,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_10,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_10,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_10,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_11,original,1,43,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_11,warp_0,1,43,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_11,synthetic_m5,1,2,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_11,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_11,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_11,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Scratch_12,original,1,22,60,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_12,warp_0,1,22,60,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_12,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_12,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_12,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_12,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_13,original,1,30,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_13,warp_0,1,30,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_13,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_13,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_13,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_13,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_14,original,1,22,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_14,warp_0,1,22,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_14,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_14,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_14,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_14,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_15,original,1,18,22,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_15,warp_0,1,18,22,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_15,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_15,synthetic_p5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_15,restore_m5,1,60,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Scratch_15,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_16,original,1,4,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_16,warp_0,1,4,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_16,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_16,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_16,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_16,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_17,original,1,48,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_17,warp_0,1,48,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_17,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_17,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_17,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_17,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_18,original,1,57,7,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_18,warp_0,1,57,7,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_18,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_18,synthetic_p5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_18,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_18,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_19,original,1,19,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_19,warp_0,1,19,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_19,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_19,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_19,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_19,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_2,original,1,62,43,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_2,warp_0,1,62,43,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_2,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_2,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_2,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_2,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_20,original,1,39,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_20,warp_0,1,39,17,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_20,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_20,synthetic_p5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_20,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_20,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_21,original,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_21,warp_0,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_21,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_21,synthetic_p5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_21,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_21,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_22,original,1,60,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_22,warp_0,1,60,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_22,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_22,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_22,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_22,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_23,original,1,54,42,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_23,warp_0,1,54,42,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_23,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_23,synthetic_p5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_23,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_23,restore_p5,1,61,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_24,original,1,38,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_24,warp_0,1,38,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_24,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_24,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_24,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_24,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_25,original,1,60,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_25,warp_0,1,60,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_25,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_25,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_25,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_25,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_26,original,1,2,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_26,warp_0,1,2,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_26,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_26,synthetic_p5,1,7,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_26,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_26,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_27,original,1,17,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_27,warp_0,1,17,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_27,synthetic_m5,1,2,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_27,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_27,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_27,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Scratch_28,original,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_28,warp_0,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_28,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_28,synthetic_p5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_28,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_28,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_29,original,1,17,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_29,warp_0,1,17,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_29,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_29,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_29,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_29,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_3,original,1,60,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_3,warp_0,1,60,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_3,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_3,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_3,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_3,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_30,original,1,4,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_30,warp_0,1,4,62,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_30,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_30,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_30,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_30,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_31,original,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_31,warp_0,1,56,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Scratch_31,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_31,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_31,restore_m5,1,60,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Scratch_31,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_1,original,1,19,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_1,warp_0,1,19,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_1,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_1,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_1,restore_m5,1,3,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_1,restore_p5,1,3,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_10,original,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_10,warp_0,1,55,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_10,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_10,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_10,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_10,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_11,original,1,57,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_11,warp_0,1,57,8,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_11,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_11,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_11,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_11,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_12,original,1,4,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_12,warp_0,1,4,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_12,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_12,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_12,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_12,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_13,original,1,37,41,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_13,warp_0,1,37,41,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_13,synthetic_m5,1,59,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_13,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_13,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_13,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_14,original,1,28,15,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_14,warp_0,1,28,15,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_14,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_14,synthetic_p5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_14,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_14,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_15,original,1,22,16,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_15,warp_0,1,22,16,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_15,synthetic_m5,1,59,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_15,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_15,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_15,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_16,original,1,38,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_16,warp_0,1,38,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_16,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_16,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_16,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_16,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_17,original,1,9,14,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_17,warp_0,1,9,14,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_17,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_17,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_17,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_17,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_18,original,1,57,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_18,warp_0,1,57,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_18,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_18,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_18,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_18,restore_p5,1,2,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_19,original,1,39,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_19,warp_0,1,39,20,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_19,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_19,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_19,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_19,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_2,original,1,29,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_2,warp_0,1,29,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_2,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_2,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_2,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_2,restore_p5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_20,original,1,35,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_20,warp_0,1,35,37,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_20,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_20,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_21,original,1,39,30,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_21,warp_0,1,39,30,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_21,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_21,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_21,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_21,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_22,original,1,4,31,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_22,warp_0,1,4,31,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_22,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_22,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_22,restore_m5,1,2,3,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_22,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_23,original,1,16,25,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_23,warp_0,1,16,25,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_23,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_23,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_23,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_23,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_24,original,1,30,40,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_24,warp_0,1,30,40,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_24,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_24,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_24,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_24,restore_p5,1,2,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_25,original,1,48,53,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_25,warp_0,1,48,53,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_25,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_25,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_25,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_25,restore_p5,1,2,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_26,original,1,37,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_26,warp_0,1,37,18,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_26,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_26,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_26,restore_m5,1,2,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_26,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_27,original,1,21,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_27,warp_0,1,21,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_27,restore_m5,1,3,2,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_27,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_28,original,1,45,47,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_28,warp_0,1,45,47,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_28,synthetic_m5,1,59,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_28,synthetic_p5,1,7,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_28,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_28,restore_p5,1,3,61,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_29,original,1,46,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_29,warp_0,1,46,32,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_29,synthetic_m5,1,59,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_29,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_29,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_29,restore_p5,1,3,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_3,original,1,18,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_3,warp_0,1,18,21,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_3,synthetic_m5,1,60,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_3,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_3,restore_m5,1,2,60,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_3,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_30,original,1,48,23,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_30,warp_0,1,48,23,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_30,synthetic_m5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_30,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_30,restore_m5,1,3,3,1,tied_max_fully_valid,1
+Test_PCB_None_None_Soldering Melt_30,restore_p5,1,3,2,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_31,original,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_31,warp_0,1,56,9,1,tied_max_fully_valid,
+Test_PCB_None_None_Soldering Melt_31,synthetic_m5,1,2,60,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_31,synthetic_p5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_31,restore_m5,1,3,61,1,tied_max_touches_invalid,0
+Test_PCB_None_None_Soldering Melt_31,restore_p5,1,3,61,1,tied_max_fully_valid,1

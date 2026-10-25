@@ -1,0 +1,667 @@
+source_id,condition,component_id,statistic_common,n_intersecting_cells,pixel_bbox_height,pixel_bbox_width,cell_bbox_height,cell_bbox_width,detected,status_input
+Test_PCB_None_None_Missing Component_1,original,1,33.41108703613281,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_1,warp_0,1,33.41108703613281,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_1,synthetic_m5,1,36.51799011230469,10,13,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_1,synthetic_p5,1,35.26247787475586,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_1,restore_m5,1,34.858375549316406,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_1,restore_p5,1,35.00714111328125,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,original,1,32.348716735839844,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,warp_0,1,32.348716735839844,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,synthetic_m5,1,38.792301177978516,12,13,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,synthetic_p5,1,38.3876953125,11,13,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,restore_m5,1,33.844398498535156,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_10,restore_p5,1,33.40489196777344,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_11,original,1,29.077163696289062,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_11,warp_0,1,29.077163696289062,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_11,synthetic_m5,1,35.20056915283203,8,14,28,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_11,synthetic_p5,1,36.579322814941406,8,14,28,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_11,restore_m5,1,33.35537338256836,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_11,restore_p5,1,33.241920471191406,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_12,original,1,30.901477813720703,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_12,warp_0,1,30.901477813720703,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_12,synthetic_m5,1,39.390865325927734,8,14,28,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_12,synthetic_p5,1,36.599300384521484,10,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_12,restore_m5,1,31.884273529052734,11,13,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_12,restore_p5,1,33.79934310913086,10,13,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_13,original,1,34.200382232666016,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_13,warp_0,1,34.200382232666016,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_13,synthetic_m5,1,39.49212646484375,10,14,28,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_13,synthetic_p5,1,36.213417053222656,8,14,28,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_13,restore_m5,1,34.51259994506836,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_13,restore_p5,1,35.46760559082031,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,original,1,32.69384765625,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,warp_0,1,32.69384765625,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,synthetic_m5,1,39.93757247924805,9,13,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,synthetic_p5,1,36.08058547973633,8,13,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,restore_m5,1,36.66366958618164,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_14,restore_p5,1,33.85968780517578,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,original,1,36.32632064819336,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,warp_0,1,36.32632064819336,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,synthetic_m5,1,45.0246467590332,10,13,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,synthetic_p5,1,39.544254302978516,9,13,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,restore_m5,1,38.6599006652832,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_15,restore_p5,1,39.54450225830078,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,original,1,35.46368408203125,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,warp_0,1,35.46368408203125,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,synthetic_m5,1,41.8671989440918,12,14,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,synthetic_p5,1,39.50069046020508,12,13,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,restore_m5,1,35.653526306152344,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_16,restore_p5,1,35.36271286010742,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_18,original,1,31.346538543701172,9,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_18,warp_0,1,31.346538543701172,9,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_18,synthetic_m5,1,34.63984680175781,11,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_18,synthetic_p5,1,36.67205047607422,9,15,28,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_18,restore_m5,1,33.34470748901367,9,13,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_18,restore_p5,1,34.67341995239258,10,13,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_19,original,1,31.54383659362793,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_19,warp_0,1,31.54383659362793,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_19,synthetic_m5,1,37.37324905395508,11,13,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_19,synthetic_p5,1,34.693058013916016,12,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_19,restore_m5,1,34.5346565246582,8,13,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_19,restore_p5,1,31.677297592163086,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_2,original,1,28.388591766357422,10,12,28,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_2,warp_0,1,28.388591766357422,10,12,28,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_2,synthetic_m5,1,34.61467742919922,8,14,29,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_2,synthetic_p5,1,35.21571350097656,8,15,29,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_2,restore_m5,1,31.744863510131836,10,12,28,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_2,restore_p5,1,30.66260528564453,10,12,28,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_20,original,1,33.910888671875,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_20,warp_0,1,33.910888671875,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_20,synthetic_m5,1,37.38790512084961,11,14,28,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_20,synthetic_p5,1,37.71397399902344,9,14,28,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_20,restore_m5,1,34.2281379699707,10,13,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_20,restore_p5,1,36.054931640625,11,13,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_21,original,1,36.68717956542969,12,11,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_21,warp_0,1,36.68717956542969,12,11,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_21,synthetic_m5,1,45.60427474975586,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_21,synthetic_p5,1,41.491973876953125,8,13,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_21,restore_m5,1,38.50135803222656,12,12,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_21,restore_p5,1,38.60317611694336,12,12,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,original,1,32.50898361206055,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,warp_0,1,32.50898361206055,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,synthetic_m5,1,39.796234130859375,8,15,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,synthetic_p5,1,36.93801498413086,8,14,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,restore_m5,1,34.202693939208984,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_22,restore_p5,1,36.65675735473633,9,13,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_23,original,1,33.805870056152344,10,11,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_23,warp_0,1,33.805870056152344,10,11,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_23,synthetic_m5,1,37.36774826049805,10,13,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_23,synthetic_p5,1,34.39363098144531,8,13,28,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_23,restore_m5,1,35.47611618041992,10,12,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_23,restore_p5,1,35.9448356628418,10,11,27,2,5,True,evaluable
+Test_PCB_None_None_Missing Component_24,original,1,33.038978576660156,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_24,warp_0,1,33.038978576660156,8,11,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_24,synthetic_m5,1,37.86471176147461,8,13,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_24,synthetic_p5,1,36.22129821777344,8,14,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_24,restore_m5,1,35.043487548828125,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_24,restore_p5,1,33.4073600769043,10,12,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,original,1,32.44344711303711,2,7,9,1,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,original,2,32.46688461303711,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,warp_0,1,32.44344711303711,2,7,9,1,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,warp_0,2,32.46688461303711,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,synthetic_m5,1,36.450443267822266,4,7,9,2,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,synthetic_m5,2,38.607147216796875,10,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,synthetic_p5,1,35.249305725097656,4,7,9,2,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,synthetic_p5,2,35.44097137451172,8,14,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,restore_m5,1,35.114253997802734,2,7,9,1,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,restore_m5,2,35.44688034057617,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_25,restore_p5,1,34.841495513916016,2,7,9,1,2,True,evaluable
+Test_PCB_None_None_Missing Component_25,restore_p5,2,37.034122467041016,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_26,original,1,31.603654861450195,14,12,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_26,warp_0,1,31.603654861450195,14,12,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_26,synthetic_m5,1,38.374847412109375,11,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_26,synthetic_p5,1,37.043601989746094,13,14,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_26,restore_m5,1,33.67633819580078,15,12,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_26,restore_p5,1,33.57464599609375,14,12,27,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_27,original,1,32.66317367553711,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_27,warp_0,1,32.66317367553711,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_27,synthetic_m5,1,38.57252883911133,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_27,synthetic_p5,1,36.73516845703125,8,13,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_27,restore_m5,1,34.76824951171875,8,13,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_27,restore_p5,1,34.77977752685547,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,original,1,33.8929557800293,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,warp_0,1,33.8929557800293,8,11,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,synthetic_m5,1,40.089378356933594,9,13,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,synthetic_p5,1,37.132720947265625,8,13,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,restore_m5,1,34.50685119628906,8,12,25,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_28,restore_p5,1,35.40165710449219,9,12,25,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,original,1,32.798004150390625,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,warp_0,1,32.798004150390625,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,synthetic_m5,1,37.816322326660156,10,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,synthetic_p5,1,37.18648147583008,8,13,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,restore_m5,1,33.854827880859375,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_29,restore_p5,1,34.16339111328125,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,original,1,31.3608341217041,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,warp_0,1,31.3608341217041,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,synthetic_m5,1,38.646522521972656,8,14,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,synthetic_p5,1,35.13609313964844,9,15,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,restore_m5,1,35.794212341308594,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_3,restore_p5,1,35.04855728149414,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,original,1,35.46907424926758,3,7,12,1,3,True,evaluable
+Test_PCB_None_None_Missing Component_30,original,2,32.617576599121094,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,warp_0,1,35.46907424926758,3,7,12,1,3,True,evaluable
+Test_PCB_None_None_Missing Component_30,warp_0,2,32.617576599121094,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,synthetic_m5,1,37.707401275634766,3,7,13,1,3,True,evaluable
+Test_PCB_None_None_Missing Component_30,synthetic_m5,2,39.133148193359375,11,14,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,synthetic_p5,1,35.921783447265625,4,8,12,2,2,True,evaluable
+Test_PCB_None_None_Missing Component_30,synthetic_p5,2,35.34524154663086,8,13,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,restore_m5,1,36.326812744140625,3,7,13,1,3,True,evaluable
+Test_PCB_None_None_Missing Component_30,restore_m5,2,34.02631378173828,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_30,restore_p5,1,35.603851318359375,4,9,12,2,3,True,evaluable
+Test_PCB_None_None_Missing Component_30,restore_p5,2,32.39543151855469,8,12,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_31,original,1,36.84132385253906,8,11,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_31,warp_0,1,36.84132385253906,8,11,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_31,synthetic_m5,1,37.95803451538086,12,13,27,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_31,synthetic_p5,1,38.23583984375,10,13,28,3,5,True,evaluable
+Test_PCB_None_None_Missing Component_31,restore_m5,1,38.82525634765625,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_31,restore_p5,1,37.5239372253418,8,12,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,original,1,40.29991149902344,12,12,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,warp_0,1,40.29991149902344,12,12,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,synthetic_m5,1,40.60335922241211,8,13,26,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,synthetic_p5,1,40.98233413696289,8,14,27,2,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,restore_m5,1,38.24760055541992,12,12,26,3,4,True,evaluable
+Test_PCB_None_None_Missing Component_32,restore_p5,1,39.18422317504883,12,12,27,3,4,True,evaluable
+Test_PCB_None_None_Scratch_1,original,1,30.058025360107422,4,12,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_1,warp_0,1,30.058025360107422,4,12,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_1,synthetic_m5,1,34.15537643432617,2,12,5,2,1,True,evaluable
+Test_PCB_None_None_Scratch_1,synthetic_p5,1,33.82985305786133,4,12,6,2,2,True,evaluable
+Test_PCB_None_None_Scratch_1,restore_m5,1,33.41462326049805,4,12,6,3,2,True,evaluable
+Test_PCB_None_None_Scratch_1,restore_p5,1,31.826156616210938,4,12,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_10,original,1,34.422054290771484,5,8,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_10,warp_0,1,34.422054290771484,5,8,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_10,synthetic_m5,1,34.67413330078125,3,10,14,2,2,True,evaluable
+Test_PCB_None_None_Scratch_10,synthetic_p5,1,38.2415657043457,3,7,15,1,3,True,evaluable
+Test_PCB_None_None_Scratch_10,restore_m5,1,36.36622619628906,5,8,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_10,restore_p5,1,34.58460998535156,5,8,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_11,original,1,41.7961311340332,9,46,13,7,2,True,evaluable
+Test_PCB_None_None_Scratch_11,warp_0,1,41.7961311340332,9,46,13,7,2,True,evaluable
+Test_PCB_None_None_Scratch_11,synthetic_m5,1,44.52743911743164,9,45,17,7,3,True,evaluable
+Test_PCB_None_None_Scratch_11,synthetic_p5,1,42.262550354003906,9,47,10,7,2,True,evaluable
+Test_PCB_None_None_Scratch_11,restore_m5,1,41.20463180541992,9,46,14,7,2,True,evaluable
+Test_PCB_None_None_Scratch_11,restore_p5,1,41.89429473876953,9,46,13,7,2,True,evaluable
+Test_PCB_None_None_Scratch_12,original,1,36.26630783081055,2,9,3,2,1,True,evaluable
+Test_PCB_None_None_Scratch_12,warp_0,1,36.26630783081055,2,9,3,2,1,True,evaluable
+Test_PCB_None_None_Scratch_12,synthetic_m5,1,37.54533004760742,4,9,4,2,2,True,evaluable
+Test_PCB_None_None_Scratch_12,synthetic_p5,1,38.335655212402344,4,10,4,2,2,True,evaluable
+Test_PCB_None_None_Scratch_12,restore_m5,1,37.24624252319336,2,9,4,2,1,True,evaluable
+Test_PCB_None_None_Scratch_12,restore_p5,1,36.3206672668457,2,9,3,2,1,True,evaluable
+Test_PCB_None_None_Scratch_13,original,1,37.279457092285156,5,11,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,original,2,27.997243881225586,3,17,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_13,original,3,36.78220748901367,5,11,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,warp_0,1,37.279457092285156,5,11,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,warp_0,2,27.997243881225586,3,17,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_13,warp_0,3,36.78220748901367,5,11,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_m5,1,40.880271911621094,6,10,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_m5,2,34.3599967956543,4,17,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_m5,3,40.61558151245117,6,12,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_p5,1,39.261009216308594,6,12,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_p5,2,33.48761749267578,4,16,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_13,synthetic_p5,3,39.559532165527344,6,11,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_m5,1,38.78863525390625,5,11,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_m5,2,33.152069091796875,3,17,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_m5,3,39.226566314697266,5,11,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_p5,1,38.71065139770508,5,11,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_p5,2,34.62461853027344,3,17,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_13,restore_p5,3,38.87226104736328,5,11,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,original,1,36.5464973449707,14,14,32,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,original,2,41.5401725769043,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,original,3,41.417179107666016,6,11,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,original,4,39.9243049621582,4,22,15,3,2,True,evaluable
+Test_PCB_None_None_Scratch_14,warp_0,1,36.5464973449707,14,14,32,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,warp_0,2,41.5401725769043,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,warp_0,3,41.417179107666016,6,11,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,warp_0,4,39.9243049621582,4,22,15,3,2,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_m5,1,41.89101791381836,12,16,33,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_m5,2,44.265380859375,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_m5,3,43.00263977050781,6,11,16,3,3,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_m5,4,41.19397735595703,5,21,17,3,3,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_p5,1,39.77962875366211,11,16,33,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_p5,2,39.66780471801758,6,11,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_p5,3,40.249977111816406,4,10,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,synthetic_p5,4,42.0295295715332,5,23,13,4,2,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_m5,1,38.00019454956055,14,14,32,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_m5,2,39.94107437133789,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_m5,3,39.88373565673828,6,11,16,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_m5,4,40.40146255493164,5,22,16,3,3,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_p5,1,37.442718505859375,14,15,32,3,5,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_p5,2,40.210784912109375,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_p5,3,40.090816497802734,6,11,15,2,3,True,evaluable
+Test_PCB_None_None_Scratch_14,restore_p5,4,40.33599090576172,5,22,15,3,2,True,evaluable
+Test_PCB_None_None_Scratch_15,original,1,44.56365966796875,10,41,20,6,3,True,evaluable
+Test_PCB_None_None_Scratch_15,warp_0,1,44.56365966796875,10,41,20,6,3,True,evaluable
+Test_PCB_None_None_Scratch_15,synthetic_m5,1,47.67071533203125,10,39,23,6,4,True,evaluable
+Test_PCB_None_None_Scratch_15,synthetic_p5,1,45.034454345703125,10,42,18,6,3,True,evaluable
+Test_PCB_None_None_Scratch_15,restore_m5,1,45.62682342529297,10,41,20,6,3,True,evaluable
+Test_PCB_None_None_Scratch_15,restore_p5,1,44.980224609375,10,41,20,6,3,True,evaluable
+Test_PCB_None_None_Scratch_16,original,1,33.66815948486328,11,4,36,2,6,True,evaluable
+Test_PCB_None_None_Scratch_16,warp_0,1,33.66815948486328,11,4,36,2,6,True,evaluable
+Test_PCB_None_None_Scratch_16,synthetic_m5,1,37.43549728393555,6,6,36,1,6,True,evaluable
+Test_PCB_None_None_Scratch_16,synthetic_p5,1,37.532936096191406,5,6,36,1,5,True,evaluable
+Test_PCB_None_None_Scratch_16,restore_m5,1,35.62686538696289,11,5,36,2,6,True,evaluable
+Test_PCB_None_None_Scratch_16,restore_p5,1,33.90896987915039,11,4,36,2,6,True,evaluable
+Test_PCB_None_None_Scratch_17,original,1,27.168312072753906,1,1,3,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,original,2,27.62800407409668,4,2,21,1,4,True,evaluable
+Test_PCB_None_None_Scratch_17,original,3,27.62800407409668,2,2,7,1,2,True,evaluable
+Test_PCB_None_None_Scratch_17,warp_0,1,27.168312072753906,1,1,3,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,warp_0,2,27.62800407409668,4,2,21,1,4,True,evaluable
+Test_PCB_None_None_Scratch_17,warp_0,3,27.62800407409668,2,2,7,1,2,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_m5,1,29.62232208251953,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_m5,2,33.93623352050781,4,3,21,2,3,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_m5,3,33.667667388916016,1,3,7,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_p5,1,32.023406982421875,2,1,3,1,2,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_p5,2,33.42546463012695,5,3,21,2,4,True,evaluable
+Test_PCB_None_None_Scratch_17,synthetic_p5,3,32.93231964111328,2,3,7,1,2,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_m5,1,28.86455535888672,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_m5,2,30.45781135559082,4,2,21,1,4,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_m5,3,30.45781135559082,2,3,7,1,2,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_p5,1,27.02235221862793,1,1,3,1,1,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_p5,2,28.67136001586914,4,3,21,1,4,True,evaluable
+Test_PCB_None_None_Scratch_17,restore_p5,3,28.67136001586914,2,2,7,1,2,True,evaluable
+Test_PCB_None_None_Scratch_18,original,1,34.46798324584961,4,8,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_18,warp_0,1,34.46798324584961,4,8,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_18,synthetic_m5,1,40.005340576171875,4,8,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_18,synthetic_p5,1,37.78878402709961,4,9,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_18,restore_m5,1,35.279396057128906,4,8,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_18,restore_p5,1,35.43145751953125,4,9,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_19,original,1,39.757652282714844,4,2,31,1,4,True,evaluable
+Test_PCB_None_None_Scratch_19,warp_0,1,39.757652282714844,4,2,31,1,4,True,evaluable
+Test_PCB_None_None_Scratch_19,synthetic_m5,1,42.02212905883789,5,4,31,1,5,True,evaluable
+Test_PCB_None_None_Scratch_19,synthetic_p5,1,41.279693603515625,4,4,31,1,4,True,evaluable
+Test_PCB_None_None_Scratch_19,restore_m5,1,39.84243392944336,4,2,31,1,4,True,evaluable
+Test_PCB_None_None_Scratch_19,restore_p5,1,40.45942306518555,4,2,31,1,4,True,evaluable
+Test_PCB_None_None_Scratch_2,original,1,32.42211151123047,3,15,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_2,warp_0,1,32.42211151123047,3,15,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_2,synthetic_m5,1,34.89351272583008,5,14,11,3,2,True,evaluable
+Test_PCB_None_None_Scratch_2,synthetic_p5,1,34.16073989868164,5,15,9,3,2,True,evaluable
+Test_PCB_None_None_Scratch_2,restore_m5,1,35.445682525634766,4,15,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_2,restore_p5,1,32.97181701660156,3,15,11,2,2,True,evaluable
+Test_PCB_None_None_Scratch_20,original,1,35.46870803833008,5,7,10,2,3,True,evaluable
+Test_PCB_None_None_Scratch_20,warp_0,1,35.46870803833008,5,7,10,2,3,True,evaluable
+Test_PCB_None_None_Scratch_20,synthetic_m5,1,39.37869644165039,4,7,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_20,synthetic_p5,1,42.00257110595703,2,7,10,1,2,True,evaluable
+Test_PCB_None_None_Scratch_20,restore_m5,1,37.255714416503906,5,8,10,2,3,True,evaluable
+Test_PCB_None_None_Scratch_20,restore_p5,1,37.96184539794922,5,7,10,2,3,True,evaluable
+Test_PCB_None_None_Scratch_21,original,1,34.195255279541016,5,5,21,2,4,True,evaluable
+Test_PCB_None_None_Scratch_21,warp_0,1,34.195255279541016,5,5,21,2,4,True,evaluable
+Test_PCB_None_None_Scratch_21,synthetic_m5,1,41.57646560668945,3,7,20,1,3,True,evaluable
+Test_PCB_None_None_Scratch_21,synthetic_p5,1,37.80073928833008,3,3,21,1,3,True,evaluable
+Test_PCB_None_None_Scratch_21,restore_m5,1,35.25205612182617,5,5,21,2,4,True,evaluable
+Test_PCB_None_None_Scratch_21,restore_p5,1,34.73775863647461,5,5,21,2,4,True,evaluable
+Test_PCB_None_None_Scratch_22,original,1,35.133888244628906,4,13,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_22,warp_0,1,35.133888244628906,4,13,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_22,synthetic_m5,1,38.07939910888672,4,13,6,2,2,True,evaluable
+Test_PCB_None_None_Scratch_22,synthetic_p5,1,35.90138244628906,5,13,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_22,restore_m5,1,35.060646057128906,4,13,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_22,restore_p5,1,35.71950149536133,4,13,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_23,original,1,31.209270477294922,3,16,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_23,warp_0,1,31.209270477294922,3,16,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_23,synthetic_m5,1,33.898372650146484,3,16,6,3,1,True,evaluable
+Test_PCB_None_None_Scratch_23,synthetic_p5,1,32.7407112121582,2,16,4,2,1,True,evaluable
+Test_PCB_None_None_Scratch_23,restore_m5,1,32.11296081542969,3,16,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_23,restore_p5,1,32.6838264465332,3,16,4,3,1,True,evaluable
+Test_PCB_None_None_Scratch_24,original,1,38.76767349243164,3,13,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_24,warp_0,1,38.76767349243164,3,13,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_24,synthetic_m5,1,36.63690185546875,4,13,10,2,3,True,evaluable
+Test_PCB_None_None_Scratch_24,synthetic_p5,1,35.07411193847656,4,14,8,3,2,True,evaluable
+Test_PCB_None_None_Scratch_24,restore_m5,1,38.584163665771484,3,13,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_24,restore_p5,1,38.216522216796875,3,13,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_25,original,1,36.65523910522461,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_25,warp_0,1,36.65523910522461,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_25,synthetic_m5,1,36.92011260986328,3,5,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_25,synthetic_p5,1,38.30571365356445,1,6,8,1,1,True,evaluable
+Test_PCB_None_None_Scratch_25,restore_m5,1,37.13633728027344,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_25,restore_p5,1,36.88077163696289,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,original,1,38.89720153808594,10,15,20,3,4,True,evaluable
+Test_PCB_None_None_Scratch_26,original,2,37.15625,3,12,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,warp_0,1,38.89720153808594,10,15,20,3,4,True,evaluable
+Test_PCB_None_None_Scratch_26,warp_0,2,37.15625,3,12,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,synthetic_m5,1,39.868282318115234,9,15,20,3,3,True,evaluable
+Test_PCB_None_None_Scratch_26,synthetic_m5,2,40.23224639892578,3,11,6,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,synthetic_p5,1,39.62031555175781,10,15,20,3,4,True,evaluable
+Test_PCB_None_None_Scratch_26,synthetic_p5,2,38.81184768676758,4,12,4,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,restore_m5,1,40.028778076171875,10,15,20,3,4,True,evaluable
+Test_PCB_None_None_Scratch_26,restore_m5,2,37.15361404418945,3,12,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_26,restore_p5,1,39.91801452636719,10,15,20,3,4,True,evaluable
+Test_PCB_None_None_Scratch_26,restore_p5,2,37.16763687133789,3,12,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_27,original,1,30.213369369506836,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_27,original,2,30.213369369506836,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,original,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,original,4,32.31837844848633,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,original,5,32.31837844848633,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,original,6,36.663124084472656,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,original,7,52.91783905029297,9,26,38,4,6,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,1,30.213369369506836,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,2,30.213369369506836,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,warp_0,4,32.31837844848633,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,5,32.31837844848633,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,6,36.663124084472656,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,warp_0,7,52.91783905029297,9,26,38,4,6,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,1,34.52474594116211,3,4,10,1,3,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,2,32.73614501953125,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,synthetic_m5,4,38.74324417114258,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,5,38.74324417114258,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,6,38.74324417114258,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_m5,7,53.40137481689453,10,23,40,4,6,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,1,34.40505599975586,3,6,10,1,3,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,2,33.79216003417969,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,synthetic_p5,4,38.722633361816406,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,5,38.722633361816406,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,6,38.722633361816406,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,synthetic_p5,7,50.84545135498047,10,30,35,5,6,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,1,31.194795608520508,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,2,31.194795608520508,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,restore_m5,4,33.448524475097656,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,5,33.448524475097656,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,6,38.18563461303711,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_m5,7,52.039207458496094,10,27,38,5,6,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,1,30.249919891357422,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,2,30.249919891357422,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,3,nan,0,0,0,0,0,False,入力変換による評価不能
+Test_PCB_None_None_Scratch_27,restore_p5,4,33.06134033203125,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,5,33.06134033203125,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,6,37.088985443115234,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_27,restore_p5,7,52.3929443359375,9,26,37,4,6,True,evaluable
+Test_PCB_None_None_Scratch_28,original,1,39.56647491455078,6,14,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,original,2,36.76109313964844,3,10,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,original,3,36.76109313964844,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,original,4,40.53085708618164,5,12,19,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,original,5,35.078468322753906,3,15,11,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,warp_0,1,39.56647491455078,6,14,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,warp_0,2,36.76109313964844,3,10,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,warp_0,3,36.76109313964844,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,warp_0,4,40.53085708618164,5,12,19,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,warp_0,5,35.078468322753906,3,15,11,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_m5,1,43.27572250366211,6,14,18,3,3,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_m5,2,39.153324127197266,4,10,5,3,2,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_m5,3,35.61259460449219,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_m5,4,42.12611770629883,6,12,19,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_m5,5,37.167537689208984,4,15,10,3,2,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_p5,1,41.30927276611328,8,14,18,3,3,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_p5,2,37.7791748046875,2,10,5,2,1,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_p5,3,37.7791748046875,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_p5,4,40.1416015625,7,13,19,3,3,True,evaluable
+Test_PCB_None_None_Scratch_28,synthetic_p5,5,34.92986297607422,5,14,12,3,3,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_m5,1,39.876609802246094,6,14,18,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_m5,2,38.9903450012207,3,10,5,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_m5,3,38.9903450012207,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_m5,4,41.5074462890625,5,12,19,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_m5,5,35.56218338012695,3,15,11,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_p5,1,39.558746337890625,6,14,17,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_p5,2,37.938568115234375,3,10,6,2,2,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_p5,3,37.938568115234375,1,1,1,1,1,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_p5,4,39.739410400390625,5,13,19,2,3,True,evaluable
+Test_PCB_None_None_Scratch_28,restore_p5,5,35.73404312133789,3,15,11,2,2,True,evaluable
+Test_PCB_None_None_Scratch_29,original,1,42.796974182128906,5,26,5,5,1,True,evaluable
+Test_PCB_None_None_Scratch_29,warp_0,1,42.796974182128906,5,26,5,5,1,True,evaluable
+Test_PCB_None_None_Scratch_29,synthetic_m5,1,43.35324478149414,5,26,3,5,1,True,evaluable
+Test_PCB_None_None_Scratch_29,synthetic_p5,1,44.642974853515625,5,25,7,4,2,True,evaluable
+Test_PCB_None_None_Scratch_29,restore_m5,1,42.024314880371094,5,26,5,5,1,True,evaluable
+Test_PCB_None_None_Scratch_29,restore_p5,1,43.20375442504883,5,26,5,5,1,True,evaluable
+Test_PCB_None_None_Scratch_3,original,1,37.157840728759766,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_3,warp_0,1,37.157840728759766,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_3,synthetic_m5,1,37.1611328125,3,5,9,2,2,True,evaluable
+Test_PCB_None_None_Scratch_3,synthetic_p5,1,38.19451904296875,1,6,8,1,1,True,evaluable
+Test_PCB_None_None_Scratch_3,restore_m5,1,37.057308197021484,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_3,restore_p5,1,37.26240539550781,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Scratch_30,original,1,37.89225769042969,5,5,29,2,4,True,evaluable
+Test_PCB_None_None_Scratch_30,warp_0,1,37.89225769042969,5,5,29,2,4,True,evaluable
+Test_PCB_None_None_Scratch_30,synthetic_m5,1,40.234676361083984,5,8,28,2,4,True,evaluable
+Test_PCB_None_None_Scratch_30,synthetic_p5,1,37.74712371826172,4,3,29,1,4,True,evaluable
+Test_PCB_None_None_Scratch_30,restore_m5,1,39.27817916870117,5,5,29,2,4,True,evaluable
+Test_PCB_None_None_Scratch_30,restore_p5,1,38.17361831665039,5,5,29,2,4,True,evaluable
+Test_PCB_None_None_Scratch_31,original,1,41.77151870727539,5,23,8,4,2,True,evaluable
+Test_PCB_None_None_Scratch_31,warp_0,1,41.77151870727539,5,23,8,4,2,True,evaluable
+Test_PCB_None_None_Scratch_31,synthetic_m5,1,41.602359771728516,6,22,10,4,2,True,evaluable
+Test_PCB_None_None_Scratch_31,synthetic_p5,1,42.09513473510742,5,24,6,4,2,True,evaluable
+Test_PCB_None_None_Scratch_31,restore_m5,1,41.60798263549805,5,23,8,4,2,True,evaluable
+Test_PCB_None_None_Scratch_31,restore_p5,1,43.13044738769531,6,23,8,4,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,original,1,49.11006164550781,12,24,26,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,warp_0,1,49.11006164550781,12,24,26,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,synthetic_m5,1,50.48456573486328,11,22,27,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,synthetic_p5,1,49.70881652832031,13,25,27,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,restore_m5,1,50.30911636352539,12,24,26,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_1,restore_p5,1,51.37239074707031,12,24,26,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,original,1,30.6031494140625,2,7,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,warp_0,1,30.6031494140625,2,7,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,synthetic_m5,1,36.39657974243164,3,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,synthetic_p5,1,34.06519317626953,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,restore_m5,1,34.06060791015625,2,7,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_10,restore_p5,1,33.424896240234375,2,7,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,original,1,30.001758575439453,4,11,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,warp_0,1,30.001758575439453,4,11,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,synthetic_m5,1,38.08122634887695,5,12,9,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,synthetic_p5,1,36.347190856933594,4,11,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,restore_m5,1,35.289676666259766,4,12,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_11,restore_p5,1,34.8328742980957,4,11,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,original,1,29.951881408691406,4,9,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,warp_0,1,29.951881408691406,4,9,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,synthetic_m5,1,37.4892578125,4,9,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,synthetic_p5,1,35.953460693359375,4,10,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,restore_m5,1,35.013431549072266,4,9,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_12,restore_p5,1,34.256256103515625,4,9,11,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,original,1,38.666263580322266,5,15,8,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,warp_0,1,38.666263580322266,5,15,8,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,synthetic_m5,1,42.952449798583984,5,15,7,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,synthetic_p5,1,40.941043853759766,5,15,9,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,restore_m5,1,40.853206634521484,5,15,8,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_13,restore_p5,1,40.204566955566406,5,15,8,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,original,1,40.63719940185547,3,7,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,warp_0,1,40.63719940185547,3,7,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,synthetic_m5,1,42.57619094848633,4,6,12,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,synthetic_p5,1,42.264774322509766,3,7,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,restore_m5,1,40.789588928222656,3,7,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_14,restore_p5,1,40.4157600402832,3,7,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,original,1,36.14274215698242,6,13,11,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,warp_0,1,36.14274215698242,6,13,11,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,synthetic_m5,1,36.83299255371094,4,13,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,synthetic_p5,1,38.43370056152344,4,13,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,restore_m5,1,39.31721878051758,6,13,12,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_15,restore_p5,1,36.815120697021484,6,13,12,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,original,1,41.37788391113281,5,13,11,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,warp_0,1,41.37788391113281,5,13,11,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,synthetic_m5,1,43.52177047729492,7,12,12,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,synthetic_p5,1,42.00358581542969,5,13,11,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,restore_m5,1,42.17961883544922,5,13,11,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_16,restore_p5,1,40.07119369506836,5,13,12,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,original,1,33.169044494628906,7,14,13,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,warp_0,1,33.169044494628906,7,14,13,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,synthetic_m5,1,38.67673110961914,6,14,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,synthetic_p5,1,37.17655944824219,6,15,13,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,restore_m5,1,36.92853546142578,7,14,13,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_17,restore_p5,1,37.23893356323242,7,14,13,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,original,1,30.040077209472656,5,17,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,warp_0,1,30.040077209472656,5,17,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,synthetic_m5,1,36.88085174560547,5,18,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,synthetic_p5,1,35.599937438964844,5,16,14,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,restore_m5,1,36.442779541015625,5,17,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_18,restore_p5,1,36.20759201049805,5,17,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,original,1,37.57329559326172,3,12,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,warp_0,1,37.57329559326172,3,12,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,synthetic_m5,1,41.69753646850586,4,12,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,synthetic_p5,1,37.072959899902344,2,12,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,restore_m5,1,37.54294967651367,3,12,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_19,restore_p5,1,37.601566314697266,3,12,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,original,1,38.11940383911133,6,12,17,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,original,2,34.82066345214844,3,6,13,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,warp_0,1,38.11940383911133,6,12,17,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,warp_0,2,34.82066345214844,3,6,13,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,synthetic_m5,1,40.59895706176758,6,12,18,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,synthetic_m5,2,37.65278244018555,2,7,13,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,synthetic_p5,1,39.845703125,6,12,18,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,synthetic_p5,2,37.28165054321289,5,7,13,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,restore_m5,1,39.58979034423828,6,12,17,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,restore_m5,2,36.63334655761719,3,6,13,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,restore_p5,1,39.000362396240234,6,12,17,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_2,restore_p5,2,36.44411849975586,3,6,13,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,original,1,33.00301742553711,4,10,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,original,2,45.386695861816406,6,32,8,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,original,3,42.01426696777344,3,9,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,original,4,44.08681869506836,2,6,8,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,original,5,33.9663200378418,5,9,16,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,warp_0,1,33.00301742553711,4,10,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,warp_0,2,45.386695861816406,6,32,8,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,warp_0,3,42.01426696777344,3,9,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,warp_0,4,44.08681869506836,2,6,8,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,warp_0,5,33.9663200378418,5,9,16,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,1,35.907833099365234,3,9,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,2,48.01277542114258,7,32,9,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,3,44.40174865722656,5,10,8,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,4,48.01277542114258,4,7,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_m5,5,41.60274124145508,6,10,16,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,1,35.256980895996094,2,10,7,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,2,46.08830642700195,9,32,9,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,3,38.90960693359375,2,8,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,4,46.08830642700195,3,6,9,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,synthetic_p5,5,38.78160095214844,4,10,16,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_m5,1,39.15092468261719,4,10,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_m5,2,47.63138198852539,6,32,8,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_m5,3,43.973270416259766,3,9,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_m5,4,46.586917877197266,3,8,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_m5,5,35.96280288696289,5,9,16,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_p5,1,35.30259704589844,4,10,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_p5,2,47.814144134521484,6,32,8,5,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_p5,3,44.95323181152344,3,9,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_p5,4,47.67700958251953,2,6,8,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_20,restore_p5,5,37.1030158996582,5,9,16,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,original,1,44.23206329345703,8,19,20,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,warp_0,1,44.23206329345703,8,19,20,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,synthetic_m5,1,42.75484085083008,10,19,21,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,synthetic_p5,1,42.31577682495117,9,20,19,4,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,restore_m5,1,42.157936096191406,8,19,20,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_21,restore_p5,1,42.68519973754883,8,19,20,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,original,1,36.25666809082031,7,17,12,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,original,2,36.25666809082031,2,7,3,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,original,3,35.46190643310547,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,original,4,36.02299118041992,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,warp_0,1,36.25666809082031,7,17,12,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,warp_0,2,36.25666809082031,2,7,3,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,warp_0,3,35.46190643310547,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,warp_0,4,36.02299118041992,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_m5,1,37.46376037597656,5,17,11,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_m5,2,41.419124603271484,1,7,3,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_m5,3,39.320518493652344,2,6,7,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_m5,4,38.037532806396484,2,6,7,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_p5,1,40.298133850097656,6,17,13,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_p5,2,42.09343719482422,1,7,3,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_p5,3,40.304161071777344,2,6,7,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,synthetic_p5,4,39.66788864135742,4,6,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_m5,1,40.744895935058594,7,17,12,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_m5,2,40.390865325927734,2,7,3,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_m5,3,40.390865325927734,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_m5,4,37.833866119384766,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_p5,1,40.98906707763672,7,17,12,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_p5,2,40.98906707763672,3,7,4,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_p5,3,39.4637336730957,3,6,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_22,restore_p5,4,37.65785217285156,3,6,8,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,original,1,43.814022064208984,7,13,22,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,warp_0,1,43.814022064208984,7,13,22,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,synthetic_m5,1,46.43149185180664,5,11,23,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,synthetic_p5,1,44.902915954589844,5,15,21,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,restore_m5,1,42.56720733642578,7,13,22,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_23,restore_p5,1,41.404109954833984,7,13,22,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,original,1,41.673030853271484,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,warp_0,1,41.673030853271484,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,synthetic_m5,1,40.75931930541992,5,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,synthetic_p5,1,41.50680160522461,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,restore_m5,1,42.345767974853516,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_24,restore_p5,1,43.11899948120117,6,10,20,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,original,1,33.63178253173828,4,9,13,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,warp_0,1,33.63178253173828,4,9,13,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,synthetic_m5,1,41.14483642578125,5,10,14,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,synthetic_p5,1,39.126434326171875,4,9,13,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,restore_m5,1,35.66569900512695,4,9,13,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_25,restore_p5,1,37.95821762084961,4,9,13,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,original,1,31.41661834716797,6,12,12,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,warp_0,1,31.41661834716797,6,12,12,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,synthetic_m5,1,37.196807861328125,4,12,12,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,synthetic_p5,1,35.35165023803711,5,12,13,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,restore_m5,1,35.810508728027344,6,12,12,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_26,restore_p5,1,35.948638916015625,6,12,12,3,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,original,1,48.51414489746094,16,24,28,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,original,2,36.39212417602539,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,original,3,40.508426666259766,3,4,15,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,original,4,28.50221061706543,1,3,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,original,5,29.03257942199707,2,10,6,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,warp_0,1,48.51414489746094,16,24,28,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,warp_0,2,36.39212417602539,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,warp_0,3,40.508426666259766,3,4,15,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,warp_0,4,28.50221061706543,1,3,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,warp_0,5,29.03257942199707,2,10,6,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,1,50.57992935180664,17,25,28,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,2,39.286338806152344,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,3,46.54759216308594,5,4,15,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,4,33.73081588745117,2,4,2,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_m5,5,35.08024978637695,3,10,7,3,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,1,48.342803955078125,14,23,29,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,2,38.028770446777344,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,3,43.393402099609375,3,3,15,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,4,29.018810272216797,1,3,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,synthetic_p5,5,34.29053497314453,3,10,6,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_m5,1,47.888389587402344,16,24,28,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_m5,2,37.21996307373047,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_m5,3,40.55233383178711,3,4,15,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_m5,4,32.57270431518555,1,3,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_m5,5,32.57270431518555,3,10,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_p5,1,47.508750915527344,16,24,28,4,5,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_p5,2,37.5012321472168,2,3,4,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_p5,3,40.515403747558594,3,4,15,1,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_p5,4,32.356807708740234,1,3,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_27,restore_p5,5,30.923259735107422,2,10,6,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,original,1,35.287837982177734,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,original,2,42.90724182128906,6,12,20,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,warp_0,1,35.287837982177734,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,warp_0,2,42.90724182128906,6,12,20,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,synthetic_m5,1,35.589111328125,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,synthetic_m5,2,42.278072357177734,6,10,21,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,synthetic_p5,1,31.556434631347656,4,8,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,synthetic_p5,2,41.897220611572266,5,14,19,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,restore_m5,1,34.846988677978516,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,restore_m5,2,43.80084228515625,6,12,20,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,restore_p5,1,37.653202056884766,4,7,7,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_28,restore_p5,2,44.86049270629883,6,12,20,2,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,original,1,39.1614990234375,7,21,15,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,original,2,37.39982604980469,2,2,2,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,original,3,31.876333236694336,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,warp_0,1,39.1614990234375,7,21,15,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,warp_0,2,37.39982604980469,2,2,2,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,warp_0,3,31.876333236694336,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_m5,1,38.34383773803711,8,22,14,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_m5,2,38.34383773803711,2,2,2,1,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_m5,3,36.49408721923828,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_p5,1,37.84306716918945,6,20,17,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_p5,2,37.6186408996582,2,2,2,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,synthetic_p5,3,36.80824279785156,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_m5,1,39.44838333129883,7,21,15,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_m5,2,39.44838333129883,2,2,2,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_m5,3,32.504295349121094,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_p5,1,40.06532669067383,7,21,15,3,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_p5,2,40.06532669067383,2,2,2,2,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_29,restore_p5,3,32.46354675292969,1,1,2,1,1,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,original,1,40.83304977416992,4,9,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,warp_0,1,40.83304977416992,4,9,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,synthetic_m5,1,40.21902847290039,5,9,10,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,synthetic_p5,1,40.89114761352539,4,10,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,restore_m5,1,40.568904876708984,4,9,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_3,restore_p5,1,41.29813766479492,4,9,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,original,1,30.435205459594727,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,original,2,47.589378356933594,11,19,20,4,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,warp_0,1,30.435205459594727,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,warp_0,2,47.589378356933594,11,19,20,4,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,synthetic_m5,1,36.13490676879883,3,6,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,synthetic_m5,2,47.14753723144531,11,19,20,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,synthetic_p5,1,36.448299407958984,3,6,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,synthetic_p5,2,49.35841369628906,10,20,19,3,4,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,restore_m5,1,33.70309066772461,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,restore_m5,2,46.1427116394043,11,19,20,4,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,restore_p5,1,31.885169982910156,3,5,10,2,2,True,evaluable
+Test_PCB_None_None_Soldering Melt_30,restore_p5,2,45.61348342895508,11,19,20,4,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,original,1,31.292097091674805,6,13,12,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,warp_0,1,31.292097091674805,6,13,12,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,synthetic_m5,1,37.16736602783203,6,14,13,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,synthetic_p5,1,34.67105484008789,6,13,13,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,restore_m5,1,34.931495666503906,6,13,13,2,3,True,evaluable
+Test_PCB_None_None_Soldering Melt_31,restore_p5,1,35.60447692871094,6,13,13,2,3,True,evaluable

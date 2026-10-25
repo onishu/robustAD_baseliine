@@ -1,0 +1,116 @@
+{
+  "margin_pixels": 22,
+  "padding": "reflect",
+  "rgb_pad": "reflect",
+  "mask_pad": "constant 0",
+  "crop": "center 512 once after the full angle list",
+  "label": "反射延長でfill混入を抑えた対照",
+  "pad_crop_matches_original_max_abs": 0.0,
+  "pad_zero_warp_max_abs": 5.978986155241728e-05,
+  "pad_zero_warp_mean_abs": 2.8993326850468293e-06,
+  "marker_nearest_max_abs": 0.0,
+  "marker_bilinear_max_abs": 9.15527380129788e-06,
+  "marker_bilinear_mean_abs": 4.777576112502402e-10,
+  "marker_nearest_peaks_match": true,
+  "marker_bilinear_peaks_match": true,
+  "plus5_source_row_col": [
+    200,
+    350
+  ],
+  "plus5_destination_row_col": [
+    192,
+    345
+  ],
+  "plus5_marker_pixels": 1,
+  "plus5_moved_up": true,
+  "center_block_centroid_row_col": [
+    255.5,
+    255.5
+  ],
+  "canvas_center_xy": [
+    278.0,
+    278.0
+  ],
+  "content_center_on_canvas_xy": [
+    278.0,
+    278.0
+  ],
+  "round_trip_matches_single_canvas": true,
+  "intermediate_crop_differs": true,
+  "fill_probe": {
+    "pad_warp_0": {
+      "min": 1.0,
+      "invalid_pixels": 0,
+      "angles": [
+        0.0
+      ],
+      "intermediate_crop": false
+    },
+    "pad_synthetic_m5": {
+      "min": 0.9999998807907104,
+      "invalid_pixels": 0,
+      "angles": [
+        -5.0
+      ],
+      "intermediate_crop": false
+    },
+    "pad_synthetic_p5": {
+      "min": 0.9999998807907104,
+      "invalid_pixels": 0,
+      "angles": [
+        5.0
+      ],
+      "intermediate_crop": false
+    },
+    "pad_restore_m5": {
+      "min": 0.9999998211860657,
+      "invalid_pixels": 0,
+      "angles": [
+        -5.0,
+        5.0
+      ],
+      "intermediate_crop": false
+    },
+    "pad_restore_p5": {
+      "min": 0.9999998211860657,
+      "invalid_pixels": 0,
+      "angles": [
+        5.0,
+        -5.0
+      ],
+      "intermediate_crop": false
+    }
+  },
+  "content_probe": {
+    "pad_warp_0": {
+      "pixels_from_original_square": 262144,
+      "pixels": 262144
+    },
+    "pad_synthetic_m5": {
+      "pixels_from_original_square": 251156,
+      "pixels": 262144
+    },
+    "pad_synthetic_p5": {
+      "pixels_from_original_square": 251156,
+      "pixels": 262144
+    },
+    "pad_restore_m5": {
+      "pixels_from_original_square": 260024,
+      "pixels": 262144
+    },
+    "pad_restore_p5": {
+      "pixels_from_original_square": 260024,
+      "pixels": 262144
+    }
+  },
+  "width_increased_because_fill_entered_crop": false,
+  "revised_margin_pixels": null,
+  "passed": true,
+  "failures": [],
+  "real_image": {
+    "source_id": "Test_PCB_resized_None_None_Normal_Set2_181",
+    "pad_crop_max_abs": 0.0,
+    "pad_zero_warp_max_abs": 1.8894672393798828e-05,
+    "pad_zero_warp_mean_abs": 1.6225401111569226e-07
+  }
+}

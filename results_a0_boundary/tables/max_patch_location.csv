@@ -1,0 +1,976 @@
+source_id,condition,label,argmax_row,argmax_col,n_tied_max,tied_max_touches_reflected_pad,tied_max_inside_original_square
+Test_PCB_resized_None_None_Normal_Set2_181,pad_warp_0,0,10,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_181,pad_synthetic_m5,0,11,45,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_181,pad_synthetic_p5,0,34,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_181,pad_restore_m5,0,10,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_181,pad_restore_p5,0,10,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_182,pad_warp_0,0,42,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_182,pad_synthetic_m5,0,21,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_182,pad_synthetic_p5,0,62,47,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_182,pad_restore_m5,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_182,pad_restore_p5,0,35,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_183,pad_warp_0,0,19,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_183,pad_synthetic_m5,0,22,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_183,pad_synthetic_p5,0,18,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_183,pad_restore_m5,0,40,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_183,pad_restore_p5,0,40,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_184,pad_warp_0,0,36,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_184,pad_synthetic_m5,0,58,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_184,pad_synthetic_p5,0,10,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_184,pad_restore_m5,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_184,pad_restore_p5,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_185,pad_warp_0,0,41,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_185,pad_synthetic_m5,0,35,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_185,pad_synthetic_p5,0,38,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_185,pad_restore_m5,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_185,pad_restore_p5,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_186,pad_warp_0,0,16,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_186,pad_synthetic_m5,0,14,21,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_186,pad_synthetic_p5,0,17,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_186,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_186,pad_restore_p5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_187,pad_warp_0,0,24,50,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_187,pad_synthetic_m5,0,3,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_187,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_187,pad_restore_m5,0,23,58,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_187,pad_restore_p5,0,24,50,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_188,pad_warp_0,0,36,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_188,pad_synthetic_m5,0,31,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_188,pad_synthetic_p5,0,17,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_188,pad_restore_m5,0,43,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_188,pad_restore_p5,0,29,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_189,pad_warp_0,0,37,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_189,pad_synthetic_m5,0,38,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_189,pad_synthetic_p5,0,17,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_189,pad_restore_m5,0,36,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_189,pad_restore_p5,0,32,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_190,pad_warp_0,0,18,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_190,pad_synthetic_m5,0,26,49,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_190,pad_synthetic_p5,0,17,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_190,pad_restore_m5,0,59,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_190,pad_restore_p5,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_191,pad_warp_0,0,38,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_191,pad_synthetic_m5,0,38,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_191,pad_synthetic_p5,0,35,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_191,pad_restore_m5,0,40,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_191,pad_restore_p5,0,38,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_192,pad_warp_0,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_192,pad_synthetic_m5,0,17,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_192,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_192,pad_restore_m5,0,3,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_192,pad_restore_p5,0,38,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_193,pad_warp_0,0,18,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_193,pad_synthetic_m5,0,58,62,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_193,pad_synthetic_p5,0,43,2,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_193,pad_restore_m5,0,38,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_193,pad_restore_p5,0,38,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_194,pad_warp_0,0,3,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_194,pad_synthetic_m5,0,3,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_194,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_194,pad_restore_m5,0,3,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_194,pad_restore_p5,0,2,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_195,pad_warp_0,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_195,pad_synthetic_m5,0,57,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_195,pad_synthetic_p5,0,40,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_195,pad_restore_m5,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_195,pad_restore_p5,0,40,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_196,pad_warp_0,0,36,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_196,pad_synthetic_m5,0,31,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_196,pad_synthetic_p5,0,2,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_196,pad_restore_m5,0,36,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_196,pad_restore_p5,0,36,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_197,pad_warp_0,0,25,48,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_197,pad_synthetic_m5,0,7,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_197,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_197,pad_restore_m5,0,29,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_197,pad_restore_p5,0,3,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_198,pad_warp_0,0,14,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_198,pad_synthetic_m5,0,14,21,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_198,pad_synthetic_p5,0,16,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_198,pad_restore_m5,0,15,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_198,pad_restore_p5,0,14,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_199,pad_warp_0,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_199,pad_synthetic_m5,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_199,pad_synthetic_p5,0,40,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_199,pad_restore_m5,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_199,pad_restore_p5,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_200,pad_warp_0,0,22,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_200,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_200,pad_synthetic_p5,0,2,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_200,pad_restore_m5,0,41,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_200,pad_restore_p5,0,41,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_201,pad_warp_0,0,42,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_201,pad_synthetic_m5,0,17,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_201,pad_synthetic_p5,0,19,28,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_201,pad_restore_m5,0,42,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_201,pad_restore_p5,0,42,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_202,pad_warp_0,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_202,pad_synthetic_m5,0,17,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_202,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_202,pad_restore_m5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_202,pad_restore_p5,0,22,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_203,pad_warp_0,0,42,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_203,pad_synthetic_m5,0,58,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_203,pad_synthetic_p5,0,61,48,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_203,pad_restore_m5,0,33,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_203,pad_restore_p5,0,33,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_204,pad_warp_0,0,15,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_204,pad_synthetic_m5,0,15,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_204,pad_synthetic_p5,0,16,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_204,pad_restore_m5,0,15,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_204,pad_restore_p5,0,15,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_205,pad_warp_0,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_205,pad_synthetic_m5,0,18,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_205,pad_synthetic_p5,0,4,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_205,pad_restore_m5,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_205,pad_restore_p5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_206,pad_warp_0,0,36,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_206,pad_synthetic_m5,0,22,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_206,pad_synthetic_p5,0,27,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_206,pad_restore_m5,0,36,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_206,pad_restore_p5,0,36,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_207,pad_warp_0,0,36,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_207,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_207,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_207,pad_restore_m5,0,36,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_207,pad_restore_p5,0,26,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_208,pad_warp_0,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_208,pad_synthetic_m5,0,38,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_208,pad_synthetic_p5,0,40,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_208,pad_restore_m5,0,39,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_208,pad_restore_p5,0,40,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_209,pad_warp_0,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_209,pad_synthetic_m5,0,22,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_209,pad_synthetic_p5,0,17,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_209,pad_restore_m5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_209,pad_restore_p5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_210,pad_warp_0,0,38,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_210,pad_synthetic_m5,0,17,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_210,pad_synthetic_p5,0,40,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_210,pad_restore_m5,0,42,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_210,pad_restore_p5,0,38,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_211,pad_warp_0,0,35,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_211,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_211,pad_synthetic_p5,0,17,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_211,pad_restore_m5,0,35,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_211,pad_restore_p5,0,35,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_212,pad_warp_0,0,33,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_212,pad_synthetic_m5,0,31,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_212,pad_synthetic_p5,0,17,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_212,pad_restore_m5,0,32,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_212,pad_restore_p5,0,28,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_213,pad_warp_0,0,40,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_213,pad_synthetic_m5,0,23,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_213,pad_synthetic_p5,0,34,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_213,pad_restore_m5,0,40,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_213,pad_restore_p5,0,40,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_214,pad_warp_0,0,18,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_214,pad_synthetic_m5,0,19,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_214,pad_synthetic_p5,0,20,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_214,pad_restore_m5,0,33,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_214,pad_restore_p5,0,41,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_215,pad_warp_0,0,42,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_215,pad_synthetic_m5,0,22,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_215,pad_synthetic_p5,0,21,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_215,pad_restore_m5,0,34,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_215,pad_restore_p5,0,32,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_216,pad_warp_0,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_216,pad_synthetic_m5,0,24,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_216,pad_synthetic_p5,0,17,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_216,pad_restore_m5,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_216,pad_restore_p5,0,33,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_217,pad_warp_0,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_217,pad_synthetic_m5,0,22,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_217,pad_synthetic_p5,0,40,21,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_217,pad_restore_m5,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_217,pad_restore_p5,0,38,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_218,pad_warp_0,0,40,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_218,pad_synthetic_m5,0,22,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_218,pad_synthetic_p5,0,20,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_218,pad_restore_m5,0,36,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_218,pad_restore_p5,0,36,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_219,pad_warp_0,0,4,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_219,pad_synthetic_m5,0,24,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_219,pad_synthetic_p5,0,17,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_219,pad_restore_m5,0,4,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_219,pad_restore_p5,0,40,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_220,pad_warp_0,0,24,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_220,pad_synthetic_m5,0,19,26,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_220,pad_synthetic_p5,0,12,62,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_220,pad_restore_m5,0,24,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_220,pad_restore_p5,0,24,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_221,pad_warp_0,0,36,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_221,pad_synthetic_m5,0,21,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_221,pad_synthetic_p5,0,34,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_221,pad_restore_m5,0,36,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_221,pad_restore_p5,0,36,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_222,pad_warp_0,0,61,45,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_222,pad_synthetic_m5,0,28,46,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_222,pad_synthetic_p5,0,61,60,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_222,pad_restore_m5,0,35,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_222,pad_restore_p5,0,35,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_223,pad_warp_0,0,37,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_223,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_223,pad_synthetic_p5,0,30,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_223,pad_restore_m5,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_223,pad_restore_p5,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_224,pad_warp_0,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_224,pad_synthetic_m5,0,16,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_224,pad_synthetic_p5,0,26,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_224,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_224,pad_restore_p5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_225,pad_warp_0,0,33,10,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_225,pad_synthetic_m5,0,31,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_225,pad_synthetic_p5,0,16,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_225,pad_restore_m5,0,28,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_225,pad_restore_p5,0,33,10,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_226,pad_warp_0,0,42,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_226,pad_synthetic_m5,0,17,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_226,pad_synthetic_p5,0,61,57,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_226,pad_restore_m5,0,42,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_226,pad_restore_p5,0,41,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_227,pad_warp_0,0,42,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_227,pad_synthetic_m5,0,21,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_227,pad_synthetic_p5,0,18,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_227,pad_restore_m5,0,24,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_227,pad_restore_p5,0,23,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_228,pad_warp_0,0,37,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_228,pad_synthetic_m5,0,35,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_228,pad_synthetic_p5,0,18,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_228,pad_restore_m5,0,22,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_228,pad_restore_p5,0,22,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_229,pad_warp_0,0,44,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_229,pad_synthetic_m5,0,22,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_229,pad_synthetic_p5,0,34,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_229,pad_restore_m5,0,43,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_229,pad_restore_p5,0,44,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_230,pad_warp_0,0,18,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_230,pad_synthetic_m5,0,28,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_230,pad_synthetic_p5,0,15,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_230,pad_restore_m5,0,34,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_230,pad_restore_p5,0,22,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_231,pad_warp_0,0,20,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_231,pad_synthetic_m5,0,18,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_231,pad_synthetic_p5,0,21,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_231,pad_restore_m5,0,29,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_231,pad_restore_p5,0,29,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_232,pad_warp_0,0,13,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_232,pad_synthetic_m5,0,60,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_232,pad_synthetic_p5,0,34,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_232,pad_restore_m5,0,54,2,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_232,pad_restore_p5,0,31,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_233,pad_warp_0,0,46,49,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_233,pad_synthetic_m5,0,25,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_233,pad_synthetic_p5,0,19,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_233,pad_restore_m5,0,6,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_233,pad_restore_p5,0,6,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_234,pad_warp_0,0,53,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_234,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_234,pad_synthetic_p5,0,61,58,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_234,pad_restore_m5,0,22,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_234,pad_restore_p5,0,23,58,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_235,pad_warp_0,0,28,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_235,pad_synthetic_m5,0,10,2,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_235,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_235,pad_restore_m5,0,33,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_235,pad_restore_p5,0,33,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_236,pad_warp_0,0,22,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_236,pad_synthetic_m5,0,32,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_236,pad_synthetic_p5,0,26,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_236,pad_restore_m5,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_236,pad_restore_p5,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_237,pad_warp_0,0,7,42,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_237,pad_synthetic_m5,0,23,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_237,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_237,pad_restore_m5,0,7,42,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_237,pad_restore_p5,0,7,42,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_238,pad_warp_0,0,34,40,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_238,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_238,pad_synthetic_p5,0,5,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_238,pad_restore_m5,0,35,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_238,pad_restore_p5,0,42,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_239,pad_warp_0,0,54,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_239,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_239,pad_synthetic_p5,0,5,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_239,pad_restore_m5,0,24,58,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_239,pad_restore_p5,0,43,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_240,pad_warp_0,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_240,pad_synthetic_m5,0,16,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_240,pad_synthetic_p5,0,18,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_240,pad_restore_m5,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_240,pad_restore_p5,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_241,pad_warp_0,0,24,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_241,pad_synthetic_m5,0,22,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_241,pad_synthetic_p5,0,17,35,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_241,pad_restore_m5,0,23,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_241,pad_restore_p5,0,23,59,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_242,pad_warp_0,0,12,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_242,pad_synthetic_m5,0,40,47,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_242,pad_synthetic_p5,0,16,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_242,pad_restore_m5,0,11,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_242,pad_restore_p5,0,11,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_243,pad_warp_0,0,42,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_243,pad_synthetic_m5,0,60,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_243,pad_synthetic_p5,0,34,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_243,pad_restore_m5,0,37,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_243,pad_restore_p5,0,43,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_244,pad_warp_0,0,37,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_244,pad_synthetic_m5,0,32,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_244,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_244,pad_restore_m5,0,38,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_244,pad_restore_p5,0,38,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_245,pad_warp_0,0,11,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_245,pad_synthetic_m5,0,22,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_245,pad_synthetic_p5,0,2,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_245,pad_restore_m5,0,5,28,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_245,pad_restore_p5,0,11,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_246,pad_warp_0,0,39,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_246,pad_synthetic_m5,0,37,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_246,pad_synthetic_p5,0,34,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_246,pad_restore_m5,0,39,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_246,pad_restore_p5,0,39,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_247,pad_warp_0,0,14,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_247,pad_synthetic_m5,0,36,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_247,pad_synthetic_p5,0,16,27,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_247,pad_restore_m5,0,14,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_247,pad_restore_p5,0,14,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_248,pad_warp_0,0,43,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_248,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_248,pad_synthetic_p5,0,44,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_248,pad_restore_m5,0,43,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_248,pad_restore_p5,0,25,50,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_249,pad_warp_0,0,22,46,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_249,pad_synthetic_m5,0,23,48,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_249,pad_synthetic_p5,0,17,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_249,pad_restore_m5,0,22,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_249,pad_restore_p5,0,20,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_250,pad_warp_0,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_250,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_250,pad_synthetic_p5,0,17,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_250,pad_restore_m5,0,21,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_250,pad_restore_p5,0,21,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_251,pad_warp_0,0,20,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_251,pad_synthetic_m5,0,27,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_251,pad_synthetic_p5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_251,pad_restore_m5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_251,pad_restore_p5,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_252,pad_warp_0,0,12,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_252,pad_synthetic_m5,0,13,45,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_252,pad_synthetic_p5,0,11,42,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_252,pad_restore_m5,0,12,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_252,pad_restore_p5,0,12,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_253,pad_warp_0,0,15,22,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_253,pad_synthetic_m5,0,10,2,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_253,pad_synthetic_p5,0,4,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_253,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_253,pad_restore_p5,0,37,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_254,pad_warp_0,0,2,41,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_254,pad_synthetic_m5,0,2,44,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_254,pad_synthetic_p5,0,2,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_254,pad_restore_m5,0,3,40,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_254,pad_restore_p5,0,3,40,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_255,pad_warp_0,0,33,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_255,pad_synthetic_m5,0,22,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_255,pad_synthetic_p5,0,6,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_255,pad_restore_m5,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_255,pad_restore_p5,0,33,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_256,pad_warp_0,0,15,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_256,pad_synthetic_m5,0,7,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_256,pad_synthetic_p5,0,16,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_256,pad_restore_m5,0,36,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_256,pad_restore_p5,0,15,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_257,pad_warp_0,0,38,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_257,pad_synthetic_m5,0,40,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_257,pad_synthetic_p5,0,34,42,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_257,pad_restore_m5,0,38,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_257,pad_restore_p5,0,38,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_258,pad_warp_0,0,16,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_258,pad_synthetic_m5,0,16,28,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_258,pad_synthetic_p5,0,17,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_258,pad_restore_m5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_258,pad_restore_p5,0,46,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_259,pad_warp_0,0,22,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_259,pad_synthetic_m5,0,21,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_259,pad_synthetic_p5,0,18,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_259,pad_restore_m5,0,23,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_259,pad_restore_p5,0,23,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_260,pad_warp_0,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_260,pad_synthetic_m5,0,58,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_260,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_260,pad_restore_m5,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_260,pad_restore_p5,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_261,pad_warp_0,0,31,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_261,pad_synthetic_m5,0,40,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_261,pad_synthetic_p5,0,56,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_261,pad_restore_m5,0,31,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_261,pad_restore_p5,0,31,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_262,pad_warp_0,0,37,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_262,pad_synthetic_m5,0,2,57,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_262,pad_synthetic_p5,0,17,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_262,pad_restore_m5,0,40,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_262,pad_restore_p5,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_263,pad_warp_0,0,24,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_263,pad_synthetic_m5,0,31,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_263,pad_synthetic_p5,0,34,43,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_263,pad_restore_m5,0,44,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_263,pad_restore_p5,0,24,60,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_264,pad_warp_0,0,55,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_264,pad_synthetic_m5,0,18,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_264,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_264,pad_restore_m5,0,33,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_264,pad_restore_p5,0,42,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_265,pad_warp_0,0,19,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_265,pad_synthetic_m5,0,61,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_265,pad_synthetic_p5,0,58,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_265,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_265,pad_restore_p5,0,19,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_266,pad_warp_0,0,23,58,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_266,pad_synthetic_m5,0,23,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_266,pad_synthetic_p5,0,4,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_266,pad_restore_m5,0,23,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_266,pad_restore_p5,0,22,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_267,pad_warp_0,0,41,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_267,pad_synthetic_m5,0,58,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_267,pad_synthetic_p5,0,17,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_267,pad_restore_m5,0,19,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_267,pad_restore_p5,0,44,23,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_268,pad_warp_0,0,37,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_268,pad_synthetic_m5,0,20,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_268,pad_synthetic_p5,0,22,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_268,pad_restore_m5,0,32,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_268,pad_restore_p5,0,37,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_269,pad_warp_0,0,36,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_269,pad_synthetic_m5,0,35,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_269,pad_synthetic_p5,0,34,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_269,pad_restore_m5,0,42,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_269,pad_restore_p5,0,41,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_270,pad_warp_0,0,57,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_270,pad_synthetic_m5,0,40,11,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_270,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_270,pad_restore_m5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_270,pad_restore_p5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_271,pad_warp_0,0,57,26,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_271,pad_synthetic_m5,0,16,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_271,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_271,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_271,pad_restore_p5,0,16,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_272,pad_warp_0,0,57,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_272,pad_synthetic_m5,0,32,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_272,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_272,pad_restore_m5,0,57,26,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_272,pad_restore_p5,0,42,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_273,pad_warp_0,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_273,pad_synthetic_m5,0,15,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_273,pad_synthetic_p5,0,16,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_273,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_273,pad_restore_p5,0,58,26,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_274,pad_warp_0,0,42,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_274,pad_synthetic_m5,0,35,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_274,pad_synthetic_p5,0,5,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_274,pad_restore_m5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_274,pad_restore_p5,0,19,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_275,pad_warp_0,0,40,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_275,pad_synthetic_m5,0,60,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_275,pad_synthetic_p5,0,40,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_275,pad_restore_m5,0,41,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_275,pad_restore_p5,0,37,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_276,pad_warp_0,0,39,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_276,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_276,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_276,pad_restore_m5,0,19,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_276,pad_restore_p5,0,20,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_277,pad_warp_0,0,36,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_277,pad_synthetic_m5,0,7,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_277,pad_synthetic_p5,0,35,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_277,pad_restore_m5,0,26,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_277,pad_restore_p5,0,26,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_278,pad_warp_0,0,19,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_278,pad_synthetic_m5,0,16,27,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_278,pad_synthetic_p5,0,20,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_278,pad_restore_m5,0,20,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_278,pad_restore_p5,0,20,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_279,pad_warp_0,0,57,25,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_279,pad_synthetic_m5,0,20,35,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_279,pad_synthetic_p5,0,34,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_279,pad_restore_m5,0,32,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_279,pad_restore_p5,0,33,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_280,pad_warp_0,0,21,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_280,pad_synthetic_m5,0,31,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_280,pad_synthetic_p5,0,62,41,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_280,pad_restore_m5,0,34,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_280,pad_restore_p5,0,32,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_281,pad_warp_0,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_281,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_281,pad_synthetic_p5,0,19,32,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_281,pad_restore_m5,0,16,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_281,pad_restore_p5,0,16,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_282,pad_warp_0,0,16,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_282,pad_synthetic_m5,0,21,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_282,pad_synthetic_p5,0,21,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_282,pad_restore_m5,0,39,40,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_282,pad_restore_p5,0,6,46,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_283,pad_warp_0,0,40,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_283,pad_synthetic_m5,0,23,49,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_283,pad_synthetic_p5,0,31,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_283,pad_restore_m5,0,40,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_283,pad_restore_p5,0,17,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_284,pad_warp_0,0,30,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_284,pad_synthetic_m5,0,5,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_284,pad_synthetic_p5,0,16,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_284,pad_restore_m5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_284,pad_restore_p5,0,17,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_285,pad_warp_0,0,21,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_285,pad_synthetic_m5,0,2,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_285,pad_synthetic_p5,0,61,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_285,pad_restore_m5,0,21,31,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_285,pad_restore_p5,0,22,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_286,pad_warp_0,0,41,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_286,pad_synthetic_m5,0,22,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_286,pad_synthetic_p5,0,18,33,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_286,pad_restore_m5,0,44,21,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_286,pad_restore_p5,0,39,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_287,pad_warp_0,0,29,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_287,pad_synthetic_m5,0,59,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_287,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_287,pad_restore_m5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_287,pad_restore_p5,0,39,19,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_288,pad_warp_0,0,43,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_288,pad_synthetic_m5,0,61,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_288,pad_synthetic_p5,0,17,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_288,pad_restore_m5,0,36,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_288,pad_restore_p5,0,36,20,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_289,pad_warp_0,0,33,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_289,pad_synthetic_m5,0,31,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_289,pad_synthetic_p5,0,3,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_289,pad_restore_m5,0,31,40,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_289,pad_restore_p5,0,32,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_290,pad_warp_0,0,42,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_290,pad_synthetic_m5,0,41,46,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_290,pad_synthetic_p5,0,6,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_290,pad_restore_m5,0,33,17,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_290,pad_restore_p5,0,18,47,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_291,pad_warp_0,0,40,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_291,pad_synthetic_m5,0,31,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_291,pad_synthetic_p5,0,57,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_291,pad_restore_m5,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_291,pad_restore_p5,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_292,pad_warp_0,0,39,18,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_292,pad_synthetic_m5,0,24,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_292,pad_synthetic_p5,0,34,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_292,pad_restore_m5,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_292,pad_restore_p5,0,25,16,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_293,pad_warp_0,0,33,12,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_293,pad_synthetic_m5,0,22,38,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_293,pad_synthetic_p5,0,18,29,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_293,pad_restore_m5,0,54,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_293,pad_restore_p5,0,52,50,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_294,pad_warp_0,0,40,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_294,pad_synthetic_m5,0,61,7,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_294,pad_synthetic_p5,0,59,2,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_294,pad_restore_m5,0,40,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_294,pad_restore_p5,0,40,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_295,pad_warp_0,0,38,13,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_295,pad_synthetic_m5,0,55,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_295,pad_synthetic_p5,0,2,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_295,pad_restore_m5,0,35,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_295,pad_restore_p5,0,35,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_296,pad_warp_0,0,38,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_296,pad_synthetic_m5,0,24,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_296,pad_synthetic_p5,0,4,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_296,pad_restore_m5,0,29,34,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_296,pad_restore_p5,0,38,24,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_297,pad_warp_0,0,41,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_297,pad_synthetic_m5,0,5,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_297,pad_synthetic_p5,0,58,3,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_297,pad_restore_m5,0,38,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_297,pad_restore_p5,0,41,14,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_298,pad_warp_0,0,38,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_298,pad_synthetic_m5,0,8,2,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_298,pad_synthetic_p5,0,9,61,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_298,pad_restore_m5,0,31,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_298,pad_restore_p5,0,31,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_299,pad_warp_0,0,21,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_299,pad_synthetic_m5,0,16,37,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_299,pad_synthetic_p5,0,21,30,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_299,pad_restore_m5,0,21,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_299,pad_restore_p5,0,21,36,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_300,pad_warp_0,0,37,15,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_300,pad_synthetic_m5,0,2,48,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_300,pad_synthetic_p5,0,4,61,1,True,False
+Test_PCB_resized_None_None_Normal_Set2_300,pad_restore_m5,0,31,39,1,False,True
+Test_PCB_resized_None_None_Normal_Set2_300,pad_restore_p5,0,37,15,1,False,True
+Test_PCB_None_None_Missing Component_1,pad_warp_0,1,55,8,1,False,True
+Test_PCB_None_None_Missing Component_1,pad_synthetic_m5,1,35,14,1,False,True
+Test_PCB_None_None_Missing Component_1,pad_synthetic_p5,1,2,4,1,True,False
+Test_PCB_None_None_Missing Component_1,pad_restore_m5,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_1,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_10,pad_warp_0,1,46,8,1,False,True
+Test_PCB_None_None_Missing Component_10,pad_synthetic_m5,1,27,51,1,False,True
+Test_PCB_None_None_Missing Component_10,pad_synthetic_p5,1,20,31,1,False,True
+Test_PCB_None_None_Missing Component_10,pad_restore_m5,1,55,9,1,False,True
+Test_PCB_None_None_Missing Component_10,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_11,pad_warp_0,1,18,20,1,False,True
+Test_PCB_None_None_Missing Component_11,pad_synthetic_m5,1,2,57,1,True,False
+Test_PCB_None_None_Missing Component_11,pad_synthetic_p5,1,20,32,1,False,True
+Test_PCB_None_None_Missing Component_11,pad_restore_m5,1,57,10,1,False,True
+Test_PCB_None_None_Missing Component_11,pad_restore_p5,1,18,20,1,False,True
+Test_PCB_None_None_Missing Component_12,pad_warp_0,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_12,pad_synthetic_m5,1,24,39,1,False,True
+Test_PCB_None_None_Missing Component_12,pad_synthetic_p5,1,39,22,1,False,True
+Test_PCB_None_None_Missing Component_12,pad_restore_m5,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_12,pad_restore_p5,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_13,pad_warp_0,1,20,50,1,False,True
+Test_PCB_None_None_Missing Component_13,pad_synthetic_m5,1,22,51,1,False,True
+Test_PCB_None_None_Missing Component_13,pad_synthetic_p5,1,19,49,1,False,True
+Test_PCB_None_None_Missing Component_13,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_13,pad_restore_p5,1,20,50,1,False,True
+Test_PCB_None_None_Missing Component_14,pad_warp_0,1,57,8,1,False,True
+Test_PCB_None_None_Missing Component_14,pad_synthetic_m5,1,18,37,1,False,True
+Test_PCB_None_None_Missing Component_14,pad_synthetic_p5,1,22,48,1,False,True
+Test_PCB_None_None_Missing Component_14,pad_restore_m5,1,57,8,1,False,True
+Test_PCB_None_None_Missing Component_14,pad_restore_p5,1,57,8,1,False,True
+Test_PCB_None_None_Missing Component_15,pad_warp_0,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_15,pad_synthetic_m5,1,35,25,1,False,True
+Test_PCB_None_None_Missing Component_15,pad_synthetic_p5,1,57,11,1,False,True
+Test_PCB_None_None_Missing Component_15,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_15,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_16,pad_warp_0,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_16,pad_synthetic_m5,1,61,2,1,True,False
+Test_PCB_None_None_Missing Component_16,pad_synthetic_p5,1,3,61,1,True,False
+Test_PCB_None_None_Missing Component_16,pad_restore_m5,1,55,9,1,False,True
+Test_PCB_None_None_Missing Component_16,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_18,pad_warp_0,1,15,20,1,False,True
+Test_PCB_None_None_Missing Component_18,pad_synthetic_m5,1,5,3,1,False,True
+Test_PCB_None_None_Missing Component_18,pad_synthetic_p5,1,16,31,1,False,True
+Test_PCB_None_None_Missing Component_18,pad_restore_m5,1,58,9,1,False,True
+Test_PCB_None_None_Missing Component_18,pad_restore_p5,1,16,20,1,False,True
+Test_PCB_None_None_Missing Component_19,pad_warp_0,1,4,61,1,False,True
+Test_PCB_None_None_Missing Component_19,pad_synthetic_m5,1,5,3,1,False,True
+Test_PCB_None_None_Missing Component_19,pad_synthetic_p5,1,3,61,1,True,False
+Test_PCB_None_None_Missing Component_19,pad_restore_m5,1,52,56,1,False,True
+Test_PCB_None_None_Missing Component_19,pad_restore_p5,1,52,56,1,False,True
+Test_PCB_None_None_Missing Component_2,pad_warp_0,1,55,9,1,False,True
+Test_PCB_None_None_Missing Component_2,pad_synthetic_m5,1,61,2,1,True,False
+Test_PCB_None_None_Missing Component_2,pad_synthetic_p5,1,57,11,1,False,True
+Test_PCB_None_None_Missing Component_2,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_2,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_20,pad_warp_0,1,21,38,1,False,True
+Test_PCB_None_None_Missing Component_20,pad_synthetic_m5,1,21,40,1,False,True
+Test_PCB_None_None_Missing Component_20,pad_synthetic_p5,1,20,38,1,False,True
+Test_PCB_None_None_Missing Component_20,pad_restore_m5,1,21,38,1,False,True
+Test_PCB_None_None_Missing Component_20,pad_restore_p5,1,21,38,1,False,True
+Test_PCB_None_None_Missing Component_21,pad_warp_0,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_21,pad_synthetic_m5,1,40,25,1,False,True
+Test_PCB_None_None_Missing Component_21,pad_synthetic_p5,1,40,26,1,False,True
+Test_PCB_None_None_Missing Component_21,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_21,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_22,pad_warp_0,1,46,8,1,False,True
+Test_PCB_None_None_Missing Component_22,pad_synthetic_m5,1,61,2,1,True,False
+Test_PCB_None_None_Missing Component_22,pad_synthetic_p5,1,32,24,1,False,True
+Test_PCB_None_None_Missing Component_22,pad_restore_m5,1,55,9,1,False,True
+Test_PCB_None_None_Missing Component_22,pad_restore_p5,1,54,9,1,False,True
+Test_PCB_None_None_Missing Component_23,pad_warp_0,1,43,40,1,False,True
+Test_PCB_None_None_Missing Component_23,pad_synthetic_m5,1,5,3,1,False,True
+Test_PCB_None_None_Missing Component_23,pad_synthetic_p5,1,62,45,1,True,False
+Test_PCB_None_None_Missing Component_23,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_23,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_24,pad_warp_0,1,39,19,1,False,True
+Test_PCB_None_None_Missing Component_24,pad_synthetic_m5,1,61,61,1,True,False
+Test_PCB_None_None_Missing Component_24,pad_synthetic_p5,1,42,19,1,False,True
+Test_PCB_None_None_Missing Component_24,pad_restore_m5,1,39,19,1,False,True
+Test_PCB_None_None_Missing Component_24,pad_restore_p5,1,39,19,1,False,True
+Test_PCB_None_None_Missing Component_25,pad_warp_0,1,55,46,1,False,True
+Test_PCB_None_None_Missing Component_25,pad_synthetic_m5,1,22,51,1,False,True
+Test_PCB_None_None_Missing Component_25,pad_synthetic_p5,1,14,30,1,False,True
+Test_PCB_None_None_Missing Component_25,pad_restore_m5,1,54,46,1,False,True
+Test_PCB_None_None_Missing Component_25,pad_restore_p5,1,54,46,1,False,True
+Test_PCB_None_None_Missing Component_26,pad_warp_0,1,58,46,1,False,True
+Test_PCB_None_None_Missing Component_26,pad_synthetic_m5,1,36,14,1,False,True
+Test_PCB_None_None_Missing Component_26,pad_synthetic_p5,1,14,37,1,False,True
+Test_PCB_None_None_Missing Component_26,pad_restore_m5,1,58,46,1,False,True
+Test_PCB_None_None_Missing Component_26,pad_restore_p5,1,57,45,1,False,True
+Test_PCB_None_None_Missing Component_27,pad_warp_0,1,57,46,1,False,True
+Test_PCB_None_None_Missing Component_27,pad_synthetic_m5,1,59,43,1,False,True
+Test_PCB_None_None_Missing Component_27,pad_synthetic_p5,1,55,48,1,False,True
+Test_PCB_None_None_Missing Component_27,pad_restore_m5,1,57,46,1,False,True
+Test_PCB_None_None_Missing Component_27,pad_restore_p5,1,57,45,1,False,True
+Test_PCB_None_None_Missing Component_28,pad_warp_0,1,35,17,1,False,True
+Test_PCB_None_None_Missing Component_28,pad_synthetic_m5,1,5,3,1,False,True
+Test_PCB_None_None_Missing Component_28,pad_synthetic_p5,1,16,31,1,False,True
+Test_PCB_None_None_Missing Component_28,pad_restore_m5,1,35,17,1,False,True
+Test_PCB_None_None_Missing Component_28,pad_restore_p5,1,35,17,1,False,True
+Test_PCB_None_None_Missing Component_29,pad_warp_0,1,53,9,1,False,True
+Test_PCB_None_None_Missing Component_29,pad_synthetic_m5,1,5,3,1,False,True
+Test_PCB_None_None_Missing Component_29,pad_synthetic_p5,1,15,30,1,False,True
+Test_PCB_None_None_Missing Component_29,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_29,pad_restore_p5,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_3,pad_warp_0,1,47,8,1,False,True
+Test_PCB_None_None_Missing Component_3,pad_synthetic_m5,1,36,13,1,False,True
+Test_PCB_None_None_Missing Component_3,pad_synthetic_p5,1,20,50,1,False,True
+Test_PCB_None_None_Missing Component_3,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_3,pad_restore_p5,1,56,8,1,False,True
+Test_PCB_None_None_Missing Component_30,pad_warp_0,1,22,21,1,False,True
+Test_PCB_None_None_Missing Component_30,pad_synthetic_m5,1,4,3,1,False,True
+Test_PCB_None_None_Missing Component_30,pad_synthetic_p5,1,20,32,1,False,True
+Test_PCB_None_None_Missing Component_30,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_30,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Missing Component_31,pad_warp_0,1,44,39,1,False,True
+Test_PCB_None_None_Missing Component_31,pad_synthetic_m5,1,35,14,1,False,True
+Test_PCB_None_None_Missing Component_31,pad_synthetic_p5,1,3,61,1,True,False
+Test_PCB_None_None_Missing Component_31,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_31,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_32,pad_warp_0,1,19,25,1,False,True
+Test_PCB_None_None_Missing Component_32,pad_synthetic_m5,1,6,2,1,True,False
+Test_PCB_None_None_Missing Component_32,pad_synthetic_p5,1,16,31,1,False,True
+Test_PCB_None_None_Missing Component_32,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Missing Component_32,pad_restore_p5,1,19,25,1,False,True
+Test_PCB_None_None_Scratch_1,pad_warp_0,1,55,9,1,False,True
+Test_PCB_None_None_Scratch_1,pad_synthetic_m5,1,5,58,1,False,True
+Test_PCB_None_None_Scratch_1,pad_synthetic_p5,1,57,11,1,False,True
+Test_PCB_None_None_Scratch_1,pad_restore_m5,1,56,10,1,False,True
+Test_PCB_None_None_Scratch_1,pad_restore_p5,1,55,9,1,False,True
+Test_PCB_None_None_Scratch_10,pad_warp_0,1,19,36,1,False,True
+Test_PCB_None_None_Scratch_10,pad_synthetic_m5,1,31,16,1,False,True
+Test_PCB_None_None_Scratch_10,pad_synthetic_p5,1,17,35,1,False,True
+Test_PCB_None_None_Scratch_10,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Scratch_10,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_11,pad_warp_0,1,43,21,1,False,True
+Test_PCB_None_None_Scratch_11,pad_synthetic_m5,1,43,21,1,False,True
+Test_PCB_None_None_Scratch_11,pad_synthetic_p5,1,44,23,1,False,True
+Test_PCB_None_None_Scratch_11,pad_restore_m5,1,43,22,1,False,True
+Test_PCB_None_None_Scratch_11,pad_restore_p5,1,43,22,1,False,True
+Test_PCB_None_None_Scratch_12,pad_warp_0,1,22,60,1,False,True
+Test_PCB_None_None_Scratch_12,pad_synthetic_m5,1,37,14,1,False,True
+Test_PCB_None_None_Scratch_12,pad_synthetic_p5,1,58,11,1,False,True
+Test_PCB_None_None_Scratch_12,pad_restore_m5,1,58,9,1,False,True
+Test_PCB_None_None_Scratch_12,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Scratch_13,pad_warp_0,1,30,17,1,False,True
+Test_PCB_None_None_Scratch_13,pad_synthetic_m5,1,28,18,1,False,True
+Test_PCB_None_None_Scratch_13,pad_synthetic_p5,1,57,10,1,False,True
+Test_PCB_None_None_Scratch_13,pad_restore_m5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_13,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_14,pad_warp_0,1,22,18,1,False,True
+Test_PCB_None_None_Scratch_14,pad_synthetic_m5,1,21,19,1,False,True
+Test_PCB_None_None_Scratch_14,pad_synthetic_p5,1,45,23,1,False,True
+Test_PCB_None_None_Scratch_14,pad_restore_m5,1,45,21,1,False,True
+Test_PCB_None_None_Scratch_14,pad_restore_p5,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_15,pad_warp_0,1,18,22,1,False,True
+Test_PCB_None_None_Scratch_15,pad_synthetic_m5,1,17,23,1,False,True
+Test_PCB_None_None_Scratch_15,pad_synthetic_p5,1,3,61,1,True,False
+Test_PCB_None_None_Scratch_15,pad_restore_m5,1,19,21,1,False,True
+Test_PCB_None_None_Scratch_15,pad_restore_p5,1,19,21,1,False,True
+Test_PCB_None_None_Scratch_16,pad_warp_0,1,4,62,1,False,True
+Test_PCB_None_None_Scratch_16,pad_synthetic_m5,1,59,6,1,False,True
+Test_PCB_None_None_Scratch_16,pad_synthetic_p5,1,1,61,1,True,False
+Test_PCB_None_None_Scratch_16,pad_restore_m5,1,3,62,1,False,True
+Test_PCB_None_None_Scratch_16,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_17,pad_warp_0,1,48,8,1,False,True
+Test_PCB_None_None_Scratch_17,pad_synthetic_m5,1,17,40,1,False,True
+Test_PCB_None_None_Scratch_17,pad_synthetic_p5,1,3,60,1,False,True
+Test_PCB_None_None_Scratch_17,pad_restore_m5,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_17,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_18,pad_warp_0,1,57,7,1,False,True
+Test_PCB_None_None_Scratch_18,pad_synthetic_m5,1,36,14,1,False,True
+Test_PCB_None_None_Scratch_18,pad_synthetic_p5,1,58,10,1,False,True
+Test_PCB_None_None_Scratch_18,pad_restore_m5,1,58,7,1,False,True
+Test_PCB_None_None_Scratch_18,pad_restore_p5,1,57,8,1,False,True
+Test_PCB_None_None_Scratch_19,pad_warp_0,1,19,20,1,False,True
+Test_PCB_None_None_Scratch_19,pad_synthetic_m5,1,18,21,1,False,True
+Test_PCB_None_None_Scratch_19,pad_synthetic_p5,1,20,19,1,False,True
+Test_PCB_None_None_Scratch_19,pad_restore_m5,1,19,20,1,False,True
+Test_PCB_None_None_Scratch_19,pad_restore_p5,1,19,20,1,False,True
+Test_PCB_None_None_Scratch_2,pad_warp_0,1,62,43,1,False,True
+Test_PCB_None_None_Scratch_2,pad_synthetic_m5,1,6,3,1,False,True
+Test_PCB_None_None_Scratch_2,pad_synthetic_p5,1,62,46,1,True,False
+Test_PCB_None_None_Scratch_2,pad_restore_m5,1,62,43,1,False,True
+Test_PCB_None_None_Scratch_2,pad_restore_p5,1,62,43,1,False,True
+Test_PCB_None_None_Scratch_20,pad_warp_0,1,39,17,1,False,True
+Test_PCB_None_None_Scratch_20,pad_synthetic_m5,1,36,14,1,False,True
+Test_PCB_None_None_Scratch_20,pad_synthetic_p5,1,17,34,1,False,True
+Test_PCB_None_None_Scratch_20,pad_restore_m5,1,61,32,1,False,True
+Test_PCB_None_None_Scratch_20,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_21,pad_warp_0,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_21,pad_synthetic_m5,1,16,28,1,False,True
+Test_PCB_None_None_Scratch_21,pad_synthetic_p5,1,5,61,1,True,False
+Test_PCB_None_None_Scratch_21,pad_restore_m5,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_21,pad_restore_p5,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_22,pad_warp_0,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_22,pad_synthetic_m5,1,7,3,1,False,True
+Test_PCB_None_None_Scratch_22,pad_synthetic_p5,1,17,31,1,False,True
+Test_PCB_None_None_Scratch_22,pad_restore_m5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_22,pad_restore_p5,1,60,33,1,False,True
+Test_PCB_None_None_Scratch_23,pad_warp_0,1,54,42,1,False,True
+Test_PCB_None_None_Scratch_23,pad_synthetic_m5,1,7,3,1,False,True
+Test_PCB_None_None_Scratch_23,pad_synthetic_p5,1,11,61,1,False,True
+Test_PCB_None_None_Scratch_23,pad_restore_m5,1,54,42,1,False,True
+Test_PCB_None_None_Scratch_23,pad_restore_p5,1,54,42,1,False,True
+Test_PCB_None_None_Scratch_24,pad_warp_0,1,38,18,1,False,True
+Test_PCB_None_None_Scratch_24,pad_synthetic_m5,1,36,15,1,False,True
+Test_PCB_None_None_Scratch_24,pad_synthetic_p5,1,60,35,1,False,True
+Test_PCB_None_None_Scratch_24,pad_restore_m5,1,38,18,1,False,True
+Test_PCB_None_None_Scratch_24,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_25,pad_warp_0,1,60,37,1,False,True
+Test_PCB_None_None_Scratch_25,pad_synthetic_m5,1,22,40,1,False,True
+Test_PCB_None_None_Scratch_25,pad_synthetic_p5,1,59,39,1,False,True
+Test_PCB_None_None_Scratch_25,pad_restore_m5,1,60,37,1,False,True
+Test_PCB_None_None_Scratch_25,pad_restore_p5,1,57,8,1,False,True
+Test_PCB_None_None_Scratch_26,pad_warp_0,1,2,62,1,False,True
+Test_PCB_None_None_Scratch_26,pad_synthetic_m5,1,61,2,1,True,False
+Test_PCB_None_None_Scratch_26,pad_synthetic_p5,1,60,35,1,False,True
+Test_PCB_None_None_Scratch_26,pad_restore_m5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_26,pad_restore_p5,1,60,32,1,False,True
+Test_PCB_None_None_Scratch_27,pad_warp_0,1,17,21,1,False,True
+Test_PCB_None_None_Scratch_27,pad_synthetic_m5,1,16,22,1,False,True
+Test_PCB_None_None_Scratch_27,pad_synthetic_p5,1,19,19,1,False,True
+Test_PCB_None_None_Scratch_27,pad_restore_m5,1,17,21,1,False,True
+Test_PCB_None_None_Scratch_27,pad_restore_p5,1,17,21,1,False,True
+Test_PCB_None_None_Scratch_28,pad_warp_0,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_28,pad_synthetic_m5,1,7,3,1,False,True
+Test_PCB_None_None_Scratch_28,pad_synthetic_p5,1,58,10,1,False,True
+Test_PCB_None_None_Scratch_28,pad_restore_m5,1,3,62,1,False,True
+Test_PCB_None_None_Scratch_28,pad_restore_p5,1,57,8,1,False,True
+Test_PCB_None_None_Scratch_29,pad_warp_0,1,17,20,1,False,True
+Test_PCB_None_None_Scratch_29,pad_synthetic_m5,1,16,21,1,False,True
+Test_PCB_None_None_Scratch_29,pad_synthetic_p5,1,18,19,1,False,True
+Test_PCB_None_None_Scratch_29,pad_restore_m5,1,57,8,1,False,True
+Test_PCB_None_None_Scratch_29,pad_restore_p5,1,17,20,1,False,True
+Test_PCB_None_None_Scratch_3,pad_warp_0,1,60,37,1,False,True
+Test_PCB_None_None_Scratch_3,pad_synthetic_m5,1,22,40,1,False,True
+Test_PCB_None_None_Scratch_3,pad_synthetic_p5,1,59,39,1,False,True
+Test_PCB_None_None_Scratch_3,pad_restore_m5,1,60,37,1,False,True
+Test_PCB_None_None_Scratch_3,pad_restore_p5,1,60,37,1,False,True
+Test_PCB_None_None_Scratch_30,pad_warp_0,1,4,62,1,False,True
+Test_PCB_None_None_Scratch_30,pad_synthetic_m5,1,24,16,1,False,True
+Test_PCB_None_None_Scratch_30,pad_synthetic_p5,1,1,61,1,True,False
+Test_PCB_None_None_Scratch_30,pad_restore_m5,1,4,62,1,False,True
+Test_PCB_None_None_Scratch_30,pad_restore_p5,1,56,7,1,False,True
+Test_PCB_None_None_Scratch_31,pad_warp_0,1,56,8,1,False,True
+Test_PCB_None_None_Scratch_31,pad_synthetic_m5,1,44,41,1,False,True
+Test_PCB_None_None_Scratch_31,pad_synthetic_p5,1,58,10,1,False,True
+Test_PCB_None_None_Scratch_31,pad_restore_m5,1,57,8,1,False,True
+Test_PCB_None_None_Scratch_31,pad_restore_p5,1,57,8,1,False,True
+Test_PCB_None_None_Soldering Melt_1,pad_warp_0,1,19,18,1,False,True
+Test_PCB_None_None_Soldering Melt_1,pad_synthetic_m5,1,59,61,1,True,False
+Test_PCB_None_None_Soldering Melt_1,pad_synthetic_p5,1,20,17,1,False,True
+Test_PCB_None_None_Soldering Melt_1,pad_restore_m5,1,19,18,1,False,True
+Test_PCB_None_None_Soldering Melt_1,pad_restore_p5,1,19,18,1,False,True
+Test_PCB_None_None_Soldering Melt_10,pad_warp_0,1,55,9,1,False,True
+Test_PCB_None_None_Soldering Melt_10,pad_synthetic_m5,1,59,61,1,True,False
+Test_PCB_None_None_Soldering Melt_10,pad_synthetic_p5,1,32,24,1,False,True
+Test_PCB_None_None_Soldering Melt_10,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_10,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_11,pad_warp_0,1,57,8,1,False,True
+Test_PCB_None_None_Soldering Melt_11,pad_synthetic_m5,1,17,40,1,False,True
+Test_PCB_None_None_Soldering Melt_11,pad_synthetic_p5,1,16,31,1,False,True
+Test_PCB_None_None_Soldering Melt_11,pad_restore_m5,1,58,9,1,False,True
+Test_PCB_None_None_Soldering Melt_11,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_12,pad_warp_0,1,4,32,1,False,True
+Test_PCB_None_None_Soldering Melt_12,pad_synthetic_m5,1,22,40,1,False,True
+Test_PCB_None_None_Soldering Melt_12,pad_synthetic_p5,1,31,16,1,False,True
+Test_PCB_None_None_Soldering Melt_12,pad_restore_m5,1,4,32,1,False,True
+Test_PCB_None_None_Soldering Melt_12,pad_restore_p5,1,28,17,1,False,True
+Test_PCB_None_None_Soldering Melt_13,pad_warp_0,1,37,41,1,False,True
+Test_PCB_None_None_Soldering Melt_13,pad_synthetic_m5,1,58,61,1,True,False
+Test_PCB_None_None_Soldering Melt_13,pad_synthetic_p5,1,37,41,1,False,True
+Test_PCB_None_None_Soldering Melt_13,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_13,pad_restore_p5,1,38,41,1,False,True
+Test_PCB_None_None_Soldering Melt_14,pad_warp_0,1,28,15,1,False,True
+Test_PCB_None_None_Soldering Melt_14,pad_synthetic_m5,1,57,61,1,True,False
+Test_PCB_None_None_Soldering Melt_14,pad_synthetic_p5,1,30,15,1,False,True
+Test_PCB_None_None_Soldering Melt_14,pad_restore_m5,1,28,15,1,False,True
+Test_PCB_None_None_Soldering Melt_14,pad_restore_p5,1,28,15,1,False,True
+Test_PCB_None_None_Soldering Melt_15,pad_warp_0,1,22,16,1,False,True
+Test_PCB_None_None_Soldering Melt_15,pad_synthetic_m5,1,22,36,1,False,True
+Test_PCB_None_None_Soldering Melt_15,pad_synthetic_p5,1,16,37,1,False,True
+Test_PCB_None_None_Soldering Melt_15,pad_restore_m5,1,27,34,1,False,True
+Test_PCB_None_None_Soldering Melt_15,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_16,pad_warp_0,1,38,20,1,False,True
+Test_PCB_None_None_Soldering Melt_16,pad_synthetic_m5,1,37,20,1,False,True
+Test_PCB_None_None_Soldering Melt_16,pad_synthetic_p5,1,3,7,1,False,True
+Test_PCB_None_None_Soldering Melt_16,pad_restore_m5,1,38,20,1,False,True
+Test_PCB_None_None_Soldering Melt_16,pad_restore_p5,1,39,21,1,False,True
+Test_PCB_None_None_Soldering Melt_17,pad_warp_0,1,9,14,1,False,True
+Test_PCB_None_None_Soldering Melt_17,pad_synthetic_m5,1,36,14,1,False,True
+Test_PCB_None_None_Soldering Melt_17,pad_synthetic_p5,1,1,18,1,True,False
+Test_PCB_None_None_Soldering Melt_17,pad_restore_m5,1,8,47,1,False,True
+Test_PCB_None_None_Soldering Melt_17,pad_restore_p5,1,8,47,1,False,True
+Test_PCB_None_None_Soldering Melt_18,pad_warp_0,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_18,pad_synthetic_m5,1,17,40,1,False,True
+Test_PCB_None_None_Soldering Melt_18,pad_synthetic_p5,1,57,11,1,False,True
+Test_PCB_None_None_Soldering Melt_18,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_18,pad_restore_p5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_19,pad_warp_0,1,39,20,1,False,True
+Test_PCB_None_None_Soldering Melt_19,pad_synthetic_m5,1,39,20,1,False,True
+Test_PCB_None_None_Soldering Melt_19,pad_synthetic_p5,1,41,21,1,False,True
+Test_PCB_None_None_Soldering Melt_19,pad_restore_m5,1,40,21,1,False,True
+Test_PCB_None_None_Soldering Melt_19,pad_restore_p5,1,40,21,1,False,True
+Test_PCB_None_None_Soldering Melt_2,pad_warp_0,1,29,18,1,False,True
+Test_PCB_None_None_Soldering Melt_2,pad_synthetic_m5,1,60,61,1,True,False
+Test_PCB_None_None_Soldering Melt_2,pad_synthetic_p5,1,21,31,1,False,True
+Test_PCB_None_None_Soldering Melt_2,pad_restore_m5,1,29,18,1,False,True
+Test_PCB_None_None_Soldering Melt_2,pad_restore_p5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_20,pad_warp_0,1,35,37,1,False,True
+Test_PCB_None_None_Soldering Melt_20,pad_synthetic_m5,1,35,37,1,False,True
+Test_PCB_None_None_Soldering Melt_20,pad_synthetic_p5,1,34,38,1,False,True
+Test_PCB_None_None_Soldering Melt_20,pad_restore_m5,1,34,37,1,False,True
+Test_PCB_None_None_Soldering Melt_20,pad_restore_p5,1,34,37,1,False,True
+Test_PCB_None_None_Soldering Melt_21,pad_warp_0,1,39,30,1,False,True
+Test_PCB_None_None_Soldering Melt_21,pad_synthetic_m5,1,34,16,1,False,True
+Test_PCB_None_None_Soldering Melt_21,pad_synthetic_p5,1,39,31,1,False,True
+Test_PCB_None_None_Soldering Melt_21,pad_restore_m5,1,39,30,1,False,True
+Test_PCB_None_None_Soldering Melt_21,pad_restore_p5,1,39,30,1,False,True
+Test_PCB_None_None_Soldering Melt_22,pad_warp_0,1,4,31,1,False,True
+Test_PCB_None_None_Soldering Melt_22,pad_synthetic_m5,1,36,37,1,False,True
+Test_PCB_None_None_Soldering Melt_22,pad_synthetic_p5,1,57,11,1,False,True
+Test_PCB_None_None_Soldering Melt_22,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_22,pad_restore_p5,1,55,8,1,False,True
+Test_PCB_None_None_Soldering Melt_23,pad_warp_0,1,16,25,1,False,True
+Test_PCB_None_None_Soldering Melt_23,pad_synthetic_m5,1,15,27,1,False,True
+Test_PCB_None_None_Soldering Melt_23,pad_synthetic_p5,1,16,24,1,False,True
+Test_PCB_None_None_Soldering Melt_23,pad_restore_m5,1,16,25,1,False,True
+Test_PCB_None_None_Soldering Melt_23,pad_restore_p5,1,16,25,1,False,True
+Test_PCB_None_None_Soldering Melt_24,pad_warp_0,1,30,40,1,False,True
+Test_PCB_None_None_Soldering Melt_24,pad_synthetic_m5,1,31,40,1,False,True
+Test_PCB_None_None_Soldering Melt_24,pad_synthetic_p5,1,30,40,1,False,True
+Test_PCB_None_None_Soldering Melt_24,pad_restore_m5,1,30,40,1,False,True
+Test_PCB_None_None_Soldering Melt_24,pad_restore_p5,1,30,41,1,False,True
+Test_PCB_None_None_Soldering Melt_25,pad_warp_0,1,48,53,1,False,True
+Test_PCB_None_None_Soldering Melt_25,pad_synthetic_m5,1,34,37,1,False,True
+Test_PCB_None_None_Soldering Melt_25,pad_synthetic_p5,1,57,3,1,False,True
+Test_PCB_None_None_Soldering Melt_25,pad_restore_m5,1,55,10,1,False,True
+Test_PCB_None_None_Soldering Melt_25,pad_restore_p5,1,55,9,1,False,True
+Test_PCB_None_None_Soldering Melt_26,pad_warp_0,1,37,18,1,False,True
+Test_PCB_None_None_Soldering Melt_26,pad_synthetic_m5,1,35,15,1,False,True
+Test_PCB_None_None_Soldering Melt_26,pad_synthetic_p5,1,39,15,1,False,True
+Test_PCB_None_None_Soldering Melt_26,pad_restore_m5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_26,pad_restore_p5,1,36,17,1,False,True
+Test_PCB_None_None_Soldering Melt_27,pad_warp_0,1,21,32,1,False,True
+Test_PCB_None_None_Soldering Melt_27,pad_synthetic_m5,1,21,34,1,False,True
+Test_PCB_None_None_Soldering Melt_27,pad_synthetic_p5,1,21,32,1,False,True
+Test_PCB_None_None_Soldering Melt_27,pad_restore_m5,1,21,32,1,False,True
+Test_PCB_None_None_Soldering Melt_27,pad_restore_p5,1,21,32,1,False,True
+Test_PCB_None_None_Soldering Melt_28,pad_warp_0,1,45,47,1,False,True
+Test_PCB_None_None_Soldering Melt_28,pad_synthetic_m5,1,46,46,1,False,True
+Test_PCB_None_None_Soldering Melt_28,pad_synthetic_p5,1,3,61,1,True,False
+Test_PCB_None_None_Soldering Melt_28,pad_restore_m5,1,45,47,1,False,True
+Test_PCB_None_None_Soldering Melt_28,pad_restore_p5,1,45,47,1,False,True
+Test_PCB_None_None_Soldering Melt_29,pad_warp_0,1,46,32,1,False,True
+Test_PCB_None_None_Soldering Melt_29,pad_synthetic_m5,1,52,6,1,False,True
+Test_PCB_None_None_Soldering Melt_29,pad_synthetic_p5,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_29,pad_restore_m5,1,57,7,1,False,True
+Test_PCB_None_None_Soldering Melt_29,pad_restore_p5,1,54,8,1,False,True
+Test_PCB_None_None_Soldering Melt_3,pad_warp_0,1,18,21,1,False,True
+Test_PCB_None_None_Soldering Melt_3,pad_synthetic_m5,1,59,61,1,True,False
+Test_PCB_None_None_Soldering Melt_3,pad_synthetic_p5,1,19,19,1,False,True
+Test_PCB_None_None_Soldering Melt_3,pad_restore_m5,1,18,21,1,False,True
+Test_PCB_None_None_Soldering Melt_3,pad_restore_p5,1,18,21,1,False,True
+Test_PCB_None_None_Soldering Melt_30,pad_warp_0,1,48,23,1,False,True
+Test_PCB_None_None_Soldering Melt_30,pad_synthetic_m5,1,46,21,1,False,True
+Test_PCB_None_None_Soldering Melt_30,pad_synthetic_p5,1,48,24,1,False,True
+Test_PCB_None_None_Soldering Melt_30,pad_restore_m5,1,47,23,1,False,True
+Test_PCB_None_None_Soldering Melt_30,pad_restore_p5,1,47,23,1,False,True
+Test_PCB_None_None_Soldering Melt_31,pad_warp_0,1,56,9,1,False,True
+Test_PCB_None_None_Soldering Melt_31,pad_synthetic_m5,1,22,51,1,False,True
+Test_PCB_None_None_Soldering Melt_31,pad_synthetic_p5,1,58,11,1,False,True
+Test_PCB_None_None_Soldering Melt_31,pad_restore_m5,1,57,9,1,False,True
+Test_PCB_None_None_Soldering Melt_31,pad_restore_p5,1,56,9,1,False,True
