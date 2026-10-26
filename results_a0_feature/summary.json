@@ -1,0 +1,417 @@
+{
+  "verdict": "未判定",
+  "called_board_surface_improvement": false,
+  "roi_metrics": false,
+  "output_dir": "C:\\workspace\\robustad\\results_a0_feature",
+  "image_threshold": 36.28824043273926,
+  "patch_threshold": 24.215826511383057,
+  "thresholds_recomputed": false,
+  "score_seconds": 180.30831480002962,
+  "elapsed_seconds": 199.3987224000739,
+  "conditions": {
+    "feature_m5": {
+      "anomaly_detected": 75,
+      "anomaly_n": 75,
+      "normal_detected": 52,
+      "normal_n": 120,
+      "image_score": {
+        "normal": {
+          "n": 120,
+          "min": 33.87125778198242,
+          "p10": 34.47294960021973,
+          "p50": 36.03083038330078,
+          "p90": 38.93780975341797,
+          "max": 44.1121711730957,
+          "mean": 36.56394389470418
+        },
+        "anomaly": {
+          "n": 75,
+          "min": 38.20627975463867,
+          "p10": 39.574946594238284,
+          "p50": 41.62220764160156,
+          "p90": 45.70064697265626,
+          "max": 51.57708740234375,
+          "mean": 42.09228276570638
+        }
+      },
+      "per_image_normal_patch_fpr_full": {
+        "n": 120,
+        "min": 0.35205078125,
+        "p10": 0.3810546875,
+        "p50": 0.4132080078125,
+        "p90": 0.44770507812500004,
+        "max": 0.4931640625,
+        "mean": 0.4146484375
+      },
+      "per_image_normal_patch_fpr_inside_grid": {
+        "n": 120,
+        "min": 0.37163561076604557,
+        "p10": 0.4015527950310559,
+        "p50": 0.43504140786749484,
+        "p90": 0.4700569358178054,
+        "max": 0.5191511387163561,
+        "mean": 0.43612620772946864
+      },
+      "image_decision_includes_reflection": true,
+      "pooled_patch_interval_omitted": true,
+      "normal_argmax_on_reflection": 0,
+      "component_detected": 110,
+      "component_n": 111,
+      "component_saturation_is_not_selectivity": true,
+      "input_unevaluable": 1
+    },
+    "feature_p5": {
+      "anomaly_detected": 75,
+      "anomaly_n": 75,
+      "normal_detected": 55,
+      "normal_n": 120,
+      "image_score": {
+        "normal": {
+          "n": 120,
+          "min": 34.04152297973633,
+          "p10": 34.91034164428711,
+          "p50": 36.064842224121094,
+          "p90": 39.39571990966797,
+          "max": 48.68831253051758,
+          "mean": 36.85592447916667
+        },
+        "anomaly": {
+          "n": 75,
+          "min": 37.68612289428711,
+          "p10": 38.759918212890625,
+          "p50": 40.83121871948242,
+          "p90": 44.15588073730469,
+          "max": 49.742523193359375,
+          "mean": 41.418004252115885
+        }
+      },
+      "per_image_normal_patch_fpr_full": {
+        "n": 120,
+        "min": 0.346435546875,
+        "p10": 0.3743896484375,
+        "p50": 0.40869140625,
+        "p90": 0.44316406250000007,
+        "max": 0.491943359375,
+        "mean": 0.40908610026041664
+      },
+      "per_image_normal_patch_fpr_inside_grid": {
+        "n": 120,
+        "min": 0.3630952380952381,
+        "p10": 0.3946687370600414,
+        "p50": 0.4297360248447205,
+        "p90": 0.46493271221532095,
+        "max": 0.5150103519668737,
+        "mean": 0.4308208247066943
+      },
+      "image_decision_includes_reflection": true,
+      "pooled_patch_interval_omitted": true,
+      "normal_argmax_on_reflection": 1,
+      "component_detected": 110,
+      "component_n": 111,
+      "component_saturation_is_not_selectivity": true,
+      "input_unevaluable": 1
+    }
+  },
+  "comparisons": {
+    "feature_m5": {
+      "against_rotated": {
+        "reference_condition": "pad_synthetic_m5",
+        "score_delta_feature_minus_reference": {
+          "n": 195,
+          "min": -3.559284210205078,
+          "p10": -2.1076644897460937,
+          "p50": -0.9763031005859375,
+          "p90": -0.3252143859863282,
+          "max": 0.6192626953125,
+          "mean": -1.1221477410732172
+        },
+        "normal_score_delta": {
+          "n": 120,
+          "min": -2.922698974609375,
+          "p10": -1.991891098022461,
+          "p50": -0.9086647033691406,
+          "p90": -0.24815521240234364,
+          "max": 0.4722938537597656,
+          "mean": -1.011573060353597
+        },
+        "anomaly_score_delta": {
+          "n": 75,
+          "min": -3.559284210205078,
+          "p10": -2.430855560302734,
+          "p50": -1.1224861145019531,
+          "p90": -0.5135406494140625,
+          "max": 0.6192626953125,
+          "mean": -1.2990672302246093
+        },
+        "decisions": {
+          "n": 195,
+          "both_detected": 127,
+          "reference_only": 29,
+          "other_only": 0,
+          "neither": 39,
+          "observed_disagreement": 29,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "normal_decisions": {
+          "n": 120,
+          "both_detected": 52,
+          "reference_only": 29,
+          "other_only": 0,
+          "neither": 39,
+          "observed_disagreement": 29,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "anomaly_decisions": {
+          "n": 75,
+          "both_detected": 75,
+          "reference_only": 0,
+          "other_only": 0,
+          "neither": 0,
+          "observed_disagreement": 0,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "observed_zero_disagreement_is_not_equivalence": true
+      },
+      "against_image_round_trip": {
+        "reference_condition": "pad_restore_m5",
+        "score_delta_feature_minus_reference": {
+          "n": 195,
+          "min": -4.077159881591797,
+          "p10": -1.5650863647460933,
+          "p50": 2.38897705078125,
+          "p90": 5.481595230102538,
+          "max": 11.832324981689453,
+          "mean": 2.198640344081781
+        },
+        "normal_score_delta": {
+          "n": 120,
+          "min": -4.077159881591797,
+          "p10": 0.5147636413574219,
+          "p50": 3.210371971130371,
+          "p90": 5.88527526855469,
+          "max": 11.832324981689453,
+          "mean": 3.224033164978027
+        },
+        "anomaly_score_delta": {
+          "n": 75,
+          "min": -3.2117958068847656,
+          "p10": -2.5236747741699217,
+          "p50": 0.3293037414550781,
+          "p90": 3.068257141113283,
+          "max": 7.59747314453125,
+          "mean": 0.5580118306477865
+        },
+        "decisions": {
+          "n": 195,
+          "both_detected": 85,
+          "reference_only": 1,
+          "other_only": 42,
+          "neither": 67,
+          "observed_disagreement": 43,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "normal_decisions": {
+          "n": 120,
+          "both_detected": 10,
+          "reference_only": 1,
+          "other_only": 42,
+          "neither": 67,
+          "observed_disagreement": 43,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "anomaly_decisions": {
+          "n": 75,
+          "both_detected": 75,
+          "reference_only": 0,
+          "other_only": 0,
+          "neither": 0,
+          "observed_disagreement": 0,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "observed_zero_disagreement_is_not_equivalence": true
+      },
+      "component_against_rotated": {
+        "unit": "one maximum per anomaly image",
+        "n_images": 75,
+        "delta": {
+          "n": 75,
+          "min": -3.5317344665527344,
+          "p10": -1.6842140197753905,
+          "p50": -0.6810073852539062,
+          "p90": 0.10515594482421967,
+          "max": 0.975341796875,
+          "mean": -0.7936149088541666
+        },
+        "component_detection_disagreements": 0,
+        "disagreement_is_not_selectivity_or_equivalence": true,
+        "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask"
+      },
+      "component_against_image_round_trip": {
+        "unit": "one maximum per anomaly image",
+        "n_images": 75,
+        "delta": {
+          "n": 75,
+          "min": -2.9677276611328125,
+          "p10": -1.43602294921875,
+          "p50": 1.4918251037597656,
+          "p90": 3.9396018981933607,
+          "max": 6.292263031005859,
+          "mean": 1.3852947235107422
+        },
+        "component_detection_disagreements": 0,
+        "disagreement_is_not_selectivity_or_equivalence": true,
+        "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask"
+      }
+    },
+    "feature_p5": {
+      "against_rotated": {
+        "reference_condition": "pad_synthetic_p5",
+        "score_delta_feature_minus_reference": {
+          "n": 195,
+          "min": -3.4907188415527344,
+          "p10": -1.6971168518066406,
+          "p50": -0.8515510559082031,
+          "p90": -0.21978912353515637,
+          "max": 0.24893569946289062,
+          "mean": -0.9427089006472856
+        },
+        "normal_score_delta": {
+          "n": 120,
+          "min": -3.4907188415527344,
+          "p10": -1.8440135955810546,
+          "p50": -0.7919464111328125,
+          "p90": -0.09272804260253902,
+          "max": 0.24893569946289062,
+          "mean": -0.9079499244689941
+        },
+        "anomaly_score_delta": {
+          "n": 75,
+          "min": -3.4812889099121094,
+          "p10": -1.5975227355957031,
+          "p50": -0.895751953125,
+          "p90": -0.37619094848632784,
+          "max": -0.01862335205078125,
+          "mean": -0.9983232625325521
+        },
+        "decisions": {
+          "n": 195,
+          "both_detected": 130,
+          "reference_only": 22,
+          "other_only": 0,
+          "neither": 43,
+          "observed_disagreement": 22,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "normal_decisions": {
+          "n": 120,
+          "both_detected": 55,
+          "reference_only": 22,
+          "other_only": 0,
+          "neither": 43,
+          "observed_disagreement": 22,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "anomaly_decisions": {
+          "n": 75,
+          "both_detected": 75,
+          "reference_only": 0,
+          "other_only": 0,
+          "neither": 0,
+          "observed_disagreement": 0,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "observed_zero_disagreement_is_not_equivalence": true
+      },
+      "against_image_round_trip": {
+        "reference_condition": "pad_restore_p5",
+        "score_delta_feature_minus_reference": {
+          "n": 195,
+          "min": -5.239574432373047,
+          "p10": -1.4625869750976561,
+          "p50": 1.7499351501464844,
+          "p90": 5.77088623046875,
+          "max": 19.171369552612305,
+          "mean": 2.1654419532189
+        },
+        "normal_score_delta": {
+          "n": 120,
+          "min": -2.2005882263183594,
+          "p10": 0.5277389526367188,
+          "p50": 3.11383056640625,
+          "p90": 6.794862174987795,
+          "max": 19.171369552612305,
+          "mean": 3.522153313954671
+        },
+        "anomaly_score_delta": {
+          "n": 75,
+          "min": -5.239574432373047,
+          "p10": -2.0170013427734377,
+          "p50": -0.08248519897460938,
+          "p90": 1.9653572082519541,
+          "max": 5.1774444580078125,
+          "mean": -0.005296223958333333
+        },
+        "decisions": {
+          "n": 195,
+          "both_detected": 84,
+          "reference_only": 1,
+          "other_only": 46,
+          "neither": 64,
+          "observed_disagreement": 47,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "normal_decisions": {
+          "n": 120,
+          "both_detected": 10,
+          "reference_only": 1,
+          "other_only": 45,
+          "neither": 64,
+          "observed_disagreement": 46,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "anomaly_decisions": {
+          "n": 75,
+          "both_detected": 74,
+          "reference_only": 0,
+          "other_only": 1,
+          "neither": 0,
+          "observed_disagreement": 1,
+          "observed_zero_disagreement_is_not_equivalence": true
+        },
+        "observed_zero_disagreement_is_not_equivalence": true
+      },
+      "component_against_rotated": {
+        "unit": "one maximum per anomaly image",
+        "n_images": 75,
+        "delta": {
+          "n": 75,
+          "min": -3.39776611328125,
+          "p10": -1.6703994750976563,
+          "p50": -0.8159751892089844,
+          "p90": 0.2627151489257839,
+          "max": 0.7827796936035156,
+          "mean": -0.7874376169840495
+        },
+        "component_detection_disagreements": 0,
+        "disagreement_is_not_selectivity_or_equivalence": true,
+        "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask"
+      },
+      "component_against_image_round_trip": {
+        "unit": "one maximum per anomaly image",
+        "n_images": 75,
+        "delta": {
+          "n": 75,
+          "min": -3.6913986206054688,
+          "p10": -1.8221176147460938,
+          "p50": 0.1746978759765625,
+          "p90": 2.8650344848632825,
+          "max": 3.8604354858398438,
+          "mean": 0.3146978759765625
+        },
+        "component_detection_disagreements": 0,
+        "disagreement_is_not_selectivity_or_equivalence": true,
+        "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask"
+      }
+    }
+  }
+}

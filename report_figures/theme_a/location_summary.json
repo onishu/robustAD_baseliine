@@ -1,0 +1,74 @@
+{
+  "補正なし −5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 34,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 17
+  },
+  "補正なし +5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 39,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 13
+  },
+  "回転ビューなし −5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 36,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 17
+  },
+  "回転ビューなし +5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 43,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 12
+  },
+  "0°と±5°入り −5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 24,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 16
+  },
+  "0°と±5°入り +5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 41,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 15
+  },
+  "③ −5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 30,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 20
+  },
+  "③ +5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 36,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 15
+  },
+  "② −5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 9,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 17
+  },
+  "② +5°": {
+    "normal_n": 120,
+    "normal_outer_argmax": 7,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 15
+  },
+  "回転ビューなし 原画像": {
+    "normal_n": 120,
+    "normal_outer_argmax": 11,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 21
+  },
+  "0°と±5°入り 原画像": {
+    "normal_n": 120,
+    "normal_outer_argmax": 15,
+    "anomaly_n": 75,
+    "anomaly_argmax_on_defect": 20
+  }
+}

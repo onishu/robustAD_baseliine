@@ -1,0 +1,27 @@
+{
+  "views": [
+    {
+      "view_id": 0,
+      "angle_degrees": 0.0,
+      "n_patches": 21037,
+      "n_images": 144,
+      "quota_enforced": false
+    },
+    {
+      "view_id": 1,
+      "angle_degrees": -5.0,
+      "n_patches": 19270,
+      "n_images": 144,
+      "quota_enforced": false
+    },
+    {
+      "view_id": 2,
+      "angle_degrees": 5.0,
+      "n_patches": 18675,
+      "n_images": 144,
+      "quota_enforced": false
+    }
+  ],
+  "n_selected": 58982,
+  "spatial_constraint": false
+}

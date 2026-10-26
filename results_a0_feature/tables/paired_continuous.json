@@ -1,0 +1,225 @@
+{
+  "inference": false,
+  "verdict": "未判定",
+  "board_surface_improvement": false,
+  "component_detection_is_not_retention": true,
+  "delta": "feature minus reference",
+  "comparisons": [
+    {
+      "condition": "feature_m5",
+      "reference_condition": "pad_synthetic_m5",
+      "comparison": "rotated",
+      "unit_image": "one anomaly source image",
+      "unit_component_max": "maximum finite component score of that image",
+      "unit_component": "one original component id",
+      "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask",
+      "image_score_delta": {
+        "n": 75,
+        "min": -3.559284210205078,
+        "p10": -2.430855560302734,
+        "p50": -1.1224861145019531,
+        "p90": -0.5135406494140625,
+        "max": 0.6192626953125,
+        "mean": -1.2990672302246093
+      },
+      "component_max_delta": {
+        "n": 75,
+        "min": -3.5317344665527344,
+        "p10": -1.6842140197753905,
+        "p50": -0.6810073852539062,
+        "p90": 0.10515594482421967,
+        "max": 0.975341796875,
+        "mean": -0.7936149088541666
+      },
+      "image_minus_component_max": {
+        "n": 75,
+        "min": -2.441181182861328,
+        "p10": -1.6038330078125,
+        "p50": -0.418487548828125,
+        "p90": 0.33161315917968787,
+        "max": 1.1973190307617188,
+        "mean": -0.5054523213704427
+      },
+      "sign_counts": {
+        "n": 75,
+        "both_lower": 65,
+        "both_higher": 1,
+        "image_lower_component_higher": 9,
+        "image_higher_component_lower": 0,
+        "either_unchanged": 0
+      },
+      "anomaly_images_without_finite_component": 0,
+      "per_component_score_delta": {
+        "n": 110,
+        "min": -4.5101470947265625,
+        "p10": -1.880551528930664,
+        "p50": -0.7319278717041016,
+        "p90": 0.4230632781982425,
+        "max": 2.6613807678222656,
+        "mean": -0.8199359547008168
+      }
+    },
+    {
+      "condition": "feature_m5",
+      "reference_condition": "pad_restore_m5",
+      "comparison": "image_round_trip",
+      "unit_image": "one anomaly source image",
+      "unit_component_max": "maximum finite component score of that image",
+      "unit_component": "one original component id",
+      "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask",
+      "image_score_delta": {
+        "n": 75,
+        "min": -3.2117958068847656,
+        "p10": -2.5236747741699217,
+        "p50": 0.3293037414550781,
+        "p90": 3.068257141113283,
+        "max": 7.59747314453125,
+        "mean": 0.5580118306477865
+      },
+      "component_max_delta": {
+        "n": 75,
+        "min": -2.9677276611328125,
+        "p10": -1.43602294921875,
+        "p50": 1.4918251037597656,
+        "p90": 3.9396018981933607,
+        "max": 6.292263031005859,
+        "mean": 1.3852947235107422
+      },
+      "image_minus_component_max": {
+        "n": 75,
+        "min": -8.75363540649414,
+        "p10": -4.6589599609375,
+        "p50": -0.43993377685546875,
+        "p90": 2.5976318359375026,
+        "max": 7.816753387451172,
+        "mean": -0.8272828928629558
+      },
+      "sign_counts": {
+        "n": 75,
+        "both_lower": 14,
+        "both_higher": 35,
+        "image_lower_component_higher": 20,
+        "image_higher_component_lower": 6,
+        "either_unchanged": 0
+      },
+      "anomaly_images_without_finite_component": 0,
+      "per_component_score_delta": {
+        "n": 110,
+        "min": -2.9677276611328125,
+        "p10": -1.4838878631591796,
+        "p50": 0.9538421630859375,
+        "p90": 3.8692398071289076,
+        "max": 6.292263031005859,
+        "mean": 1.2015216307206587
+      }
+    },
+    {
+      "condition": "feature_p5",
+      "reference_condition": "pad_synthetic_p5",
+      "comparison": "rotated",
+      "unit_image": "one anomaly source image",
+      "unit_component_max": "maximum finite component score of that image",
+      "unit_component": "one original component id",
+      "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask",
+      "image_score_delta": {
+        "n": 75,
+        "min": -3.4812889099121094,
+        "p10": -1.5975227355957031,
+        "p50": -0.895751953125,
+        "p90": -0.37619094848632784,
+        "max": -0.01862335205078125,
+        "mean": -0.9983232625325521
+      },
+      "component_max_delta": {
+        "n": 75,
+        "min": -3.39776611328125,
+        "p10": -1.6703994750976563,
+        "p50": -0.8159751892089844,
+        "p90": 0.2627151489257839,
+        "max": 0.7827796936035156,
+        "mean": -0.7874376169840495
+      },
+      "image_minus_component_max": {
+        "n": 75,
+        "min": -1.686279296875,
+        "p10": -1.3909454345703125,
+        "p50": -0.09209442138671875,
+        "p90": 0.9262466430664067,
+        "max": 1.3689727783203125,
+        "mean": -0.21088564554850261
+      },
+      "sign_counts": {
+        "n": 75,
+        "both_lower": 65,
+        "both_higher": 0,
+        "image_lower_component_higher": 10,
+        "image_higher_component_lower": 0,
+        "either_unchanged": 0
+      },
+      "anomaly_images_without_finite_component": 0,
+      "per_component_score_delta": {
+        "n": 110,
+        "min": -3.6376953125,
+        "p10": -1.9454227447509767,
+        "p50": -0.7905368804931641,
+        "p90": 0.4766288757324219,
+        "max": 2.0504703521728516,
+        "mean": -0.7813892017711292
+      }
+    },
+    {
+      "condition": "feature_p5",
+      "reference_condition": "pad_restore_p5",
+      "comparison": "image_round_trip",
+      "unit_image": "one anomaly source image",
+      "unit_component_max": "maximum finite component score of that image",
+      "unit_component": "one original component id",
+      "mask_frame": "feature inverse uses the unrotated 512 mask; the reference uses that condition's warped mask",
+      "image_score_delta": {
+        "n": 75,
+        "min": -5.239574432373047,
+        "p10": -2.0170013427734377,
+        "p50": -0.08248519897460938,
+        "p90": 1.9653572082519541,
+        "max": 5.1774444580078125,
+        "mean": -0.005296223958333333
+      },
+      "component_max_delta": {
+        "n": 75,
+        "min": -3.6913986206054688,
+        "p10": -1.8221176147460938,
+        "p50": 0.1746978759765625,
+        "p90": 2.8650344848632825,
+        "max": 3.8604354858398438,
+        "mean": 0.3146978759765625
+      },
+      "image_minus_component_max": {
+        "n": 75,
+        "min": -5.260011672973633,
+        "p10": -3.2888755798339844,
+        "p50": -0.052288055419921875,
+        "p90": 2.0314437866210966,
+        "max": 5.763584136962891,
+        "mean": -0.31999409993489586
+      },
+      "sign_counts": {
+        "n": 75,
+        "both_lower": 21,
+        "both_higher": 24,
+        "image_lower_component_higher": 17,
+        "image_higher_component_lower": 13,
+        "either_unchanged": 0
+      },
+      "anomaly_images_without_finite_component": 0,
+      "per_component_score_delta": {
+        "n": 110,
+        "min": -4.907337188720703,
+        "p10": -1.8871646881103517,
+        "p50": 0.1622638702392578,
+        "p90": 2.9430889129638684,
+        "max": 3.8604354858398438,
+        "mean": 0.3039301265369762
+      }
+    }
+  ]
+}

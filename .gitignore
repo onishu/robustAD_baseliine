@@ -20,3 +20,12 @@ results_a0/**/*.npz
 results_a0_boundary/lightning/
 results_a0_boundary/**/*.pt
 results_a0_boundary/**/*.npz
+results_a0_feature/lightning/
+results_a0_feature/**/*.pt
+results_a0_feature/**/*.npz
+results_a0_augment/lightning/
+results_a0_augment/**/*.pt
+results_a0_augment/**/*.npz
+results_a0_control0/lightning/
+results_a0_control0/**/*.pt
+results_a0_control0/**/*.npz

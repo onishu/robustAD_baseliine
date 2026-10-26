@@ -1,0 +1,13 @@
+{
+  "views": [
+    {
+      "view_id": 0,
+      "angle_degrees": 0.0,
+      "n_patches": 58982,
+      "n_images": 144,
+      "quota_enforced": false
+    }
+  ],
+  "n_selected": 58982,
+  "spatial_constraint": false
+}

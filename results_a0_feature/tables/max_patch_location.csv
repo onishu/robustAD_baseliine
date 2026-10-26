@@ -1,0 +1,391 @@
+source_id,condition,label,argmax_row,argmax_col,argmax_is_reflection_reference,n_reflection_cells
+Test_PCB_resized_None_None_Normal_Set2_181,feature_m5,0,10,43,False,232
+Test_PCB_resized_None_None_Normal_Set2_182,feature_m5,0,21,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_183,feature_m5,0,38,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_184,feature_m5,0,17,29,False,232
+Test_PCB_resized_None_None_Normal_Set2_185,feature_m5,0,36,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_186,feature_m5,0,16,18,False,232
+Test_PCB_resized_None_None_Normal_Set2_187,feature_m5,0,1,58,False,232
+Test_PCB_resized_None_None_Normal_Set2_188,feature_m5,0,27,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_189,feature_m5,0,39,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_190,feature_m5,0,22,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_191,feature_m5,0,40,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_192,feature_m5,0,17,29,False,232
+Test_PCB_resized_None_None_Normal_Set2_193,feature_m5,0,54,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_194,feature_m5,0,1,57,False,232
+Test_PCB_resized_None_None_Normal_Set2_195,feature_m5,0,54,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_196,feature_m5,0,33,15,False,232
+Test_PCB_resized_None_None_Normal_Set2_197,feature_m5,0,10,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_198,feature_m5,0,15,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_199,feature_m5,0,39,16,False,232
+Test_PCB_resized_None_None_Normal_Set2_200,feature_m5,0,56,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_201,feature_m5,0,16,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_202,feature_m5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_203,feature_m5,0,56,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_204,feature_m5,0,15,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_205,feature_m5,0,17,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_206,feature_m5,0,22,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_207,feature_m5,0,40,46,False,232
+Test_PCB_resized_None_None_Normal_Set2_208,feature_m5,0,39,17,False,232
+Test_PCB_resized_None_None_Normal_Set2_209,feature_m5,0,22,29,False,232
+Test_PCB_resized_None_None_Normal_Set2_210,feature_m5,0,37,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_211,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_212,feature_m5,0,33,15,False,232
+Test_PCB_resized_None_None_Normal_Set2_213,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_214,feature_m5,0,20,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_215,feature_m5,0,20,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_216,feature_m5,0,26,17,False,232
+Test_PCB_resized_None_None_Normal_Set2_217,feature_m5,0,43,24,False,232
+Test_PCB_resized_None_None_Normal_Set2_218,feature_m5,0,22,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_219,feature_m5,0,17,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_220,feature_m5,0,19,25,False,232
+Test_PCB_resized_None_None_Normal_Set2_221,feature_m5,0,21,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_222,feature_m5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_223,feature_m5,0,56,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_224,feature_m5,0,17,18,False,232
+Test_PCB_resized_None_None_Normal_Set2_225,feature_m5,0,32,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_226,feature_m5,0,17,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_227,feature_m5,0,21,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_228,feature_m5,0,33,12,False,232
+Test_PCB_resized_None_None_Normal_Set2_229,feature_m5,0,21,38,False,232
+Test_PCB_resized_None_None_Normal_Set2_230,feature_m5,0,21,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_231,feature_m5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_232,feature_m5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_233,feature_m5,0,22,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_234,feature_m5,0,40,47,False,232
+Test_PCB_resized_None_None_Normal_Set2_235,feature_m5,0,44,24,False,232
+Test_PCB_resized_None_None_Normal_Set2_236,feature_m5,0,33,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_237,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_238,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_239,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_240,feature_m5,0,17,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_241,feature_m5,0,22,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_242,feature_m5,0,38,47,False,232
+Test_PCB_resized_None_None_Normal_Set2_243,feature_m5,0,57,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_244,feature_m5,0,20,24,False,232
+Test_PCB_resized_None_None_Normal_Set2_245,feature_m5,0,42,25,False,232
+Test_PCB_resized_None_None_Normal_Set2_246,feature_m5,0,38,15,False,232
+Test_PCB_resized_None_None_Normal_Set2_247,feature_m5,0,37,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_248,feature_m5,0,56,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_249,feature_m5,0,22,48,False,232
+Test_PCB_resized_None_None_Normal_Set2_250,feature_m5,0,57,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_251,feature_m5,0,25,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_252,feature_m5,0,12,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_253,feature_m5,0,12,1,False,232
+Test_PCB_resized_None_None_Normal_Set2_254,feature_m5,0,1,42,False,232
+Test_PCB_resized_None_None_Normal_Set2_255,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_256,feature_m5,0,10,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_257,feature_m5,0,41,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_258,feature_m5,0,16,28,False,232
+Test_PCB_resized_None_None_Normal_Set2_259,feature_m5,0,21,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_260,feature_m5,0,55,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_261,feature_m5,0,34,41,False,232
+Test_PCB_resized_None_None_Normal_Set2_262,feature_m5,0,0,54,False,232
+Test_PCB_resized_None_None_Normal_Set2_263,feature_m5,0,45,23,False,232
+Test_PCB_resized_None_None_Normal_Set2_264,feature_m5,0,17,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_265,feature_m5,0,58,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_266,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_267,feature_m5,0,55,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_268,feature_m5,0,33,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_269,feature_m5,0,36,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_270,feature_m5,0,34,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_271,feature_m5,0,20,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_272,feature_m5,0,26,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_273,feature_m5,0,17,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_274,feature_m5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_275,feature_m5,0,57,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_276,feature_m5,0,57,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_277,feature_m5,0,10,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_278,feature_m5,0,16,26,False,232
+Test_PCB_resized_None_None_Normal_Set2_279,feature_m5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_280,feature_m5,0,21,16,False,232
+Test_PCB_resized_None_None_Normal_Set2_281,feature_m5,0,56,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_282,feature_m5,0,21,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_283,feature_m5,0,21,48,False,232
+Test_PCB_resized_None_None_Normal_Set2_284,feature_m5,0,7,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_285,feature_m5,0,5,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_286,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_287,feature_m5,0,55,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_288,feature_m5,0,8,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_289,feature_m5,0,32,18,False,232
+Test_PCB_resized_None_None_Normal_Set2_290,feature_m5,0,39,46,False,232
+Test_PCB_resized_None_None_Normal_Set2_291,feature_m5,0,33,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_292,feature_m5,0,26,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_293,feature_m5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_294,feature_m5,0,39,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_295,feature_m5,0,53,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_296,feature_m5,0,20,25,False,232
+Test_PCB_resized_None_None_Normal_Set2_297,feature_m5,0,7,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_298,feature_m5,0,9,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_299,feature_m5,0,21,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_300,feature_m5,0,9,0,False,232
+Test_PCB_None_None_Missing Component_1,feature_m5,1,36,15,False,232
+Test_PCB_None_None_Missing Component_10,feature_m5,1,25,49,False,232
+Test_PCB_None_None_Missing Component_11,feature_m5,1,0,55,False,232
+Test_PCB_None_None_Missing Component_12,feature_m5,1,39,22,False,232
+Test_PCB_None_None_Missing Component_13,feature_m5,1,20,50,False,232
+Test_PCB_None_None_Missing Component_14,feature_m5,1,7,0,False,232
+Test_PCB_None_None_Missing Component_15,feature_m5,1,36,25,False,232
+Test_PCB_None_None_Missing Component_16,feature_m5,1,63,5,False,232
+Test_PCB_None_None_Missing Component_18,feature_m5,1,8,1,False,232
+Test_PCB_None_None_Missing Component_19,feature_m5,1,16,39,False,232
+Test_PCB_None_None_Missing Component_2,feature_m5,1,63,5,False,232
+Test_PCB_None_None_Missing Component_20,feature_m5,1,21,39,False,232
+Test_PCB_None_None_Missing Component_21,feature_m5,1,41,26,False,232
+Test_PCB_None_None_Missing Component_22,feature_m5,1,63,5,False,232
+Test_PCB_None_None_Missing Component_23,feature_m5,1,7,1,False,232
+Test_PCB_None_None_Missing Component_24,feature_m5,1,58,63,False,232
+Test_PCB_None_None_Missing Component_25,feature_m5,1,54,46,False,232
+Test_PCB_None_None_Missing Component_26,feature_m5,1,37,14,False,232
+Test_PCB_None_None_Missing Component_27,feature_m5,1,57,45,False,232
+Test_PCB_None_None_Missing Component_28,feature_m5,1,8,1,False,232
+Test_PCB_None_None_Missing Component_29,feature_m5,1,7,0,False,232
+Test_PCB_None_None_Missing Component_3,feature_m5,1,46,32,False,232
+Test_PCB_None_None_Missing Component_30,feature_m5,1,7,0,False,232
+Test_PCB_None_None_Missing Component_31,feature_m5,1,37,14,False,232
+Test_PCB_None_None_Missing Component_32,feature_m5,1,9,0,False,232
+Test_PCB_None_None_Scratch_1,feature_m5,1,2,56,False,232
+Test_PCB_None_None_Scratch_10,feature_m5,1,32,17,False,232
+Test_PCB_None_None_Scratch_11,feature_m5,1,44,22,False,232
+Test_PCB_None_None_Scratch_12,feature_m5,1,57,9,False,232
+Test_PCB_None_None_Scratch_13,feature_m5,1,60,32,False,232
+Test_PCB_None_None_Scratch_14,feature_m5,1,22,18,False,232
+Test_PCB_None_None_Scratch_15,feature_m5,1,18,22,False,232
+Test_PCB_None_None_Scratch_16,feature_m5,1,62,9,False,232
+Test_PCB_None_None_Scratch_17,feature_m5,1,16,38,False,232
+Test_PCB_None_None_Scratch_18,feature_m5,1,37,14,False,232
+Test_PCB_None_None_Scratch_19,feature_m5,1,19,20,False,232
+Test_PCB_None_None_Scratch_2,feature_m5,1,9,1,False,232
+Test_PCB_None_None_Scratch_20,feature_m5,1,39,15,False,232
+Test_PCB_None_None_Scratch_21,feature_m5,1,16,27,False,232
+Test_PCB_None_None_Scratch_22,feature_m5,1,9,1,False,232
+Test_PCB_None_None_Scratch_23,feature_m5,1,9,1,False,232
+Test_PCB_None_None_Scratch_24,feature_m5,1,39,15,False,232
+Test_PCB_None_None_Scratch_25,feature_m5,1,22,39,False,232
+Test_PCB_None_None_Scratch_26,feature_m5,1,44,21,False,232
+Test_PCB_None_None_Scratch_27,feature_m5,1,17,21,False,232
+Test_PCB_None_None_Scratch_28,feature_m5,1,10,1,False,232
+Test_PCB_None_None_Scratch_29,feature_m5,1,17,20,False,232
+Test_PCB_None_None_Scratch_3,feature_m5,1,22,39,False,232
+Test_PCB_None_None_Scratch_30,feature_m5,1,25,16,False,232
+Test_PCB_None_None_Scratch_31,feature_m5,1,42,21,False,232
+Test_PCB_None_None_Soldering Melt_1,feature_m5,1,57,63,False,232
+Test_PCB_None_None_Soldering Melt_10,feature_m5,1,29,24,False,232
+Test_PCB_None_None_Soldering Melt_11,feature_m5,1,16,39,False,232
+Test_PCB_None_None_Soldering Melt_12,feature_m5,1,28,18,False,232
+Test_PCB_None_None_Soldering Melt_13,feature_m5,1,55,63,False,232
+Test_PCB_None_None_Soldering Melt_14,feature_m5,1,54,63,False,232
+Test_PCB_None_None_Soldering Melt_15,feature_m5,1,21,36,False,232
+Test_PCB_None_None_Soldering Melt_16,feature_m5,1,38,20,False,232
+Test_PCB_None_None_Soldering Melt_17,feature_m5,1,38,15,False,232
+Test_PCB_None_None_Soldering Melt_18,feature_m5,1,16,39,False,232
+Test_PCB_None_None_Soldering Melt_19,feature_m5,1,40,21,False,232
+Test_PCB_None_None_Soldering Melt_2,feature_m5,1,57,63,False,232
+Test_PCB_None_None_Soldering Melt_20,feature_m5,1,34,37,False,232
+Test_PCB_None_None_Soldering Melt_21,feature_m5,1,39,30,False,232
+Test_PCB_None_None_Soldering Melt_22,feature_m5,1,36,38,False,232
+Test_PCB_None_None_Soldering Melt_23,feature_m5,1,16,25,False,232
+Test_PCB_None_None_Soldering Melt_24,feature_m5,1,30,40,False,232
+Test_PCB_None_None_Soldering Melt_25,feature_m5,1,19,32,False,232
+Test_PCB_None_None_Soldering Melt_26,feature_m5,1,36,17,False,232
+Test_PCB_None_None_Soldering Melt_27,feature_m5,1,21,33,False,232
+Test_PCB_None_None_Soldering Melt_28,feature_m5,1,45,47,False,232
+Test_PCB_None_None_Soldering Melt_29,feature_m5,1,55,8,False,232
+Test_PCB_None_None_Soldering Melt_3,feature_m5,1,56,63,False,232
+Test_PCB_None_None_Soldering Melt_30,feature_m5,1,47,23,False,232
+Test_PCB_None_None_Soldering Melt_31,feature_m5,1,10,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_181,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_182,feature_p5,0,63,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_183,feature_p5,0,18,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_184,feature_p5,0,13,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_185,feature_p5,0,37,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_186,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_187,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_188,feature_p5,0,16,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_189,feature_p5,0,17,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_190,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_191,feature_p5,0,40,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_192,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_193,feature_p5,0,40,1,False,232
+Test_PCB_resized_None_None_Normal_Set2_194,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_195,feature_p5,0,39,17,False,232
+Test_PCB_resized_None_None_Normal_Set2_196,feature_p5,0,0,5,False,232
+Test_PCB_resized_None_None_Normal_Set2_197,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_198,feature_p5,0,14,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_199,feature_p5,0,38,17,False,232
+Test_PCB_resized_None_None_Normal_Set2_200,feature_p5,0,5,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_201,feature_p5,0,19,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_202,feature_p5,0,17,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_203,feature_p5,0,18,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_204,feature_p5,0,15,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_205,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_206,feature_p5,0,25,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_207,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_208,feature_p5,0,39,17,False,232
+Test_PCB_resized_None_None_Normal_Set2_209,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_210,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_211,feature_p5,0,18,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_212,feature_p5,0,17,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_213,feature_p5,0,20,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_214,feature_p5,0,20,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_215,feature_p5,0,21,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_216,feature_p5,0,16,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_217,feature_p5,0,18,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_218,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_219,feature_p5,0,17,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_220,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_221,feature_p5,0,35,43,False,232
+Test_PCB_resized_None_None_Normal_Set2_222,feature_p5,0,63,55,False,232
+Test_PCB_resized_None_None_Normal_Set2_223,feature_p5,0,19,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_224,feature_p5,0,17,18,False,232
+Test_PCB_resized_None_None_Normal_Set2_225,feature_p5,0,16,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_226,feature_p5,0,63,54,False,232
+Test_PCB_resized_None_None_Normal_Set2_227,feature_p5,0,18,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_228,feature_p5,0,18,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_229,feature_p5,0,32,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_230,feature_p5,0,18,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_231,feature_p5,0,21,38,False,232
+Test_PCB_resized_None_None_Normal_Set2_232,feature_p5,0,34,43,False,232
+Test_PCB_resized_None_None_Normal_Set2_233,feature_p5,0,17,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_234,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_235,feature_p5,0,5,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_236,feature_p5,0,20,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_237,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_238,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_239,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_240,feature_p5,0,17,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_241,feature_p5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_242,feature_p5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_243,feature_p5,0,32,14,False,232
+Test_PCB_resized_None_None_Normal_Set2_244,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_245,feature_p5,0,5,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_246,feature_p5,0,39,16,False,232
+Test_PCB_resized_None_None_Normal_Set2_247,feature_p5,0,18,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_248,feature_p5,0,43,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_249,feature_p5,0,21,47,False,232
+Test_PCB_resized_None_None_Normal_Set2_250,feature_p5,0,21,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_251,feature_p5,0,16,19,False,232
+Test_PCB_resized_None_None_Normal_Set2_252,feature_p5,0,12,44,False,232
+Test_PCB_resized_None_None_Normal_Set2_253,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_254,feature_p5,0,3,40,False,232
+Test_PCB_resized_None_None_Normal_Set2_255,feature_p5,0,9,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_256,feature_p5,0,21,49,False,232
+Test_PCB_resized_None_None_Normal_Set2_257,feature_p5,0,35,42,False,232
+Test_PCB_resized_None_None_Normal_Set2_258,feature_p5,0,16,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_259,feature_p5,0,18,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_260,feature_p5,0,20,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_261,feature_p5,0,53,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_262,feature_p5,0,17,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_263,feature_p5,0,17,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_264,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_265,feature_p5,0,55,1,False,232
+Test_PCB_resized_None_None_Normal_Set2_266,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_267,feature_p5,0,17,29,False,232
+Test_PCB_resized_None_None_Normal_Set2_268,feature_p5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_269,feature_p5,0,33,15,False,232
+Test_PCB_resized_None_None_Normal_Set2_270,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_271,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_272,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_273,feature_p5,0,16,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_274,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_275,feature_p5,0,19,32,False,232
+Test_PCB_resized_None_None_Normal_Set2_276,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_277,feature_p5,0,33,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_278,feature_p5,0,20,16,False,232
+Test_PCB_resized_None_None_Normal_Set2_279,feature_p5,0,33,13,False,232
+Test_PCB_resized_None_None_Normal_Set2_280,feature_p5,0,63,39,False,232
+Test_PCB_resized_None_None_Normal_Set2_281,feature_p5,0,19,33,False,232
+Test_PCB_resized_None_None_Normal_Set2_282,feature_p5,0,22,37,False,232
+Test_PCB_resized_None_None_Normal_Set2_283,feature_p5,0,18,36,False,232
+Test_PCB_resized_None_None_Normal_Set2_284,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_285,feature_p5,0,63,63,True,232
+Test_PCB_resized_None_None_Normal_Set2_286,feature_p5,0,18,34,False,232
+Test_PCB_resized_None_None_Normal_Set2_287,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_288,feature_p5,0,17,35,False,232
+Test_PCB_resized_None_None_Normal_Set2_289,feature_p5,0,6,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_290,feature_p5,0,9,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_291,feature_p5,0,54,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_292,feature_p5,0,35,43,False,232
+Test_PCB_resized_None_None_Normal_Set2_293,feature_p5,0,18,30,False,232
+Test_PCB_resized_None_None_Normal_Set2_294,feature_p5,0,56,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_295,feature_p5,0,5,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_296,feature_p5,0,7,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_297,feature_p5,0,56,0,False,232
+Test_PCB_resized_None_None_Normal_Set2_298,feature_p5,0,12,63,False,232
+Test_PCB_resized_None_None_Normal_Set2_299,feature_p5,0,21,31,False,232
+Test_PCB_resized_None_None_Normal_Set2_300,feature_p5,0,6,63,False,232
+Test_PCB_None_None_Missing Component_1,feature_p5,1,0,7,False,232
+Test_PCB_None_None_Missing Component_10,feature_p5,1,20,32,False,232
+Test_PCB_None_None_Missing Component_11,feature_p5,1,20,33,False,232
+Test_PCB_None_None_Missing Component_12,feature_p5,1,16,32,False,232
+Test_PCB_None_None_Missing Component_13,feature_p5,1,21,51,False,232
+Test_PCB_None_None_Missing Component_14,feature_p5,1,20,34,False,232
+Test_PCB_None_None_Missing Component_15,feature_p5,1,56,8,False,232
+Test_PCB_None_None_Missing Component_16,feature_p5,1,6,63,False,232
+Test_PCB_None_None_Missing Component_18,feature_p5,1,16,32,False,232
+Test_PCB_None_None_Missing Component_19,feature_p5,1,6,63,False,232
+Test_PCB_None_None_Missing Component_2,feature_p5,1,55,9,False,232
+Test_PCB_None_None_Missing Component_20,feature_p5,1,20,38,False,232
+Test_PCB_None_None_Missing Component_21,feature_p5,1,40,25,False,232
+Test_PCB_None_None_Missing Component_22,feature_p5,1,31,24,False,232
+Test_PCB_None_None_Missing Component_23,feature_p5,1,63,42,False,232
+Test_PCB_None_None_Missing Component_24,feature_p5,1,39,18,False,232
+Test_PCB_None_None_Missing Component_25,feature_p5,1,14,32,False,232
+Test_PCB_None_None_Missing Component_26,feature_p5,1,20,32,False,232
+Test_PCB_None_None_Missing Component_27,feature_p5,1,56,46,False,232
+Test_PCB_None_None_Missing Component_28,feature_p5,1,16,33,False,232
+Test_PCB_None_None_Missing Component_29,feature_p5,1,15,32,False,232
+Test_PCB_None_None_Missing Component_3,feature_p5,1,54,0,False,232
+Test_PCB_None_None_Missing Component_30,feature_p5,1,20,33,False,232
+Test_PCB_None_None_Missing Component_31,feature_p5,1,37,14,False,232
+Test_PCB_None_None_Missing Component_32,feature_p5,1,16,32,False,232
+Test_PCB_None_None_Scratch_1,feature_p5,1,55,8,False,232
+Test_PCB_None_None_Scratch_10,feature_p5,1,17,37,False,232
+Test_PCB_None_None_Scratch_11,feature_p5,1,43,22,False,232
+Test_PCB_None_None_Scratch_12,feature_p5,1,56,9,False,232
+Test_PCB_None_None_Scratch_13,feature_p5,1,55,8,False,232
+Test_PCB_None_None_Scratch_14,feature_p5,1,44,21,False,232
+Test_PCB_None_None_Scratch_15,feature_p5,1,19,21,False,232
+Test_PCB_None_None_Scratch_16,feature_p5,1,56,9,False,232
+Test_PCB_None_None_Scratch_17,feature_p5,1,6,63,False,232
+Test_PCB_None_None_Scratch_18,feature_p5,1,56,8,False,232
+Test_PCB_None_None_Scratch_19,feature_p5,1,19,20,False,232
+Test_PCB_None_None_Scratch_2,feature_p5,1,63,43,False,232
+Test_PCB_None_None_Scratch_20,feature_p5,1,19,35,False,232
+Test_PCB_None_None_Scratch_21,feature_p5,1,7,63,False,232
+Test_PCB_None_None_Scratch_22,feature_p5,1,16,32,False,232
+Test_PCB_None_None_Scratch_23,feature_p5,1,14,63,False,232
+Test_PCB_None_None_Scratch_24,feature_p5,1,60,32,False,232
+Test_PCB_None_None_Scratch_25,feature_p5,1,60,37,False,232
+Test_PCB_None_None_Scratch_26,feature_p5,1,60,32,False,232
+Test_PCB_None_None_Scratch_27,feature_p5,1,18,20,False,232
+Test_PCB_None_None_Scratch_28,feature_p5,1,56,8,False,232
+Test_PCB_None_None_Scratch_29,feature_p5,1,17,20,False,232
+Test_PCB_None_None_Scratch_3,feature_p5,1,60,37,False,232
+Test_PCB_None_None_Scratch_30,feature_p5,1,5,63,False,232
+Test_PCB_None_None_Scratch_31,feature_p5,1,56,8,False,232
+Test_PCB_None_None_Soldering Melt_1,feature_p5,1,19,18,False,232
+Test_PCB_None_None_Soldering Melt_10,feature_p5,1,31,24,False,232
+Test_PCB_None_None_Soldering Melt_11,feature_p5,1,17,32,False,232
+Test_PCB_None_None_Soldering Melt_12,feature_p5,1,28,17,False,232
+Test_PCB_None_None_Soldering Melt_13,feature_p5,1,38,41,False,232
+Test_PCB_None_None_Soldering Melt_14,feature_p5,1,28,15,False,232
+Test_PCB_None_None_Soldering Melt_15,feature_p5,1,16,32,False,232
+Test_PCB_None_None_Soldering Melt_16,feature_p5,1,1,9,False,232
+Test_PCB_None_None_Soldering Melt_17,feature_p5,1,0,21,False,232
+Test_PCB_None_None_Soldering Melt_18,feature_p5,1,55,9,False,232
+Test_PCB_None_None_Soldering Melt_19,feature_p5,1,40,20,False,232
+Test_PCB_None_None_Soldering Melt_2,feature_p5,1,21,32,False,232
+Test_PCB_None_None_Soldering Melt_20,feature_p5,1,34,37,False,232
+Test_PCB_None_None_Soldering Melt_21,feature_p5,1,39,30,False,232
+Test_PCB_None_None_Soldering Melt_22,feature_p5,1,56,8,False,232
+Test_PCB_None_None_Soldering Melt_23,feature_p5,1,16,25,False,232
+Test_PCB_None_None_Soldering Melt_24,feature_p5,1,31,41,False,232
+Test_PCB_None_None_Soldering Melt_25,feature_p5,1,54,1,False,232
+Test_PCB_None_None_Soldering Melt_26,feature_p5,1,37,15,False,232
+Test_PCB_None_None_Soldering Melt_27,feature_p5,1,21,32,False,232
+Test_PCB_None_None_Soldering Melt_28,feature_p5,1,45,47,False,232
+Test_PCB_None_None_Soldering Melt_29,feature_p5,1,54,7,False,232
+Test_PCB_None_None_Soldering Melt_3,feature_p5,1,18,20,False,232
+Test_PCB_None_None_Soldering Melt_30,feature_p5,1,47,23,False,232
+Test_PCB_None_None_Soldering Melt_31,feature_p5,1,56,9,False,232

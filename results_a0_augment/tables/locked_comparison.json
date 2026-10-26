@@ -1,0 +1,1144 @@
+{
+  "locked_observation": "同一保存パッチ数の3ビューバンクで、想定角度±5°による正常側の誤検出増加が抑えられた。一方、異常画像検出率も低下した。",
+  "not_called": [
+    "実用上の最良",
+    "同等",
+    "欠陥保持の証明",
+    "基板面の過反応改善"
+  ],
+  "roi": "unconfirmed",
+  "official_rule": "各モデル固有の校正しきい値。交差適用は診断であり、しきい値の選び直しには使わない。",
+  "old_image_threshold": 36.28824043273926,
+  "new_image_threshold": 37.689165115356445,
+  "timing": {
+    "fit_seconds": 1520.4995805999497,
+    "calibration_seconds": 12.896379499929026,
+    "score_seconds": 196.16535929997917,
+    "extract_gpu_peak_bytes": 242250240,
+    "coreset_gpu_peak_bytes": 5171395584,
+    "kcenter_loop": "22分41秒"
+  },
+  "decisions": [
+    {
+      "n": 120,
+      "both": 7,
+      "reference_only": 5,
+      "augment_only": 0,
+      "neither": 108,
+      "condition": "original",
+      "group": "normal",
+      "official": true
+    },
+    {
+      "n": 75,
+      "both": 63,
+      "reference_only": 6,
+      "augment_only": 1,
+      "neither": 5,
+      "condition": "original",
+      "group": "anomaly",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 16,
+      "reference_only": 3,
+      "augment_only": 1,
+      "neither": 5,
+      "condition": "original",
+      "group": "anomaly:Missing Component",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 24,
+      "reference_only": 1,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "original",
+      "group": "anomaly:Scratch",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 23,
+      "reference_only": 2,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "original",
+      "group": "anomaly:Soldering Melt",
+      "official": true
+    },
+    {
+      "n": 120,
+      "both": 5,
+      "reference_only": 76,
+      "augment_only": 0,
+      "neither": 39,
+      "condition": "minus_5",
+      "group": "normal",
+      "official": true
+    },
+    {
+      "n": 75,
+      "both": 62,
+      "reference_only": 13,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "minus_5",
+      "group": "anomaly",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 14,
+      "reference_only": 11,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "minus_5",
+      "group": "anomaly:Missing Component",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 25,
+      "reference_only": 0,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "minus_5",
+      "group": "anomaly:Scratch",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 23,
+      "reference_only": 2,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "minus_5",
+      "group": "anomaly:Soldering Melt",
+      "official": true
+    },
+    {
+      "n": 120,
+      "both": 8,
+      "reference_only": 69,
+      "augment_only": 0,
+      "neither": 43,
+      "condition": "plus_5",
+      "group": "normal",
+      "official": true
+    },
+    {
+      "n": 75,
+      "both": 66,
+      "reference_only": 9,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "plus_5",
+      "group": "anomaly",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 18,
+      "reference_only": 7,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "plus_5",
+      "group": "anomaly:Missing Component",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 25,
+      "reference_only": 0,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "plus_5",
+      "group": "anomaly:Scratch",
+      "official": true
+    },
+    {
+      "n": 25,
+      "both": 23,
+      "reference_only": 2,
+      "augment_only": 0,
+      "neither": 0,
+      "condition": "plus_5",
+      "group": "anomaly:Soldering Melt",
+      "official": true
+    }
+  ],
+  "cross_thresholds": [
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 12,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 69,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 6,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 55,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 15,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 73,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 7,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 64,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 81,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 75,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 42,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 75,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 10,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 69,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 5,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 62,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 77,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 75,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 44,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 75,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "normal",
+      "detected": 12,
+      "n": 120,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "threshold": "old",
+      "threshold_value": 36.28824043273926,
+      "group": "anomaly",
+      "detected": 73,
+      "n": 75,
+      "official": false,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "normal",
+      "detected": 8,
+      "n": 120,
+      "official": true,
+      "used_to_choose_threshold": false
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "threshold": "new",
+      "threshold_value": 37.689165115356445,
+      "group": "anomaly",
+      "detected": 66,
+      "n": 75,
+      "official": true,
+      "used_to_choose_threshold": false
+    }
+  ],
+  "image_auroc": [
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "image_auroc": 0.9622222222222223,
+      "n_images": 195,
+      "unit": "image"
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "image_auroc": 0.9646666666666666,
+      "n_images": 195,
+      "unit": "image"
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "image_auroc": 0.9487777777777777,
+      "n_images": 195,
+      "unit": "image"
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "image_auroc": 0.9724444444444444,
+      "n_images": 195,
+      "unit": "image"
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "image_auroc": 0.9178888888888889,
+      "n_images": 195,
+      "unit": "image"
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "image_auroc": 0.979,
+      "n_images": 195,
+      "unit": "image"
+    }
+  ],
+  "components": [
+    {
+      "n": 27,
+      "min": -0.64111328125,
+      "p10": 0.06962890625000001,
+      "p50": 1.2084541320800781,
+      "p90": 2.5629226684570314,
+      "max": 2.9969959259033203,
+      "mean": 1.2710141075981989,
+      "condition": "original",
+      "defect_type": "Missing Component",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 42,
+      "min": -2.584033966064453,
+      "p10": -0.7210781097412109,
+      "p50": 0.11794471740722656,
+      "p90": 1.792534828186035,
+      "max": 2.843313217163086,
+      "mean": 0.29222906203497023,
+      "condition": "original",
+      "defect_type": "Scratch",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 41,
+      "min": -1.7118873596191406,
+      "p10": -0.85260009765625,
+      "p50": 0.5504341125488281,
+      "p90": 2.430614471435547,
+      "max": 3.680347442626953,
+      "mean": 0.7284844561320979,
+      "condition": "original",
+      "defect_type": "Soldering Melt",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 27,
+      "min": -8.154273986816406,
+      "p10": -6.882479858398438,
+      "p50": -3.7888565063476562,
+      "p90": -2.474674987792967,
+      "max": -0.798980712890625,
+      "mean": -4.248773998684353,
+      "condition": "minus_5",
+      "defect_type": "Missing Component",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 42,
+      "min": -7.088550567626953,
+      "p10": -4.434239196777344,
+      "p50": -2.9442224502563477,
+      "p90": -0.932713317871094,
+      "max": -0.31171417236328125,
+      "mean": -2.8046482177007768,
+      "condition": "minus_5",
+      "defect_type": "Scratch",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 41,
+      "min": -8.588382720947266,
+      "p10": -5.471431732177734,
+      "p50": -2.796356201171875,
+      "p90": -0.9507637023925781,
+      "max": 0.000919342041015625,
+      "mean": -3.1868441511945025,
+      "condition": "minus_5",
+      "defect_type": "Soldering Melt",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 27,
+      "min": -4.898139953613281,
+      "p10": -3.9500457763671877,
+      "p50": -2.2312469482421875,
+      "p90": -0.7485885620117182,
+      "max": -0.19446563720703125,
+      "mean": -2.308804264775029,
+      "condition": "plus_5",
+      "defect_type": "Missing Component",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 42,
+      "min": -9.332305908203125,
+      "p10": -5.2506256103515625,
+      "p50": -2.3444557189941406,
+      "p90": 0.0003913879394531235,
+      "max": 1.398651123046875,
+      "mean": -2.6198860804239907,
+      "condition": "plus_5",
+      "defect_type": "Scratch",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    },
+    {
+      "n": 41,
+      "min": -11.166315078735352,
+      "p10": -3.806896209716797,
+      "p50": -2.25555419921875,
+      "p90": -0.3864250183105469,
+      "max": 0.7263221740722656,
+      "mean": -2.3284442715528533,
+      "condition": "plus_5",
+      "defect_type": "Soldering Melt",
+      "n_images": 25,
+      "unit": "component; components in one image are not independent images"
+    }
+  ],
+  "separation": [
+    {
+      "condition": "original",
+      "score_source": "reference",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 18.704919815063477,
+        "p10": 19.29885549545288,
+        "p50": 19.812615394592285,
+        "p90": 20.475406074523924,
+        "max": 21.694085121154785,
+        "mean": 19.872494792938234
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 20.767949104309082,
+        "p10": 21.96819849014282,
+        "p50": 23.2290096282959,
+        "p90": 24.31793279647827,
+        "max": 25.41067886352539,
+        "mean": 23.166629473368328
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 27.62800407409668,
+        "p10": 30.72248077392578,
+        "p50": 35.46870803833008,
+        "p90": 43.45130996704102,
+        "max": 52.91783905029297,
+        "mean": 36.43219546000163
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    },
+    {
+      "condition": "original",
+      "score_source": "augment",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 21.63749408721924,
+        "p10": 21.973383617401122,
+        "p50": 22.275046825408936,
+        "p90": 22.86457452774048,
+        "max": 23.65297794342041,
+        "mean": 22.364911874135334
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 23.700839042663574,
+        "p10": 24.318156814575197,
+        "p50": 25.068350791931152,
+        "p90": 25.83297986984253,
+        "max": 26.69415855407715,
+        "mean": 25.081971844037373
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 28.591888427734375,
+        "p10": 32.39955291748047,
+        "p50": 36.43851852416992,
+        "p90": 44.065877532958986,
+        "max": 52.58454895019531,
+        "mean": 37.20661313374837
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "reference",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 22.271326065063477,
+        "p10": 22.746280479431153,
+        "p50": 23.320648193359375,
+        "p90": 23.933132076263426,
+        "max": 24.633856773376465,
+        "mean": 23.336750404040018
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 29.30267906188965,
+        "p10": 29.875799655914307,
+        "p50": 30.508275032043457,
+        "p90": 31.18568639755249,
+        "max": 31.691667556762695,
+        "mean": 30.522287034988402
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 33.89884567260742,
+        "p10": 35.67891006469726,
+        "p50": 39.39316177368164,
+        "p90": 45.37268905639649,
+        "max": 53.40495300292969,
+        "mean": 40.10903076171875
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    },
+    {
+      "condition": "minus_5",
+      "score_source": "augment",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 21.777132987976074,
+        "p10": 22.046775150299073,
+        "p50": 22.392958641052246,
+        "p90": 22.92047929763794,
+        "max": 23.720973014831543,
+        "mean": 22.473226936658225
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 23.80850601196289,
+        "p10": 24.293510532379152,
+        "p50": 24.92812156677246,
+        "p90": 25.770156860351562,
+        "max": 26.70617389678955,
+        "mean": 24.993986241022746
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 29.803638458251953,
+        "p10": 31.5217716217041,
+        "p50": 36.047035217285156,
+        "p90": 42.76327896118165,
+        "max": 52.48704147338867,
+        "mean": 36.722658716837564
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "reference",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 22.076560020446777,
+        "p10": 22.70425968170166,
+        "p50": 23.260793685913086,
+        "p90": 23.896993160247803,
+        "max": 24.507312774658203,
+        "mean": 23.25977817376455
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 28.875971794128418,
+        "p10": 29.385379028320312,
+        "p50": 29.88632583618164,
+        "p90": 30.73434019088745,
+        "max": 31.47952365875244,
+        "mean": 29.962472462654112
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 32.740726470947266,
+        "p10": 34.84266967773438,
+        "p50": 37.842227935791016,
+        "p90": 43.71220474243166,
+        "max": 50.845123291015625,
+        "mean": 38.91830047607422
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    },
+    {
+      "condition": "plus_5",
+      "score_source": "augment",
+      "n_normal_images": 120,
+      "normal_image_patch_median": {
+        "n": 120,
+        "min": 21.73843479156494,
+        "p10": 22.07519702911377,
+        "p50": 22.381431102752686,
+        "p90": 22.85790271759033,
+        "max": 23.781049728393555,
+        "mean": 22.46668186982473
+      },
+      "normal_image_patch_p90": {
+        "n": 120,
+        "min": 23.91869068145752,
+        "p10": 24.342109870910644,
+        "p50": 24.9804105758667,
+        "p90": 25.7566819190979,
+        "max": 26.70212459564209,
+        "mean": 25.0526912689209
+      },
+      "n_anomaly_images_with_component": 75,
+      "anomaly_image_component_max": {
+        "n": 75,
+        "min": 29.297603607177734,
+        "p10": 31.89986457824707,
+        "p50": 35.76093673706055,
+        "p90": 42.46759185791017,
+        "max": 50.867332458496094,
+        "mean": 36.6902586110433
+      },
+      "anomaly_images_component_max_below_normal_patch_median": 0,
+      "unit": "one summary per image; patch cells are not independent images"
+    }
+  ],
+  "cell_counts_computed": true,
+  "size_bins": [
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "1",
+      "n_components": 5,
+      "n_images": 2,
+      "n_detected": 5,
+      "score_median": 33.05668258666992,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "2-8",
+      "n_components": 5,
+      "n_images": 4,
+      "n_detected": 5,
+      "score_median": 31.777578353881836,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "9-32",
+      "n_components": 22,
+      "n_images": 17,
+      "n_detected": 22,
+      "score_median": 36.60531044006348,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "33-128",
+      "n_components": 40,
+      "n_images": 34,
+      "n_detected": 40,
+      "score_median": 36.61521339416504,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "area_512",
+      "bin": "129以上",
+      "n_components": 38,
+      "n_images": 36,
+      "n_detected": 38,
+      "score_median": 34.976173400878906,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "intersection_cells",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "intersection_cells",
+      "bin": "1",
+      "n_components": 8,
+      "n_images": 5,
+      "n_detected": 8,
+      "score_median": 32.31951141357422,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "intersection_cells",
+      "bin": "2-4",
+      "n_components": 40,
+      "n_images": 32,
+      "n_detected": 40,
+      "score_median": 35.56739807128906,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "sd_original",
+      "axis": "intersection_cells",
+      "bin": "5以上",
+      "n_components": 62,
+      "n_images": 57,
+      "n_detected": 62,
+      "score_median": 36.51556396484375,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "1",
+      "n_components": 5,
+      "n_images": 2,
+      "n_detected": 5,
+      "score_median": 35.4693489074707,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "2-8",
+      "n_components": 5,
+      "n_images": 4,
+      "n_detected": 5,
+      "score_median": 30.145723342895508,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "9-32",
+      "n_components": 22,
+      "n_images": 17,
+      "n_detected": 22,
+      "score_median": 36.1756534576416,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "33-128",
+      "n_components": 40,
+      "n_images": 34,
+      "n_detected": 40,
+      "score_median": 36.588613510131836,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "area_512",
+      "bin": "129以上",
+      "n_components": 38,
+      "n_images": 36,
+      "n_detected": 38,
+      "score_median": 34.95713996887207,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "intersection_cells",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "intersection_cells",
+      "bin": "1",
+      "n_components": 9,
+      "n_images": 5,
+      "n_detected": 9,
+      "score_median": 34.7882194519043,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "intersection_cells",
+      "bin": "2-4",
+      "n_components": 36,
+      "n_images": 31,
+      "n_detected": 36,
+      "score_median": 34.955909729003906,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_m5",
+      "axis": "intersection_cells",
+      "bin": "5以上",
+      "n_components": 65,
+      "n_images": 57,
+      "n_detected": 65,
+      "score_median": 37.142127990722656,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "1",
+      "n_components": 5,
+      "n_images": 2,
+      "n_detected": 4,
+      "score_median": 36.186710357666016,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "2-8",
+      "n_components": 5,
+      "n_images": 4,
+      "n_detected": 5,
+      "score_median": 30.701610565185547,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "9-32",
+      "n_components": 22,
+      "n_images": 17,
+      "n_detected": 22,
+      "score_median": 36.078168869018555,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "33-128",
+      "n_components": 40,
+      "n_images": 34,
+      "n_detected": 40,
+      "score_median": 35.57819175720215,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "area_512",
+      "bin": "129以上",
+      "n_components": 38,
+      "n_images": 36,
+      "n_detected": 38,
+      "score_median": 35.361392974853516,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "intersection_cells",
+      "bin": "0",
+      "n_components": 1,
+      "n_images": 1,
+      "n_detected": 0,
+      "score_median": null,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "intersection_cells",
+      "bin": "1",
+      "n_components": 10,
+      "n_images": 7,
+      "n_detected": 9,
+      "score_median": 34.756317138671875,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "intersection_cells",
+      "bin": "2-4",
+      "n_components": 39,
+      "n_images": 32,
+      "n_detected": 39,
+      "score_median": 35.24437713623047,
+      "unit": "component; not an independent image"
+    },
+    {
+      "condition": "pad_synthetic_p5",
+      "axis": "intersection_cells",
+      "bin": "5以上",
+      "n_components": 61,
+      "n_images": 55,
+      "n_detected": 61,
+      "score_median": 35.492984771728516,
+      "unit": "component; not an independent image"
+    }
+  ],
+  "zero_only_control": {
+    "fit_executed": false,
+    "n_candidates": 589824,
+    "matches": {
+      "fit_images": "同じ未変換144枚",
+      "saved_patch_count": true,
+      "coreset_ratio_0_1": true,
+      "projection_method": "SparseRandomProjection eps 0.9",
+      "projection_components": 328,
+      "projection_components_match_baseline_328": true,
+      "within_image_cell_order": "reshape_embedding の行優先",
+      "kcenter_includes_initial_center": true,
+      "layers_pool_concat_neighbors": true
+    },
+    "mismatches": {
+      "image_order": "この構築器はファイル名順。既存バンクは学習ローダの shuffle=True で、その順は保存されていない。",
+      "seed_state": "この構築器は coreset 直前に seed 0 を入れ直す。既存バンクの初期点は fit 中に進んだ乱数で、値は保存されていない。",
+      "candidate_device": "この構築器は 1536 次元を CPU に置く。既存の144枚は学習ステップ中に GPU へ蓄積した。"
+    },
+    "estimate": {
+      "candidate_bytes": 3623878656,
+      "projected_bytes": 773849088,
+      "bank_bytes": 362385408,
+      "time_basis": "3ビューの k-center は 1361 秒だった。候補数が 3分の1なので、距離更新だけを比例させると約 450 秒。計測値ではない。",
+      "necessity": "3ビューの結果から、ビューを増やした効果と、候補順・seed・射影次元の差を分けるときに要る。既存バンクの再現にはならない。"
+    }
+  }
+}

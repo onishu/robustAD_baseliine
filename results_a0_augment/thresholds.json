@@ -1,0 +1,33 @@
+{
+  "recomputed": true,
+  "reused_old_thresholds": false,
+  "old_image_threshold_not_used": 36.28824043273926,
+  "old_patch_threshold_not_used": 24.215826511383057,
+  "quantile": "np.quantile(scores, 0.95, method='linear')",
+  "decision": "score >= threshold",
+  "ties": "counted as anomalous",
+  "alpha": 0.05,
+  "calibration": "untransformed_36",
+  "fit_images_included": false,
+  "recalibrated_per_condition": false,
+  "image": {
+    "target_fpr": 0.05,
+    "threshold": 37.689165115356445,
+    "n": 36,
+    "n_false": 2,
+    "achieved_fpr": 0.05555555555555555,
+    "interval_low": 0.006800300654022815,
+    "interval_high": 0.186636706457554,
+    "target_match_claimed": false
+  },
+  "patch": {
+    "target_fpr": 0.05,
+    "threshold": 25.81197500228882,
+    "n": 147456,
+    "n_false": 7373,
+    "achieved_fpr": 0.05000135633680555,
+    "interval_low": 0.04889440091395292,
+    "interval_high": 0.051126048323551984,
+    "target_match_claimed": false
+  }
+}

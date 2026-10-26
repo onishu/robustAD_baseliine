@@ -1,0 +1,55 @@
+{
+  "insertion": {
+    "function": "robustad.theme_a.feature_warp.score_fused_feature_inverse",
+    "tensor": "embedding",
+    "producer": "PatchcoreModel.generate_embedding",
+    "consumer_after_warp": "PatchcoreModel.reshape_embedding",
+    "shape": [
+      null,
+      1536,
+      64,
+      64
+    ],
+    "score": "PatchcoreModel.compute_anomaly_score on the warped rows",
+    "stored_scores_reused": false
+  },
+  "grid_sample": {
+    "mode": "bilinear",
+    "padding_mode": "reflection",
+    "align_corners": false,
+    "matches": "torchvision rotate / _gen_affine_grid"
+  },
+  "conditions": [
+    {
+      "name": "feature_m5",
+      "image_degrees": -5.0,
+      "feature_degrees": 5.0,
+      "rotated": "pad_synthetic_m5",
+      "round_trip": "pad_restore_m5"
+    },
+    {
+      "name": "feature_p5",
+      "image_degrees": 5.0,
+      "feature_degrees": -5.0,
+      "rotated": "pad_synthetic_p5",
+      "round_trip": "pad_restore_p5"
+    }
+  ],
+  "forwards": 390,
+  "batch_size": 2,
+  "thresholds_recomputed": false,
+  "image_threshold": 36.28824043273926,
+  "patch_threshold": 24.215826511383057,
+  "bank": "results_a0\\bank\\pcb__patchcore__seed0.pt",
+  "refit": false,
+  "map_bytes": 6389760,
+  "disk_free_bytes_before_score": 18642026496,
+  "roi_pack": "roi_pending\\pcb_sd_normal8",
+  "roi_status": "unconfirmed",
+  "roi_metrics": false,
+  "reflection_cells": {
+    "feature_m5": 232,
+    "feature_p5": 232
+  },
+  "score_seconds": 180.30831480002962
+}

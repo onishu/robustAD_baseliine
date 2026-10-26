@@ -1,0 +1,68 @@
+{
+  "stems": [
+    "Test_PCB_resized_None_None_Normal_Set2_181",
+    "Test_PCB_resized_None_None_Normal_Set2_241",
+    "Test_PCB_None_None_Missing Component_1",
+    "Test_PCB_None_None_Scratch_20"
+  ],
+  "max_abs_score": 0.0,
+  "max_abs_patch": 0.0,
+  "rows": [
+    {
+      "source_id": "Test_PCB_resized_None_None_Normal_Set2_181",
+      "image_degrees": -5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_resized_None_None_Normal_Set2_181",
+      "image_degrees": 5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_resized_None_None_Normal_Set2_241",
+      "image_degrees": -5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_resized_None_None_Normal_Set2_241",
+      "image_degrees": 5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_1",
+      "image_degrees": -5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_1",
+      "image_degrees": 5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_None_None_Scratch_20",
+      "image_degrees": -5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    },
+    {
+      "source_id": "Test_PCB_None_None_Scratch_20",
+      "image_degrees": 5.0,
+      "zero_warp_versus_model_forward": 0.0,
+      "unwarped_reimplementation_versus_model_forward": 0.0,
+      "zero_warp_versus_unwarped_patch": 0.0
+    }
+  ]
+}

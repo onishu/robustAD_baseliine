@@ -1,0 +1,26 @@
+{
+  "source": "regenerated",
+  "three_view_matrix_saved": false,
+  "reused_saved_matrix": false,
+  "verified_identical_to_three_view": false,
+  "reason_not_verified": "既存3ビューの射影行列は保存されていない。同じ生成経路で再生成した。直接照合はできない。",
+  "method": "anomalib SparseRandomProjection",
+  "library": "anomalib",
+  "library_version": "2.7.0",
+  "eps": 0.9,
+  "input_dim": 1536,
+  "output_dim": 355,
+  "jl_dim_for_n_candidates": 328,
+  "forced_output_dim": 355,
+  "random_state_arg": null,
+  "rng": "torch.distributions.Binomial and sklearn sample_without_replacement on global NumPy RNG after lightning seed_everything(0)",
+  "seed_everything_before_projection": 0,
+  "initial_center_drawn_with_randint": false,
+  "projection_before_initial_center": true,
+  "matrix_sha256": "e640ba733e1ebfffe68c302cdc98d5dc7410eb5c1c092996fd07e32227467eec",
+  "matrix_shape": [
+    355,
+    1536
+  ],
+  "matrix_dtype": "torch.float32"
+}

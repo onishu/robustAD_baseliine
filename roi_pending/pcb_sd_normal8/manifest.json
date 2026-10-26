@@ -1,0 +1,59 @@
+{
+  "status": "unconfirmed",
+  "ground_truth": false,
+  "masks_created": false,
+  "rule": "sorted PCB SD test-normal stems, round(i * 119 / 7) for i = 0..7",
+  "stems": [
+    {
+      "rule_index": 0,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_181",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 17,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_198",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 34,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_215",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 51,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_232",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 68,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_249",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 85,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_266",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 102,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_283",
+      "status": "unconfirmed"
+    },
+    {
+      "rule_index": 119,
+      "stem": "Test_PCB_resized_None_None_Normal_Set2_300",
+      "status": "unconfirmed"
+    }
+  ],
+  "images": [
+    "Test_PCB_resized_None_None_Normal_Set2_181",
+    "Test_PCB_resized_None_None_Normal_Set2_198",
+    "Test_PCB_resized_None_None_Normal_Set2_215",
+    "Test_PCB_resized_None_None_Normal_Set2_232",
+    "Test_PCB_resized_None_None_Normal_Set2_249",
+    "Test_PCB_resized_None_None_Normal_Set2_266",
+    "Test_PCB_resized_None_None_Normal_Set2_283",
+    "Test_PCB_resized_None_None_Normal_Set2_300"
+  ],
+  "instruction": "正規化前の512画像を見て、基板面だけを masks/<stem>.png に塗る。塗るまで confirmed にしない。"
+}

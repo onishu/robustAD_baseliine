@@ -1,0 +1,364 @@
+{
+  "auroc": {
+    "original": {
+      "old": 0.9622222222222223,
+      "control": 0.9617777777777777,
+      "three": 0.9646666666666666,
+      "n": 195
+    },
+    "pad0": {
+      "old": 0.9622222222222223,
+      "control": 0.9617777777777777,
+      "three": 0.9646666666666666,
+      "n": 195
+    },
+    "m5": {
+      "old": 0.9487777777777777,
+      "control": 0.9537777777777778,
+      "three": 0.9724444444444444,
+      "n": 195
+    },
+    "p5": {
+      "old": 0.9178888888888889,
+      "control": 0.911,
+      "three": 0.979,
+      "n": 195
+    }
+  },
+  "delta_old_control": {
+    "original": {
+      "n": 195,
+      "min": -2.23577880859375,
+      "max": 2.8994522094726562,
+      "p50": 0.0015964508056640625,
+      "max_abs": 2.8994522094726562,
+      "max_abs_id": "Test_PCB_resized_None_None_Normal_Set2_283",
+      "largest_abs": [
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_283",
+          "label": 0,
+          "delta": 2.8994522094726562,
+          "old": 32.313995361328125,
+          "control": 35.21344757080078
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_187",
+          "label": 0,
+          "delta": -2.23577880859375,
+          "old": 31.933393478393555,
+          "control": 29.697614669799805
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_190",
+          "label": 0,
+          "delta": 2.0404815673828125,
+          "old": 30.128284454345703,
+          "control": 32.168766021728516
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_214",
+          "label": 0,
+          "delta": 1.936971664428711,
+          "old": 30.5430965423584,
+          "control": 32.48006820678711
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_240",
+          "label": 0,
+          "delta": -1.9271659851074219,
+          "old": 35.54534149169922,
+          "control": 33.6181755065918
+        }
+      ]
+    },
+    "pad0": {
+      "n": 195,
+      "min": -2.2356510162353516,
+      "max": 2.8973960876464844,
+      "p50": 0.0009441375732421875,
+      "max_abs": 2.8973960876464844,
+      "max_abs_id": "Test_PCB_resized_None_None_Normal_Set2_283",
+      "largest_abs": [
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_283",
+          "label": 0,
+          "delta": 2.8973960876464844,
+          "old": 32.314579010009766,
+          "control": 35.21197509765625
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_187",
+          "label": 0,
+          "delta": -2.2356510162353516,
+          "old": 31.93239974975586,
+          "control": 29.696748733520508
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_190",
+          "label": 0,
+          "delta": 2.042104721069336,
+          "old": 30.127412796020508,
+          "control": 32.169517517089844
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_214",
+          "label": 0,
+          "delta": 1.937469482421875,
+          "old": 30.541942596435547,
+          "control": 32.47941207885742
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_240",
+          "label": 0,
+          "delta": -1.9243316650390625,
+          "old": 35.546836853027344,
+          "control": 33.62250518798828
+        }
+      ]
+    },
+    "m5": {
+      "n": 195,
+      "min": -1.9553756713867188,
+      "max": 2.066314697265625,
+      "p50": 0.012729644775390625,
+      "max_abs": 2.066314697265625,
+      "max_abs_id": "Test_PCB_None_None_Scratch_29",
+      "largest_abs": [
+        {
+          "id": "Test_PCB_None_None_Scratch_29",
+          "label": 1,
+          "delta": 2.066314697265625,
+          "old": 43.14365005493164,
+          "control": 45.209964752197266
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_240",
+          "label": 0,
+          "delta": -1.9553756713867188,
+          "old": 39.6632080078125,
+          "control": 37.70783233642578
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_300",
+          "label": 0,
+          "delta": -1.6791114807128906,
+          "old": 39.28239059448242,
+          "control": 37.60327911376953
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_255",
+          "label": 0,
+          "delta": -1.673248291015625,
+          "old": 39.02722930908203,
+          "control": 37.353981018066406
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_198",
+          "label": 0,
+          "delta": -1.3609085083007812,
+          "old": 39.073997497558594,
+          "control": 37.71308898925781
+        }
+      ]
+    },
+    "p5": {
+      "n": 195,
+      "min": -1.9687423706054688,
+      "max": 2.0867843627929688,
+      "p50": 0.000339508056640625,
+      "max_abs": 2.0867843627929688,
+      "max_abs_id": "Test_PCB_resized_None_None_Normal_Set2_249",
+      "largest_abs": [
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_249",
+          "label": 0,
+          "delta": 2.0867843627929688,
+          "old": 38.54328155517578,
+          "control": 40.63006591796875
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_206",
+          "label": 0,
+          "delta": -1.9687423706054688,
+          "old": 37.754329681396484,
+          "control": 35.785587310791016
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_246",
+          "label": 0,
+          "delta": 1.8025436401367188,
+          "old": 37.639461517333984,
+          "control": 39.4420051574707
+        },
+        {
+          "id": "Test_PCB_None_None_Soldering Melt_31",
+          "label": 1,
+          "delta": 1.6514511108398438,
+          "old": 43.02374267578125,
+          "control": 44.675193786621094
+        },
+        {
+          "id": "Test_PCB_resized_None_None_Normal_Set2_205",
+          "label": 0,
+          "delta": 1.5218544006347656,
+          "old": 38.97400665283203,
+          "control": 40.4958610534668
+        }
+      ]
+    }
+  },
+  "threshold_relation": {
+    "original": {
+      "normal": {
+        "n": 120,
+        "old_at_old": 12,
+        "old_at_control": 9,
+        "control_at_old": 13,
+        "control_at_control": 9,
+        "three_at_three": 7,
+        "three_at_control": 12,
+        "control_at_three": 6
+      },
+      "anomaly": {
+        "n": 75,
+        "old_at_old": 69,
+        "old_at_control": 62,
+        "control_at_old": 68,
+        "control_at_control": 62,
+        "three_at_three": 64,
+        "three_at_control": 67,
+        "control_at_three": 56
+      },
+      "normal_between_old_and_control_threshold": {
+        "old_scores": 3,
+        "control_scores": 4
+      }
+    },
+    "pad0": {
+      "normal": {
+        "n": 120,
+        "old_at_old": 12,
+        "old_at_control": 9,
+        "control_at_old": 13,
+        "control_at_control": 9,
+        "three_at_three": 7,
+        "three_at_control": 12,
+        "control_at_three": 6
+      },
+      "anomaly": {
+        "n": 75,
+        "old_at_old": 69,
+        "old_at_control": 62,
+        "control_at_old": 68,
+        "control_at_control": 62,
+        "three_at_three": 64,
+        "three_at_control": 67,
+        "control_at_three": 56
+      },
+      "normal_between_old_and_control_threshold": {
+        "old_scores": 3,
+        "control_scores": 4
+      }
+    },
+    "m5": {
+      "normal": {
+        "n": 120,
+        "old_at_old": 81,
+        "old_at_control": 56,
+        "control_at_old": 83,
+        "control_at_control": 54,
+        "three_at_three": 5,
+        "three_at_control": 6,
+        "control_at_three": 42
+      },
+      "anomaly": {
+        "n": 75,
+        "old_at_old": 75,
+        "old_at_control": 75,
+        "control_at_old": 75,
+        "control_at_control": 75,
+        "three_at_three": 62,
+        "three_at_control": 65,
+        "control_at_three": 75
+      },
+      "normal_between_old_and_control_threshold": {
+        "old_scores": 25,
+        "control_scores": 29
+      }
+    },
+    "p5": {
+      "normal": {
+        "n": 120,
+        "old_at_old": 77,
+        "old_at_control": 61,
+        "control_at_old": 82,
+        "control_at_control": 59,
+        "three_at_three": 8,
+        "three_at_control": 10,
+        "control_at_three": 43
+      },
+      "anomaly": {
+        "n": 75,
+        "old_at_old": 75,
+        "old_at_control": 75,
+        "control_at_old": 75,
+        "control_at_control": 75,
+        "three_at_three": 66,
+        "three_at_control": 71,
+        "control_at_three": 75
+      },
+      "normal_between_old_and_control_threshold": {
+        "old_scores": 16,
+        "control_scores": 23
+      }
+    }
+  },
+  "calibration_scores_saved": false,
+  "calibration_note": "36枚の校正画像スコアは保存されていない。追加推論なしでは校正画像ごとの差は出せない。",
+  "sizes": {
+    "results_a0": {
+      "bytes": 395883637,
+      "files": 1186,
+      "pt_bytes": 362386722
+    },
+    "results_a0_boundary": {
+      "bytes": 20431999,
+      "files": 985,
+      "pt_bytes": 0
+    },
+    "results_a0_feature": {
+      "bytes": 9120753,
+      "files": 402,
+      "pt_bytes": 0
+    },
+    "results_a0_augment": {
+      "bytes": 397484856,
+      "files": 791,
+      "pt_bytes": 362386786
+    },
+    "results_a0_control0": {
+      "bytes": 397459530,
+      "files": 791,
+      "pt_bytes": 362386914
+    }
+  },
+  "thresholds": {
+    "old": 36.28824043273926,
+    "control": 37.03678894042969,
+    "three": 37.689165115356445
+  },
+  "times": {
+    "control": {
+      "fit": 514.2431662000017,
+      "calibration": 12.05221029999666,
+      "score": 191.35912270005792
+    },
+    "three": {
+      "fit": 1520.4995805999497,
+      "calibration": 12.896379499929026,
+      "score": 196.16535929997917
+    },
+    "feature_score": 180.30831480002962,
+    "old_three_intervals_saved": false
+  }
+}
