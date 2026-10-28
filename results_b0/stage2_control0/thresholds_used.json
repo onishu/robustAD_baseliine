@@ -1,9 +1,0 @@
-{
-  "source": "results_a0_control0\\thresholds.json",
-  "recomputed": false,
-  "image_threshold": 37.03678894042969,
-  "patch_threshold": 24.219616413116455,
-  "correction_input": "series uint8 512",
-  "correction_margin_pixels": 106,
-  "known_uses_series_canvas": false
-}

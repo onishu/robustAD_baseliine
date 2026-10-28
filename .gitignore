@@ -35,3 +35,5 @@ results_b0/**/*.npz
 results_b0_smoke/lightning/
 results_b0_smoke/**/*.pt
 results_b0_smoke/**/*.npz
+/results_*/
+/result_*/
