@@ -620,12 +620,17 @@ def classify_board_cells(roi: np.ndarray, content_from_original: np.ndarray, val
     }
 
 
-def warp_label_and_origin(label: torch.Tensor, angles: tuple[float, ...]) -> dict[str, torch.Tensor]:
+def warp_label_and_origin(
+    label: torch.Tensor,
+    angles: tuple[float, ...],
+    margin: int = MARGIN,
+) -> dict[str, torch.Tensor]:
     """Move a confirmed 512 label with the shared reflect-pad path.
 
     The label is padded with 0, so it is not mirrored. Content and fill probes
     use the same angles and one final crop. An empty angle list is the
-    unrotated label, not a 0° resample.
+    unrotated label, not a 0° resample. The default margin is the theme A
+    22 px path. Theme B passes its own margin and does not reuse that default.
     """
 
     array = torch.as_tensor(label)
@@ -634,9 +639,15 @@ def warp_label_and_origin(label: torch.Tensor, angles: tuple[float, ...]) -> dic
     if not angles:
         ones = torch.ones((REFERENCE_SIZE, REFERENCE_SIZE), dtype=torch.bool)
         return {"roi": array > 0, "content_from_original": ones, "geometrically_valid": ones}
-    warped, _steps = extend_and_warp(array.to(dtype=torch.float32), angles, nearest=True, pad_mode="constant")
-    content = content_probe(angles) >= (1.0 - FILL_EPS)
-    valid = fill_probe(angles) >= (1.0 - FILL_EPS)
+    warped, _steps = extend_and_warp(
+        array.to(dtype=torch.float32),
+        angles,
+        nearest=True,
+        margin=margin,
+        pad_mode="constant",
+    )
+    content = content_probe(angles, margin) >= (1.0 - FILL_EPS)
+    valid = fill_probe(angles, margin) >= (1.0 - FILL_EPS)
     roi = warped[0] > 0 if warped.ndim == 3 else warped > 0
     return {"roi": roi, "content_from_original": content, "geometrically_valid": valid}
 

@@ -29,3 +29,9 @@ results_a0_augment/**/*.npz
 results_a0_control0/lightning/
 results_a0_control0/**/*.pt
 results_a0_control0/**/*.npz
+results_b0/lightning/
+results_b0/**/*.pt
+results_b0/**/*.npz
+results_b0_smoke/lightning/
+results_b0_smoke/**/*.pt
+results_b0_smoke/**/*.npz

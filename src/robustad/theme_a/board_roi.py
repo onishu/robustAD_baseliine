@@ -29,6 +29,10 @@ SAVED_GRID_SOURCES = {
     "input_alignment": "results_a0_boundary/maps",
     "feature_alignment": "results_a0_feature/maps",
     "augmentation": "results_a0_augment/maps",
+    "control_unrotated_views": "results_a0_control0/maps",
+    "theme_b_series_control": "results_b0/stage1_control0/maps",
+    "theme_b_series_three": "results_b0/stage1_three/maps",
+    "theme_b_correction": "results_b0/stage2_control0/maps",
 }
 COMPARISON_NOTE = (
     "①の主比較は、回転ビューなしと3ビューである。"
@@ -124,7 +128,9 @@ def main() -> None:
         raise SystemExit(str(exc)) from exc
     raise SystemExit(
         "確認済みマスクは読めました。数値は出していません。"
-        "保存済み格子は補正なし、②、③、①です。新しいfitは要りません。"
+        "保存済み格子は補正なし、②、③、①、回転ビューなし、テーマBの系列と補正です。"
+        "テーマBのラベルは、41 px の系列のあと、補正があるときだけ別の 106 px で移す。"
+        "新しいfitは要りません。"
         + COMPARISON_NOTE
     )
 

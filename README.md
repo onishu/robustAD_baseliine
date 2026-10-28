@@ -82,3 +82,5 @@ Table 2 に寄せるための重み確認。再現の本体は 1 と 2 で、こ
 テーマAの最初の実験は PCB、PatchCore、seed 0 で、PCB SD の 195 枚に合成した `−5°` と `+5°` を掛ける。実撮影の Rotation フォルダは使わない。計画は `A_MINIMAL_PLAN.md`。出力は `results_a0` である。端を折り返した比較は `results_a0_boundary` で、どちらも上書きしない。
 
 作用点の次の比較は `A_ACTION_PLAN.md`、基板面の補助評価は `A_BOARD_ROI.md` である。大規模な再fitは、その計画を確認するまで実行しない。
+
+テーマBは、推定した面内回転で入力画像を戻す準備である。計画は `B_MINIMAL_PLAN.md`。全画像の採点は未実行で、正常モデルの再fitはしない。

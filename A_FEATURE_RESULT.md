@@ -72,6 +72,12 @@ PCB、PatchCore、seed 0。バンクは `results_a0/bank/pcb__patchcore__seed0.p
 
 元成分IDごとの連続差の中央値は、回転したままとの間で −0.73 と −0.79、往復との間で +0.95 と +0.16 である。110対であり、110/111 の検出一致とは別の数である。
 
+## この③が調べた範囲
+
+追加の fit と追加の推論はしていない。今回の③は、固定した CNN が出した融合特徴の座標だけを、既知角度で戻せば十分かを見る単純な基準である。対象は、既存のプーリングと、layer3 を layer2 の大きさへ bilinear で広げたあとの 1536 次元である。正常モデルは固定し、対象データで特徴表現は学習していない。
+
+Jiang, Zhang, Wang, Li, Gao, "FR-PatchCore: An Industrial Anomaly Detection Method for Improving Generalization", Sensors 2024, 24(5), 1368（https://doi.org/10.3390/s24051368）は、この操作と同じではない。同論文は wide_resnet_50_2 の最初の3層のそれぞれに STN を入れ、第2と第3の STN 層の特徴をメモリバンクへ貯め、負のコサイン類似度で登録を更新する。STN は Jaderberg, Simonyan, Zisserman, "Spatial transformer networks", NIPS 2015 として引用されている。同論文は、回転、反転、画素のずれがあると PatchCore の類似比較が難しくなる、と述べている。今回の件数は、その学習済み登録や複数段の STN、特徴の集約を否定しない。この実装でも融合前に bilinear で大きさを揃えているので、入力の回転は融合格子の座標回転だけでは表せない。
+
 ## 基板面
 
 確認用の8枚は `roi_pending/pcb_sd_normal8/images` にある。状態は `unconfirmed` で、マスクはまだ無い。基板面の集計は、研究者が基板面だけを塗ってから行う。塗り方は `A_BOARD_ROI.md` にある。
