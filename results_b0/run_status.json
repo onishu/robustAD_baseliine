@@ -1,0 +1,189 @@
+{
+  "state": "complete",
+  "stage1_control0": {
+    "series_0": {
+      "normal_detected": "8/120",
+      "anomaly_detected": "64/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.063720703125,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m10": {
+      "normal_detected": "120/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.4735107421875,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m2_5": {
+      "normal_detected": "18/120",
+      "anomaly_detected": "74/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.285400390625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m5": {
+      "normal_detected": "49/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.4293212890625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p10": {
+      "normal_detected": "120/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.4825439453125,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p2_5": {
+      "normal_detected": "24/120",
+      "anomaly_detected": "71/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.260986328125,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p5": {
+      "normal_detected": "57/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.424560546875,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    }
+  },
+  "stage1_three": {
+    "series_0": {
+      "normal_detected": "7/120",
+      "anomaly_detected": "63/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.0611572265625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m10": {
+      "normal_detected": "10/120",
+      "anomaly_detected": "69/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.262451171875,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m2_5": {
+      "normal_detected": "7/120",
+      "anomaly_detected": "68/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.1307373046875,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_m5": {
+      "normal_detected": "5/120",
+      "anomaly_detected": "60/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.05322265625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p10": {
+      "normal_detected": "10/120",
+      "anomaly_detected": "71/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.276611328125,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p2_5": {
+      "normal_detected": "7/120",
+      "anomaly_detected": "69/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.1353759765625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "series_p5": {
+      "normal_detected": "7/120",
+      "anomaly_detected": "66/75",
+      "components_detected": "109/111",
+      "normal_patch_fpr_median": 0.0552978515625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    }
+  },
+  "stage2_control0": {
+    "estimated_0": {
+      "normal_detected": "7/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.114013671875,
+      "estimates": 195,
+      "fallbacks": 20,
+      "fallback_reasons": {
+        "too_few_inliers": 20
+      }
+    },
+    "estimated_m10": {
+      "normal_detected": "44/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.24267578125,
+      "estimates": 195,
+      "fallbacks": 15,
+      "fallback_reasons": {
+        "too_few_inliers": 15
+      }
+    },
+    "estimated_p10": {
+      "normal_detected": "28/120",
+      "anomaly_detected": "75/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.2357177734375,
+      "estimates": 195,
+      "fallbacks": 18,
+      "fallback_reasons": {
+        "too_few_inliers": 18
+      }
+    },
+    "known_m10": {
+      "normal_detected": "43/120",
+      "anomaly_detected": "73/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.2276611328125,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    },
+    "known_p10": {
+      "normal_detected": "29/120",
+      "anomaly_detected": "70/75",
+      "components_detected": "110/111",
+      "normal_patch_fpr_median": 0.224853515625,
+      "estimates": 195,
+      "fallbacks": 0,
+      "fallback_reasons": {}
+    }
+  },
+  "fit": false,
+  "recalibrated": false,
+  "roi_metrics": false
+}

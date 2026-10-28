@@ -1,0 +1,356 @@
+{
+  "source_id": "Test_PCB_None_None_Missing Component_31",
+  "estimate_seconds": 0.2788025999907404,
+  "warp_seconds": 0.3044525000732392,
+  "score_seconds": 0.8148205999750644,
+  "images": [
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_m10",
+      "added_degrees": -10.0,
+      "label": 1,
+      "reproduction_score": 42.64226150512695,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_p10",
+      "added_degrees": 10.0,
+      "label": 1,
+      "reproduction_score": 36.987030029296875,
+      "detected": false,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_0",
+      "added_degrees": 0.0,
+      "label": 1,
+      "reproduction_score": 44.56129455566406,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_m10",
+      "added_degrees": -10.0,
+      "label": 1,
+      "reproduction_score": 48.042240142822266,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_p10",
+      "added_degrees": 10.0,
+      "label": 1,
+      "reproduction_score": 45.06388854980469,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    }
+  ],
+  "components": [
+    {
+      "component_id": 1,
+      "area_original": 4569,
+      "area_512": 285,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 284,
+      "area_common": 284,
+      "remaining_ratio": 0.9964912280701754,
+      "remaining_ratio_common": 0.9964912280701754,
+      "statistic_common": 38.54856872558594,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_m10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 4569,
+      "area_512": 285,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 285,
+      "area_common": 285,
+      "remaining_ratio": 1.0,
+      "remaining_ratio_common": 1.0,
+      "statistic_common": 36.92106628417969,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_p10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 4569,
+      "area_512": 285,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 281,
+      "area_common": 281,
+      "remaining_ratio": 0.9859649122807017,
+      "remaining_ratio_common": 0.9859649122807017,
+      "statistic_common": 44.83666229248047,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_0"
+    },
+    {
+      "component_id": 1,
+      "area_original": 4569,
+      "area_512": 285,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 285,
+      "area_common": 285,
+      "remaining_ratio": 1.0,
+      "remaining_ratio_common": 1.0,
+      "statistic_common": 47.19986343383789,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_m10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 4569,
+      "area_512": 285,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 286,
+      "area_common": 286,
+      "remaining_ratio": 1.0035087719298246,
+      "remaining_ratio_common": 1.0035087719298246,
+      "statistic_common": 44.83915328979492,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_p10"
+    }
+  ],
+  "fpr": [],
+  "estimates": [
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_m10",
+      "added_degrees": -10.0,
+      "estimated_degrees": -1.909892807198645,
+      "diagnostic_added_degrees": -10.059069860908863,
+      "correction_degrees": 10.0,
+      "n_candidates": 237,
+      "n_inliers": 8,
+      "residual_rms_px": 1.803052959985954,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": 10.0,
+          "resampled": true,
+          "output_to_source": [
+            0.984807753012208,
+            -0.17364817766693033,
+            0.0,
+            0.17364817766693033,
+            0.984807753012208,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9848077530122082,
+            0.17364817766693036,
+            0.0,
+            -0.17364817766693036,
+            0.9848077530122081,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "known_p10",
+      "added_degrees": 10.0,
+      "estimated_degrees": 18.17130549551672,
+      "diagnostic_added_degrees": 10.022128441806501,
+      "correction_degrees": -10.0,
+      "n_candidates": 247,
+      "n_inliers": 7,
+      "residual_rms_px": 1.60706646289741,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": -10.0,
+          "resampled": true,
+          "output_to_source": [
+            0.984807753012208,
+            0.17364817766693033,
+            0.0,
+            -0.17364817766693033,
+            0.984807753012208,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9848077530122082,
+            -0.17364817766693036,
+            0.0,
+            0.17364817766693036,
+            0.9848077530122081,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_0",
+      "added_degrees": 0.0,
+      "estimated_degrees": 8.149177053710218,
+      "diagnostic_added_degrees": 0.0,
+      "correction_degrees": -8.149177053710218,
+      "n_candidates": 228,
+      "n_inliers": 10,
+      "residual_rms_px": 2.0003989638219486,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": -8.149177053710218,
+          "resampled": true,
+          "output_to_source": [
+            0.9899023573261446,
+            0.14175091872768167,
+            0.0,
+            -0.14175091872768167,
+            0.9899023573261446,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9899023573261448,
+            -0.1417509187276817,
+            0.0,
+            0.1417509187276817,
+            0.9899023573261447,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_m10",
+      "added_degrees": -10.0,
+      "estimated_degrees": -1.909892807198645,
+      "diagnostic_added_degrees": -10.059069860908863,
+      "correction_degrees": 1.909892807198645,
+      "n_candidates": 237,
+      "n_inliers": 8,
+      "residual_rms_px": 1.803052959985954,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": 1.909892807198645,
+          "resampled": true,
+          "output_to_source": [
+            0.9994444764025576,
+            -0.03332774502448914,
+            0.0,
+            0.03332774502448914,
+            0.9994444764025576,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9994444764025576,
+            0.03332774502448914,
+            0.0,
+            -0.03332774502448914,
+            0.9994444764025577,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Missing Component_31",
+      "condition": "estimated_p10",
+      "added_degrees": 10.0,
+      "estimated_degrees": 18.17130549551672,
+      "diagnostic_added_degrees": 10.022128441806501,
+      "correction_degrees": "",
+      "n_candidates": 247,
+      "n_inliers": 7,
+      "residual_rms_px": 1.60706646289741,
+      "fallback": true,
+      "reason": "too_few_inliers",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": "",
+      "transform_steps": [],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    }
+  ]
+}

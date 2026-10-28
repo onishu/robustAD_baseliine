@@ -1,0 +1,383 @@
+{
+  "source_id": "Test_PCB_None_None_Soldering Melt_12",
+  "estimate_seconds": 0.26644089992623776,
+  "warp_seconds": 0.2998901999089867,
+  "score_seconds": 0.8082823998993263,
+  "images": [
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_m10",
+      "added_degrees": -10.0,
+      "label": 1,
+      "reproduction_score": 40.27119827270508,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_p10",
+      "added_degrees": 10.0,
+      "label": 1,
+      "reproduction_score": 40.077537536621094,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_0",
+      "added_degrees": 0.0,
+      "label": 1,
+      "reproduction_score": 44.032222747802734,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_m10",
+      "added_degrees": -10.0,
+      "label": 1,
+      "reproduction_score": 48.03506851196289,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_p10",
+      "added_degrees": 10.0,
+      "label": 1,
+      "reproduction_score": 46.12797927856445,
+      "detected": true,
+      "image_threshold": 37.03678894042969,
+      "patch_threshold": 24.219616413116455
+    }
+  ],
+  "components": [
+    {
+      "component_id": 1,
+      "area_original": 729,
+      "area_512": 47,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 47,
+      "area_common": 47,
+      "remaining_ratio": 1.0,
+      "remaining_ratio_common": 1.0,
+      "statistic_common": 34.34905242919922,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_m10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 729,
+      "area_512": 47,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 49,
+      "area_common": 49,
+      "remaining_ratio": 1.0425531914893618,
+      "remaining_ratio_common": 1.0425531914893618,
+      "statistic_common": 33.49591827392578,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_p10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 729,
+      "area_512": 47,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 46,
+      "area_common": 46,
+      "remaining_ratio": 0.9787234042553191,
+      "remaining_ratio_common": 0.9787234042553191,
+      "statistic_common": 38.248252868652344,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_0"
+    },
+    {
+      "component_id": 1,
+      "area_original": 729,
+      "area_512": 47,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 47,
+      "area_common": 47,
+      "remaining_ratio": 1.0,
+      "remaining_ratio_common": 1.0,
+      "statistic_common": 40.83567810058594,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_m10"
+    },
+    {
+      "component_id": 1,
+      "area_original": 729,
+      "area_512": 47,
+      "status_input": "evaluable",
+      "in_denominator": true,
+      "status_warp": "evaluable",
+      "status_common": "evaluable",
+      "area_condition": 51,
+      "area_common": 51,
+      "remaining_ratio": 1.0851063829787233,
+      "remaining_ratio_common": 1.0851063829787233,
+      "statistic_common": 41.1570930480957,
+      "detected": true,
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_p10"
+    }
+  ],
+  "fpr": [],
+  "estimates": [
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_m10",
+      "added_degrees": -10.0,
+      "estimated_degrees": -3.0019134679637602,
+      "diagnostic_added_degrees": -9.690539811663172,
+      "correction_degrees": 10.0,
+      "n_candidates": 261,
+      "n_inliers": 10,
+      "residual_rms_px": 1.8967546626546103,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": 10.0,
+          "resampled": true,
+          "output_to_source": [
+            0.984807753012208,
+            -0.17364817766693033,
+            0.0,
+            0.17364817766693033,
+            0.984807753012208,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9848077530122082,
+            0.17364817766693036,
+            0.0,
+            -0.17364817766693036,
+            0.9848077530122081,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "known_p10",
+      "added_degrees": 10.0,
+      "estimated_degrees": 17.251061660575175,
+      "diagnostic_added_degrees": 10.562435316875764,
+      "correction_degrees": -10.0,
+      "n_candidates": 252,
+      "n_inliers": 10,
+      "residual_rms_px": 2.0262611319417316,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": -10.0,
+          "resampled": true,
+          "output_to_source": [
+            0.984807753012208,
+            0.17364817766693033,
+            0.0,
+            -0.17364817766693033,
+            0.984807753012208,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9848077530122082,
+            -0.17364817766693036,
+            0.0,
+            0.17364817766693036,
+            0.9848077530122081,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_0",
+      "added_degrees": 0.0,
+      "estimated_degrees": 6.688626343699411,
+      "diagnostic_added_degrees": 0.0,
+      "correction_degrees": -6.688626343699411,
+      "n_candidates": 263,
+      "n_inliers": 9,
+      "residual_rms_px": 1.6251581600612626,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": -6.688626343699411,
+          "resampled": true,
+          "output_to_source": [
+            0.9931937900157901,
+            0.11647358273046529,
+            0.0,
+            -0.11647358273046529,
+            0.9931937900157901,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9931937900157901,
+            -0.11647358273046529,
+            0.0,
+            0.11647358273046529,
+            0.9931937900157902,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_m10",
+      "added_degrees": -10.0,
+      "estimated_degrees": -3.0019134679637602,
+      "diagnostic_added_degrees": -9.690539811663172,
+      "correction_degrees": 3.0019134679637602,
+      "n_candidates": 261,
+      "n_inliers": 10,
+      "residual_rms_px": 1.8967546626546103,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": 3.0019134679637602,
+          "resampled": true,
+          "output_to_source": [
+            0.9986277863695434,
+            -0.052369306761360625,
+            0.0,
+            0.052369306761360625,
+            0.9986277863695434,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.9986277863695436,
+            0.05236930676136064,
+            0.0,
+            -0.05236930676136063,
+            0.9986277863695435,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    },
+    {
+      "source_id": "Test_PCB_None_None_Soldering Melt_12",
+      "condition": "estimated_p10",
+      "added_degrees": 10.0,
+      "estimated_degrees": 17.251061660575175,
+      "diagnostic_added_degrees": 10.562435316875764,
+      "correction_degrees": -17.251061660575175,
+      "n_candidates": 252,
+      "n_inliers": 10,
+      "residual_rms_px": 2.0262611319417316,
+      "fallback": false,
+      "reason": "",
+      "reference_id": "Train_PCB_resized_None_None_Normal_Set1_1",
+      "input_image": "series_uint8_512",
+      "series_margin_pixels": 41,
+      "correction_margin_pixels": 106,
+      "transform_steps": [
+        {
+          "degrees": -17.251061660575175,
+          "resampled": true,
+          "output_to_source": [
+            0.9550144495342571,
+            0.29655927094053225,
+            0.0,
+            -0.29655927094053225,
+            0.9550144495342571,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "source_to_output": [
+            0.955014449534257,
+            -0.2965592709405322,
+            0.0,
+            0.2965592709405322,
+            0.955014449534257,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "fill_valid_pixels": 262144,
+      "fill_pixels": 262144
+    }
+  ]
+}

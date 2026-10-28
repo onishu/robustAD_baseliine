@@ -1,0 +1,556 @@
+component_id,area_original,area_512,status_input,in_denominator,status_warp,status_common,area_condition,area_common,remaining_ratio,remaining_ratio_common,statistic_common,detected,source_id,condition
+1,4442,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,35.00080871582031,True,Test_PCB_None_None_Missing Component_1,known_m10
+1,4442,275,evaluable,True,evaluable,evaluable,273,273,0.9927272727272727,0.9927272727272727,36.16350173950195,True,Test_PCB_None_None_Missing Component_1,known_p10
+1,4442,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,38.30940246582031,True,Test_PCB_None_None_Missing Component_1,estimated_0
+1,4442,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,42.13615036010742,True,Test_PCB_None_None_Missing Component_1,estimated_m10
+1,4442,275,evaluable,True,evaluable,evaluable,274,274,0.9963636363636363,0.9963636363636363,42.51472473144531,True,Test_PCB_None_None_Missing Component_1,estimated_p10
+1,4504,281,evaluable,True,evaluable,evaluable,281,281,1.0,1.0,32.8643798828125,True,Test_PCB_None_None_Missing Component_10,known_m10
+1,4504,281,evaluable,True,evaluable,evaluable,281,281,1.0,1.0,31.68150520324707,True,Test_PCB_None_None_Missing Component_10,known_p10
+1,4504,281,evaluable,True,evaluable,evaluable,281,281,1.0,1.0,41.6225700378418,True,Test_PCB_None_None_Missing Component_10,estimated_0
+1,4504,281,evaluable,True,evaluable,evaluable,283,283,1.00711743772242,1.00711743772242,41.1149787902832,True,Test_PCB_None_None_Missing Component_10,estimated_m10
+1,4504,281,evaluable,True,evaluable,evaluable,281,281,1.0,1.0,42.0624885559082,True,Test_PCB_None_None_Missing Component_10,estimated_p10
+1,4838,298,evaluable,True,evaluable,evaluable,299,299,1.0033557046979866,1.0033557046979866,33.40925979614258,True,Test_PCB_None_None_Missing Component_11,known_m10
+1,4838,298,evaluable,True,evaluable,evaluable,297,297,0.9966442953020134,0.9966442953020134,33.26008605957031,True,Test_PCB_None_None_Missing Component_11,known_p10
+1,4838,298,evaluable,True,evaluable,evaluable,300,300,1.0067114093959733,1.0067114093959733,40.129634857177734,True,Test_PCB_None_None_Missing Component_11,estimated_0
+1,4838,298,evaluable,True,evaluable,evaluable,299,299,1.0033557046979866,1.0033557046979866,41.330379486083984,True,Test_PCB_None_None_Missing Component_11,estimated_m10
+1,4838,298,evaluable,True,evaluable,evaluable,303,303,1.016778523489933,1.016778523489933,42.367095947265625,True,Test_PCB_None_None_Missing Component_11,estimated_p10
+1,4937,313,evaluable,True,evaluable,evaluable,313,313,1.0,1.0,32.70367431640625,True,Test_PCB_None_None_Missing Component_12,known_m10
+1,4937,313,evaluable,True,evaluable,evaluable,315,315,1.0063897763578276,1.0063897763578276,32.83900833129883,True,Test_PCB_None_None_Missing Component_12,known_p10
+1,4937,313,evaluable,True,evaluable,evaluable,313,313,1.0,1.0,40.17594528198242,True,Test_PCB_None_None_Missing Component_12,estimated_0
+1,4937,313,evaluable,True,evaluable,evaluable,313,313,1.0,1.0,39.71112823486328,True,Test_PCB_None_None_Missing Component_12,estimated_m10
+1,4937,313,evaluable,True,evaluable,evaluable,308,308,0.9840255591054313,0.9840255591054313,40.35270690917969,True,Test_PCB_None_None_Missing Component_12,estimated_p10
+1,5123,324,evaluable,True,evaluable,evaluable,324,324,1.0,1.0,34.72382736206055,True,Test_PCB_None_None_Missing Component_13,known_m10
+1,5123,324,evaluable,True,evaluable,evaluable,323,323,0.9969135802469136,0.9969135802469136,35.27283477783203,True,Test_PCB_None_None_Missing Component_13,known_p10
+1,5123,324,evaluable,True,evaluable,evaluable,325,325,1.0030864197530864,1.0030864197530864,43.61664962768555,True,Test_PCB_None_None_Missing Component_13,estimated_0
+1,5123,324,evaluable,True,evaluable,evaluable,324,324,1.0,1.0,44.24558639526367,True,Test_PCB_None_None_Missing Component_13,estimated_m10
+1,5123,324,evaluable,True,evaluable,evaluable,322,322,0.9938271604938271,0.9938271604938271,44.52213668823242,True,Test_PCB_None_None_Missing Component_13,estimated_p10
+1,4546,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,34.261390686035156,True,Test_PCB_None_None_Missing Component_14,known_m10
+1,4546,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,33.70001983642578,True,Test_PCB_None_None_Missing Component_14,known_p10
+1,4546,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,41.02009963989258,True,Test_PCB_None_None_Missing Component_14,estimated_0
+1,4546,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,42.79440689086914,True,Test_PCB_None_None_Missing Component_14,estimated_m10
+1,4546,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,42.53733444213867,True,Test_PCB_None_None_Missing Component_14,estimated_p10
+1,4465,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,38.065155029296875,True,Test_PCB_None_None_Missing Component_15,known_m10
+1,4465,275,evaluable,True,evaluable,evaluable,278,278,1.010909090909091,1.010909090909091,36.869625091552734,True,Test_PCB_None_None_Missing Component_15,known_p10
+1,4465,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,35.295433044433594,True,Test_PCB_None_None_Missing Component_15,estimated_0
+1,4465,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,49.51784133911133,True,Test_PCB_None_None_Missing Component_15,estimated_m10
+1,4465,275,evaluable,True,evaluable,evaluable,276,276,1.0036363636363637,1.0036363636363637,46.045345306396484,True,Test_PCB_None_None_Missing Component_15,estimated_p10
+1,4684,286,evaluable,True,evaluable,evaluable,285,285,0.9965034965034965,0.9965034965034965,35.328121185302734,True,Test_PCB_None_None_Missing Component_16,known_m10
+1,4684,286,evaluable,True,evaluable,evaluable,287,287,1.0034965034965035,1.0034965034965035,34.916709899902344,True,Test_PCB_None_None_Missing Component_16,known_p10
+1,4684,286,evaluable,True,evaluable,evaluable,285,285,0.9965034965034965,0.9965034965034965,42.10207748413086,True,Test_PCB_None_None_Missing Component_16,estimated_0
+1,4684,286,evaluable,True,evaluable,evaluable,285,285,0.9965034965034965,0.9965034965034965,42.67892074584961,True,Test_PCB_None_None_Missing Component_16,estimated_m10
+1,4684,286,evaluable,True,evaluable,evaluable,289,289,1.0104895104895104,1.0104895104895104,42.77138900756836,True,Test_PCB_None_None_Missing Component_16,estimated_p10
+1,5053,313,evaluable,True,evaluable,evaluable,311,311,0.9936102236421726,0.9936102236421726,31.822467803955078,True,Test_PCB_None_None_Missing Component_18,known_m10
+1,5053,313,evaluable,True,evaluable,evaluable,312,312,0.9968051118210862,0.9968051118210862,32.51435852050781,True,Test_PCB_None_None_Missing Component_18,known_p10
+1,5053,313,evaluable,True,evaluable,evaluable,313,313,1.0,1.0,35.37135696411133,True,Test_PCB_None_None_Missing Component_18,estimated_0
+1,5053,313,evaluable,True,evaluable,evaluable,314,314,1.0031948881789137,1.0031948881789137,40.5676383972168,True,Test_PCB_None_None_Missing Component_18,estimated_m10
+1,5053,313,evaluable,True,evaluable,evaluable,311,311,0.9936102236421726,0.9936102236421726,36.472259521484375,True,Test_PCB_None_None_Missing Component_18,estimated_p10
+1,4952,300,evaluable,True,evaluable,evaluable,301,301,1.0033333333333334,1.0033333333333334,33.68645477294922,True,Test_PCB_None_None_Missing Component_19,known_m10
+1,4952,300,evaluable,True,evaluable,evaluable,297,297,0.99,0.99,32.32967758178711,True,Test_PCB_None_None_Missing Component_19,known_p10
+1,4952,300,evaluable,True,evaluable,evaluable,299,299,0.9966666666666667,0.9966666666666667,40.64081573486328,True,Test_PCB_None_None_Missing Component_19,estimated_0
+1,4952,300,evaluable,True,evaluable,evaluable,301,301,1.0033333333333334,1.0033333333333334,39.81485366821289,True,Test_PCB_None_None_Missing Component_19,estimated_m10
+1,4952,300,evaluable,True,evaluable,evaluable,299,299,0.9966666666666667,0.9966666666666667,45.52912521362305,True,Test_PCB_None_None_Missing Component_19,estimated_p10
+1,5106,335,evaluable,True,evaluable,evaluable,336,336,1.0029850746268656,1.0029850746268656,29.948572158813477,True,Test_PCB_None_None_Missing Component_2,known_m10
+1,5106,335,evaluable,True,evaluable,evaluable,334,334,0.9970149253731343,0.9970149253731343,29.408275604248047,True,Test_PCB_None_None_Missing Component_2,known_p10
+1,5106,335,evaluable,True,evaluable,evaluable,331,331,0.9880597014925373,0.9880597014925373,42.43992614746094,True,Test_PCB_None_None_Missing Component_2,estimated_0
+1,5106,335,evaluable,True,evaluable,evaluable,334,334,0.9970149253731343,0.9970149253731343,44.15316390991211,True,Test_PCB_None_None_Missing Component_2,estimated_m10
+1,5106,335,evaluable,True,evaluable,evaluable,336,336,1.0029850746268656,1.0029850746268656,43.56651306152344,True,Test_PCB_None_None_Missing Component_2,estimated_p10
+1,4886,324,evaluable,True,evaluable,evaluable,320,320,0.9876543209876543,0.9876543209876543,35.0959358215332,True,Test_PCB_None_None_Missing Component_20,known_m10
+1,4886,324,evaluable,True,evaluable,evaluable,323,323,0.9969135802469136,0.9969135802469136,34.790836334228516,True,Test_PCB_None_None_Missing Component_20,known_p10
+1,4886,324,evaluable,True,evaluable,evaluable,325,325,1.0030864197530864,1.0030864197530864,39.100006103515625,True,Test_PCB_None_None_Missing Component_20,estimated_0
+1,4886,324,evaluable,True,evaluable,evaluable,323,323,0.9969135802469136,0.9969135802469136,39.00323486328125,True,Test_PCB_None_None_Missing Component_20,estimated_m10
+1,4886,324,evaluable,True,evaluable,evaluable,320,320,0.9876543209876543,0.9876543209876543,39.48638916015625,True,Test_PCB_None_None_Missing Component_20,estimated_p10
+1,4488,275,evaluable,True,evaluable,evaluable,273,273,0.9927272727272727,0.9927272727272727,36.35359573364258,True,Test_PCB_None_None_Missing Component_21,known_m10
+1,4488,275,evaluable,True,evaluable,evaluable,276,276,1.0036363636363637,1.0036363636363637,37.10400390625,True,Test_PCB_None_None_Missing Component_21,known_p10
+1,4488,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,46.00929641723633,True,Test_PCB_None_None_Missing Component_21,estimated_0
+1,4488,275,evaluable,True,evaluable,evaluable,274,274,0.9963636363636363,0.9963636363636363,46.936397552490234,True,Test_PCB_None_None_Missing Component_21,estimated_m10
+1,4488,275,evaluable,True,evaluable,evaluable,277,277,1.0072727272727273,1.0072727272727273,46.63975524902344,True,Test_PCB_None_None_Missing Component_21,estimated_p10
+1,5015,322,evaluable,True,evaluable,evaluable,324,324,1.0062111801242235,1.0062111801242235,34.217567443847656,True,Test_PCB_None_None_Missing Component_22,known_m10
+1,5015,322,evaluable,True,evaluable,evaluable,324,324,1.0062111801242235,1.0062111801242235,34.041648864746094,True,Test_PCB_None_None_Missing Component_22,known_p10
+1,5015,322,evaluable,True,evaluable,evaluable,322,322,1.0,1.0,32.4947395324707,True,Test_PCB_None_None_Missing Component_22,estimated_0
+1,5015,322,evaluable,True,evaluable,evaluable,322,322,1.0,1.0,41.027984619140625,True,Test_PCB_None_None_Missing Component_22,estimated_m10
+1,5015,322,evaluable,True,evaluable,evaluable,325,325,1.0093167701863355,1.0093167701863355,43.02600860595703,True,Test_PCB_None_None_Missing Component_22,estimated_p10
+1,4698,287,evaluable,True,evaluable,evaluable,287,287,1.0,1.0,35.319580078125,True,Test_PCB_None_None_Missing Component_23,known_m10
+1,4698,287,evaluable,True,evaluable,evaluable,285,285,0.9930313588850174,0.9930313588850174,35.436439514160156,True,Test_PCB_None_None_Missing Component_23,known_p10
+1,4698,287,evaluable,True,evaluable,evaluable,286,286,0.9965156794425087,0.9965156794425087,35.64756774902344,True,Test_PCB_None_None_Missing Component_23,estimated_0
+1,4698,287,evaluable,True,evaluable,evaluable,287,287,1.0,1.0,44.247581481933594,True,Test_PCB_None_None_Missing Component_23,estimated_m10
+1,4698,287,evaluable,True,evaluable,evaluable,284,284,0.9895470383275261,0.9895470383275261,38.645626068115234,True,Test_PCB_None_None_Missing Component_23,estimated_p10
+1,4843,286,evaluable,True,evaluable,evaluable,288,288,1.006993006993007,1.006993006993007,35.4969596862793,True,Test_PCB_None_None_Missing Component_24,known_m10
+1,4843,286,evaluable,True,evaluable,evaluable,284,284,0.993006993006993,0.993006993006993,33.855926513671875,True,Test_PCB_None_None_Missing Component_24,known_p10
+1,4843,286,evaluable,True,evaluable,evaluable,286,286,1.0,1.0,33.856788635253906,True,Test_PCB_None_None_Missing Component_24,estimated_0
+1,4843,286,evaluable,True,evaluable,evaluable,288,288,1.006993006993007,1.006993006993007,42.05282974243164,True,Test_PCB_None_None_Missing Component_24,estimated_m10
+1,4843,286,evaluable,True,evaluable,evaluable,287,287,1.0034965034965035,1.0034965034965035,42.9664421081543,True,Test_PCB_None_None_Missing Component_24,estimated_p10
+1,666,41,evaluable,True,evaluable,evaluable,40,40,0.975609756097561,0.975609756097561,34.63235855102539,True,Test_PCB_None_None_Missing Component_25,known_m10
+2,4599,312,evaluable,True,evaluable,evaluable,312,312,1.0,1.0,33.942073822021484,True,Test_PCB_None_None_Missing Component_25,known_m10
+1,666,41,evaluable,True,evaluable,evaluable,41,41,1.0,1.0,34.46346664428711,True,Test_PCB_None_None_Missing Component_25,known_p10
+2,4599,312,evaluable,True,evaluable,evaluable,313,313,1.0032051282051282,1.0032051282051282,34.38704299926758,True,Test_PCB_None_None_Missing Component_25,known_p10
+1,666,41,evaluable,True,evaluable,evaluable,41,41,1.0,1.0,36.81917190551758,True,Test_PCB_None_None_Missing Component_25,estimated_0
+2,4599,312,evaluable,True,evaluable,evaluable,313,313,1.0032051282051282,1.0032051282051282,39.72928237915039,True,Test_PCB_None_None_Missing Component_25,estimated_0
+1,666,41,evaluable,True,evaluable,evaluable,40,40,0.975609756097561,0.975609756097561,36.54740524291992,True,Test_PCB_None_None_Missing Component_25,estimated_m10
+2,4599,312,evaluable,True,evaluable,evaluable,314,314,1.0064102564102564,1.0064102564102564,40.607879638671875,True,Test_PCB_None_None_Missing Component_25,estimated_m10
+1,666,41,evaluable,True,evaluable,evaluable,43,43,1.048780487804878,1.048780487804878,37.112213134765625,True,Test_PCB_None_None_Missing Component_25,estimated_p10
+2,4599,312,evaluable,True,evaluable,evaluable,313,313,1.0032051282051282,1.0032051282051282,40.68307113647461,True,Test_PCB_None_None_Missing Component_25,estimated_p10
+1,4997,317,evaluable,True,evaluable,evaluable,316,316,0.9968454258675079,0.9968454258675079,33.9251823425293,True,Test_PCB_None_None_Missing Component_26,known_m10
+1,4997,317,evaluable,True,evaluable,evaluable,316,316,0.9968454258675079,0.9968454258675079,33.104888916015625,True,Test_PCB_None_None_Missing Component_26,known_p10
+1,4997,317,evaluable,True,evaluable,evaluable,318,318,1.003154574132492,1.003154574132492,43.48031997680664,True,Test_PCB_None_None_Missing Component_26,estimated_0
+1,4997,317,evaluable,True,evaluable,evaluable,317,317,1.0,1.0,46.265357971191406,True,Test_PCB_None_None_Missing Component_26,estimated_m10
+1,4997,317,evaluable,True,evaluable,evaluable,319,319,1.0063091482649842,1.0063091482649842,45.111602783203125,True,Test_PCB_None_None_Missing Component_26,estimated_p10
+1,4370,265,evaluable,True,evaluable,evaluable,267,267,1.0075471698113208,1.0075471698113208,35.011104583740234,True,Test_PCB_None_None_Missing Component_27,known_m10
+1,4370,265,evaluable,True,evaluable,evaluable,265,265,1.0,1.0,35.07889938354492,True,Test_PCB_None_None_Missing Component_27,known_p10
+1,4370,265,evaluable,True,evaluable,evaluable,266,266,1.0037735849056604,1.0037735849056604,41.73923873901367,True,Test_PCB_None_None_Missing Component_27,estimated_0
+1,4370,265,evaluable,True,evaluable,evaluable,268,268,1.0113207547169811,1.0113207547169811,43.36127471923828,True,Test_PCB_None_None_Missing Component_27,estimated_m10
+1,4370,265,evaluable,True,evaluable,evaluable,262,262,0.9886792452830189,0.9886792452830189,42.146949768066406,True,Test_PCB_None_None_Missing Component_27,estimated_p10
+1,4443,275,evaluable,True,evaluable,evaluable,277,277,1.0072727272727273,1.0072727272727273,35.34450912475586,True,Test_PCB_None_None_Missing Component_28,known_m10
+1,4443,275,evaluable,True,evaluable,evaluable,276,276,1.0036363636363637,1.0036363636363637,35.46504592895508,True,Test_PCB_None_None_Missing Component_28,known_p10
+1,4443,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,33.939369201660156,True,Test_PCB_None_None_Missing Component_28,estimated_0
+1,4443,275,evaluable,True,evaluable,evaluable,277,277,1.0072727272727273,1.0072727272727273,43.08039093017578,True,Test_PCB_None_None_Missing Component_28,estimated_m10
+1,4443,275,evaluable,True,evaluable,evaluable,275,275,1.0,1.0,44.61171340942383,True,Test_PCB_None_None_Missing Component_28,estimated_p10
+1,4554,282,evaluable,True,evaluable,evaluable,281,281,0.9964539007092199,0.9964539007092199,33.356685638427734,True,Test_PCB_None_None_Missing Component_29,known_m10
+1,4554,282,evaluable,True,evaluable,evaluable,280,280,0.9929078014184397,0.9929078014184397,33.319820404052734,True,Test_PCB_None_None_Missing Component_29,known_p10
+1,4554,282,evaluable,True,evaluable,evaluable,282,282,1.0,1.0,32.78900909423828,True,Test_PCB_None_None_Missing Component_29,estimated_0
+1,4554,282,evaluable,True,evaluable,evaluable,282,282,1.0,1.0,45.591796875,True,Test_PCB_None_None_Missing Component_29,estimated_m10
+1,4554,282,evaluable,True,evaluable,evaluable,281,281,0.9964539007092199,0.9964539007092199,43.82867431640625,True,Test_PCB_None_None_Missing Component_29,estimated_p10
+1,5033,312,evaluable,True,evaluable,evaluable,310,310,0.9935897435897436,0.9935897435897436,31.99395751953125,True,Test_PCB_None_None_Missing Component_3,known_m10
+1,5033,312,evaluable,True,evaluable,evaluable,314,314,1.0064102564102564,1.0064102564102564,31.783109664916992,True,Test_PCB_None_None_Missing Component_3,known_p10
+1,5033,312,evaluable,True,evaluable,evaluable,311,311,0.9967948717948718,0.9967948717948718,39.03084945678711,True,Test_PCB_None_None_Missing Component_3,estimated_0
+1,5033,312,evaluable,True,evaluable,evaluable,311,311,0.9967948717948718,0.9967948717948718,39.236324310302734,True,Test_PCB_None_None_Missing Component_3,estimated_m10
+1,5033,312,evaluable,True,evaluable,evaluable,310,310,0.9935897435897436,0.9935897435897436,38.70256805419922,True,Test_PCB_None_None_Missing Component_3,estimated_p10
+1,1039,65,evaluable,True,evaluable,evaluable,63,63,0.9692307692307692,0.9692307692307692,36.511436462402344,True,Test_PCB_None_None_Missing Component_30,known_m10
+2,4770,304,evaluable,True,evaluable,evaluable,303,303,0.9967105263157895,0.9967105263157895,32.78644943237305,True,Test_PCB_None_None_Missing Component_30,known_m10
+1,1039,65,evaluable,True,evaluable,evaluable,64,64,0.9846153846153847,0.9846153846153847,35.552330017089844,True,Test_PCB_None_None_Missing Component_30,known_p10
+2,4770,304,evaluable,True,evaluable,evaluable,303,303,0.9967105263157895,0.9967105263157895,33.57205581665039,True,Test_PCB_None_None_Missing Component_30,known_p10
+1,1039,65,evaluable,True,evaluable,evaluable,64,64,0.9846153846153847,0.9846153846153847,41.39141845703125,True,Test_PCB_None_None_Missing Component_30,estimated_0
+2,4770,304,evaluable,True,evaluable,evaluable,305,305,1.0032894736842106,1.0032894736842106,43.747501373291016,True,Test_PCB_None_None_Missing Component_30,estimated_0
+1,1039,65,evaluable,True,evaluable,evaluable,63,63,0.9692307692307692,0.9692307692307692,41.51215744018555,True,Test_PCB_None_None_Missing Component_30,estimated_m10
+2,4770,304,evaluable,True,evaluable,evaluable,305,305,1.0032894736842106,1.0032894736842106,45.2021598815918,True,Test_PCB_None_None_Missing Component_30,estimated_m10
+1,1039,65,evaluable,True,evaluable,evaluable,66,66,1.0153846153846153,1.0153846153846153,41.39999771118164,True,Test_PCB_None_None_Missing Component_30,estimated_p10
+2,4770,304,evaluable,True,evaluable,evaluable,302,302,0.993421052631579,0.993421052631579,43.98417282104492,True,Test_PCB_None_None_Missing Component_30,estimated_p10
+1,4569,285,evaluable,True,evaluable,evaluable,284,284,0.9964912280701754,0.9964912280701754,38.54856872558594,True,Test_PCB_None_None_Missing Component_31,known_m10
+1,4569,285,evaluable,True,evaluable,evaluable,285,285,1.0,1.0,36.92106628417969,True,Test_PCB_None_None_Missing Component_31,known_p10
+1,4569,285,evaluable,True,evaluable,evaluable,281,281,0.9859649122807017,0.9859649122807017,44.83666229248047,True,Test_PCB_None_None_Missing Component_31,estimated_0
+1,4569,285,evaluable,True,evaluable,evaluable,285,285,1.0,1.0,47.19986343383789,True,Test_PCB_None_None_Missing Component_31,estimated_m10
+1,4569,285,evaluable,True,evaluable,evaluable,286,286,1.0035087719298246,1.0035087719298246,44.83915328979492,True,Test_PCB_None_None_Missing Component_31,estimated_p10
+1,4553,287,evaluable,True,evaluable,evaluable,288,288,1.0034843205574913,1.0034843205574913,40.05049133300781,True,Test_PCB_None_None_Missing Component_32,known_m10
+1,4553,287,evaluable,True,evaluable,evaluable,286,286,0.9965156794425087,0.9965156794425087,38.54901123046875,True,Test_PCB_None_None_Missing Component_32,known_p10
+1,4553,287,evaluable,True,evaluable,evaluable,288,288,1.0034843205574913,1.0034843205574913,42.387420654296875,True,Test_PCB_None_None_Missing Component_32,estimated_0
+1,4553,287,evaluable,True,evaluable,evaluable,289,289,1.0069686411149825,1.0069686411149825,43.766380310058594,True,Test_PCB_None_None_Missing Component_32,estimated_m10
+1,4553,287,evaluable,True,evaluable,evaluable,284,284,0.9895470383275261,0.9895470383275261,42.82305908203125,True,Test_PCB_None_None_Missing Component_32,estimated_p10
+1,636,40,evaluable,True,evaluable,evaluable,42,42,1.05,1.05,32.8077392578125,True,Test_PCB_None_None_Scratch_1,known_m10
+1,636,40,evaluable,True,evaluable,evaluable,39,39,0.975,0.975,32.03083801269531,True,Test_PCB_None_None_Scratch_1,known_p10
+1,636,40,evaluable,True,evaluable,evaluable,40,40,1.0,1.0,34.61179733276367,True,Test_PCB_None_None_Scratch_1,estimated_0
+1,636,40,evaluable,True,evaluable,evaluable,40,40,1.0,1.0,35.5864372253418,True,Test_PCB_None_None_Scratch_1,estimated_m10
+1,636,40,evaluable,True,evaluable,evaluable,39,39,0.975,0.975,37.712432861328125,True,Test_PCB_None_None_Scratch_1,estimated_p10
+1,454,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,33.926124572753906,True,Test_PCB_None_None_Scratch_10,known_m10
+1,454,31,evaluable,True,evaluable,evaluable,32,32,1.032258064516129,1.032258064516129,34.80739974975586,True,Test_PCB_None_None_Scratch_10,known_p10
+1,454,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,38.38114547729492,True,Test_PCB_None_None_Scratch_10,estimated_0
+1,454,31,evaluable,True,evaluable,evaluable,32,32,1.032258064516129,1.032258064516129,41.12407302856445,True,Test_PCB_None_None_Scratch_10,estimated_m10
+1,454,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,40.89004898071289,True,Test_PCB_None_None_Scratch_10,estimated_p10
+1,1660,104,evaluable,True,evaluable,evaluable,104,104,1.0,1.0,40.895530700683594,True,Test_PCB_None_None_Scratch_11,known_m10
+1,1660,104,evaluable,True,evaluable,evaluable,106,106,1.0192307692307692,1.0192307692307692,40.88515090942383,True,Test_PCB_None_None_Scratch_11,known_p10
+1,1660,104,evaluable,True,evaluable,evaluable,104,104,1.0,1.0,44.685794830322266,True,Test_PCB_None_None_Scratch_11,estimated_0
+1,1660,104,evaluable,True,evaluable,evaluable,105,105,1.0096153846153846,1.0096153846153846,44.279178619384766,True,Test_PCB_None_None_Scratch_11,estimated_m10
+1,1660,104,evaluable,True,evaluable,evaluable,106,106,1.0192307692307692,1.0192307692307692,44.50111770629883,True,Test_PCB_None_None_Scratch_11,estimated_p10
+1,389,27,evaluable,True,evaluable,evaluable,27,27,1.0,1.0,36.96973419189453,True,Test_PCB_None_None_Scratch_12,known_m10
+1,389,27,evaluable,True,evaluable,evaluable,26,26,0.9629629629629629,0.9629629629629629,36.135467529296875,True,Test_PCB_None_None_Scratch_12,known_p10
+1,389,27,evaluable,True,evaluable,evaluable,28,28,1.037037037037037,1.037037037037037,36.42953109741211,True,Test_PCB_None_None_Scratch_12,estimated_0
+1,389,27,evaluable,True,evaluable,evaluable,28,28,1.037037037037037,1.037037037037037,36.58380889892578,True,Test_PCB_None_None_Scratch_12,estimated_m10
+1,389,27,evaluable,True,evaluable,evaluable,26,26,0.9629629629629629,0.9629629629629629,37.313697814941406,True,Test_PCB_None_None_Scratch_12,estimated_p10
+1,1744,110,evaluable,True,evaluable,evaluable,110,110,1.0,1.0,39.04417037963867,True,Test_PCB_None_None_Scratch_13,known_m10
+2,725,44,evaluable,True,evaluable,evaluable,42,42,0.9545454545454546,0.9545454545454546,33.08821105957031,True,Test_PCB_None_None_Scratch_13,known_m10
+3,1712,109,evaluable,True,evaluable,evaluable,109,109,1.0,1.0,39.060394287109375,True,Test_PCB_None_None_Scratch_13,known_m10
+1,1744,110,evaluable,True,evaluable,evaluable,107,107,0.9727272727272728,0.9727272727272728,38.668792724609375,True,Test_PCB_None_None_Scratch_13,known_p10
+2,725,44,evaluable,True,evaluable,evaluable,44,44,1.0,1.0,32.47503662109375,True,Test_PCB_None_None_Scratch_13,known_p10
+3,1712,109,evaluable,True,evaluable,evaluable,108,108,0.9908256880733946,0.9908256880733946,38.994022369384766,True,Test_PCB_None_None_Scratch_13,known_p10
+1,1744,110,evaluable,True,evaluable,evaluable,111,111,1.009090909090909,1.009090909090909,40.238643646240234,True,Test_PCB_None_None_Scratch_13,estimated_0
+2,725,44,evaluable,True,evaluable,evaluable,44,44,1.0,1.0,34.201194763183594,True,Test_PCB_None_None_Scratch_13,estimated_0
+3,1712,109,evaluable,True,evaluable,evaluable,108,108,0.9908256880733946,0.9908256880733946,38.228057861328125,True,Test_PCB_None_None_Scratch_13,estimated_0
+1,1744,110,evaluable,True,evaluable,evaluable,111,111,1.009090909090909,1.009090909090909,42.693321228027344,True,Test_PCB_None_None_Scratch_13,estimated_m10
+2,725,44,evaluable,True,evaluable,evaluable,42,42,0.9545454545454546,0.9545454545454546,35.74842834472656,True,Test_PCB_None_None_Scratch_13,estimated_m10
+3,1712,109,evaluable,True,evaluable,evaluable,109,109,1.0,1.0,41.23677444458008,True,Test_PCB_None_None_Scratch_13,estimated_m10
+1,1744,110,evaluable,True,evaluable,evaluable,108,108,0.9818181818181818,0.9818181818181818,41.404380798339844,True,Test_PCB_None_None_Scratch_13,estimated_p10
+2,725,44,evaluable,True,evaluable,evaluable,47,47,1.0681818181818181,1.0681818181818181,35.69854736328125,True,Test_PCB_None_None_Scratch_13,estimated_p10
+3,1712,109,evaluable,True,evaluable,evaluable,110,110,1.0091743119266054,1.0091743119266054,40.10166549682617,True,Test_PCB_None_None_Scratch_13,estimated_p10
+1,6494,406,evaluable,True,evaluable,evaluable,409,409,1.0073891625615763,1.0073891625615763,36.33075714111328,True,Test_PCB_None_None_Scratch_14,known_m10
+2,2444,149,evaluable,True,evaluable,evaluable,150,150,1.0067114093959733,1.0067114093959733,41.470821380615234,True,Test_PCB_None_None_Scratch_14,known_m10
+3,1455,90,evaluable,True,evaluable,evaluable,91,91,1.011111111111111,1.011111111111111,39.849361419677734,True,Test_PCB_None_None_Scratch_14,known_m10
+4,904,56,evaluable,True,evaluable,evaluable,55,55,0.9821428571428571,0.9821428571428571,41.28461456298828,True,Test_PCB_None_None_Scratch_14,known_m10
+1,6494,406,evaluable,True,evaluable,evaluable,403,403,0.9926108374384236,0.9926108374384236,37.09605407714844,True,Test_PCB_None_None_Scratch_14,known_p10
+2,2444,149,evaluable,True,evaluable,evaluable,149,149,1.0,1.0,40.55929946899414,True,Test_PCB_None_None_Scratch_14,known_p10
+3,1455,90,evaluable,True,evaluable,evaluable,89,89,0.9888888888888889,0.9888888888888889,39.8873291015625,True,Test_PCB_None_None_Scratch_14,known_p10
+4,904,56,evaluable,True,evaluable,evaluable,55,55,0.9821428571428571,0.9821428571428571,40.89719009399414,True,Test_PCB_None_None_Scratch_14,known_p10
+1,6494,406,evaluable,True,evaluable,evaluable,406,406,1.0,1.0,35.17708969116211,True,Test_PCB_None_None_Scratch_14,estimated_0
+2,2444,149,evaluable,True,evaluable,evaluable,149,149,1.0,1.0,41.52751159667969,True,Test_PCB_None_None_Scratch_14,estimated_0
+3,1455,90,evaluable,True,evaluable,evaluable,90,90,1.0,1.0,40.73624038696289,True,Test_PCB_None_None_Scratch_14,estimated_0
+4,904,56,evaluable,True,evaluable,evaluable,56,56,1.0,1.0,39.95210647583008,True,Test_PCB_None_None_Scratch_14,estimated_0
+1,6494,406,evaluable,True,evaluable,evaluable,408,408,1.0049261083743843,1.0049261083743843,47.92364501953125,True,Test_PCB_None_None_Scratch_14,estimated_m10
+2,2444,149,evaluable,True,evaluable,evaluable,149,149,1.0,1.0,44.68140411376953,True,Test_PCB_None_None_Scratch_14,estimated_m10
+3,1455,90,evaluable,True,evaluable,evaluable,91,91,1.011111111111111,1.011111111111111,42.192718505859375,True,Test_PCB_None_None_Scratch_14,estimated_m10
+4,904,56,evaluable,True,evaluable,evaluable,54,54,0.9642857142857143,0.9642857142857143,45.113983154296875,True,Test_PCB_None_None_Scratch_14,estimated_m10
+1,6494,406,evaluable,True,evaluable,evaluable,404,404,0.9950738916256158,0.9950738916256158,46.380516052246094,True,Test_PCB_None_None_Scratch_14,estimated_p10
+2,2444,149,evaluable,True,evaluable,evaluable,149,149,1.0,1.0,40.65871047973633,True,Test_PCB_None_None_Scratch_14,estimated_p10
+3,1455,90,evaluable,True,evaluable,evaluable,89,89,0.9888888888888889,0.9888888888888889,40.44673538208008,True,Test_PCB_None_None_Scratch_14,estimated_p10
+4,904,56,evaluable,True,evaluable,evaluable,55,55,0.9821428571428571,0.9821428571428571,44.69106674194336,True,Test_PCB_None_None_Scratch_14,estimated_p10
+1,2104,131,evaluable,True,evaluable,evaluable,133,133,1.015267175572519,1.015267175572519,45.404239654541016,True,Test_PCB_None_None_Scratch_15,known_m10
+1,2104,131,evaluable,True,evaluable,evaluable,131,131,1.0,1.0,45.54423522949219,True,Test_PCB_None_None_Scratch_15,known_p10
+1,2104,131,evaluable,True,evaluable,evaluable,130,130,0.9923664122137404,0.9923664122137404,46.96411895751953,True,Test_PCB_None_None_Scratch_15,estimated_0
+1,2104,131,evaluable,True,evaluable,evaluable,130,130,0.9923664122137404,0.9923664122137404,47.34029006958008,True,Test_PCB_None_None_Scratch_15,estimated_m10
+1,2104,131,evaluable,True,evaluable,evaluable,130,130,0.9923664122137404,0.9923664122137404,46.85479736328125,True,Test_PCB_None_None_Scratch_15,estimated_p10
+1,1674,108,evaluable,True,evaluable,evaluable,110,110,1.0185185185185186,1.0185185185185186,34.29280471801758,True,Test_PCB_None_None_Scratch_16,known_m10
+1,1674,108,evaluable,True,evaluable,evaluable,107,107,0.9907407407407407,0.9907407407407407,34.85523986816406,True,Test_PCB_None_None_Scratch_16,known_p10
+1,1674,108,evaluable,True,evaluable,evaluable,108,108,1.0,1.0,33.7435188293457,True,Test_PCB_None_None_Scratch_16,estimated_0
+1,1674,108,evaluable,True,evaluable,evaluable,109,109,1.0092592592592593,1.0092592592592593,36.710811614990234,True,Test_PCB_None_None_Scratch_16,estimated_m10
+1,1674,108,evaluable,True,evaluable,evaluable,108,108,1.0,1.0,37.21474838256836,True,Test_PCB_None_None_Scratch_16,estimated_p10
+1,86,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,30.346099853515625,True,Test_PCB_None_None_Scratch_17,known_m10
+2,497,30,evaluable,True,evaluable,evaluable,28,28,0.9333333333333333,0.9333333333333333,29.72606086730957,True,Test_PCB_None_None_Scratch_17,known_m10
+3,178,10,evaluable,True,evaluable,evaluable,10,10,1.0,1.0,29.09629249572754,True,Test_PCB_None_None_Scratch_17,known_m10
+1,86,3,evaluable,True,evaluable,evaluable,4,4,1.3333333333333333,1.3333333333333333,28.713470458984375,True,Test_PCB_None_None_Scratch_17,known_p10
+2,497,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,29.223169326782227,True,Test_PCB_None_None_Scratch_17,known_p10
+3,178,10,evaluable,True,evaluable,evaluable,10,10,1.0,1.0,28.61130714416504,True,Test_PCB_None_None_Scratch_17,known_p10
+1,86,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,31.595735549926758,True,Test_PCB_None_None_Scratch_17,estimated_0
+2,497,30,evaluable,True,evaluable,evaluable,31,31,1.0333333333333334,1.0333333333333334,34.11241912841797,True,Test_PCB_None_None_Scratch_17,estimated_0
+3,178,10,evaluable,True,evaluable,evaluable,10,10,1.0,1.0,33.62625503540039,True,Test_PCB_None_None_Scratch_17,estimated_0
+1,86,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,31.412389755249023,True,Test_PCB_None_None_Scratch_17,estimated_m10
+2,497,30,evaluable,True,evaluable,evaluable,29,29,0.9666666666666667,0.9666666666666667,35.0153694152832,True,Test_PCB_None_None_Scratch_17,estimated_m10
+3,178,10,evaluable,True,evaluable,evaluable,10,10,1.0,1.0,33.19041442871094,True,Test_PCB_None_None_Scratch_17,estimated_m10
+1,86,3,evaluable,True,evaluable,evaluable,4,4,1.3333333333333333,1.3333333333333333,32.478416442871094,True,Test_PCB_None_None_Scratch_17,estimated_p10
+2,497,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,34.228416442871094,True,Test_PCB_None_None_Scratch_17,estimated_p10
+3,178,10,evaluable,True,evaluable,evaluable,10,10,1.0,1.0,33.08750915527344,True,Test_PCB_None_None_Scratch_17,estimated_p10
+1,562,36,evaluable,True,evaluable,evaluable,35,35,0.9722222222222222,0.9722222222222222,35.924930572509766,True,Test_PCB_None_None_Scratch_18,known_m10
+1,562,36,evaluable,True,evaluable,evaluable,36,36,1.0,1.0,34.66553497314453,True,Test_PCB_None_None_Scratch_18,known_p10
+1,562,36,evaluable,True,evaluable,evaluable,36,36,1.0,1.0,40.0035400390625,True,Test_PCB_None_None_Scratch_18,estimated_0
+1,562,36,evaluable,True,evaluable,evaluable,36,36,1.0,1.0,40.95885467529297,True,Test_PCB_None_None_Scratch_18,estimated_m10
+1,562,36,evaluable,True,evaluable,evaluable,36,36,1.0,1.0,39.63717269897461,True,Test_PCB_None_None_Scratch_18,estimated_p10
+1,620,49,evaluable,True,evaluable,evaluable,51,51,1.0408163265306123,1.0408163265306123,40.09599685668945,True,Test_PCB_None_None_Scratch_19,known_m10
+1,620,49,evaluable,True,evaluable,evaluable,50,50,1.0204081632653061,1.0204081632653061,39.611270904541016,True,Test_PCB_None_None_Scratch_19,known_p10
+1,620,49,evaluable,True,evaluable,evaluable,49,49,1.0,1.0,42.006492614746094,True,Test_PCB_None_None_Scratch_19,estimated_0
+1,620,49,evaluable,True,evaluable,evaluable,50,50,1.0204081632653061,1.0204081632653061,39.98798751831055,True,Test_PCB_None_None_Scratch_19,estimated_m10
+1,620,49,evaluable,True,evaluable,evaluable,47,47,0.9591836734693877,0.9591836734693877,42.61784744262695,True,Test_PCB_None_None_Scratch_19,estimated_p10
+1,728,43,evaluable,True,evaluable,evaluable,43,43,1.0,1.0,34.410884857177734,True,Test_PCB_None_None_Scratch_2,known_m10
+1,728,43,evaluable,True,evaluable,evaluable,44,44,1.0232558139534884,1.0232558139534884,34.29426574707031,True,Test_PCB_None_None_Scratch_2,known_p10
+1,728,43,evaluable,True,evaluable,evaluable,44,44,1.0232558139534884,1.0232558139534884,33.64237594604492,True,Test_PCB_None_None_Scratch_2,estimated_0
+1,728,43,evaluable,True,evaluable,evaluable,43,43,1.0,1.0,41.40213394165039,True,Test_PCB_None_None_Scratch_2,estimated_m10
+1,728,43,evaluable,True,evaluable,evaluable,41,41,0.9534883720930233,0.9534883720930233,36.47187042236328,True,Test_PCB_None_None_Scratch_2,estimated_p10
+1,466,28,evaluable,True,evaluable,evaluable,27,27,0.9642857142857143,0.9642857142857143,38.04003143310547,True,Test_PCB_None_None_Scratch_20,known_m10
+1,466,28,evaluable,True,evaluable,evaluable,26,26,0.9285714285714286,0.9285714285714286,38.42474365234375,True,Test_PCB_None_None_Scratch_20,known_p10
+1,466,28,evaluable,True,evaluable,evaluable,28,28,1.0,1.0,41.66534423828125,True,Test_PCB_None_None_Scratch_20,estimated_0
+1,466,28,evaluable,True,evaluable,evaluable,27,27,0.9642857142857143,0.9642857142857143,40.57435607910156,True,Test_PCB_None_None_Scratch_20,estimated_m10
+1,466,28,evaluable,True,evaluable,evaluable,26,26,0.9285714285714286,0.9285714285714286,41.513309478759766,True,Test_PCB_None_None_Scratch_20,estimated_p10
+1,436,26,evaluable,True,evaluable,evaluable,26,26,1.0,1.0,34.06202697753906,True,Test_PCB_None_None_Scratch_21,known_m10
+1,436,26,evaluable,True,evaluable,evaluable,23,23,0.8846153846153846,0.8846153846153846,33.35675048828125,True,Test_PCB_None_None_Scratch_21,known_p10
+1,436,26,evaluable,True,evaluable,evaluable,27,27,1.0384615384615385,1.0384615384615385,41.993553161621094,True,Test_PCB_None_None_Scratch_21,estimated_0
+1,436,26,evaluable,True,evaluable,evaluable,26,26,1.0,1.0,40.268768310546875,True,Test_PCB_None_None_Scratch_21,estimated_m10
+1,436,26,evaluable,True,evaluable,evaluable,23,23,0.8846153846153846,0.8846153846153846,42.053565979003906,True,Test_PCB_None_None_Scratch_21,estimated_p10
+1,613,37,evaluable,True,evaluable,evaluable,37,37,1.0,1.0,35.402587890625,True,Test_PCB_None_None_Scratch_22,known_m10
+1,613,37,evaluable,True,evaluable,evaluable,36,36,0.972972972972973,0.972972972972973,35.85139083862305,True,Test_PCB_None_None_Scratch_22,known_p10
+1,613,37,evaluable,True,evaluable,evaluable,37,37,1.0,1.0,38.7362174987793,True,Test_PCB_None_None_Scratch_22,estimated_0
+1,613,37,evaluable,True,evaluable,evaluable,38,38,1.027027027027027,1.027027027027027,38.91523361206055,True,Test_PCB_None_None_Scratch_22,estimated_m10
+1,613,37,evaluable,True,evaluable,evaluable,36,36,0.972972972972973,0.972972972972973,38.09969711303711,True,Test_PCB_None_None_Scratch_22,estimated_p10
+1,560,37,evaluable,True,evaluable,evaluable,37,37,1.0,1.0,30.979816436767578,True,Test_PCB_None_None_Scratch_23,known_m10
+1,560,37,evaluable,True,evaluable,evaluable,39,39,1.054054054054054,1.054054054054054,31.694032669067383,True,Test_PCB_None_None_Scratch_23,known_p10
+1,560,37,evaluable,True,evaluable,evaluable,37,37,1.0,1.0,36.612117767333984,True,Test_PCB_None_None_Scratch_23,estimated_0
+1,560,37,evaluable,True,evaluable,evaluable,38,38,1.027027027027027,1.027027027027027,35.24806213378906,True,Test_PCB_None_None_Scratch_23,estimated_m10
+1,560,37,evaluable,True,evaluable,evaluable,38,38,1.027027027027027,1.027027027027027,36.73753356933594,True,Test_PCB_None_None_Scratch_23,estimated_p10
+1,375,21,evaluable,True,evaluable,evaluable,20,20,0.9523809523809523,0.9523809523809523,38.2450065612793,True,Test_PCB_None_None_Scratch_24,known_m10
+1,375,21,evaluable,True,evaluable,evaluable,20,20,0.9523809523809523,0.9523809523809523,39.743106842041016,True,Test_PCB_None_None_Scratch_24,known_p10
+1,375,21,evaluable,True,evaluable,evaluable,22,22,1.0476190476190477,1.0476190476190477,37.24349594116211,True,Test_PCB_None_None_Scratch_24,estimated_0
+1,375,21,evaluable,True,evaluable,evaluable,19,19,0.9047619047619048,0.9047619047619048,37.338218688964844,True,Test_PCB_None_None_Scratch_24,estimated_m10
+1,375,21,evaluable,True,evaluable,evaluable,22,22,1.0476190476190477,1.0476190476190477,36.76863098144531,True,Test_PCB_None_None_Scratch_24,estimated_p10
+1,302,18,evaluable,True,evaluable,evaluable,19,19,1.0555555555555556,1.0555555555555556,37.499778747558594,True,Test_PCB_None_None_Scratch_25,known_m10
+1,302,18,evaluable,True,evaluable,evaluable,18,18,1.0,1.0,37.1311149597168,True,Test_PCB_None_None_Scratch_25,known_p10
+1,302,18,evaluable,True,evaluable,evaluable,18,18,1.0,1.0,39.21783447265625,True,Test_PCB_None_None_Scratch_25,estimated_0
+1,302,18,evaluable,True,evaluable,evaluable,19,19,1.0555555555555556,1.0555555555555556,37.89435958862305,True,Test_PCB_None_None_Scratch_25,estimated_m10
+1,302,18,evaluable,True,evaluable,evaluable,20,20,1.1111111111111112,1.1111111111111112,37.48938751220703,True,Test_PCB_None_None_Scratch_25,estimated_p10
+1,3409,217,evaluable,True,evaluable,evaluable,217,217,1.0,1.0,41.17355728149414,True,Test_PCB_None_None_Scratch_26,known_m10
+2,531,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,36.12049102783203,True,Test_PCB_None_None_Scratch_26,known_m10
+1,3409,217,evaluable,True,evaluable,evaluable,218,218,1.0046082949308757,1.0046082949308757,40.368709564208984,True,Test_PCB_None_None_Scratch_26,known_p10
+2,531,30,evaluable,True,evaluable,evaluable,28,28,0.9333333333333333,0.9333333333333333,36.17000961303711,True,Test_PCB_None_None_Scratch_26,known_p10
+1,3409,217,evaluable,True,evaluable,evaluable,218,218,1.0046082949308757,1.0046082949308757,40.142913818359375,True,Test_PCB_None_None_Scratch_26,estimated_0
+2,531,30,evaluable,True,evaluable,evaluable,31,31,1.0333333333333334,1.0333333333333334,40.828731536865234,True,Test_PCB_None_None_Scratch_26,estimated_0
+1,3409,217,evaluable,True,evaluable,evaluable,217,217,1.0,1.0,41.41384506225586,True,Test_PCB_None_None_Scratch_26,estimated_m10
+2,531,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,38.25553512573242,True,Test_PCB_None_None_Scratch_26,estimated_m10
+1,3409,217,evaluable,True,evaluable,evaluable,219,219,1.0092165898617511,1.0092165898617511,41.781532287597656,True,Test_PCB_None_None_Scratch_26,estimated_p10
+2,531,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,40.668941497802734,True,Test_PCB_None_None_Scratch_26,estimated_p10
+1,70,5,evaluable,True,evaluable,evaluable,5,5,1.0,1.0,31.541067123413086,True,Test_PCB_None_None_Scratch_27,known_m10
+2,20,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,31.541067123413086,True,Test_PCB_None_None_Scratch_27,known_m10
+3,10,0,入力変換による評価不能,True,not_applicable,not_applicable,0,0,nan,nan,nan,False,Test_PCB_None_None_Scratch_27,known_m10
+4,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,33.61168670654297,True,Test_PCB_None_None_Scratch_27,known_m10
+5,10,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,33.61168670654297,True,Test_PCB_None_None_Scratch_27,known_m10
+6,9,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,36.046871185302734,True,Test_PCB_None_None_Scratch_27,known_m10
+7,1756,113,evaluable,True,evaluable,evaluable,113,113,1.0,1.0,51.99123764038086,True,Test_PCB_None_None_Scratch_27,known_m10
+1,70,5,evaluable,True,evaluable,evaluable,7,7,1.4,1.4,31.052343368530273,True,Test_PCB_None_None_Scratch_27,known_p10
+2,20,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,31.052343368530273,True,Test_PCB_None_None_Scratch_27,known_p10
+3,10,0,入力変換による評価不能,True,not_applicable,not_applicable,0,0,nan,nan,nan,False,Test_PCB_None_None_Scratch_27,known_p10
+4,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,33.834083557128906,True,Test_PCB_None_None_Scratch_27,known_p10
+5,10,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,33.834083557128906,True,Test_PCB_None_None_Scratch_27,known_p10
+6,9,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,36.25949478149414,True,Test_PCB_None_None_Scratch_27,known_p10
+7,1756,113,evaluable,True,evaluable,evaluable,111,111,0.9823008849557522,0.9823008849557522,52.09500503540039,True,Test_PCB_None_None_Scratch_27,known_p10
+1,70,5,evaluable,True,evaluable,evaluable,5,5,1.0,1.0,36.57991027832031,True,Test_PCB_None_None_Scratch_27,estimated_0
+2,20,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,35.969505310058594,True,Test_PCB_None_None_Scratch_27,estimated_0
+3,10,0,入力変換による評価不能,True,not_applicable,not_applicable,0,0,nan,nan,nan,False,Test_PCB_None_None_Scratch_27,estimated_0
+4,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,35.969505310058594,True,Test_PCB_None_None_Scratch_27,estimated_0
+5,10,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,43.01530838012695,True,Test_PCB_None_None_Scratch_27,estimated_0
+6,9,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,43.01530838012695,True,Test_PCB_None_None_Scratch_27,estimated_0
+7,1756,113,evaluable,True,evaluable,evaluable,112,112,0.9911504424778761,0.9911504424778761,53.13568878173828,True,Test_PCB_None_None_Scratch_27,estimated_0
+1,70,5,evaluable,True,evaluable,evaluable,5,5,1.0,1.0,37.245792388916016,True,Test_PCB_None_None_Scratch_27,estimated_m10
+2,20,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,38.106040954589844,True,Test_PCB_None_None_Scratch_27,estimated_m10
+3,10,0,入力変換による評価不能,True,not_applicable,not_applicable,0,0,nan,nan,nan,False,Test_PCB_None_None_Scratch_27,estimated_m10
+4,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,38.106040954589844,True,Test_PCB_None_None_Scratch_27,estimated_m10
+5,10,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,45.552001953125,True,Test_PCB_None_None_Scratch_27,estimated_m10
+6,9,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,45.552001953125,True,Test_PCB_None_None_Scratch_27,estimated_m10
+7,1756,113,evaluable,True,evaluable,evaluable,115,115,1.0176991150442478,1.0176991150442478,52.991790771484375,True,Test_PCB_None_None_Scratch_27,estimated_m10
+1,70,5,evaluable,True,evaluable,evaluable,7,7,1.4,1.4,37.307735443115234,True,Test_PCB_None_None_Scratch_27,estimated_p10
+2,20,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,38.068912506103516,True,Test_PCB_None_None_Scratch_27,estimated_p10
+3,10,0,入力変換による評価不能,True,not_applicable,not_applicable,0,0,nan,nan,nan,False,Test_PCB_None_None_Scratch_27,estimated_p10
+4,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,38.068912506103516,True,Test_PCB_None_None_Scratch_27,estimated_p10
+5,10,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,44.62828063964844,True,Test_PCB_None_None_Scratch_27,estimated_p10
+6,9,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,44.62828063964844,True,Test_PCB_None_None_Scratch_27,estimated_p10
+7,1756,113,evaluable,True,evaluable,evaluable,108,108,0.9557522123893806,0.9557522123893806,52.745391845703125,True,Test_PCB_None_None_Scratch_27,estimated_p10
+1,2584,160,evaluable,True,evaluable,evaluable,161,161,1.00625,1.00625,41.091575622558594,True,Test_PCB_None_None_Scratch_28,known_m10
+2,431,25,evaluable,True,evaluable,evaluable,26,26,1.04,1.04,37.12638854980469,True,Test_PCB_None_None_Scratch_28,known_m10
+3,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,37.12638854980469,True,Test_PCB_None_None_Scratch_28,known_m10
+4,2468,152,evaluable,True,evaluable,evaluable,150,150,0.9868421052631579,0.9868421052631579,39.59589385986328,True,Test_PCB_None_None_Scratch_28,known_m10
+5,478,31,evaluable,True,evaluable,evaluable,34,34,1.096774193548387,1.096774193548387,35.888858795166016,True,Test_PCB_None_None_Scratch_28,known_m10
+1,2584,160,evaluable,True,evaluable,evaluable,159,159,0.99375,0.99375,40.62458038330078,True,Test_PCB_None_None_Scratch_28,known_p10
+2,431,25,evaluable,True,evaluable,evaluable,25,25,1.0,1.0,37.24019241333008,True,Test_PCB_None_None_Scratch_28,known_p10
+3,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,37.24019241333008,True,Test_PCB_None_None_Scratch_28,known_p10
+4,2468,152,evaluable,True,evaluable,evaluable,149,149,0.9802631578947368,0.9802631578947368,39.116424560546875,True,Test_PCB_None_None_Scratch_28,known_p10
+5,478,31,evaluable,True,evaluable,evaluable,30,30,0.967741935483871,0.967741935483871,35.91606521606445,True,Test_PCB_None_None_Scratch_28,known_p10
+1,2584,160,evaluable,True,evaluable,evaluable,160,160,1.0,1.0,44.68934631347656,True,Test_PCB_None_None_Scratch_28,estimated_0
+2,431,25,evaluable,True,evaluable,evaluable,25,25,1.0,1.0,37.73807907104492,True,Test_PCB_None_None_Scratch_28,estimated_0
+3,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,36.9670524597168,True,Test_PCB_None_None_Scratch_28,estimated_0
+4,2468,152,evaluable,True,evaluable,evaluable,153,153,1.006578947368421,1.006578947368421,40.055904388427734,True,Test_PCB_None_None_Scratch_28,estimated_0
+5,478,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,36.69520568847656,True,Test_PCB_None_None_Scratch_28,estimated_0
+1,2584,160,evaluable,True,evaluable,evaluable,161,161,1.00625,1.00625,43.71580123901367,True,Test_PCB_None_None_Scratch_28,estimated_m10
+2,431,25,evaluable,True,evaluable,evaluable,26,26,1.04,1.04,39.556514739990234,True,Test_PCB_None_None_Scratch_28,estimated_m10
+3,11,1,evaluable,True,evaluable,evaluable,1,1,1.0,1.0,38.243534088134766,True,Test_PCB_None_None_Scratch_28,estimated_m10
+4,2468,152,evaluable,True,evaluable,evaluable,151,151,0.993421052631579,0.993421052631579,40.93636703491211,True,Test_PCB_None_None_Scratch_28,estimated_m10
+5,478,31,evaluable,True,evaluable,evaluable,33,33,1.064516129032258,1.064516129032258,38.10572052001953,True,Test_PCB_None_None_Scratch_28,estimated_m10
+1,2584,160,evaluable,True,evaluable,evaluable,160,160,1.0,1.0,44.110015869140625,True,Test_PCB_None_None_Scratch_28,estimated_p10
+2,431,25,evaluable,True,evaluable,evaluable,25,25,1.0,1.0,39.16072082519531,True,Test_PCB_None_None_Scratch_28,estimated_p10
+3,11,1,evaluable,True,evaluable,evaluable,2,2,2.0,2.0,37.571746826171875,True,Test_PCB_None_None_Scratch_28,estimated_p10
+4,2468,152,evaluable,True,evaluable,evaluable,153,153,1.006578947368421,1.006578947368421,40.86347198486328,True,Test_PCB_None_None_Scratch_28,estimated_p10
+5,478,31,evaluable,True,evaluable,evaluable,33,33,1.064516129032258,1.064516129032258,37.07704162597656,True,Test_PCB_None_None_Scratch_28,estimated_p10
+1,839,54,evaluable,True,evaluable,evaluable,51,51,0.9444444444444444,0.9444444444444444,40.9002799987793,True,Test_PCB_None_None_Scratch_29,known_m10
+1,839,54,evaluable,True,evaluable,evaluable,52,52,0.9629629629629629,0.9629629629629629,41.13438034057617,True,Test_PCB_None_None_Scratch_29,known_p10
+1,839,54,evaluable,True,evaluable,evaluable,54,54,1.0,1.0,43.76483154296875,True,Test_PCB_None_None_Scratch_29,estimated_0
+1,839,54,evaluable,True,evaluable,evaluable,53,53,0.9814814814814815,0.9814814814814815,44.425052642822266,True,Test_PCB_None_None_Scratch_29,estimated_m10
+1,839,54,evaluable,True,evaluable,evaluable,52,52,0.9629629629629629,0.9629629629629629,43.20207214355469,True,Test_PCB_None_None_Scratch_29,estimated_p10
+1,377,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,37.50341796875,True,Test_PCB_None_None_Scratch_3,known_m10
+1,377,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,37.24411392211914,True,Test_PCB_None_None_Scratch_3,known_p10
+1,377,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,39.1606330871582,True,Test_PCB_None_None_Scratch_3,estimated_0
+1,377,24,evaluable,True,evaluable,evaluable,23,23,0.9583333333333334,0.9583333333333334,37.288726806640625,True,Test_PCB_None_None_Scratch_3,estimated_m10
+1,377,24,evaluable,True,evaluable,evaluable,26,26,1.0833333333333333,1.0833333333333333,39.146671295166016,True,Test_PCB_None_None_Scratch_3,estimated_p10
+1,465,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,38.18068313598633,True,Test_PCB_None_None_Scratch_30,known_m10
+1,465,30,evaluable,True,evaluable,evaluable,32,32,1.0666666666666667,1.0666666666666667,38.34115219116211,True,Test_PCB_None_None_Scratch_30,known_p10
+1,465,30,evaluable,True,evaluable,evaluable,29,29,0.9666666666666667,0.9666666666666667,38.15794372558594,True,Test_PCB_None_None_Scratch_30,estimated_0
+1,465,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,38.58214569091797,True,Test_PCB_None_None_Scratch_30,estimated_m10
+1,465,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,39.45597457885742,True,Test_PCB_None_None_Scratch_30,estimated_p10
+1,883,54,evaluable,True,evaluable,evaluable,56,56,1.037037037037037,1.037037037037037,42.39666748046875,True,Test_PCB_None_None_Scratch_31,known_m10
+1,883,54,evaluable,True,evaluable,evaluable,52,52,0.9629629629629629,0.9629629629629629,42.51036834716797,True,Test_PCB_None_None_Scratch_31,known_p10
+1,883,54,evaluable,True,evaluable,evaluable,54,54,1.0,1.0,41.70917510986328,True,Test_PCB_None_None_Scratch_31,estimated_0
+1,883,54,evaluable,True,evaluable,evaluable,55,55,1.0185185185185186,1.0185185185185186,43.91740417480469,True,Test_PCB_None_None_Scratch_31,estimated_m10
+1,883,54,evaluable,True,evaluable,evaluable,58,58,1.0740740740740742,1.0740740740740742,44.41680908203125,True,Test_PCB_None_None_Scratch_31,estimated_p10
+1,5345,334,evaluable,True,evaluable,evaluable,336,336,1.0059880239520957,1.0059880239520957,50.75446701049805,True,Test_PCB_None_None_Soldering Melt_1,known_m10
+1,5345,334,evaluable,True,evaluable,evaluable,335,335,1.0029940119760479,1.0029940119760479,50.765933990478516,True,Test_PCB_None_None_Soldering Melt_1,known_p10
+1,5345,334,evaluable,True,evaluable,evaluable,334,334,1.0,1.0,49.682456970214844,True,Test_PCB_None_None_Soldering Melt_1,estimated_0
+1,5345,334,evaluable,True,evaluable,evaluable,336,336,1.0059880239520957,1.0059880239520957,52.32426834106445,True,Test_PCB_None_None_Soldering Melt_1,estimated_m10
+1,5345,334,evaluable,True,evaluable,evaluable,335,335,1.0029940119760479,1.0029940119760479,50.55791091918945,True,Test_PCB_None_None_Soldering Melt_1,estimated_p10
+1,548,34,evaluable,True,evaluable,evaluable,33,33,0.9705882352941176,0.9705882352941176,33.615718841552734,True,Test_PCB_None_None_Soldering Melt_10,known_m10
+1,548,34,evaluable,True,evaluable,evaluable,36,36,1.0588235294117647,1.0588235294117647,33.46686935424805,True,Test_PCB_None_None_Soldering Melt_10,known_p10
+1,548,34,evaluable,True,evaluable,evaluable,34,34,1.0,1.0,39.34965515136719,True,Test_PCB_None_None_Soldering Melt_10,estimated_0
+1,548,34,evaluable,True,evaluable,evaluable,34,34,1.0,1.0,40.14778518676758,True,Test_PCB_None_None_Soldering Melt_10,estimated_m10
+1,548,34,evaluable,True,evaluable,evaluable,35,35,1.0294117647058822,1.0294117647058822,39.868595123291016,True,Test_PCB_None_None_Soldering Melt_10,estimated_p10
+1,1388,87,evaluable,True,evaluable,evaluable,89,89,1.0229885057471264,1.0229885057471264,32.79075241088867,True,Test_PCB_None_None_Soldering Melt_11,known_m10
+1,1388,87,evaluable,True,evaluable,evaluable,88,88,1.0114942528735633,1.0114942528735633,32.0156364440918,True,Test_PCB_None_None_Soldering Melt_11,known_p10
+1,1388,87,evaluable,True,evaluable,evaluable,87,87,1.0,1.0,30.796459197998047,True,Test_PCB_None_None_Soldering Melt_11,estimated_0
+1,1388,87,evaluable,True,evaluable,evaluable,88,88,1.0114942528735633,1.0114942528735633,41.086788177490234,True,Test_PCB_None_None_Soldering Melt_11,estimated_m10
+1,1388,87,evaluable,True,evaluable,evaluable,88,88,1.0114942528735633,1.0114942528735633,40.870269775390625,True,Test_PCB_None_None_Soldering Melt_11,estimated_p10
+1,729,47,evaluable,True,evaluable,evaluable,47,47,1.0,1.0,34.34905242919922,True,Test_PCB_None_None_Soldering Melt_12,known_m10
+1,729,47,evaluable,True,evaluable,evaluable,49,49,1.0425531914893618,1.0425531914893618,33.49591827392578,True,Test_PCB_None_None_Soldering Melt_12,known_p10
+1,729,47,evaluable,True,evaluable,evaluable,46,46,0.9787234042553191,0.9787234042553191,38.248252868652344,True,Test_PCB_None_None_Soldering Melt_12,estimated_0
+1,729,47,evaluable,True,evaluable,evaluable,47,47,1.0,1.0,40.83567810058594,True,Test_PCB_None_None_Soldering Melt_12,estimated_m10
+1,729,47,evaluable,True,evaluable,evaluable,51,51,1.0851063829787233,1.0851063829787233,41.1570930480957,True,Test_PCB_None_None_Soldering Melt_12,estimated_p10
+1,1097,67,evaluable,True,evaluable,evaluable,67,67,1.0,1.0,40.75394058227539,True,Test_PCB_None_None_Soldering Melt_13,known_m10
+1,1097,67,evaluable,True,evaluable,evaluable,64,64,0.9552238805970149,0.9552238805970149,40.66016387939453,True,Test_PCB_None_None_Soldering Melt_13,known_p10
+1,1097,67,evaluable,True,evaluable,evaluable,67,67,1.0,1.0,40.88899230957031,True,Test_PCB_None_None_Soldering Melt_13,estimated_0
+1,1097,67,evaluable,True,evaluable,evaluable,67,67,1.0,1.0,45.25324630737305,True,Test_PCB_None_None_Soldering Melt_13,estimated_m10
+1,1097,67,evaluable,True,evaluable,evaluable,68,68,1.0149253731343284,1.0149253731343284,43.92005920410156,True,Test_PCB_None_None_Soldering Melt_13,estimated_p10
+1,517,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,40.56437683105469,True,Test_PCB_None_None_Soldering Melt_14,known_m10
+1,517,30,evaluable,True,evaluable,evaluable,29,29,0.9666666666666667,0.9666666666666667,40.8306884765625,True,Test_PCB_None_None_Soldering Melt_14,known_p10
+1,517,30,evaluable,True,evaluable,evaluable,29,29,0.9666666666666667,0.9666666666666667,44.37411880493164,True,Test_PCB_None_None_Soldering Melt_14,estimated_0
+1,517,30,evaluable,True,evaluable,evaluable,30,30,1.0,1.0,44.162044525146484,True,Test_PCB_None_None_Soldering Melt_14,estimated_m10
+1,517,30,evaluable,True,evaluable,evaluable,31,31,1.0333333333333334,1.0333333333333334,46.91637420654297,True,Test_PCB_None_None_Soldering Melt_14,estimated_p10
+1,1849,115,evaluable,True,evaluable,evaluable,115,115,1.0,1.0,37.71266555786133,True,Test_PCB_None_None_Soldering Melt_15,known_m10
+1,1849,115,evaluable,True,evaluable,evaluable,117,117,1.017391304347826,1.017391304347826,36.7276725769043,True,Test_PCB_None_None_Soldering Melt_15,known_p10
+1,1849,115,evaluable,True,evaluable,evaluable,115,115,1.0,1.0,39.73670196533203,True,Test_PCB_None_None_Soldering Melt_15,estimated_0
+1,1849,115,evaluable,True,evaluable,evaluable,115,115,1.0,1.0,40.370853424072266,True,Test_PCB_None_None_Soldering Melt_15,estimated_m10
+1,1849,115,evaluable,True,evaluable,evaluable,117,117,1.017391304347826,1.017391304347826,44.03129577636719,True,Test_PCB_None_None_Soldering Melt_15,estimated_p10
+1,923,55,evaluable,True,evaluable,evaluable,54,54,0.9818181818181818,0.9818181818181818,41.961246490478516,True,Test_PCB_None_None_Soldering Melt_16,known_m10
+1,923,55,evaluable,True,evaluable,evaluable,55,55,1.0,1.0,42.47895431518555,True,Test_PCB_None_None_Soldering Melt_16,known_p10
+1,923,55,evaluable,True,evaluable,evaluable,55,55,1.0,1.0,42.026405334472656,True,Test_PCB_None_None_Soldering Melt_16,estimated_0
+1,923,55,evaluable,True,evaluable,evaluable,54,54,0.9818181818181818,0.9818181818181818,41.32128143310547,True,Test_PCB_None_None_Soldering Melt_16,estimated_m10
+1,923,55,evaluable,True,evaluable,evaluable,54,54,0.9818181818181818,0.9818181818181818,42.4686393737793,True,Test_PCB_None_None_Soldering Melt_16,estimated_p10
+1,1777,111,evaluable,True,evaluable,evaluable,115,115,1.0360360360360361,1.0360360360360361,34.6956901550293,True,Test_PCB_None_None_Soldering Melt_17,known_m10
+1,1777,111,evaluable,True,evaluable,evaluable,108,108,0.972972972972973,0.972972972972973,35.094154357910156,True,Test_PCB_None_None_Soldering Melt_17,known_p10
+1,1777,111,evaluable,True,evaluable,evaluable,112,112,1.009009009009009,1.009009009009009,40.60066604614258,True,Test_PCB_None_None_Soldering Melt_17,estimated_0
+1,1777,111,evaluable,True,evaluable,evaluable,112,112,1.009009009009009,1.009009009009009,40.89474105834961,True,Test_PCB_None_None_Soldering Melt_17,estimated_m10
+1,1777,111,evaluable,True,evaluable,evaluable,111,111,1.0,1.0,42.00355911254883,True,Test_PCB_None_None_Soldering Melt_17,estimated_p10
+1,1928,120,evaluable,True,evaluable,evaluable,119,119,0.9916666666666667,0.9916666666666667,32.30052185058594,True,Test_PCB_None_None_Soldering Melt_18,known_m10
+1,1928,120,evaluable,True,evaluable,evaluable,120,120,1.0,1.0,32.41123580932617,True,Test_PCB_None_None_Soldering Melt_18,known_p10
+1,1928,120,evaluable,True,evaluable,evaluable,120,120,1.0,1.0,29.696338653564453,True,Test_PCB_None_None_Soldering Melt_18,estimated_0
+1,1928,120,evaluable,True,evaluable,evaluable,119,119,0.9916666666666667,0.9916666666666667,42.02881622314453,True,Test_PCB_None_None_Soldering Melt_18,estimated_m10
+1,1928,120,evaluable,True,evaluable,evaluable,119,119,0.9916666666666667,0.9916666666666667,39.14950180053711,True,Test_PCB_None_None_Soldering Melt_18,estimated_p10
+1,717,44,evaluable,True,evaluable,evaluable,43,43,0.9772727272727273,0.9772727272727273,37.62091827392578,True,Test_PCB_None_None_Soldering Melt_19,known_m10
+1,717,44,evaluable,True,evaluable,evaluable,45,45,1.0227272727272727,1.0227272727272727,38.1312255859375,True,Test_PCB_None_None_Soldering Melt_19,known_p10
+1,717,44,evaluable,True,evaluable,evaluable,44,44,1.0,1.0,40.91679382324219,True,Test_PCB_None_None_Soldering Melt_19,estimated_0
+1,717,44,evaluable,True,evaluable,evaluable,43,43,0.9772727272727273,0.9772727272727273,42.49098587036133,True,Test_PCB_None_None_Soldering Melt_19,estimated_m10
+1,717,44,evaluable,True,evaluable,evaluable,43,43,0.9772727272727273,0.9772727272727273,41.83879470825195,True,Test_PCB_None_None_Soldering Melt_19,estimated_p10
+1,1784,110,evaluable,True,evaluable,evaluable,111,111,1.009090909090909,1.009090909090909,40.506690979003906,True,Test_PCB_None_None_Soldering Melt_2,known_m10
+2,1110,68,evaluable,True,evaluable,evaluable,67,67,0.9852941176470589,0.9852941176470589,36.616458892822266,True,Test_PCB_None_None_Soldering Melt_2,known_m10
+1,1784,110,evaluable,True,evaluable,evaluable,109,109,0.990909090909091,0.990909090909091,40.65891647338867,True,Test_PCB_None_None_Soldering Melt_2,known_p10
+2,1110,68,evaluable,True,evaluable,evaluable,69,69,1.0147058823529411,1.0147058823529411,36.97748565673828,True,Test_PCB_None_None_Soldering Melt_2,known_p10
+1,1784,110,evaluable,True,evaluable,evaluable,110,110,1.0,1.0,38.60441970825195,True,Test_PCB_None_None_Soldering Melt_2,estimated_0
+2,1110,68,evaluable,True,evaluable,evaluable,68,68,1.0,1.0,34.85053253173828,True,Test_PCB_None_None_Soldering Melt_2,estimated_0
+1,1784,110,evaluable,True,evaluable,evaluable,110,110,1.0,1.0,43.883724212646484,True,Test_PCB_None_None_Soldering Melt_2,estimated_m10
+2,1110,68,evaluable,True,evaluable,evaluable,68,68,1.0,1.0,40.18579864501953,True,Test_PCB_None_None_Soldering Melt_2,estimated_m10
+1,1784,110,evaluable,True,evaluable,evaluable,109,109,0.990909090909091,0.990909090909091,43.48141860961914,True,Test_PCB_None_None_Soldering Melt_2,estimated_p10
+2,1110,68,evaluable,True,evaluable,evaluable,69,69,1.0147058823529411,1.0147058823529411,38.47378921508789,True,Test_PCB_None_None_Soldering Melt_2,estimated_p10
+1,659,40,evaluable,True,evaluable,evaluable,40,40,1.0,1.0,36.06294631958008,True,Test_PCB_None_None_Soldering Melt_20,known_m10
+2,2275,142,evaluable,True,evaluable,evaluable,142,142,1.0,1.0,47.38582229614258,True,Test_PCB_None_None_Soldering Melt_20,known_m10
+3,336,20,evaluable,True,evaluable,evaluable,23,23,1.15,1.15,42.114723205566406,True,Test_PCB_None_None_Soldering Melt_20,known_m10
+4,387,22,evaluable,True,evaluable,evaluable,23,23,1.0454545454545454,1.0454545454545454,45.620033264160156,True,Test_PCB_None_None_Soldering Melt_20,known_m10
+5,1729,106,evaluable,True,evaluable,evaluable,108,108,1.0188679245283019,1.0188679245283019,36.13787841796875,True,Test_PCB_None_None_Soldering Melt_20,known_m10
+1,659,40,evaluable,True,evaluable,evaluable,39,39,0.975,0.975,35.33818817138672,True,Test_PCB_None_None_Soldering Melt_20,known_p10
+2,2275,142,evaluable,True,evaluable,evaluable,143,143,1.0070422535211268,1.0070422535211268,47.259708404541016,True,Test_PCB_None_None_Soldering Melt_20,known_p10
+3,336,20,evaluable,True,evaluable,evaluable,20,20,1.0,1.0,41.81709671020508,True,Test_PCB_None_None_Soldering Melt_20,known_p10
+4,387,22,evaluable,True,evaluable,evaluable,22,22,1.0,1.0,45.385318756103516,True,Test_PCB_None_None_Soldering Melt_20,known_p10
+5,1729,106,evaluable,True,evaluable,evaluable,107,107,1.009433962264151,1.009433962264151,34.9831428527832,True,Test_PCB_None_None_Soldering Melt_20,known_p10
+1,659,40,evaluable,True,evaluable,evaluable,40,40,1.0,1.0,36.04507827758789,True,Test_PCB_None_None_Soldering Melt_20,estimated_0
+2,2275,142,evaluable,True,evaluable,evaluable,141,141,0.9929577464788732,0.9929577464788732,47.75117492675781,True,Test_PCB_None_None_Soldering Melt_20,estimated_0
+3,336,20,evaluable,True,evaluable,evaluable,20,20,1.0,1.0,44.71092987060547,True,Test_PCB_None_None_Soldering Melt_20,estimated_0
+4,387,22,evaluable,True,evaluable,evaluable,22,22,1.0,1.0,47.75117492675781,True,Test_PCB_None_None_Soldering Melt_20,estimated_0
+5,1729,106,evaluable,True,evaluable,evaluable,106,106,1.0,1.0,44.10416793823242,True,Test_PCB_None_None_Soldering Melt_20,estimated_0
+1,659,40,evaluable,True,evaluable,evaluable,40,40,1.0,1.0,36.756622314453125,True,Test_PCB_None_None_Soldering Melt_20,estimated_m10
+2,2275,142,evaluable,True,evaluable,evaluable,142,142,1.0,1.0,49.090965270996094,True,Test_PCB_None_None_Soldering Melt_20,estimated_m10
+3,336,20,evaluable,True,evaluable,evaluable,21,21,1.05,1.05,45.13376998901367,True,Test_PCB_None_None_Soldering Melt_20,estimated_m10
+4,387,22,evaluable,True,evaluable,evaluable,23,23,1.0454545454545454,1.0454545454545454,49.090965270996094,True,Test_PCB_None_None_Soldering Melt_20,estimated_m10
+5,1729,106,evaluable,True,evaluable,evaluable,107,107,1.009433962264151,1.009433962264151,43.461570739746094,True,Test_PCB_None_None_Soldering Melt_20,estimated_m10
+1,659,40,evaluable,True,evaluable,evaluable,42,42,1.05,1.05,37.079002380371094,True,Test_PCB_None_None_Soldering Melt_20,estimated_p10
+2,2275,142,evaluable,True,evaluable,evaluable,140,140,0.9859154929577465,0.9859154929577465,48.75513458251953,True,Test_PCB_None_None_Soldering Melt_20,estimated_p10
+3,336,20,evaluable,True,evaluable,evaluable,23,23,1.15,1.15,45.75718307495117,True,Test_PCB_None_None_Soldering Melt_20,estimated_p10
+4,387,22,evaluable,True,evaluable,evaluable,23,23,1.0454545454545454,1.0454545454545454,48.75513458251953,True,Test_PCB_None_None_Soldering Melt_20,estimated_p10
+5,1729,106,evaluable,True,evaluable,evaluable,107,107,1.009433962264151,1.009433962264151,44.379642486572266,True,Test_PCB_None_None_Soldering Melt_20,estimated_p10
+1,3773,234,evaluable,True,evaluable,evaluable,237,237,1.0128205128205128,1.0128205128205128,43.28620147705078,True,Test_PCB_None_None_Soldering Melt_21,known_m10
+1,3773,234,evaluable,True,evaluable,evaluable,234,234,1.0,1.0,44.038780212402344,True,Test_PCB_None_None_Soldering Melt_21,known_p10
+1,3773,234,evaluable,True,evaluable,evaluable,234,234,1.0,1.0,45.83713912963867,True,Test_PCB_None_None_Soldering Melt_21,estimated_0
+1,3773,234,evaluable,True,evaluable,evaluable,237,237,1.0128205128205128,1.0128205128205128,47.36104202270508,True,Test_PCB_None_None_Soldering Melt_21,estimated_m10
+1,3773,234,evaluable,True,evaluable,evaluable,232,232,0.9914529914529915,0.9914529914529915,47.33700942993164,True,Test_PCB_None_None_Soldering Melt_21,estimated_p10
+1,1741,112,evaluable,True,evaluable,evaluable,109,109,0.9732142857142857,0.9732142857142857,38.976104736328125,True,Test_PCB_None_None_Soldering Melt_22,known_m10
+2,164,12,evaluable,True,evaluable,evaluable,11,11,0.9166666666666666,0.9166666666666666,38.976104736328125,True,Test_PCB_None_None_Soldering Melt_22,known_m10
+3,325,21,evaluable,True,evaluable,evaluable,22,22,1.0476190476190477,1.0476190476190477,38.41646957397461,True,Test_PCB_None_None_Soldering Melt_22,known_m10
+4,369,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,37.205928802490234,True,Test_PCB_None_None_Soldering Melt_22,known_m10
+1,1741,112,evaluable,True,evaluable,evaluable,110,110,0.9821428571428571,0.9821428571428571,38.66761779785156,True,Test_PCB_None_None_Soldering Melt_22,known_p10
+2,164,12,evaluable,True,evaluable,evaluable,11,11,0.9166666666666666,0.9166666666666666,38.66761779785156,True,Test_PCB_None_None_Soldering Melt_22,known_p10
+3,325,21,evaluable,True,evaluable,evaluable,20,20,0.9523809523809523,0.9523809523809523,38.36312484741211,True,Test_PCB_None_None_Soldering Melt_22,known_p10
+4,369,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,37.618473052978516,True,Test_PCB_None_None_Soldering Melt_22,known_p10
+1,1741,112,evaluable,True,evaluable,evaluable,112,112,1.0,1.0,36.25293731689453,True,Test_PCB_None_None_Soldering Melt_22,estimated_0
+2,164,12,evaluable,True,evaluable,evaluable,12,12,1.0,1.0,36.25293731689453,True,Test_PCB_None_None_Soldering Melt_22,estimated_0
+3,325,21,evaluable,True,evaluable,evaluable,21,21,1.0,1.0,35.453155517578125,True,Test_PCB_None_None_Soldering Melt_22,estimated_0
+4,369,24,evaluable,True,evaluable,evaluable,24,24,1.0,1.0,35.935420989990234,True,Test_PCB_None_None_Soldering Melt_22,estimated_0
+1,1741,112,evaluable,True,evaluable,evaluable,111,111,0.9910714285714286,0.9910714285714286,43.755043029785156,True,Test_PCB_None_None_Soldering Melt_22,estimated_m10
+2,164,12,evaluable,True,evaluable,evaluable,12,12,1.0,1.0,47.935665130615234,True,Test_PCB_None_None_Soldering Melt_22,estimated_m10
+3,325,21,evaluable,True,evaluable,evaluable,21,21,1.0,1.0,46.231624603271484,True,Test_PCB_None_None_Soldering Melt_22,estimated_m10
+4,369,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,44.43586730957031,True,Test_PCB_None_None_Soldering Melt_22,estimated_m10
+1,1741,112,evaluable,True,evaluable,evaluable,111,111,0.9910714285714286,0.9910714285714286,43.18121337890625,True,Test_PCB_None_None_Soldering Melt_22,estimated_p10
+2,164,12,evaluable,True,evaluable,evaluable,11,11,0.9166666666666666,0.9166666666666666,45.43886947631836,True,Test_PCB_None_None_Soldering Melt_22,estimated_p10
+3,325,21,evaluable,True,evaluable,evaluable,22,22,1.0476190476190477,1.0476190476190477,45.43886947631836,True,Test_PCB_None_None_Soldering Melt_22,estimated_p10
+4,369,24,evaluable,True,evaluable,evaluable,25,25,1.0416666666666667,1.0416666666666667,44.39246368408203,True,Test_PCB_None_None_Soldering Melt_22,estimated_p10
+1,799,49,evaluable,True,evaluable,evaluable,50,50,1.0204081632653061,1.0204081632653061,43.39174270629883,True,Test_PCB_None_None_Soldering Melt_23,known_m10
+1,799,49,evaluable,True,evaluable,evaluable,49,49,1.0,1.0,43.785545349121094,True,Test_PCB_None_None_Soldering Melt_23,known_p10
+1,799,49,evaluable,True,evaluable,evaluable,49,49,1.0,1.0,45.052734375,True,Test_PCB_None_None_Soldering Melt_23,estimated_0
+1,799,49,evaluable,True,evaluable,evaluable,49,49,1.0,1.0,45.479331970214844,True,Test_PCB_None_None_Soldering Melt_23,estimated_m10
+1,799,49,evaluable,True,evaluable,evaluable,49,49,1.0,1.0,45.861385345458984,True,Test_PCB_None_None_Soldering Melt_23,estimated_p10
+1,1579,97,evaluable,True,evaluable,evaluable,96,96,0.9896907216494846,0.9896907216494846,40.40187454223633,True,Test_PCB_None_None_Soldering Melt_24,known_m10
+1,1579,97,evaluable,True,evaluable,evaluable,98,98,1.0103092783505154,1.0103092783505154,41.13147735595703,True,Test_PCB_None_None_Soldering Melt_24,known_p10
+1,1579,97,evaluable,True,evaluable,evaluable,97,97,1.0,1.0,41.02434158325195,True,Test_PCB_None_None_Soldering Melt_24,estimated_0
+1,1579,97,evaluable,True,evaluable,evaluable,95,95,0.979381443298969,0.979381443298969,43.62147521972656,True,Test_PCB_None_None_Soldering Melt_24,estimated_m10
+1,1579,97,evaluable,True,evaluable,evaluable,98,98,1.0103092783505154,1.0103092783505154,42.803199768066406,True,Test_PCB_None_None_Soldering Melt_24,estimated_p10
+1,1287,83,evaluable,True,evaluable,evaluable,83,83,1.0,1.0,37.71736526489258,True,Test_PCB_None_None_Soldering Melt_25,known_m10
+1,1287,83,evaluable,True,evaluable,evaluable,83,83,1.0,1.0,37.82686996459961,True,Test_PCB_None_None_Soldering Melt_25,known_p10
+1,1287,83,evaluable,True,evaluable,evaluable,83,83,1.0,1.0,43.98458480834961,True,Test_PCB_None_None_Soldering Melt_25,estimated_0
+1,1287,83,evaluable,True,evaluable,evaluable,83,83,1.0,1.0,45.156402587890625,True,Test_PCB_None_None_Soldering Melt_25,estimated_m10
+1,1287,83,evaluable,True,evaluable,evaluable,83,83,1.0,1.0,47.37047576904297,True,Test_PCB_None_None_Soldering Melt_25,estimated_p10
+1,1520,98,evaluable,True,evaluable,evaluable,100,100,1.0204081632653061,1.0204081632653061,36.17409896850586,True,Test_PCB_None_None_Soldering Melt_26,known_m10
+1,1520,98,evaluable,True,evaluable,evaluable,98,98,1.0,1.0,35.23546600341797,True,Test_PCB_None_None_Soldering Melt_26,known_p10
+1,1520,98,evaluable,True,evaluable,evaluable,97,97,0.9897959183673469,0.9897959183673469,38.43561935424805,True,Test_PCB_None_None_Soldering Melt_26,estimated_0
+1,1520,98,evaluable,True,evaluable,evaluable,98,98,1.0,1.0,40.53684997558594,True,Test_PCB_None_None_Soldering Melt_26,estimated_m10
+1,1520,98,evaluable,True,evaluable,evaluable,97,97,0.9897959183673469,0.9897959183673469,42.62546920776367,True,Test_PCB_None_None_Soldering Melt_26,estimated_p10
+1,7386,461,evaluable,True,evaluable,evaluable,460,460,0.9978308026030369,0.9978308026030369,48.67198181152344,True,Test_PCB_None_None_Soldering Melt_27,known_m10
+2,143,9,evaluable,True,evaluable,evaluable,11,11,1.2222222222222223,1.2222222222222223,39.02347946166992,True,Test_PCB_None_None_Soldering Melt_27,known_m10
+3,528,33,evaluable,True,evaluable,evaluable,35,35,1.0606060606060606,1.0606060606060606,42.389305114746094,True,Test_PCB_None_None_Soldering Melt_27,known_m10
+4,78,4,evaluable,True,evaluable,evaluable,4,4,1.0,1.0,31.078458786010742,True,Test_PCB_None_None_Soldering Melt_27,known_m10
+5,602,38,evaluable,True,evaluable,evaluable,38,38,1.0,1.0,29.607202529907227,True,Test_PCB_None_None_Soldering Melt_27,known_m10
+1,7386,461,evaluable,True,evaluable,evaluable,459,459,0.9956616052060737,0.9956616052060737,47.641441345214844,True,Test_PCB_None_None_Soldering Melt_27,known_p10
+2,143,9,evaluable,True,evaluable,evaluable,9,9,1.0,1.0,37.45621109008789,True,Test_PCB_None_None_Soldering Melt_27,known_p10
+3,528,33,evaluable,True,evaluable,evaluable,33,33,1.0,1.0,41.88076400756836,True,Test_PCB_None_None_Soldering Melt_27,known_p10
+4,78,4,evaluable,True,evaluable,evaluable,4,4,1.0,1.0,30.059219360351562,True,Test_PCB_None_None_Soldering Melt_27,known_p10
+5,602,38,evaluable,True,evaluable,evaluable,38,38,1.0,1.0,30.6213321685791,True,Test_PCB_None_None_Soldering Melt_27,known_p10
+1,7386,461,evaluable,True,evaluable,evaluable,461,461,1.0,1.0,48.3922004699707,True,Test_PCB_None_None_Soldering Melt_27,estimated_0
+2,143,9,evaluable,True,evaluable,evaluable,9,9,1.0,1.0,36.46079635620117,True,Test_PCB_None_None_Soldering Melt_27,estimated_0
+3,528,33,evaluable,True,evaluable,evaluable,33,33,1.0,1.0,40.52455139160156,True,Test_PCB_None_None_Soldering Melt_27,estimated_0
+4,78,4,evaluable,True,evaluable,evaluable,4,4,1.0,1.0,28.94375991821289,True,Test_PCB_None_None_Soldering Melt_27,estimated_0
+5,602,38,evaluable,True,evaluable,evaluable,38,38,1.0,1.0,29.303586959838867,True,Test_PCB_None_None_Soldering Melt_27,estimated_0
+1,7386,461,evaluable,True,evaluable,evaluable,459,459,0.9956616052060737,0.9956616052060737,51.68458557128906,True,Test_PCB_None_None_Soldering Melt_27,estimated_m10
+2,143,9,evaluable,True,evaluable,evaluable,10,10,1.1111111111111112,1.1111111111111112,41.32255554199219,True,Test_PCB_None_None_Soldering Melt_27,estimated_m10
+3,528,33,evaluable,True,evaluable,evaluable,33,33,1.0,1.0,48.94672775268555,True,Test_PCB_None_None_Soldering Melt_27,estimated_m10
+4,78,4,evaluable,True,evaluable,evaluable,4,4,1.0,1.0,38.04476547241211,True,Test_PCB_None_None_Soldering Melt_27,estimated_m10
+5,602,38,evaluable,True,evaluable,evaluable,38,38,1.0,1.0,40.61248779296875,True,Test_PCB_None_None_Soldering Melt_27,estimated_m10
+1,7386,461,evaluable,True,evaluable,evaluable,458,458,0.9934924078091106,0.9934924078091106,52.26020431518555,True,Test_PCB_None_None_Soldering Melt_27,estimated_p10
+2,143,9,evaluable,True,evaluable,evaluable,11,11,1.2222222222222223,1.2222222222222223,42.07168197631836,True,Test_PCB_None_None_Soldering Melt_27,estimated_p10
+3,528,33,evaluable,True,evaluable,evaluable,33,33,1.0,1.0,48.939571380615234,True,Test_PCB_None_None_Soldering Melt_27,estimated_p10
+4,78,4,evaluable,True,evaluable,evaluable,5,5,1.25,1.25,37.42843246459961,True,Test_PCB_None_None_Soldering Melt_27,estimated_p10
+5,602,38,evaluable,True,evaluable,evaluable,37,37,0.9736842105263158,0.9736842105263158,40.1796875,True,Test_PCB_None_None_Soldering Melt_27,estimated_p10
+1,378,27,evaluable,True,evaluable,evaluable,28,28,1.037037037037037,1.037037037037037,35.976539611816406,True,Test_PCB_None_None_Soldering Melt_28,known_m10
+2,1012,59,evaluable,True,evaluable,evaluable,58,58,0.9830508474576272,0.9830508474576272,44.11430740356445,True,Test_PCB_None_None_Soldering Melt_28,known_m10
+1,378,27,evaluable,True,evaluable,evaluable,27,27,1.0,1.0,36.17115783691406,True,Test_PCB_None_None_Soldering Melt_28,known_p10
+2,1012,59,evaluable,True,evaluable,evaluable,60,60,1.0169491525423728,1.0169491525423728,44.71143341064453,True,Test_PCB_None_None_Soldering Melt_28,known_p10
+1,378,27,evaluable,True,evaluable,evaluable,26,26,0.9629629629629629,0.9629629629629629,33.92695236206055,True,Test_PCB_None_None_Soldering Melt_28,estimated_0
+2,1012,59,evaluable,True,evaluable,evaluable,60,60,1.0169491525423728,1.0169491525423728,40.46890640258789,True,Test_PCB_None_None_Soldering Melt_28,estimated_0
+1,378,27,evaluable,True,evaluable,evaluable,28,28,1.037037037037037,1.037037037037037,34.10887145996094,True,Test_PCB_None_None_Soldering Melt_28,estimated_m10
+2,1012,59,evaluable,True,evaluable,evaluable,58,58,0.9830508474576272,0.9830508474576272,41.39222717285156,True,Test_PCB_None_None_Soldering Melt_28,estimated_m10
+1,378,27,evaluable,True,evaluable,evaluable,26,26,0.9629629629629629,0.9629629629629629,34.04179382324219,True,Test_PCB_None_None_Soldering Melt_28,estimated_p10
+2,1012,59,evaluable,True,evaluable,evaluable,60,60,1.0169491525423728,1.0169491525423728,40.619686126708984,True,Test_PCB_None_None_Soldering Melt_28,estimated_p10
+1,2600,159,evaluable,True,evaluable,evaluable,157,157,0.9874213836477987,0.9874213836477987,37.450618743896484,True,Test_PCB_None_None_Soldering Melt_29,known_m10
+2,31,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,36.466514587402344,True,Test_PCB_None_None_Soldering Melt_29,known_m10
+3,26,2,evaluable,True,evaluable,evaluable,2,2,1.0,1.0,33.908538818359375,True,Test_PCB_None_None_Soldering Melt_29,known_m10
+1,2600,159,evaluable,True,evaluable,evaluable,159,159,1.0,1.0,39.14835739135742,True,Test_PCB_None_None_Soldering Melt_29,known_p10
+2,31,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,38.50011444091797,True,Test_PCB_None_None_Soldering Melt_29,known_p10
+3,26,2,evaluable,True,evaluable,evaluable,2,2,1.0,1.0,30.59917640686035,True,Test_PCB_None_None_Soldering Melt_29,known_p10
+1,2600,159,evaluable,True,evaluable,evaluable,159,159,1.0,1.0,38.54722595214844,True,Test_PCB_None_None_Soldering Melt_29,estimated_0
+2,31,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,37.36433792114258,True,Test_PCB_None_None_Soldering Melt_29,estimated_0
+3,26,2,evaluable,True,evaluable,evaluable,2,2,1.0,1.0,28.69672393798828,True,Test_PCB_None_None_Soldering Melt_29,estimated_0
+1,2600,159,evaluable,True,evaluable,evaluable,158,158,0.9937106918238994,0.9937106918238994,42.0890998840332,True,Test_PCB_None_None_Soldering Melt_29,estimated_m10
+2,31,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,41.152252197265625,True,Test_PCB_None_None_Soldering Melt_29,estimated_m10
+3,26,2,evaluable,True,evaluable,evaluable,2,2,1.0,1.0,41.152252197265625,True,Test_PCB_None_None_Soldering Melt_29,estimated_m10
+1,2600,159,evaluable,True,evaluable,evaluable,157,157,0.9874213836477987,0.9874213836477987,41.19571304321289,True,Test_PCB_None_None_Soldering Melt_29,estimated_p10
+2,31,3,evaluable,True,evaluable,evaluable,3,3,1.0,1.0,40.057891845703125,True,Test_PCB_None_None_Soldering Melt_29,estimated_p10
+3,26,2,evaluable,True,evaluable,evaluable,2,2,1.0,1.0,38.76359558105469,True,Test_PCB_None_None_Soldering Melt_29,estimated_p10
+1,886,57,evaluable,True,evaluable,evaluable,57,57,1.0,1.0,40.43415451049805,True,Test_PCB_None_None_Soldering Melt_3,known_m10
+1,886,57,evaluable,True,evaluable,evaluable,57,57,1.0,1.0,40.448970794677734,True,Test_PCB_None_None_Soldering Melt_3,known_p10
+1,886,57,evaluable,True,evaluable,evaluable,57,57,1.0,1.0,40.81804656982422,True,Test_PCB_None_None_Soldering Melt_3,estimated_0
+1,886,57,evaluable,True,evaluable,evaluable,57,57,1.0,1.0,43.11116027832031,True,Test_PCB_None_None_Soldering Melt_3,estimated_m10
+1,886,57,evaluable,True,evaluable,evaluable,56,56,0.9824561403508771,0.9824561403508771,43.965885162353516,True,Test_PCB_None_None_Soldering Melt_3,estimated_p10
+1,428,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,31.63847541809082,True,Test_PCB_None_None_Soldering Melt_30,known_m10
+2,4124,254,evaluable,True,evaluable,evaluable,251,251,0.9881889763779528,0.9881889763779528,48.49375915527344,True,Test_PCB_None_None_Soldering Melt_30,known_m10
+1,428,31,evaluable,True,evaluable,evaluable,33,33,1.064516129032258,1.064516129032258,32.07487869262695,True,Test_PCB_None_None_Soldering Melt_30,known_p10
+2,4124,254,evaluable,True,evaluable,evaluable,255,255,1.0039370078740157,1.0039370078740157,48.33372116088867,True,Test_PCB_None_None_Soldering Melt_30,known_p10
+1,428,31,evaluable,True,evaluable,evaluable,30,30,0.967741935483871,0.967741935483871,35.66282272338867,True,Test_PCB_None_None_Soldering Melt_30,estimated_0
+2,4124,254,evaluable,True,evaluable,evaluable,254,254,1.0,1.0,48.25798034667969,True,Test_PCB_None_None_Soldering Melt_30,estimated_0
+1,428,31,evaluable,True,evaluable,evaluable,31,31,1.0,1.0,38.93953323364258,True,Test_PCB_None_None_Soldering Melt_30,estimated_m10
+2,4124,254,evaluable,True,evaluable,evaluable,252,252,0.9921259842519685,0.9921259842519685,49.37958908081055,True,Test_PCB_None_None_Soldering Melt_30,estimated_m10
+1,428,31,evaluable,True,evaluable,evaluable,33,33,1.064516129032258,1.064516129032258,38.75204086303711,True,Test_PCB_None_None_Soldering Melt_30,estimated_p10
+2,4124,254,evaluable,True,evaluable,evaluable,255,255,1.0039370078740157,1.0039370078740157,48.839317321777344,True,Test_PCB_None_None_Soldering Melt_30,estimated_p10
+1,2097,132,evaluable,True,evaluable,evaluable,131,131,0.9924242424242424,0.9924242424242424,34.93082046508789,True,Test_PCB_None_None_Soldering Melt_31,known_m10
+1,2097,132,evaluable,True,evaluable,evaluable,131,131,0.9924242424242424,0.9924242424242424,34.15214538574219,True,Test_PCB_None_None_Soldering Melt_31,known_p10
+1,2097,132,evaluable,True,evaluable,evaluable,134,134,1.0151515151515151,1.0151515151515151,40.939239501953125,True,Test_PCB_None_None_Soldering Melt_31,estimated_0
+1,2097,132,evaluable,True,evaluable,evaluable,131,131,0.9924242424242424,0.9924242424242424,41.97930145263672,True,Test_PCB_None_None_Soldering Melt_31,estimated_m10
+1,2097,132,evaluable,True,evaluable,evaluable,130,130,0.9848484848484849,0.9848484848484849,41.847450256347656,True,Test_PCB_None_None_Soldering Melt_31,estimated_p10
